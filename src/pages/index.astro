@@ -4,6 +4,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog')).sort(
@@ -43,6 +44,8 @@ const posts = (await getCollection('blog')).sort(
 					))}
 				</ul>
 			</section>
+
+		<NewsletterSignup variant="inline" />
 		</main>
 		<Footer />
 	</body>

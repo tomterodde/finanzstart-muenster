@@ -1,0 +1,98 @@
+---
+interface Props {
+	variant?: 'inline' | 'box';
+}
+const { variant = 'box' } = Astro.props;
+---
+
+<div class={`newsletter newsletter--${variant}`}>
+	<div class="newsletter-content">
+		<p class="newsletter-label">Newsletter</p>
+		<h2>Kein Artikel verpassen</h2>
+		<p class="newsletter-sub">
+			Neue Artikel direkt in dein Postfach — kein Spam, jederzeit abmeldbar.
+		</p>
+		<form
+			action="https://app.kit.com/forms/9299804/subscriptions"
+			method="post"
+			class="newsletter-form"
+		>
+			<input
+				type="email"
+				name="email_address"
+				placeholder="deine@email.de"
+				required
+				aria-label="E-Mail-Adresse"
+			/>
+			<button type="submit">Abonnieren</button>
+		</form>
+	</div>
+</div>
+
+<style>
+	.newsletter {
+		margin: 3em 0 1em;
+	}
+	.newsletter--box {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+		border-radius: 12px;
+		padding: 2.5em 2em;
+	}
+	.newsletter--inline {
+		border-top: 1px solid rgb(var(--gray-light));
+		padding-top: 2.5em;
+	}
+	.newsletter-label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.6em;
+	}
+	h2 {
+		font-size: 1.4em;
+		margin: 0 0 0.4em;
+		color: rgb(var(--black));
+	}
+	.newsletter-sub {
+		font-size: 0.9em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.5em;
+	}
+	.newsletter-form {
+		display: flex;
+		gap: 0.6em;
+		flex-wrap: wrap;
+	}
+	input[type="email"] {
+		flex: 1 1 220px;
+		padding: 0.7em 1em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 6px;
+		font-size: 0.95em;
+		font-family: inherit;
+		outline: none;
+		transition: border-color 0.2s;
+	}
+	input[type="email"]:focus {
+		border-color: var(--accent);
+	}
+	button {
+		padding: 0.7em 1.4em;
+		background: var(--accent);
+		color: white;
+		border: none;
+		border-radius: 6px;
+		font-size: 0.95em;
+		font-family: inherit;
+		font-weight: 600;
+		cursor: pointer;
+		transition: background 0.2s;
+		white-space: nowrap;
+	}
+	button:hover {
+		background: var(--accent-dark);
+	}
+</style>
