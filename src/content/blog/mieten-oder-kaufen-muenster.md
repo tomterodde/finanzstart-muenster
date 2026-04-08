@@ -61,7 +61,7 @@ Mieten bedeutet nicht, auf Vermögensaufbau zu verzichten. Es bedeutet, Flexibil
 
 Die Frage ist: Was machst du mit dem Geld, das du nicht als Eigenkapital bindest?
 
-Wer 1.000 € Miete zahlt statt 1.500 € Kreditrate — und die 500 € Differenz monatlich in einen [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster) steckt — baut parallel Vermögen auf. Über 20–25 Jahre kann das bei guter Rendite sehr nah an den Eigenkapitalaufbau einer Immobilie herankommen.
+Wer 1.000 € Miete zahlt statt 1.500 € Kreditrate — und die 500 € Differenz monatlich in Vermögensaufbau steckt — baut parallel Kapital auf. Wie das am besten funktioniert (ob Wertpapierdepot, staatlich geförderte Vorsorge oder eine Kombination) ist individuell verschieden. Über 20–25 Jahre kann das bei konsequenter Disziplin sehr nah an den Eigenkapitalaufbau einer Immobilie herankommen.
 
 Das ist kein Argument gegen Kaufen — es ist ein Argument gegen das pauschale Verdammen des Mietens.
 
@@ -73,7 +73,7 @@ Was du vermeiden solltest: Die Entscheidung aus gesellschaftlichem Druck treffen
 
 Mehr zu den Grundlagen der [Altersvorsorge für Berufseinsteiger](/blog/rentenlücke-berufseinsteiger-münster) findest du in einem separaten Artikel.
 
-Rechne durch. Vergleiche. Und entscheide dann.
+Rechne durch. Vergleiche. Und entscheide dann. Bei einer Entscheidung in dieser Größenordnung — ob Kauf oder die Alternative dazu — lohnt es sich, vorher ein strukturiertes Gespräch mit einem Finanzberater zu führen, der die Gesamtsituation kennt.
 
 ---
 

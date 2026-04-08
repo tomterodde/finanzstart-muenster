@@ -81,7 +81,7 @@ Die häufigste Antwort auf "Wie viel muss ich für die Rente sparen?" ist: "Komm
 
 Wer einmal eine Zahl vor sich hat — sagen wir 350.000 € bis zur Rente — kann viel konkreter planen als jemand, der abstrakt "für die Rente spart".
 
-Der nächste Schritt: Renteninformation anfordern, Lücke ausrechnen, monatliche Sparrate festlegen, und anfangen. Alles andere kommt mit der Zeit.
+Der nächste Schritt: Renteninformation anfordern, Lücke grob ausrechnen — und dann überlegen, welche Instrumente diese Lücke am effizientesten schließen. Das hängt von Steuersituation, Arbeitgeber, Familienstand und Risikobereitschaft ab. Genau dafür ist ein Gespräch mit einem Finanzberater sinnvoll: nicht um ein Produkt zu kaufen, sondern um einen klaren Plan zu entwickeln.
 
 ---
 

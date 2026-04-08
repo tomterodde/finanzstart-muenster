@@ -76,6 +76,9 @@ Es gibt verschiedene Wege, die Lücke zu schließen: ETF-Sparplan, betriebliche 
 
 **Das Wichtigste: Fang an.** Lieber 50 € im Monat jetzt als 200 € in zehn Jahren.
 
+**Schritt 4: Beraten lassen**
+Welches Instrument am besten zu dir passt — ETF-Sparplan, betriebliche Altersvorsorge, Riester, Rürup oder private Rentenversicherung — hängt von deiner Steuersituation, deinem Arbeitgeber und deinen Lebenszielen ab. Das lässt sich nicht pauschal beantworten. Ein Gespräch mit einem Finanzberater hilft, den richtigen Mix zu finden.
+
 ---
 
 *Dieser Artikel dient der allgemeinen Finanzbildung und stellt keine individuelle Anlage- oder Finanzberatung dar. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*

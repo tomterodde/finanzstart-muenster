@@ -65,7 +65,7 @@ Das Kapital wird in Fonds (häufig ETFs) investiert — mit höherem Renditepote
 - Du planst **langfristig** und brauchst das Kapital nicht vor dem Rentenalter
 - Du willst die **Beiträge flexibel** gestalten (bei vielen Verträgen möglich)
 
-Wer dagegen Flexibilität braucht oder ein mittleres Einkommen hat, ist mit einem [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster) in Kombination mit einer freiwilligen Einzahlung in die gesetzliche Rentenversicherung möglicherweise besser beraten.
+Wer dagegen wenig verdient oder Flexibilität benötigt, sollte genau abwägen — die steuerlichen Vorteile von Rürup entfalten sich am stärksten bei hohen Einkommen. Ob und in welcher Höhe Rürup für dich sinnvoll ist, hängt stark von deiner steuerlichen Situation ab. Ein Beratungsgespräch lohnt sich hier besonders, da die Produktunterschiede und steuerlichen Effekte komplex sind.
 
 ## Besteuerung im Alter
 

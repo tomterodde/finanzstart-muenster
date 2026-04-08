@@ -49,7 +49,7 @@ Diese Jahre werden als Beitragszeiten anerkannt und erhöhen die Rente. Das ist 
 Renteninformation anfordern (ab 27 automatisch), verstehen, wo man steht. Wer seine Lücke kennt, kann gezielter handeln.
 
 **2. Früh mit privater Vorsorge anfangen**
-Ein [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster) auch mit kleinen Beträgen aufbauen — unabhängig vom Partner, unabhängig vom Arbeitgeber. Das Kapital gehört einem selbst.
+Eigene Altersvorsorge aufbauen — unabhängig vom Partner, unabhängig vom Arbeitgeber. Welches Instrument am besten passt (ETF-Depot, Riester, private Rentenversicherung, bAV), hängt von der individuellen Situation ab: Einkommen, Kinder, Familienstand, Arbeitgeber. Gerade für Frauen mit Kindern kann Riester durch Kinderzulagen besonders attraktiv sein — das ist aber individuell zu prüfen.
 
 **3. Eigene [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert) nutzen**
 Auch bei Teilzeit kann die bAV beibehalten oder aufgebaut werden. Arbeitgeberzuschüsse mitnehmen.
@@ -74,6 +74,8 @@ Das Rentensystem belohnt kontinuierliche, hochbezahlte Vollzeitarbeit. Wer davon
 Der Gender Pension Gap ist kein Naturgesetz. Er entsteht durch konkrete Entscheidungen und strukturelle Rahmenbedingungen — und er lässt sich zumindest teilweise durch frühzeitige private Vorsorge kompensieren.
 
 Wer früh anfängt, eigene Rentenansprüche aufbaut und privat vorsorgt, hat im Alter mehr Spielraum — unabhängig davon, wie sich Lebensumstände ändern.
+
+Welche Vorsorgestrategie dabei am sinnvollsten ist, hängt von der persönlichen Situation ab. Ein Gespräch mit einem Finanzberater kann helfen, die richtigen Instrumente zu wählen — besonders in Lebensphasen mit Kindern, Teilzeit oder beruflichen Veränderungen, in denen die Entscheidungen besonders komplex werden.
 
 ---
 

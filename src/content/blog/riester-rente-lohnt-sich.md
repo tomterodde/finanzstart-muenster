@@ -64,7 +64,9 @@ Riester ist kein Allheilmittel — aber auch kein schlechtes Produkt per se. Es 
 - **Singles ohne Kinder:** Förderquote genau ausrechnen, Kosten vergleichen.
 - **Alle:** Produktqualität und Kosten entscheiden fast so viel wie die Förderung selbst.
 
-Wer die Grundlagen der [Rentenlücke](/blog/rentenluecke-berufseinsteiger-muenster) verstanden hat, kann Riester als einen möglichen Baustein — nicht als die einzige Lösung — einordnen.
+Wer die Grundlagen der [Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster) verstanden hat, kann Riester als einen möglichen Baustein — nicht als die einzige Lösung — einordnen.
+
+Ob Riester für dich konkret Sinn ergibt, hängt maßgeblich von Einkommen, Familienstand, Steuerklasse und dem gewählten Produkt ab. Die Unterschiede zwischen einem guten und einem schlechten Riester-Vertrag können über die Laufzeit fünfstellige Beträge ausmachen. Lass dich beraten — das ist hier keine Floskel, sondern wirklich sinnvoll.
 
 ---
 

@@ -28,9 +28,9 @@ Viele Broker bieten ETF-Sparpläne schon ab **25 € oder 50 € im Monat** an. 
 
 Der Vorteil gegenüber einer Einmalanlage: Du kaufst monatlich zu unterschiedlichen Kursen. Manchmal teurer, manchmal günstiger. Über die Zeit gleicht sich das aus — man nennt das *Cost-Average-Effekt*. Du vermeidest das Risiko, genau zum falschen Zeitpunkt einzusteigen.
 
-## Warum ETFs für Berufseinsteiger besonders sinnvoll sind
+## Warum ETFs ein sinnvoller Baustein sein können
 
-Drei Gründe, die wirklich zählen:
+Drei Eigenschaften, die ETFs für viele attraktiv machen:
 
 **1. Niedrige Kosten**
 Aktiv gemanagte Fonds — also Fonds, bei denen ein Fondsmanager entscheidet, was gekauft wird — kosten oft 1,5 bis 2,5% Gebühren pro Jahr. ETFs liegen typischerweise bei 0,1 bis 0,3% (*Total Expense Ratio*, kurz TER). Klingt klein, macht über 30 Jahre aber einen erheblichen Unterschied im Endvermögen.
@@ -40,6 +40,14 @@ Du musst keine Bilanzen lesen, keine Quartalszahlen verfolgen, keine Branchen an
 
 **3. Wissenschaftlich begründet**
 Die Grundlage hinter passivem Investieren ist gut erforscht: Über lange Zeiträume schlagen die meisten aktiv gemanagten Fonds ihren Vergleichsindex nicht — nach Kosten erst recht nicht. Das hat nicht mal mit schlechten Fondsmanagern zu tun, sondern mit Mathematik.
+
+## ETF oder staatlich gefördertes Produkt — was passt zu dir?
+
+Ein ETF-Sparplan ist nicht für jeden die erste Wahl. Je nach Lebenssituation können staatlich geförderte Produkte wie Riester, die betriebliche Altersvorsorge oder Rürup erhebliche Vorteile bieten — etwa durch Steuerersparnis, Arbeitgeberzuschüsse oder Zulagen für Kinder.
+
+Wer beispielsweise Kinder hat, einen Arbeitgeber mit hohem bAV-Zuschuss oder ein sehr hohes Einkommen, für den kann ein anderer Weg finanziell deutlich vorteilhafter sein als ein reiner ETF-Sparplan.
+
+**Was das für dich konkret bedeutet, hängt von deiner persönlichen Situation ab** — Steuerklasse, Familienstand, Arbeitgeber, Einkommen. Das lässt sich pauschal nicht beantworten. Ein Gespräch mit einem Finanzberater hilft, die Optionen gegeneinander abzuwägen.
 
 ## Welcher ETF für den Anfang?
 
@@ -73,9 +81,9 @@ Was danach übrig bleibt, kannst du in einen ETF-Sparplan stecken — auch wenn 
 
 ## Fazit
 
-Ein ETF-Sparplan ist kein Geheimtipp — er ist das naheliegendste Instrument für langfristigen Vermögensaufbau. Kein Expertenwissen nötig, geringe Kosten, wissenschaftlich solide.
+Ein ETF-Sparplan ist ein solides, transparentes und kostengünstiges Instrument für langfristigen Vermögensaufbau. Für viele Berufseinsteiger ist er ein guter Einstieg — aber nicht automatisch für jeden die optimale Lösung.
 
-Der einzige Fehler ist, zu lange zu warten.
+Ob ein ETF-Sparplan allein ausreicht, ob er mit staatlich geförderten Produkten kombiniert werden sollte oder ob andere Instrumente in deiner Situation mehr Sinn ergeben — das ist eine individuelle Frage. Der einzige echte Fehler ist, gar nicht anzufangen. Der zweite Fehler wäre, ohne Überblick zu starten. Beides lässt sich vermeiden.
 
 ---
 

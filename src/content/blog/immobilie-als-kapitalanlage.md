@@ -106,7 +106,7 @@ Eine einzelne Wohnung in einer Stadt ist kein diversifiziertes Portfolio. Wenn d
 
 Eine Kapitalanlage-Immobilie kann ein sinnvoller Teil eines Vermögensplans sein — wenn die Zahlen stimmen, der Standort passt und man bereit ist, sich aktiv darum zu kümmern.
 
-Für Berufseinsteiger mit begrenztem Startkapital ist ein [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster) in der Regel der einfachere und zugänglichere Einstieg. Die Immobilie kommt dann — wenn überhaupt — wenn Eigenkapital, Einkommen und Lebenssituation die nötige Stabilität mitbringen.
+Ob eine Anlageimmobilie, ein Wertpapierdepot oder eine Kombination aus beidem für dich die bessere Wahl ist, hängt von vielen Faktoren ab: Startkapital, Steuersituation, Risikotoleranz, Zeithorizont. Es gibt keine pauschale Antwort — und wer eine größere Investitionsentscheidung trifft, sollte sie nicht allein auf Basis von Faustregeln treffen.
 
 Wer Immobilien und selbstgenutztes Wohneigentum gegeneinander abwägen möchte, findet dazu eine nüchterne Analyse im Artikel [Mieten oder Kaufen in Münster](/blog/mieten-oder-kaufen-muenster).
 

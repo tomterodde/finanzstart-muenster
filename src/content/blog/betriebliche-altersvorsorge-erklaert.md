@@ -50,16 +50,18 @@ Die Faustregel: **Je höher der Arbeitgeberzuschuss, desto attraktiver.**
 
 - **Arbeitgeber zahlt 50% oder mehr dazu**: Fast immer sinnvoll. Das ist quasi kostenloses Geld.
 - **Arbeitgeber zahlt nur das gesetzliche Minimum (15%)**: Lohnt sich für Gutverdiener in höheren Steuerstufen, ist für Einsteiger mit niedrigerem Gehalt weniger eindeutig.
-- **Kein Arbeitgeberzuschuss** (bei Altverträgen noch möglich): Dann ist eine private Alternative wie ein [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster) oft flexibler und transparenter.
+- **Kein Arbeitgeberzuschuss** (bei Altverträgen noch möglich): Hier lohnt sich ein genauer Vergleich — die bAV bietet trotzdem steuerliche Vorteile durch die Entgeltumwandlung, die je nach Einkommenshöhe attraktiv sein können.
 
 ## Was ist mit der Rentenlücke?
 
 Die betriebliche Altersvorsorge ist eines von mehreren Instrumenten, um die [Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster) zu schließen. Sie ist kein Allheilmittel, aber ein sinnvoller Baustein — besonders wenn der Arbeitgeber substanziell mitzahlt.
 
-Ein ausgewogener Ansatz für Berufseinsteiger könnte sein:
-- bAV nutzen, wenn der Arbeitgeberzuschuss mindestens 20% beträgt
-- Parallel einen ETF-Sparplan besparen für mehr Flexibilität
-- Den Notgroschen (3 Monatsgehälter) vorher aufbauen
+Ein sinnvoller Einstieg für Berufseinsteiger könnte sein:
+- bAV-Konditionen beim Arbeitgeber aktiv erfragen (Zuschusshöhe, Durchführungsweg)
+- Den Notgroschen (3 Monatsgehälter) als Basis aufbauen
+- Darüber hinaus private Vorsorge aufbauen — in welcher Form das am sinnvollsten ist, hängt von Einkommen, Familienstand und Zielen ab
+
+Welche Kombination aus bAV, weiterer privater Vorsorge und staatlich geförderten Produkten für dich optimal ist, lässt sich pauschal nicht sagen. Ein Beratungsgespräch hilft, das auf deine Situation zuzuschneiden.
 
 ## Was sind die häufigsten bAV-Varianten?
 

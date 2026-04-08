@@ -62,25 +62,25 @@ Bei fondsgebundenen Rentenversicherungen wird im Rentenalter nur der Ertragsante
 **3. Pfändungsschutz**
 Rentenversicherungskapital ist unter bestimmten Bedingungen vor Pfändung geschützt. Für Selbstständige mit Haftungsrisiko ein Argument.
 
-## Wann ist der ETF-Sparplan die bessere Wahl?
+## Wann kann ein ETF-Sparplan sinnvoll sein?
 
-- Du willst Flexibilität: Kapital jederzeit verfügbar
-- Du bist jung und hast einen langen Zeithorizont
-- Du willst Kosten minimieren
-- Du bist bereit, im Alter das Depot selbst zu managen
-- Du hast keine Angst vor Marktschwankungen
+Ein ETF-Depot hat klare Stärken: niedrige Kosten, hohe Flexibilität, breite Streuung. Für Menschen, die Kapital flexibel halten wollen oder noch keine klare Vorstellung von ihrer Lebenssituation im Alter haben, ist er ein einfacher Einstieg.
+
+Aber: Ein ETF-Depot allein löst das Langlebigkeitsproblem nicht. Wer 30 Jahre lang ETFs besparte und dann entnimmt, muss selbst kalkulieren, wie lange das Kapital reicht — und kann sich dabei verkalkulieren. Es gibt keine garantierte lebenslange Auszahlung.
 
 ## Hybride Strategie
 
-Die meisten Finanzplaner empfehlen eine Kombination: ETF-Sparplan für den Großteil der Vorsorge (Flexibilität, niedrige Kosten) und eine günstige Rentenversicherung für einen Teil (Langlebigkeitsschutz). Das bedeutet: nicht alles in einen Topf, sondern bewusst auf beide Vorteile setzen.
+Die meisten seriösen Finanzkonzepte setzen auf eine Kombination: strukturierte Absicherung für das Langlebigkeitsrisiko und Kapitalaufbau für Flexibilität und Rendite. Wie das konkret aussieht — welcher Anteil wohin fließt, welche Produkte zusammenpassen — hängt von der individuellen Situation ab.
+
+Genau das ist der Punkt, an dem ein persönliches Gespräch mit einem Finanzberater echten Mehrwert liefert: nicht weil ETFs oder Rentenversicherungen pauschal besser oder schlechter sind, sondern weil die optimale Kombination individuell ist.
 
 ## Fazit
 
-Die private Rentenversicherung ist kein schlechtes Produkt — sie löst ein echtes Problem (Langlebigkeitsrisiko). Aber sie ist teuer, und viele ihrer Kosten sind nicht transparent.
+Weder die private Rentenversicherung noch der ETF-Sparplan ist pauschal "besser". Sie lösen unterschiedliche Probleme: die Versicherung schützt vor dem Risiko, sehr alt zu werden; das Depot bietet Flexibilität und günstige Kosten.
 
-Wer jung ist, einen langen Zeithorizont hat und sich selbst um sein Depot kümmern kann, fährt mit einem ETF-Sparplan in der Regel günstiger. Die Rentenversicherung kann später — wenn das Thema Verrentung konkreter wird — als Ergänzung hinzukommen.
+Die entscheidenden Fragen — wie viel Sicherheit du brauchst, welche steuerliche Situation du hast, wie du im Alter von deinem Kapital leben möchtest — lassen sich nicht aus einem Blogartikel ableiten. Sie hängen von deiner konkreten Lebenssituation ab.
 
-Den Rentenbedarf konkret auszurechnen, hilft bei dieser Entscheidung enorm. Wie das geht, zeigt der [nächste Artikel](/blog/rentenbedarf-berechnen).
+Den Rentenbedarf grob auszurechnen ist ein guter erster Schritt. Wie das geht, zeigt der [Artikel zum Rentenbedarf](/blog/rentenbedarf-berechnen). Der zweite Schritt ist ein Gespräch mit jemandem, der die Gesamtsituation kennt.
 
 ---
 

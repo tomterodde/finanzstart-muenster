@@ -77,7 +77,9 @@ Wir haben es im [Artikel über die Rentenlücke](/blog/rentenlücke-berufseinste
 
 Keiner dieser Fehler ist unausweichlich. Sie entstehen nicht aus Unwissenheit oder Unverantwortlichkeit, sondern daraus, dass niemand uns das beibringt — nicht in der Schule, nicht im Studium, meistens auch nicht im ersten Job.
 
-Der erste Schritt ist einfach: **Automatisiere das Sparen, schließ die wichtigsten Versicherungen ab, und fang früh mit der Altersvorsorge an.** Der Rest kommt mit der Zeit.
+Der erste Schritt ist einfach: **Automatisiere das Sparen, schließ die wichtigsten Versicherungen ab, und fang früh mit der Altersvorsorge an.**
+
+Welches Vorsorge-Instrument dabei das richtige ist, hängt von der persönlichen Situation ab — Einkommen, Arbeitgeber, Familienstand. Wer nicht weiß, wo er anfangen soll, ist mit einem Gespräch bei einem Finanzberater gut beraten. Das kostet wenig Zeit und schafft Klarheit.
 
 ---
 
