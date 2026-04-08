@@ -3,6 +3,7 @@ title: 'Steuererklärung als Berufseinsteiger: Lohnt es sich und wie fängst du 
 description: 'Steuererklärung als Berufseinsteiger in Münster: Wer muss, wer sollte, was du absetzen kannst — und wie du im Schnitt 1.000 € zurückbekommst.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
+category: 'Grundlagen'
 ---
 
 Die meisten Berufseinsteiger machen keine Steuererklärung. Meistens aus einem von zwei Gründen: Entweder glauben sie, es nicht zu müssen — oder sie haben Angst vor dem Aufwand.

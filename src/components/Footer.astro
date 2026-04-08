@@ -8,6 +8,11 @@ const today = new Date();
 		<p class="footer-disclaimer">
 			Kein Ersatz für individuelle Beratung · Keine Anlageberatung nach §34f · Alle Inhalte dienen der allgemeinen Finanzbildung.
 		</p>
+		<nav class="footer-links">
+			<a href="/impressum">Impressum</a>
+			<span>·</span>
+			<a href="/datenschutz">Datenschutz</a>
+		</nav>
 		<p class="footer-copy">&copy; {today.getFullYear()} Tom Terodde · Münster</p>
 	</div>
 </footer>
@@ -38,6 +43,24 @@ const today = new Date();
 		max-width: 560px;
 		margin: 0 auto;
 		line-height: 1.5;
+	}
+	.footer-links {
+		display: flex;
+		gap: 0.5em;
+		align-items: center;
+		justify-content: center;
+		font-size: 0.8em;
+	}
+	.footer-links a {
+		color: rgba(229, 233, 240, 0.6);
+		text-decoration: none;
+		transition: color 0.15s;
+	}
+	.footer-links a:hover {
+		color: white;
+	}
+	.footer-links span {
+		color: rgba(229, 233, 240, 0.3);
 	}
 	.footer-copy {
 		font-size: 0.8em;

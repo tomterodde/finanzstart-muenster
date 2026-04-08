@@ -3,6 +3,7 @@ title: 'Betriebliche Altersvorsorge: Lohnt sie sich für Berufseinsteiger?'
 description: 'Betriebliche Altersvorsorge einfach erklärt: Wie bAV funktioniert, was der Arbeitgeber zahlt und wann sie sich für Berufseinsteiger wirklich lohnt.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+category: 'Grundlagen'
 ---
 
 Wenn du deinen ersten Job antritts, fragt dich die HR vielleicht, ob du an der betrieblichen Altersvorsorge teilnehmen möchtest. Klingt gut. Aber was steckt dahinter, und lohnt es sich wirklich?

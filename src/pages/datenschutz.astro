@@ -1,0 +1,134 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead title="Datenschutzerklärung – Finanzstart Münster" description="Datenschutzerklärung für finanzstart-muenster.de gemäß DSGVO und BDSG." />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="prose">
+				<h1>Datenschutzerklärung</h1>
+
+				<h2>1. Verantwortlicher</h2>
+				<p>
+					Verantwortlicher im Sinne der DSGVO ist:<br />
+					Tom Terodde<br />
+					<!-- TODO: Adresse eintragen -->
+					[Straße Hausnummer], [PLZ] Münster<br />
+					E-Mail: [deine@email.de]
+				</p>
+
+				<h2>2. Hosting</h2>
+				<p>
+					Diese Website wird bei Vercel Inc., 340 Pine Street, Suite 701, San Francisco, CA 94104,
+					USA gehostet. Vercel verarbeitet dabei Server-Logs, die IP-Adresse, Browser-Typ,
+					besuchte Seiten und den Zeitpunkt des Zugriffs enthalten können. Die Verarbeitung erfolgt
+					auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am sicheren und
+					effizienten Betrieb der Website). Vercel ist unter dem EU-U.S. Data Privacy Framework
+					zertifiziert. Weitere Informationen: <a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">vercel.com/legal/privacy-policy</a>.
+				</p>
+
+				<h2>3. Newsletter (Kit / ConvertKit)</h2>
+				<p>
+					Auf dieser Website bieten wir einen Newsletter an. Für den Versand nutzen wir den Dienst
+					Kit (ehemals ConvertKit), ConvertKit LLC, 750 N San Vicente Blvd, West Hollywood,
+					CA 90069, USA.
+				</p>
+				<p>
+					Wenn du den Newsletter abonnierst, speichern wir deine E-Mail-Adresse sowie den
+					Zeitpunkt der Anmeldung. Die Einwilligung erfolgt über ein Double-Opt-In-Verfahren:
+					Du erhältst nach der Anmeldung eine Bestätigungs-E-Mail, über die du die Anmeldung
+					aktiv bestätigen musst.
+				</p>
+				<p>
+					<strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).<br />
+					<strong>Widerruf:</strong> Du kannst deine Einwilligung jederzeit mit Wirkung für die
+					Zukunft widerrufen, z. B. über den Abmelde-Link in jeder Newsletter-E-Mail.<br />
+					<strong>Datenübermittlung in die USA:</strong> Kit ist unter dem EU-U.S. Data Privacy
+					Framework zertifiziert. Weitere Informationen:
+					<a href="https://kit.com/privacy" target="_blank" rel="noopener noreferrer">kit.com/privacy</a>.
+				</p>
+
+				<h2>4. Cookies</h2>
+				<p>
+					Diese Website verwendet keine Tracking-Cookies und setzt kein Analytics-Tool ein.
+					Es werden ausschließlich technisch notwendige Ressourcen geladen, die für den Betrieb
+					der Website erforderlich sind.
+				</p>
+
+				<h2>5. Deine Rechte</h2>
+				<p>Du hast gemäß DSGVO folgende Rechte gegenüber uns:</p>
+				<ul>
+					<li>Recht auf Auskunft (Art. 15 DSGVO)</li>
+					<li>Recht auf Berichtigung (Art. 16 DSGVO)</li>
+					<li>Recht auf Löschung (Art. 17 DSGVO)</li>
+					<li>Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)</li>
+					<li>Recht auf Datenübertragbarkeit (Art. 20 DSGVO)</li>
+					<li>Widerspruchsrecht (Art. 21 DSGVO)</li>
+					<li>Recht auf Widerruf erteilter Einwilligungen (Art. 7 Abs. 3 DSGVO)</li>
+					<li>Beschwerderecht bei der zuständigen Aufsichtsbehörde (Art. 77 DSGVO)</li>
+				</ul>
+				<p>
+					Zuständige Aufsichtsbehörde in Nordrhein-Westfalen:<br />
+					Landesbeauftragte für Datenschutz und Informationsfreiheit NRW<br />
+					Kavalleriestraße 2–4, 40213 Düsseldorf<br />
+					<a href="https://www.ldi.nrw.de" target="_blank" rel="noopener noreferrer">www.ldi.nrw.de</a>
+				</p>
+
+				<h2>6. Externe Links</h2>
+				<p>
+					Diese Website enthält Links zu externen Websites Dritter. Beim Klick auf externe Links
+					können die verlinkten Anbieter deine IP-Adresse und weitere Browserdaten verarbeiten.
+					Wir haben keinen Einfluss auf deren Datenschutzpraktiken und verweisen auf deren
+					jeweilige Datenschutzerklärungen.
+				</p>
+
+				<h2>7. Aktualität dieser Erklärung</h2>
+				<p>
+					Stand: April 2026. Wir behalten uns vor, diese Datenschutzerklärung bei Änderungen
+					der gesetzlichen Lage oder unserer Dienste anzupassen.
+				</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main {
+		max-width: 860px;
+		margin: 0 auto;
+		padding: 3em 1.5em 5em;
+	}
+	.prose {
+		max-width: 680px;
+	}
+	h1 {
+		font-size: 2em;
+		margin-bottom: 1.5em;
+	}
+	h2 {
+		font-size: 1.1em;
+		margin-top: 2em;
+		margin-bottom: 0.5em;
+		color: rgb(var(--black));
+	}
+	p, li {
+		color: rgb(var(--gray-dark));
+		line-height: 1.7;
+		margin: 0 0 0.8em;
+	}
+	ul {
+		padding-left: 1.5em;
+		margin-bottom: 1em;
+	}
+	a {
+		color: var(--accent);
+	}
+</style>

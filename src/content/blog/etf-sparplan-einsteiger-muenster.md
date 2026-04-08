@@ -3,6 +3,7 @@ title: 'ETF-Sparplan: Der einfachste Einstieg in den Vermögensaufbau'
 description: 'ETF-Sparplan für Einsteiger erklärt: Was ein ETF ist, wie ein Sparplan funktioniert und warum er für Berufseinsteiger in Münster die naheliegendste Wahl ist.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+category: 'Grundlagen'
 ---
 
 Wenn du anfängst, dich mit Finanzen zu beschäftigen, stößt du früher oder später auf ETFs. Und schnell merkst du: Alle reden darüber, aber niemand erklärt es wirklich von Grund auf.

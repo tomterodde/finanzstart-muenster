@@ -3,6 +3,7 @@ title: 'Krankenkasse als Berufseinsteiger: Wechseln, sparen, richtig wählen'
 description: 'Welche Krankenkasse lohnt sich für Berufseinsteiger in Münster? Was GKV und PKV unterscheidet und worauf du beim ersten Job achten solltest.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+category: 'Grundlagen'
 ---
 
 Wenn du deinen ersten Job antritts, passiert bei der Krankenversicherung oft eines von zwei Dingen: Du bleibst einfach bei der Kasse deiner Eltern — oder du wählst die erstbeste Option, die dir HR nennt. Beides kostet im Zweifel Geld oder Leistung, die du dir hättest sparen können.

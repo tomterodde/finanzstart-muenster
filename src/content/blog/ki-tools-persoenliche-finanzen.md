@@ -3,6 +3,7 @@ title: 'KI-Tools für persönliche Finanzen: Was wirklich nützlich ist'
 description: 'KI-Tools für Finanzen im Praxischeck: Wo künstliche Intelligenz beim Haushalten, Budgetieren und Verstehen von Finanzen wirklich hilft — und wo sie versagt.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
+category: 'KI & Finanzen'
 ---
 
 KI ist gerade in aller Munde — aber was bedeutet das konkret für deine persönlichen Finanzen? Kann ChatGPT dein Finanzberater sein? Sollte eine App dein Budget managen? Und wie unterscheidest du nützliche Tools von Hype?
