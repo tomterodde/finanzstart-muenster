@@ -1,0 +1,167 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Footer from '../../../components/Footer.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
+import Header from '../../../components/Header.astro';
+import { SITE_TITLE } from '../../../consts';
+
+type Category = 'Grundlagen' | 'Versicherungen' | 'Einkommenssicherung' | 'Vermögensaufbau' | 'Altersvorsorge';
+
+const categoryDescriptions: Record<Category, string> = {
+	Grundlagen: 'Begriffe, Konzepte und Zusammenhänge — das Fundament für alle Finanzentscheidungen.',
+	Versicherungen: 'Welche Versicherungen wirklich wichtig sind und worauf du achten solltest.',
+	Einkommenssicherung: 'Absicherung bei Krankheit, Berufsunfähigkeit und Einkommensverlust.',
+	Vermögensaufbau: 'ETFs, Immobilien, Steuern und smarte Strategien für langfristigen Wohlstand.',
+	Altersvorsorge: 'Rentenlücke, Riester, bAV und Co. — so planst du deinen Ruhestand.',
+};
+
+export async function getStaticPaths() {
+	const allPosts = await getCollection('blog');
+
+	const slugMap: Record<string, Category> = {
+		grundlagen: 'Grundlagen',
+		versicherungen: 'Versicherungen',
+		einkommenssicherung: 'Einkommenssicherung',
+		vermoegensaufbau: 'Vermögensaufbau',
+		altersvorsorge: 'Altersvorsorge',
+	};
+
+	return Object.entries(slugMap).map(([slug, category]) => ({
+		params: { category: slug },
+		props: {
+			category,
+			posts: allPosts
+				.filter((p) => p.data.category === category)
+				.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+		},
+	}));
+}
+
+const { category, posts } = Astro.props as { category: Category; posts: Awaited<ReturnType<typeof getCollection<'blog'>>> };
+const description = categoryDescriptions[category];
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead
+			title={`${category} – ${SITE_TITLE}`}
+			description={description}
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="category-header">
+				<a href="/blog/" class="back-link">← Alle Artikel</a>
+				<h1>{category}</h1>
+				<p class="category-desc">{description}</p>
+				<p class="article-count">{posts.length} {posts.length === 1 ? 'Artikel' : 'Artikel'}</p>
+			</div>
+
+			{posts.length > 0 ? (
+				<ul>
+					{posts.map((post) => (
+						<li>
+							<a href={`/blog/${post.id}/`}>
+								<div class="post-meta">
+									<FormattedDate date={post.data.pubDate} />
+								</div>
+								<h2>{post.data.title}</h2>
+								<p>{post.data.description}</p>
+							</a>
+						</li>
+					))}
+				</ul>
+			) : (
+				<p class="empty">Noch keine Artikel in dieser Kategorie.</p>
+			)}
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main {
+		max-width: 860px;
+		margin: 0 auto;
+		padding: 2.5em 1.5em 5em;
+	}
+	.category-header {
+		margin-bottom: 2.5em;
+		padding-bottom: 2em;
+		border-bottom: 1px solid rgb(var(--gray-light));
+	}
+	.back-link {
+		display: inline-block;
+		font-size: 0.875em;
+		color: rgb(var(--gray));
+		text-decoration: none;
+		margin-bottom: 1em;
+	}
+	.back-link:hover {
+		color: var(--accent);
+	}
+	.category-header h1 {
+		font-size: 2.2em;
+		margin: 0 0 0.4em;
+		color: rgb(var(--black));
+	}
+	.category-desc {
+		font-size: 1.05em;
+		color: rgb(var(--gray));
+		margin: 0 0 0.6em;
+		max-width: 560px;
+		line-height: 1.6;
+	}
+	.article-count {
+		font-size: 0.85em;
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 1px;
+		background: rgb(var(--gray-light));
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 12px;
+		overflow: hidden;
+	}
+	li a {
+		display: block;
+		padding: 1.5em 1.8em;
+		text-decoration: none;
+		background: white;
+		transition: background 0.15s;
+	}
+	li a:hover {
+		background: var(--accent-light);
+	}
+	.post-meta {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin-bottom: 0.4em;
+	}
+	h2 {
+		font-size: 1.15em;
+		color: rgb(var(--black));
+		margin: 0 0 0.4em;
+		font-weight: 600;
+	}
+	li p {
+		font-size: 0.9em;
+		color: rgb(var(--gray));
+		margin: 0;
+		line-height: 1.5;
+	}
+	.empty {
+		text-align: center;
+		color: rgb(var(--gray));
+		padding: 3em 0;
+	}
+</style>
