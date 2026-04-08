@@ -14,7 +14,7 @@ const blog = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
-			category: z.enum(['Versicherungen', 'Einkommenssicherung', 'Vermögensaufbau', 'Altersvorsorge']).optional(),
+			category: z.enum(['Grundlagen', 'Versicherungen', 'Einkommenssicherung', 'Vermögensaufbau', 'Altersvorsorge']).optional(),
 		}),
 });
 
