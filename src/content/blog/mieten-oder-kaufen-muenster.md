@@ -3,7 +3,7 @@ title: 'Mieten oder Kaufen in Münster? Was Berufseinsteiger wissen müssen'
 description: 'Mieten oder Kaufen in Münster: Was rechnet sich für Berufseinsteiger wirklich? Eine nüchterne Betrachtung ohne Mythen und Dogmen.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-3.jpg'
-category: 'Münster-Lokal'
+category: 'Vermögensaufbau'
 ---
 
 "Miete ist rausgeschmissenes Geld." Diesen Satz kennen die meisten — und er ist falsch. Zumindest ist er sehr viel komplizierter als er klingt.

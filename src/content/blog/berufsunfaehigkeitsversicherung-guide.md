@@ -3,7 +3,7 @@ title: 'Berufsunfähigkeitsversicherung: Was du wirklich wissen musst'
 description: 'BU-Versicherung klingt trocken — ist aber eine der wichtigsten Absicherungen überhaupt. Wer sie braucht, wann man abschließt und worauf man achtet.'
 pubDate: '2026-04-07'
 heroImage: '../../assets/blog-placeholder-2.jpg'
-category: 'Grundlagen'
+category: 'Einkommenssicherung'
 ---
 
 Stell dir vor, du kannst deinen Beruf von heute auf morgen nicht mehr ausüben. Nicht wegen Faulheit, sondern wegen Krankheit oder Unfall. Was passiert dann finanziell?

@@ -3,7 +3,7 @@ title: 'Rentenlücke: Was Berufseinsteiger in Münster wissen müssen'
 description: 'Die gesetzliche Rente wird nicht reichen – das ist Fakt. Wie groß deine Rentenlücke wirklich ist und was du jetzt tun kannst, erklärt dieser Artikel.'
 pubDate: '2026-04-07'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-category: 'Grundlagen'
+category: 'Altersvorsorge'
 ---
 
 Du hast gerade deinen ersten Job angefangen – vielleicht nach dem Studium an der WWU, vielleicht nach einer Ausbildung. Die Rente ist das Letzte, worüber du nachdenken willst. Verständlich.

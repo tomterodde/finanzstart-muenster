@@ -14,7 +14,7 @@ const blog = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
-			category: z.enum(['Grundlagen', 'Münster-Lokal', 'KI & Finanzen']).optional(),
+			category: z.enum(['Versicherungen', 'Einkommenssicherung', 'Vermögensaufbau', 'Altersvorsorge']).optional(),
 		}),
 });
 

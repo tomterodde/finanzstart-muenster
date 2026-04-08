@@ -3,7 +3,7 @@ title: 'Immobilie als Kapitalanlage: Was du wirklich wissen musst'
 description: 'Immobilie als Kapitalanlage: Wann lohnt sich eine vermietete Wohnung, was sind die echten Kosten — und wann ist ein ETF-Sparplan die bessere Wahl?'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
-category: 'Grundlagen'
+category: 'Vermögensaufbau'
 ---
 
 "Immobilien sind die sicherste Geldanlage." Diesen Satz hört man oft — von Eltern, von Kollegen, manchmal sogar von Bankberatern. Er ist nicht falsch. Aber er ist auch nicht vollständig.
