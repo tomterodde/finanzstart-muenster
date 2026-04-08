@@ -45,17 +45,16 @@ const categorySlugMap: Record<string, string> = {
 			<ul id="post-list">
 				{posts.map((post) => (
 					<li data-category={post.data.category ?? 'Grundlagen'}>
-						<a href={`/blog/${post.id}/`}>
-							<div class="post-meta">
-								<FormattedDate date={post.data.pubDate} />
-								{post.data.category && (
-									<a
-										class="category-badge"
-										href={`/blog/kategorie/${categorySlugMap[post.data.category]}/`}
-										onclick="event.stopPropagation()"
-									>{post.data.category}</a>
-								)}
-							</div>
+						<div class="post-meta">
+							<FormattedDate date={post.data.pubDate} />
+							{post.data.category && (
+								<a
+									class="category-badge"
+									href={`/blog/kategorie/${categorySlugMap[post.data.category]}/`}
+								>{post.data.category}</a>
+							)}
+						</div>
+						<a class="post-link" href={`/blog/${post.id}/`}>
 							<h3>{post.data.title}</h3>
 							<p>{post.data.description}</p>
 						</a>
@@ -143,15 +142,17 @@ const categorySlugMap: Record<string, string> = {
 		border-radius: 12px;
 		overflow: hidden;
 	}
-	li a {
-		display: block;
-		padding: 1.5em 1.8em;
-		text-decoration: none;
+	li {
 		background: white;
+		padding: 1.2em 1.8em 1.5em;
 		transition: background 0.15s;
 	}
-	li a:hover {
+	li:hover {
 		background: var(--accent-light);
+	}
+	.post-link {
+		display: block;
+		text-decoration: none;
 	}
 	.post-meta {
 		display: flex;
