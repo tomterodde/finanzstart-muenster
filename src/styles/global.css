@@ -137,6 +137,67 @@ hr {
 	}
 }
 
+/* Header */
+header {
+	margin: 0;
+	padding: 0 1.5em;
+	background: white;
+	border-bottom: 1px solid rgb(var(--gray-light));
+	box-shadow: 0 1px 4px rgba(var(--gray), 10%);
+	position: sticky;
+	top: 0;
+	z-index: 100;
+}
+header nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	max-width: 860px;
+	margin: 0 auto;
+	height: 60px;
+}
+header .site-title {
+	font-size: 1.1em;
+	font-weight: 700;
+	text-decoration: none;
+	color: var(--accent);
+	display: flex;
+	align-items: center;
+	gap: 0.4em;
+	letter-spacing: -0.01em;
+}
+header .logo-icon {
+	font-size: 1.4em;
+	line-height: 1;
+}
+header .internal-links {
+	display: flex;
+	gap: 0.5em;
+}
+header nav a {
+	padding: 0.4em 0.8em;
+	color: rgb(var(--gray-dark));
+	border-bottom: 2px solid transparent;
+	text-decoration: none;
+	font-size: 0.95em;
+	border-radius: 6px;
+	transition: background 0.15s;
+}
+header nav a:hover {
+	background: var(--accent-light);
+	color: var(--accent);
+}
+header nav a.active {
+	color: var(--accent);
+	font-weight: 600;
+	background: var(--accent-light);
+}
+@media (max-width: 480px) {
+	header .site-title span.logo-icon {
+		display: none;
+	}
+}
+
 .sr-only {
 	border: 0;
 	padding: 0;
