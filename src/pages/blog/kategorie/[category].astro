@@ -166,4 +166,23 @@ const description = categoryDescriptions[category];
 		color: rgb(var(--gray));
 		padding: 3em 0;
 	}
+	@media (max-width: 720px) {
+		main {
+			padding: 1.5em 1em 4em;
+		}
+		li a {
+			padding: 1em 1.2em;
+		}
+	}
+	@media (max-width: 480px) {
+		.category-header h1 {
+			font-size: 1.6em;
+		}
+		li a {
+			padding: 1em;
+		}
+		h2 {
+			font-size: 1.05em;
+		}
+	}
 </style>

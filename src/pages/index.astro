@@ -122,8 +122,28 @@ const posts = (await getCollection('blog'))
 		line-height: 1.5;
 	}
 	@media (max-width: 720px) {
+		.hero {
+			padding: 2.5em 0 2em;
+		}
 		.hero h1 {
 			font-size: 2em;
+		}
+		li a {
+			padding: 1.2em 1.2em;
+		}
+	}
+	@media (max-width: 480px) {
+		main {
+			padding: 0 1em 3em;
+		}
+		.hero {
+			padding: 2em 0 1.5em;
+		}
+		.hero h1 {
+			font-size: 1.65em;
+		}
+		li a {
+			padding: 1em;
 		}
 	}
 </style>

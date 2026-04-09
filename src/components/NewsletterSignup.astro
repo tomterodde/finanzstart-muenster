@@ -95,4 +95,14 @@ const { variant = 'box' } = Astro.props;
 	button:hover {
 		background: var(--accent-dark);
 	}
+	@media (max-width: 480px) {
+		.newsletter--box {
+			padding: 1.5em 1.2em;
+		}
+		input[type="email"],
+		button {
+			flex: 1 1 100%;
+			width: 100%;
+		}
+	}
 </style>

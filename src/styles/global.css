@@ -100,6 +100,13 @@ input {
 }
 table {
 	width: 100%;
+	border-collapse: collapse;
+}
+/* Mobile table scroll */
+.prose table {
+	display: block;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
 }
 img {
 	max-width: 100%;
@@ -135,6 +142,17 @@ hr {
 	main {
 		padding: 1em;
 	}
+	h1 { font-size: 2em; }
+	h2 { font-size: 1.6em; }
+	h3 { font-size: 1.3em; }
+}
+@media (max-width: 480px) {
+	body {
+		font-size: 17px;
+	}
+	h1 { font-size: 1.75em; }
+	h2 { font-size: 1.4em; }
+	h3 { font-size: 1.2em; }
 }
 
 /* Header */
@@ -195,6 +213,10 @@ header nav a.active {
 @media (max-width: 480px) {
 	header .site-title span.logo-icon {
 		display: none;
+	}
+	header nav a {
+		padding: 0.5em 0.6em;
+		font-size: 0.875em;
 	}
 }
 
