@@ -7,9 +7,10 @@ import FormattedDate from '../components/FormattedDate.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const now = new Date();
+const posts = (await getCollection('blog'))
+	.filter((post) => post.data.pubDate <= now)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
 <!doctype html>

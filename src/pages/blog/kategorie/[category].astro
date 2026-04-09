@@ -27,12 +27,14 @@ export async function getStaticPaths() {
 		altersvorsorge: 'Altersvorsorge',
 	};
 
+	const now = new Date();
+
 	return Object.entries(slugMap).map(([slug, category]) => ({
 		params: { category: slug },
 		props: {
 			category,
 			posts: allPosts
-				.filter((p) => p.data.category === category)
+				.filter((p) => p.data.category === category && p.data.pubDate <= now)
 				.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
 		},
 	}));
