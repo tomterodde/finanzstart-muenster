@@ -1,0 +1,314 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead
+			title="Zusammenarbeiten – Finanzstart Münster"
+			description="Du interessierst dich dafür, selbst in der Finanzberatung aktiv zu werden? Hier erfährst du, wie das konkret aussehen kann."
+		/>
+		<meta name="robots" content="noindex, nofollow" />
+		<style>
+			.page-wrap {
+				max-width: 720px;
+				margin: 0 auto;
+				padding: 3em 1.5em 5em;
+			}
+
+			.page-header {
+				margin-bottom: 3em;
+			}
+
+			.label {
+				display: inline-block;
+				font-size: 0.75em;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				color: var(--accent);
+				margin-bottom: 0.75em;
+			}
+
+			h1 {
+				font-size: clamp(1.8em, 4vw, 2.4em);
+				line-height: 1.2;
+				margin: 0 0 0.6em;
+				color: rgb(var(--black));
+			}
+
+			.lead {
+				font-size: 1.05em;
+				color: rgb(var(--gray-dark));
+				line-height: 1.7;
+				max-width: 580px;
+			}
+
+			.section {
+				margin-bottom: 3em;
+			}
+
+			h2 {
+				font-size: 1.25em;
+				color: rgb(var(--black));
+				margin: 0 0 0.75em;
+				padding-bottom: 0.4em;
+				border-bottom: 2px solid var(--accent-light);
+			}
+
+			p {
+				color: rgb(var(--gray-dark));
+				line-height: 1.7;
+				margin: 0 0 1em;
+			}
+
+			.cards {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+				gap: 1em;
+				margin-top: 1.25em;
+			}
+
+			.card {
+				background: var(--accent-light);
+				border-radius: 10px;
+				padding: 1.25em 1.25em 1em;
+			}
+
+			.card-icon {
+				font-size: 1.5em;
+				margin-bottom: 0.4em;
+			}
+
+			.card h3 {
+				font-size: 0.9em;
+				font-weight: 700;
+				color: var(--accent-dark);
+				margin: 0 0 0.3em;
+			}
+
+			.card p {
+				font-size: 0.85em;
+				color: rgb(var(--gray));
+				margin: 0;
+				line-height: 1.5;
+			}
+
+			.steps {
+				counter-reset: step;
+				list-style: none;
+				padding: 0;
+				margin: 1.25em 0 0;
+			}
+
+			.steps li {
+				counter-increment: step;
+				display: flex;
+				gap: 1em;
+				align-items: flex-start;
+				padding: 1em 0;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+
+			.steps li:last-child {
+				border-bottom: none;
+			}
+
+			.step-num {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 32px;
+				height: 32px;
+				min-width: 32px;
+				background: var(--accent);
+				color: white;
+				border-radius: 50%;
+				font-size: 0.85em;
+				font-weight: 700;
+			}
+
+			.step-num::before {
+				content: counter(step);
+			}
+
+			.step-text strong {
+				display: block;
+				font-size: 0.95em;
+				color: rgb(var(--black));
+				margin-bottom: 0.2em;
+			}
+
+			.step-text span {
+				font-size: 0.85em;
+				color: rgb(var(--gray));
+				line-height: 1.5;
+			}
+
+			.honest-box {
+				background: #fffbeb;
+				border: 1px solid #f0d070;
+				border-radius: 10px;
+				padding: 1.25em 1.5em;
+				font-size: 0.9em;
+				color: rgb(var(--gray-dark));
+				line-height: 1.6;
+			}
+
+			.honest-box strong {
+				color: rgb(var(--black));
+			}
+
+			.cta-box {
+				background: var(--accent);
+				color: white;
+				border-radius: 14px;
+				padding: 2.5em 2em;
+				text-align: center;
+				margin-top: 1em;
+			}
+
+			.cta-box h2 {
+				font-size: 1.4em;
+				color: white;
+				border: none;
+				padding: 0;
+				margin: 0 0 0.5em;
+			}
+
+			.cta-box p {
+				color: rgba(255, 255, 255, 0.88);
+				max-width: 460px;
+				margin: 0 auto 1.75em;
+				font-size: 0.95em;
+			}
+
+			.btn-white {
+				display: inline-block;
+				background: white;
+				color: var(--accent);
+				padding: 0.85em 2em;
+				border-radius: 8px;
+				font-weight: 700;
+				font-size: 0.95em;
+				text-decoration: none;
+				transition: background 0.15s;
+			}
+
+			.btn-white:hover {
+				background: rgba(255, 255, 255, 0.9);
+			}
+
+			.cta-fine {
+				font-size: 0.8em;
+				color: rgba(255, 255, 255, 0.65);
+				margin: 1em 0 0;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-wrap">
+
+				<div class="page-header">
+					<span class="label">Zusammenarbeiten</span>
+					<h1>Finanzen erklären.<br />Gut verdienen.<br />Selbst entscheiden.</h1>
+					<p class="lead">
+						Du liest diesen Blog, weil dich Finanzen interessieren. Wenn dich außerdem die Idee reizt,
+						selbst in der Finanzberatung aktiv zu werden — nebenberuflich oder als Haupttätigkeit —
+						dann lies weiter.
+					</p>
+				</div>
+
+				<div class="section">
+					<h2>Was das Modell bietet</h2>
+					<p>
+						Ich arbeite in einem Modell, das ich auf diesem Blog regelmäßig beschreibe: provisionsbasierte
+						Finanzberatung mit einer klaren Teamstruktur und echter Einkommensentwicklung.
+						Kein Fixgehalt — dafür volle Kontrolle über Zeit und Ergebnis.
+					</p>
+					<div class="cards">
+						<div class="card">
+							<div class="card-icon">📈</div>
+							<h3>Einkommenspotenzial</h3>
+							<p>Direktprovision + Bestandsaufbau. Was du heute berätst, zahlt langfristig.</p>
+						</div>
+						<div class="card">
+							<div class="card-icon">🕐</div>
+							<h3>Flexibilität</h3>
+							<p>Nebenberuflicher Einstieg möglich. Kein Kündigen erforderlich.</p>
+						</div>
+						<div class="card">
+							<div class="card-icon">🎓</div>
+							<h3>Ausbildung & Zulassung</h3>
+							<p>Strukturierter Weg zur IHK-Zulassung. Du wirst nicht ins kalte Wasser geworfen.</p>
+						</div>
+						<div class="card">
+							<div class="card-icon">👥</div>
+							<h3>Teamstruktur</h3>
+							<p>Eigenes Team aufbauen = passives Einkommen aus deiner Struktur.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="section">
+					<h2>Wie ein Kennenlernen abläuft</h2>
+					<ol class="steps">
+						<li>
+							<div class="step-num"></div>
+							<div class="step-text">
+								<strong>Du schreibst mir kurz</strong>
+								<span>Was dich interessiert, wo du gerade stehst, was du suchst. Drei Sätze reichen.</span>
+							</div>
+						</li>
+						<li>
+							<div class="step-num"></div>
+							<div class="step-text">
+								<strong>Ich melde mich innerhalb von 48h</strong>
+								<span>Kein Standardrückruf, keine Pitch-Maschinerie. Ich antworte persönlich.</span>
+							</div>
+						</li>
+						<li>
+							<div class="step-num"></div>
+							<div class="step-text">
+								<strong>Erstes Gespräch — 30 Minuten</strong>
+								<span>Ich erkläre das Modell konkret. Du stellst alle Fragen. Kein Abschlussdruck.</span>
+							</div>
+						</li>
+						<li>
+							<div class="step-num"></div>
+							<div class="step-text">
+								<strong>Du entscheidest</strong>
+								<span>Passt es, besprechen wir nächste Schritte. Passt es nicht, war es trotzdem ein gutes Gespräch.</span>
+							</div>
+						</li>
+					</ol>
+				</div>
+
+				<div class="section">
+					<div class="honest-box">
+						<strong>Ehrlichkeit vorab:</strong> Das hier ist kein Job für jeden. Wer ein festes Gehalt,
+						geregelte Arbeitszeiten und null Verkaufskontakt sucht, ist woanders besser aufgehoben.
+						Das Modell funktioniert für Menschen, die eigenverantwortlich arbeiten wollen, sich
+						nicht vor dem Wort "Provision" scheuen und bereit sind, eine echte Expertise aufzubauen.
+					</div>
+				</div>
+
+				<div class="cta-box">
+					<h2>Interesse? Schreib mir.</h2>
+					<p>Kein Formular, kein Funnel. Einfach eine kurze Mail — ich antworte persönlich.</p>
+					<a href="mailto:tom@finanzstart-muenster.de?subject=Zusammenarbeiten&body=Hallo Tom,%0D%0A%0D%0Aich interessiere mich für eine Zusammenarbeit und würde gerne mehr erfahren.%0D%0A%0D%0A" class="btn-white">
+						E-Mail schreiben →
+					</a>
+					<p class="cta-fine">Kein Newsletter, kein Spam. Nur eine Antwort von mir.</p>
+				</div>
+
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
