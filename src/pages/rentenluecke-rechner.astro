@@ -1,0 +1,490 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead
+			title="Rentenlücken-Rechner — Wie groß ist deine Lücke?"
+			description="Berechne in 60 Sekunden, wie groß deine persönliche Rentenlücke ist — und wie viel du monatlich sparen müsstest, um sie zu schließen."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<p class="label">Kostenlos & anonym</p>
+				<h1>Rentenlücken-Rechner</h1>
+				<p class="subtitle">
+					In 60 Sekunden erfährst du, wie groß deine persönliche Rentenlücke ist — und was du monatlich zurücklegen müsstest, um sie zu schließen.
+				</p>
+			</div>
+
+			<!-- Step 1: Input -->
+			<div id="step-input" class="card">
+				<h2>Deine Angaben</h2>
+
+				<div class="field">
+					<label for="alter">Dein aktuelles Alter</label>
+					<div class="input-row">
+						<input type="range" id="alter-range" min="20" max="60" value="28" />
+						<span class="input-display"><span id="alter-val">28</span> Jahre</span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label for="gehalt">Bruttogehalt pro Jahr</label>
+					<div class="input-row">
+						<input type="range" id="gehalt-range" min="20000" max="120000" step="1000" value="38000" />
+						<span class="input-display"><span id="gehalt-val">38.000</span> €</span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label for="bedarf">Gewünschtes Nettoeinkommen im Alter</label>
+					<p class="field-hint">Faustregel: 70–80 % deines heutigen Nettoeinkommens</p>
+					<div class="input-row">
+						<input type="range" id="bedarf-range" min="800" max="4000" step="50" value="1800" />
+						<span class="input-display"><span id="bedarf-val">1.800</span> €/Monat</span>
+					</div>
+				</div>
+
+				<button id="calc-btn" class="btn-primary">Rentenlücke berechnen</button>
+			</div>
+
+			<!-- Step 2: Results -->
+			<div id="step-result" class="card hidden">
+				<h2>Dein Ergebnis</h2>
+
+				<div class="result-grid">
+					<div class="result-box">
+						<p class="result-label">Erwartete gesetzliche Rente (netto)</p>
+						<p class="result-value" id="res-rente">–</p>
+						<p class="result-note">Hochrechnung bei heutigem Einkommen bis 67</p>
+					</div>
+					<div class="result-box">
+						<p class="result-label">Dein Zielbedarf im Alter</p>
+						<p class="result-value" id="res-bedarf">–</p>
+					</div>
+					<div class="result-box highlight">
+						<p class="result-label">Deine monatliche Rentenlücke</p>
+						<p class="result-value" id="res-luecke">–</p>
+						<p class="result-note">Differenz, die du privat schließen musst</p>
+					</div>
+					<div class="result-box">
+						<p class="result-label">Benötigtes Privatvermögen</p>
+						<p class="result-value" id="res-kapital">–</p>
+						<p class="result-note">Bei 4 % Entnahmerate</p>
+					</div>
+				</div>
+
+				<div class="sparrate-box">
+					<p class="sparrate-label">Empfohlene monatliche Sparrate</p>
+					<p class="sparrate-value" id="res-sparrate">–</p>
+					<p class="sparrate-note">Bei 7 % Rendite (ETF-Durchschnitt) bis Renteneintritt mit 67</p>
+				</div>
+
+				<div class="disclaimer-calc">
+					Diese Berechnung ist eine vereinfachte Schätzung — keine individuelle Finanzberatung. Faktoren wie Rentenwertentwicklung, Inflation, bAV und Steueroptimierung sind nicht vollständig berücksichtigt.
+				</div>
+
+				<div class="cta-box">
+					<p class="cta-label">Nächster Schritt</p>
+					<h3>Hol dir die kostenlose Finanzcheck-Checkliste</h3>
+					<p class="cta-sub">
+						20 Fragen, die jeder Berufseinsteiger sich jetzt stellen sollte — in 5 Bereichen: Liquidität, Versicherungen, Steuern, Altersvorsorge, Einkommen.
+					</p>
+					<form
+						action="https://app.kit.com/forms/9299804/subscriptions"
+						method="post"
+						class="cta-form"
+					>
+						<input
+							type="email"
+							name="email_address"
+							placeholder="deine@email.de"
+							required
+							aria-label="E-Mail-Adresse"
+						/>
+						<button type="submit" class="btn-primary">Checkliste per E-Mail erhalten</button>
+					</form>
+					<p class="cta-privacy">Kein Spam. Jederzeit abmeldbar.</p>
+
+					<div class="or-divider">oder</div>
+					<a href="/finanzcheck/" class="btn-secondary" target="_blank">Checkliste direkt öffnen →</a>
+				</div>
+
+				<button id="reset-btn" class="btn-ghost">← Neu berechnen</button>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<script>
+	const alterRange = document.getElementById('alter-range') as HTMLInputElement;
+	const gehaltRange = document.getElementById('gehalt-range') as HTMLInputElement;
+	const bedarfRange = document.getElementById('bedarf-range') as HTMLInputElement;
+	const alterVal = document.getElementById('alter-val')!;
+	const gehaltVal = document.getElementById('gehalt-val')!;
+	const bedarfVal = document.getElementById('bedarf-val')!;
+	const calcBtn = document.getElementById('calc-btn')!;
+	const resetBtn = document.getElementById('reset-btn')!;
+	const stepInput = document.getElementById('step-input')!;
+	const stepResult = document.getElementById('step-result')!;
+
+	function fmt(n: number) {
+		return n.toLocaleString('de-DE');
+	}
+
+	alterRange.addEventListener('input', () => { alterVal.textContent = alterRange.value; });
+	gehaltRange.addEventListener('input', () => { gehaltVal.textContent = fmt(Number(gehaltRange.value)); });
+	bedarfRange.addEventListener('input', () => { bedarfVal.textContent = fmt(Number(bedarfRange.value)); });
+
+	calcBtn.addEventListener('click', () => {
+		const alter = Number(alterRange.value);
+		const brutto = Number(gehaltRange.value);
+		const bedarf = Number(bedarfRange.value);
+
+		// Gesetzliche Rente schätzen
+		const durchschnittslohn = 45358; // BBG-Bezugsgröße 2025
+		const rentenwert = 39.32; // aktueller Rentenwert 2025
+		const arbeitsjahreGesamt = Math.max(5, 67 - 25); // 42 Jahre Gesamtarbeitszeit
+		const jahreEntgeltpunkte = brutto / durchschnittslohn;
+		const gesamtPunkte = jahreEntgeltpunkte * arbeitsjahreGesamt;
+		const bruttoRente = gesamtPunkte * rentenwert;
+		// Abzüge als Rentner: KV+PV ~18%, Steuer vereinfacht ~8%
+		const nettoRente = Math.round(bruttoRente * 0.74 / 12);
+
+		// Rentenlücke
+		const luecke = Math.max(0, bedarf - nettoRente);
+
+		// Benötigtes Kapital (4%-Regel)
+		const kapital = Math.round((luecke * 12) / 0.04);
+
+		// Monatliche Sparrate berechnen (PMT)
+		const jahreBisRente = Math.max(1, 67 - alter);
+		const r = 0.07 / 12; // 7% p.a. monatlich
+		const n = jahreBisRente * 12;
+		const sparrate = kapital > 0
+			? Math.round(kapital * r / (Math.pow(1 + r, n) - 1))
+			: 0;
+
+		// Ergebnisse eintragen
+		document.getElementById('res-rente')!.textContent = fmt(nettoRente) + ' €/Monat';
+		document.getElementById('res-bedarf')!.textContent = fmt(bedarf) + ' €/Monat';
+		document.getElementById('res-luecke')!.textContent = luecke > 0 ? fmt(luecke) + ' €/Monat' : 'Keine Lücke 🎉';
+		document.getElementById('res-kapital')!.textContent = luecke > 0 ? fmt(kapital) + ' €' : '–';
+		document.getElementById('res-sparrate')!.textContent = luecke > 0 ? fmt(sparrate) + ' €/Monat' : '–';
+
+		stepInput.classList.add('hidden');
+		stepResult.classList.remove('hidden');
+		stepResult.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+
+	resetBtn.addEventListener('click', () => {
+		stepResult.classList.add('hidden');
+		stepInput.classList.remove('hidden');
+		stepInput.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+</script>
+
+<style>
+	main {
+		max-width: 720px;
+		margin: 0 auto;
+		padding: 3em 1.5em 5em;
+	}
+
+	.page-header {
+		text-align: center;
+		margin-bottom: 2.5em;
+	}
+
+	.label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.6em;
+	}
+
+	h1 {
+		font-size: 2.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.subtitle {
+		font-size: 1.05em;
+		color: rgb(var(--gray));
+		max-width: 520px;
+		margin: 0 auto;
+		line-height: 1.6;
+	}
+
+	.card {
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 16px;
+		padding: 2.5em 2.5em;
+		box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+	}
+
+	.card h2 {
+		font-size: 1.25em;
+		margin: 0 0 1.75em;
+		color: rgb(var(--black));
+	}
+
+	.hidden { display: none !important; }
+
+	/* Input fields */
+	.field {
+		margin-bottom: 2em;
+	}
+
+	.field label {
+		display: block;
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin-bottom: 0.4em;
+	}
+
+	.field-hint {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0.2em 0 0.6em;
+	}
+
+	.input-row {
+		display: flex;
+		align-items: center;
+		gap: 1em;
+	}
+
+	input[type="range"] {
+		flex: 1;
+		accent-color: var(--accent);
+		height: 4px;
+		cursor: pointer;
+	}
+
+	.input-display {
+		font-size: 1em;
+		font-weight: 700;
+		color: var(--accent);
+		min-width: 120px;
+		text-align: right;
+		white-space: nowrap;
+	}
+
+	/* Results */
+	.result-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1em;
+		margin-bottom: 1.5em;
+	}
+
+	.result-box {
+		background: rgb(var(--gray-light));
+		border-radius: 10px;
+		padding: 1.2em 1.4em;
+	}
+
+	.result-box.highlight {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.result-label {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0 0 0.4em;
+		font-weight: 500;
+	}
+
+	.result-value {
+		font-size: 1.4em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		margin: 0 0 0.3em;
+	}
+
+	.result-box.highlight .result-value {
+		color: var(--accent-dark);
+	}
+
+	.result-note {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+
+	.sparrate-box {
+		background: var(--accent);
+		border-radius: 12px;
+		padding: 1.5em 2em;
+		text-align: center;
+		margin-bottom: 1.5em;
+	}
+
+	.sparrate-label {
+		font-size: 0.85em;
+		color: rgba(255,255,255,0.8);
+		margin: 0 0 0.3em;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+
+	.sparrate-value {
+		font-size: 2em;
+		font-weight: 700;
+		color: white;
+		margin: 0 0 0.3em;
+	}
+
+	.sparrate-note {
+		font-size: 0.78em;
+		color: rgba(255,255,255,0.7);
+		margin: 0;
+	}
+
+	.disclaimer-calc {
+		font-size: 0.78em;
+		color: rgb(var(--gray));
+		background: rgb(var(--gray-light));
+		border-radius: 8px;
+		padding: 0.8em 1em;
+		margin-bottom: 2em;
+		line-height: 1.5;
+	}
+
+	/* CTA box */
+	.cta-box {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+		border-radius: 12px;
+		padding: 2em;
+		margin-bottom: 1.5em;
+		text-align: center;
+	}
+
+	.cta-label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.5em;
+	}
+
+	.cta-box h3 {
+		font-size: 1.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.cta-sub {
+		font-size: 0.9em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+		line-height: 1.6;
+	}
+
+	.cta-form {
+		display: flex;
+		gap: 0.6em;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-bottom: 0.6em;
+	}
+
+	.cta-form input[type="email"] {
+		flex: 1 1 220px;
+		padding: 0.75em 1em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 8px;
+		font-size: 0.95em;
+		font-family: inherit;
+		outline: none;
+		background: white;
+	}
+
+	.cta-form input[type="email"]:focus {
+		border-color: var(--accent);
+	}
+
+	.cta-privacy {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+	}
+
+	.or-divider {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin-bottom: 0.8em;
+	}
+
+	/* Buttons */
+	.btn-primary {
+		display: inline-block;
+		background: var(--accent);
+		color: white;
+		padding: 0.75em 1.75em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.95em;
+		font-family: inherit;
+		border: none;
+		cursor: pointer;
+		text-decoration: none;
+		transition: background 0.15s;
+		white-space: nowrap;
+	}
+
+	.btn-primary:hover { background: var(--accent-dark); }
+
+	.btn-secondary {
+		display: inline-block;
+		color: var(--accent);
+		padding: 0.6em 1.4em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.9em;
+		border: 2px solid var(--accent);
+		text-decoration: none;
+		transition: background 0.15s;
+	}
+
+	.btn-secondary:hover { background: var(--accent-light); }
+
+	.btn-ghost {
+		background: none;
+		border: none;
+		color: rgb(var(--gray));
+		font-size: 0.875em;
+		font-family: inherit;
+		cursor: pointer;
+		padding: 0;
+		text-decoration: underline;
+	}
+
+	.btn-ghost:hover { color: rgb(var(--black)); }
+
+	@media (max-width: 600px) {
+		.card { padding: 1.5em 1.2em; }
+		.result-grid { grid-template-columns: 1fr; }
+		h1 { font-size: 1.75em; }
+		.input-display { min-width: 90px; font-size: 0.9em; }
+		.cta-form input[type="email"],
+		.cta-form .btn-primary { flex: 1 1 100%; width: 100%; }
+	}
+</style>

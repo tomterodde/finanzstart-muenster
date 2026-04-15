@@ -1,0 +1,576 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const title = 'Finanzcheck Berufsstart – 20 Fragen für deine Absicherung';
+const description = 'Kostenlose Checkliste: 20 Fragen in 5 Bereichen, die du dir als Berufseinsteiger jetzt stellen solltest. Druckfertig & als PDF speicherbar.';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			body {
+				background: var(--accent-light);
+			}
+			.page-wrap {
+				max-width: 780px;
+				margin: 0 auto;
+				padding: 2em 1.5em 4em;
+			}
+			.page-header {
+				text-align: center;
+				margin-bottom: 2.5em;
+			}
+			.badge {
+				display: inline-block;
+				background: var(--accent);
+				color: white;
+				font-size: 0.72em;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				padding: 0.35em 0.9em;
+				border-radius: 20px;
+				margin-bottom: 1em;
+			}
+			.page-header h1 {
+				font-size: clamp(1.6em, 4vw, 2.2em);
+				margin: 0 0 0.5em;
+				line-height: 1.25;
+				color: rgb(var(--black));
+			}
+			.page-header p {
+				font-size: 1em;
+				color: rgb(var(--gray));
+				max-width: 540px;
+				margin: 0 auto;
+			}
+			.checklist-card {
+				background: white;
+				border-radius: 14px;
+				box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+				margin-bottom: 1.5em;
+				overflow: hidden;
+			}
+			.section-header {
+				background: var(--accent);
+				color: white;
+				padding: 1em 1.5em;
+				display: flex;
+				align-items: center;
+				gap: 0.8em;
+			}
+			.section-icon {
+				font-size: 1.4em;
+				line-height: 1;
+			}
+			.section-header h2 {
+				font-size: 1em;
+				font-weight: 700;
+				margin: 0;
+				letter-spacing: 0.01em;
+			}
+			.section-header .section-num {
+				font-size: 0.8em;
+				opacity: 0.8;
+				margin: 0;
+			}
+			.questions {
+				padding: 0.5em 1.5em 1em;
+			}
+			.question {
+				display: flex;
+				align-items: flex-start;
+				gap: 0.9em;
+				padding: 0.85em 0;
+				border-bottom: 1px solid rgb(var(--gray-light));
+				cursor: pointer;
+			}
+			.question:last-child {
+				border-bottom: none;
+			}
+			.checkbox {
+				width: 22px;
+				height: 22px;
+				min-width: 22px;
+				border: 2px solid rgb(var(--gray-light));
+				border-radius: 5px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				transition: all 0.15s;
+				margin-top: 1px;
+			}
+			.question.checked .checkbox {
+				background: var(--accent);
+				border-color: var(--accent);
+			}
+			.question.checked .checkbox::after {
+				content: '✓';
+				color: white;
+				font-size: 0.85em;
+				font-weight: 700;
+			}
+			.question.checked .q-text {
+				color: rgb(var(--gray));
+				text-decoration: line-through;
+				text-decoration-color: rgba(var(--gray), 0.5);
+			}
+			.q-text {
+				font-size: 0.93em;
+				color: rgb(var(--black));
+				line-height: 1.45;
+				transition: color 0.15s;
+			}
+			.q-hint {
+				font-size: 0.78em;
+				color: rgb(var(--gray));
+				margin-top: 0.2em;
+			}
+			.progress-bar-wrap {
+				background: white;
+				border-radius: 14px;
+				padding: 1.5em;
+				box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+				margin-bottom: 1.5em;
+				position: sticky;
+				top: 0.5em;
+				z-index: 10;
+			}
+			.progress-top {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				margin-bottom: 0.6em;
+			}
+			.progress-label {
+				font-size: 0.85em;
+				font-weight: 600;
+				color: rgb(var(--black));
+			}
+			.progress-count {
+				font-size: 0.85em;
+				color: var(--accent);
+				font-weight: 700;
+			}
+			.progress-track {
+				height: 8px;
+				background: rgb(var(--gray-light));
+				border-radius: 4px;
+				overflow: hidden;
+			}
+			.progress-fill {
+				height: 100%;
+				background: var(--accent);
+				border-radius: 4px;
+				width: 0%;
+				transition: width 0.3s ease;
+			}
+			.actions {
+				display: flex;
+				gap: 0.8em;
+				flex-wrap: wrap;
+				margin-top: 2em;
+				justify-content: center;
+			}
+			.btn {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.4em;
+				padding: 0.75em 1.5em;
+				border-radius: 8px;
+				font-size: 0.9em;
+				font-weight: 600;
+				font-family: inherit;
+				cursor: pointer;
+				text-decoration: none;
+				border: none;
+				transition: all 0.2s;
+			}
+			.btn-primary {
+				background: var(--accent);
+				color: white;
+			}
+			.btn-primary:hover {
+				background: var(--accent-dark);
+			}
+			.btn-secondary {
+				background: white;
+				color: var(--accent);
+				border: 2px solid var(--accent);
+			}
+			.btn-secondary:hover {
+				background: var(--accent-light);
+			}
+			.newsletter-gate {
+				background: white;
+				border-radius: 14px;
+				box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+				padding: 2em 1.5em;
+				text-align: center;
+				margin-top: 2em;
+				border: 2px dashed rgba(26, 107, 60, 0.3);
+			}
+			.newsletter-gate h3 {
+				font-size: 1.2em;
+				margin: 0 0 0.4em;
+				color: rgb(var(--black));
+			}
+			.newsletter-gate p {
+				font-size: 0.9em;
+				color: rgb(var(--gray));
+				margin: 0 0 1.2em;
+			}
+			.newsletter-gate form {
+				display: flex;
+				gap: 0.6em;
+				max-width: 400px;
+				margin: 0 auto;
+				flex-wrap: wrap;
+			}
+			.newsletter-gate input[type="email"] {
+				flex: 1 1 200px;
+				padding: 0.7em 1em;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 6px;
+				font-size: 0.9em;
+				font-family: inherit;
+				outline: none;
+			}
+			.newsletter-gate input[type="email"]:focus {
+				border-color: var(--accent);
+			}
+			.newsletter-gate button {
+				padding: 0.7em 1.3em;
+				background: var(--accent);
+				color: white;
+				border: none;
+				border-radius: 6px;
+				font-size: 0.9em;
+				font-weight: 600;
+				font-family: inherit;
+				cursor: pointer;
+				white-space: nowrap;
+			}
+			.newsletter-gate button:hover {
+				background: var(--accent-dark);
+			}
+			.completion-banner {
+				display: none;
+				background: var(--accent);
+				color: white;
+				border-radius: 14px;
+				padding: 2em;
+				text-align: center;
+				margin-bottom: 1.5em;
+			}
+			.completion-banner.visible {
+				display: block;
+			}
+			.completion-banner h3 {
+				font-size: 1.3em;
+				margin: 0 0 0.4em;
+				color: white;
+			}
+			.completion-banner p {
+				font-size: 0.9em;
+				opacity: 0.9;
+				margin: 0;
+				color: white;
+			}
+			@media print {
+				body { background: white; }
+				.progress-bar-wrap, .actions, .newsletter-gate { display: none; }
+				.checklist-card { box-shadow: none; border: 1px solid #ddd; }
+				.section-header { background: #1a6b3c !important; -webkit-print-color-adjust: exact; }
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-wrap">
+				<div class="page-header">
+					<span class="badge">Kostenlos</span>
+					<h1>Finanzcheck Berufsstart</h1>
+					<p>20 Fragen in 5 Bereichen — hak ab, was du schon erledigt hast. Druckfertig oder als PDF speicherbar.</p>
+				</div>
+
+				<div class="progress-bar-wrap" id="progress-wrap">
+					<div class="progress-top">
+						<span class="progress-label">Dein Fortschritt</span>
+						<span class="progress-count" id="progress-count">0 / 20</span>
+					</div>
+					<div class="progress-track">
+						<div class="progress-fill" id="progress-fill"></div>
+					</div>
+				</div>
+
+				<div class="completion-banner" id="completion-banner">
+					<h3>Starke Basis!</h3>
+					<p>Du hast alle 20 Punkte abgehakt. Damit bist du besser aufgestellt als die meisten Berufseinsteiger.</p>
+				</div>
+
+				<!-- Sektion 1 -->
+				<div class="checklist-card">
+					<div class="section-header">
+						<span class="section-icon">🛡️</span>
+						<div>
+							<p class="section-num">Bereich 1 von 5</p>
+							<h2>Absicherung – Was darf nicht fehlen?</h2>
+						</div>
+					</div>
+					<div class="questions">
+						<div class="question" data-id="q1">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Berufsunfähigkeitsversicherung abgeschlossen oder aktiv verglichen?</div>
+								<div class="q-hint">Die wichtigste Versicherung im Berufsleben — je früher, desto günstiger.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q2">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Haftpflichtversicherung vorhanden?</div>
+								<div class="q-hint">Schäden, die du anderen zufügst, können existenzbedrohend sein.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q3">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Krankenversicherung geprüft — gesetzlich oder privat?</div>
+								<div class="q-hint">Bei Einstiegsgehalt oft GKV sinnvoll, aber PKV-Check lohnt sich.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q4">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Krankentagegeld oder Krankengeld-Anspruch bekannt?</div>
+								<div class="q-hint">Ab dem 43. Krankheitstag springt die Kasse ein — reicht das?</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Sektion 2 -->
+				<div class="checklist-card">
+					<div class="section-header">
+						<span class="section-icon">💰</span>
+						<div>
+							<p class="section-num">Bereich 2 von 5</p>
+							<h2>Altersvorsorge – Früh anfangen, groß ankommen</h2>
+						</div>
+					</div>
+					<div class="questions">
+						<div class="question" data-id="q5">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Rentenlücke grob berechnet?</div>
+								<div class="q-hint">Erwartete Rente vs. benötigtes Einkommen im Alter.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q6">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Betriebliche Altersvorsorge beim Arbeitgeber genutzt?</div>
+								<div class="q-hint">Viele AG zahlen bis zu 15 % drauf — reines Steuersparpotenzial.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q7">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Privates Depot für Altersvorsorge eingerichtet?</div>
+								<div class="q-hint">ETF-Sparplan mit 100–200 € / Monat schlägt Riestern bei vielen.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q8">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Renteninformation der Deutschen Rentenversicherung angefordert?</div>
+								<div class="q-hint">Zeigt dir, was du aktuell erwarten kannst.</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Sektion 3 -->
+				<div class="checklist-card">
+					<div class="section-header">
+						<span class="section-icon">📊</span>
+						<div>
+							<p class="section-num">Bereich 3 von 5</p>
+							<h2>Vermögensaufbau – Dein Geld muss arbeiten</h2>
+						</div>
+					</div>
+					<div class="questions">
+						<div class="question" data-id="q9">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Notfallreserve aufgebaut? (3 Nettomonatsgehälter)</div>
+								<div class="q-hint">Puffer vor Investitionen — sonst erzwungener Verkauf bei Krisen.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q10">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Monatliche Sparrate definiert und automatisiert?</div>
+								<div class="q-hint">Dauerauftrag zum Sparplan am Zahltag — Pay yourself first.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q11">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Broker-Konto mit ETF-Sparplan eingerichtet?</div>
+								<div class="q-hint">MSCI World oder All World als Basis reicht für den Anfang.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q12">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Girokonto und Tagesgeld getrennt?</div>
+								<div class="q-hint">Ausgaben auf Girokonto, Puffer auf Tagesgeld.</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Sektion 4 -->
+				<div class="checklist-card">
+					<div class="section-header">
+						<span class="section-icon">📝</span>
+						<div>
+							<p class="section-num">Bereich 4 von 5</p>
+							<h2>Steuern & Recht – Was du wissen solltest</h2>
+						</div>
+					</div>
+					<div class="questions">
+						<div class="question" data-id="q13">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Steuerklasse geprüft und ggf. geändert?</div>
+								<div class="q-hint">Besonders relevant bei Heirat oder Wechsel in höhere Einkommensklasse.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q14">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Steuererklärung für letztes Jahr abgegeben?</div>
+								<div class="q-hint">Durchschnittliche Erstattung liegt bei ca. 1.000 € — kostenloses Geld.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q15">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Werbungskosten und Arbeitsmittel als Abzüge bekannt?</div>
+								<div class="q-hint">Homeoffice, Fachliteratur, Fahrtkosten — alles absetzbar.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q16">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Testament oder Vollmacht für Notfälle geregelt?</div>
+								<div class="q-hint">Klingt früh, aber ohne Vollmacht kann niemand für dich handeln.</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Sektion 5 -->
+				<div class="checklist-card">
+					<div class="section-header">
+						<span class="section-icon">🚀</span>
+						<div>
+							<p class="section-num">Bereich 5 von 5</p>
+							<h2>Karriere & Einkommen – Mehr verdienen, besser leben</h2>
+						</div>
+					</div>
+					<div class="questions">
+						<div class="question" data-id="q17">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Gehalt mit Marktdaten verglichen (Stepstone, Glassdoor)?</div>
+								<div class="q-hint">Wer nicht verhandelt, verschenkt im Schnitt 10–20 % Gehalt.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q18">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Nebeneinkommen oder Freelance-Potenzial geprüft?</div>
+								<div class="q-hint">400 € mehr im Monat investiert = ~120.000 € mehr nach 20 Jahren.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q19">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Weiterbildungsbudget beim Arbeitgeber angefragt?</div>
+								<div class="q-hint">Viele Unternehmen zahlen Kurse — nur fragen kostet nichts.</div>
+							</div>
+						</div>
+						<div class="question" data-id="q20">
+							<div class="checkbox"></div>
+							<div>
+								<div class="q-text">Netzwerk aktiv gepflegt? (LinkedIn, lokale Events)</div>
+								<div class="q-hint">Die meisten Jobs und Chancen entstehen über Kontakte, nicht Bewerbungen.</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="actions">
+					<button class="btn btn-primary" onclick="window.print()">🖨️ Drucken / Als PDF speichern</button>
+					<a href="/rentenluecke-rechner/" class="btn btn-secondary">→ Rentenlücke berechnen</a>
+				</div>
+
+				<div class="newsletter-gate">
+					<h3>Checkliste direkt per E-Mail erhalten</h3>
+					<p>Trag dich ein und ich schicke dir die Checkliste als PDF — plus neue Artikel rund um Finanzen, Absicherung und Karriere.</p>
+					<form
+						action="https://app.kit.com/forms/9299804/subscriptions"
+						method="post"
+					>
+						<input
+							type="email"
+							name="email_address"
+							placeholder="deine@email.de"
+							required
+							aria-label="E-Mail-Adresse"
+						/>
+						<button type="submit">Jetzt erhalten</button>
+					</form>
+				</div>
+			</div>
+		</main>
+		<Footer />
+
+		<script>
+			const questions = document.querySelectorAll<HTMLElement>('.question');
+			const progressFill = document.getElementById('progress-fill') as HTMLElement;
+			const progressCount = document.getElementById('progress-count') as HTMLElement;
+			const completionBanner = document.getElementById('completion-banner') as HTMLElement;
+			const total = questions.length;
+
+			function updateProgress() {
+				const checked = document.querySelectorAll('.question.checked').length;
+				const pct = Math.round((checked / total) * 100);
+				progressFill.style.width = pct + '%';
+				progressCount.textContent = checked + ' / ' + total;
+				if (checked === total) {
+					completionBanner.classList.add('visible');
+					completionBanner.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+				} else {
+					completionBanner.classList.remove('visible');
+				}
+			}
+
+			questions.forEach(q => {
+				q.addEventListener('click', () => {
+					q.classList.toggle('checked');
+					updateProgress();
+				});
+			});
+		</script>
+	</body>
+</html>

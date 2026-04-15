@@ -7,10 +7,10 @@ const { variant = 'box' } = Astro.props;
 
 <div class={`newsletter newsletter--${variant}`}>
 	<div class="newsletter-content">
-		<p class="newsletter-label">Newsletter</p>
-		<h2>Kein Artikel verpassen</h2>
+		<p class="newsletter-label">Kostenlos</p>
+		<h2>Hol dir die Finanzcheck-Checkliste</h2>
 		<p class="newsletter-sub">
-			Neue Artikel direkt in dein Postfach — kein Spam, jederzeit abmeldbar.
+			20 Fragen, die jeder Berufseinsteiger beantworten sollte — als PDF direkt in dein Postfach.
 		</p>
 		<form
 			action="https://app.kit.com/forms/9299804/subscriptions"
@@ -24,8 +24,9 @@ const { variant = 'box' } = Astro.props;
 				required
 				aria-label="E-Mail-Adresse"
 			/>
-			<button type="submit">Abonnieren</button>
+			<button type="submit">Jetzt kostenlos holen</button>
 		</form>
+		<p class="newsletter-fine">Kein Spam. Jederzeit abmeldbar.</p>
 	</div>
 </div>
 
@@ -94,6 +95,11 @@ const { variant = 'box' } = Astro.props;
 	}
 	button:hover {
 		background: var(--accent-dark);
+	}
+	.newsletter-fine {
+		font-size: 0.78em;
+		color: rgb(var(--gray));
+		margin: 0.6em 0 0;
 	}
 	@media (max-width: 480px) {
 		.newsletter--box {
