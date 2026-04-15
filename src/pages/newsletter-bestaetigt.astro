@@ -22,6 +22,12 @@ import Header from '../components/Header.astro';
 					Deine Anmeldung ist bestätigt. Du bekommst neue Artikel direkt in dein Postfach —
 					keine Werbung, kein Spam, nur relevante Finanzthemen für Berufseinsteiger in Münster.
 				</p>
+				<div class="finanzcheck-box">
+					<div class="finanzcheck-icon">📋</div>
+					<h2>Dein nächster Schritt</h2>
+					<p>Hol dir jetzt die kostenlose Finanzcheck-Checkliste — 20 Fragen in 5 Bereichen, die du dir stellen solltest.</p>
+					<a href="/finanzcheck/" class="btn-primary">Zur Finanzcheck-Checkliste →</a>
+				</div>
 				<div class="next-steps">
 					<h2>Was dich erwartet</h2>
 					<ul>
@@ -78,6 +84,42 @@ import Header from '../components/Header.astro';
 		color: rgb(var(--gray-dark));
 		line-height: 1.7;
 		margin: 0 0 2.5em;
+	}
+
+	.finanzcheck-box {
+		background: var(--accent);
+		color: white;
+		border-radius: 12px;
+		padding: 1.75em 2em;
+		margin-bottom: 1.5em;
+	}
+
+	.finanzcheck-icon {
+		font-size: 2em;
+		margin-bottom: 0.5em;
+	}
+
+	.finanzcheck-box h2 {
+		font-size: 1.1em;
+		font-weight: 700;
+		color: white;
+		margin: 0 0 0.4em;
+	}
+
+	.finanzcheck-box p {
+		font-size: 0.9em;
+		color: rgba(255, 255, 255, 0.9);
+		margin: 0 0 1.2em;
+		line-height: 1.5;
+	}
+
+	.finanzcheck-box .btn-primary {
+		background: white;
+		color: var(--accent);
+	}
+
+	.finanzcheck-box .btn-primary:hover {
+		background: rgba(255, 255, 255, 0.9);
 	}
 
 	.next-steps {
