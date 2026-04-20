@@ -9,31 +9,84 @@ import NewsletterSignup from '../components/NewsletterSignup.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, tldr, faq, sources } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
+const siteURL = Astro.site?.toString().replace(/\/$/, '') ?? 'https://finanzstart-muenster.de';
+
+const articleSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	'@id': `${canonicalURL}#article`,
+	headline: title,
+	description,
+	datePublished: pubDate.toISOString(),
+	...(updatedDate ? { dateModified: updatedDate.toISOString() } : { dateModified: pubDate.toISOString() }),
+	...(category ? { articleSection: category } : {}),
+	mainEntityOfPage: {
+		'@type': 'WebPage',
+		'@id': canonicalURL,
+	},
+	author: {
+		'@type': 'Person',
+		name: 'Tom Terodde',
+		url: `${siteURL}/about`,
+		jobTitle: 'Finanzberater',
+		worksFor: {
+			'@type': 'Organization',
+			name: 'Finanzstart Münster',
+		},
+		knowsAbout: [
+			'Altersvorsorge',
+			'Berufsunfähigkeitsversicherung',
+			'Vermögensaufbau',
+			'ETF-Investments',
+			'Einkommenssicherung',
+			'Finanzplanung für Berufseinsteiger',
+		],
+	},
+	publisher: {
+		'@type': 'Organization',
+		name: 'Finanzstart Münster',
+		url: siteURL,
+		logo: {
+			'@type': 'ImageObject',
+			url: `${siteURL}/favicon.svg`,
+		},
+	},
+	inLanguage: 'de-DE',
+};
+
+const breadcrumbSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'BreadcrumbList',
+	itemListElement: [
+		{ '@type': 'ListItem', position: 1, name: 'Startseite', item: `${siteURL}/` },
+		{ '@type': 'ListItem', position: 2, name: 'Blog', item: `${siteURL}/blog/` },
+		{ '@type': 'ListItem', position: 3, name: title, item: canonicalURL },
+	],
+};
+
+const faqSchema = faq && faq.length > 0 ? {
+	'@context': 'https://schema.org',
+	'@type': 'FAQPage',
+	mainEntity: faq.map((item) => ({
+		'@type': 'Question',
+		name: item.question,
+		acceptedAnswer: {
+			'@type': 'Answer',
+			text: item.answer,
+		},
+	})),
+} : null;
 ---
 
 <html lang="de">
 	<head>
 		<BaseHead title={title} description={description} image={heroImage} />
-		<script type="application/ld+json" set:html={JSON.stringify({
-			"@context": "https://schema.org",
-			"@type": "Article",
-			"headline": title,
-			"description": description,
-			"datePublished": pubDate.toISOString(),
-			...(updatedDate ? { "dateModified": updatedDate.toISOString() } : {}),
-			"author": {
-				"@type": "Person",
-				"name": "Tom Terodde",
-				"url": "https://finanzstart-muenster.de/about"
-			},
-			"publisher": {
-				"@type": "Organization",
-				"name": "Finanzstart Münster",
-				"url": "https://finanzstart-muenster.de"
-			},
-			"inLanguage": "de-DE"
-		})} />
+		<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+		{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -74,6 +127,65 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			}
 			.last-updated-on {
 				font-style: italic;
+			}
+			.tldr {
+				background: rgba(var(--gray-light), 0.6);
+				border-left: 4px solid rgb(var(--accent, 64 64 64));
+				padding: 1em 1.25em;
+				margin: 0 0 2em 0;
+				border-radius: 6px;
+			}
+			.tldr-label {
+				display: block;
+				font-weight: 700;
+				font-size: 0.85em;
+				letter-spacing: 0.05em;
+				text-transform: uppercase;
+				margin-bottom: 0.4em;
+				color: rgb(var(--gray-dark));
+			}
+			.tldr p {
+				margin: 0;
+				font-size: 1.05em;
+				line-height: 1.5;
+			}
+			.faq {
+				margin-top: 3em;
+				padding-top: 2em;
+				border-top: 1px solid rgb(var(--gray-light));
+			}
+			.faq h2 {
+				margin-top: 0;
+			}
+			.faq details {
+				margin-bottom: 0.75em;
+				padding: 0.75em 1em;
+				background: rgba(var(--gray-light), 0.4);
+				border-radius: 6px;
+			}
+			.faq summary {
+				font-weight: 600;
+				cursor: pointer;
+			}
+			.faq details[open] summary {
+				margin-bottom: 0.5em;
+			}
+			.sources {
+				margin-top: 2.5em;
+				padding-top: 1.5em;
+				border-top: 1px solid rgb(var(--gray-light));
+				font-size: 0.9em;
+			}
+			.sources h2 {
+				font-size: 1.1em;
+				margin-bottom: 0.5em;
+			}
+			.sources ol {
+				padding-left: 1.25em;
+			}
+			.sources li {
+				margin-bottom: 0.4em;
+				color: rgb(var(--gray-dark));
 			}
 			@media (max-width: 720px) {
 				main {
@@ -120,7 +232,42 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<h1>{title}</h1>
 						<hr />
 					</div>
+					{tldr && (
+						<aside class="tldr" aria-label="Kurzantwort">
+							<span class="tldr-label">Kurzantwort</span>
+							<p>{tldr}</p>
+						</aside>
+					)}
 					<slot />
+					{faq && faq.length > 0 && (
+						<section class="faq" aria-label="Häufige Fragen">
+							<h2>Häufige Fragen</h2>
+							{faq.map((item) => (
+								<details>
+									<summary>{item.question}</summary>
+									<p>{item.answer}</p>
+								</details>
+							))}
+						</section>
+					)}
+					{sources && sources.length > 0 && (
+						<section class="sources" aria-label="Quellen">
+							<h2>Quellen</h2>
+							<ol>
+								{sources.map((s) => (
+									<li>
+										{s.url ? (
+											<a href={s.url} rel="noopener noreferrer" target="_blank">{s.title}</a>
+										) : (
+											<span>{s.title}</span>
+										)}
+										{s.publisher && <span>, {s.publisher}</span>}
+										{s.year && <span> ({s.year})</span>}
+									</li>
+								))}
+							</ol>
+						</section>
+					)}
 					<NewsletterSignup variant="box" />
 				</div>
 			</article>
