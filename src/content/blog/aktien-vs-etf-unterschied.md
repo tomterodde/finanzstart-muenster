@@ -4,6 +4,23 @@ description: 'Was unterscheidet eine Einzelaktie von einem ETF? Risiko, Aufwand,
 pubDate: '2026-04-21'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Eine Einzelaktie ist ein Anteil an einem Unternehmen mit konzentriertem Ausfallrisiko; ein ETF ist ein Korb aus hunderten bis tausenden Aktien (z.B. MSCI World: ~1.500 Unternehmen) und streut das unternehmensspezifische Risiko weg. Studien zeigen: Über 90 % aller aktiv gemanagten Fonds schlagen den Index langfristig nicht. Für Einsteiger ist der ETF der günstigere, risikoadäquatere Einstieg.'
+faq:
+  - question: 'Was ist der Unterschied zwischen einer Aktie und einem ETF?'
+    answer: 'Eine Aktie ist ein Anteil an einem einzelnen Unternehmen — dein Kapital hängt an dessen Erfolg. Ein ETF (Exchange Traded Fund) bildet einen Index aus vielen Unternehmen nach; mit einem MSCI-World-ETF bist du an rund 1.500 Firmen aus 23 Industrieländern gleichzeitig beteiligt.'
+  - question: 'Kann man mit Einzelaktien mehr verdienen als mit ETFs?'
+    answer: 'Theoretisch ja, praktisch selten. Laut SPIVA-Studien schlagen über 90 % aller aktiv gemanagten Fonds — von professionellen Managern geführt — ihren Vergleichsindex langfristig nicht. Privatanleger haben weniger Zeit und Information und stehen noch schlechter da.'
+  - question: 'Was ist das unternehmensspezifische Risiko?'
+    answer: 'Das Risiko, dass ein einzelnes Unternehmen scheitert — wie Wirecard, Lehman Brothers oder Nokia. Bei einer Einzelaktie verlierst du im Extremfall alles. Bei einem ETF wird ein insolventes Unternehmen automatisch aus dem Index entfernt und ersetzt; der Verlust bleibt auf den kleinen Anteil begrenzt.'
+  - question: 'Sind Einzelaktien für Anfänger geeignet?'
+    answer: 'Selten. Einzelaktien erfordern Unternehmensanalyse, laufendes Monitoring und die Bereitschaft, Verluste auszusitzen. Als Beimischung zu einem diversifizierten ETF-Portfolio vertretbar — als alleinige Anlageform für Einsteiger riskant.'
+sources:
+  - title: 'SPIVA Europe Scorecard (Aktive vs. passive Fonds)'
+    publisher: 'S&P Dow Jones Indices'
+    year: 2024
+  - title: 'MSCI World Index Factsheet'
+    publisher: 'MSCI Inc.'
+    year: 2025
 ---
 
 "Soll ich lieber Apple kaufen oder einen ETF?" Diese Frage stellen viele Berufseinsteiger. Die Antwort hängt davon ab, was du wirklich willst — und was du bereit bist zu tun.

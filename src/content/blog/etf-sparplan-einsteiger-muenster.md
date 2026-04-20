@@ -4,6 +4,30 @@ description: 'ETF-Sparplan für Einsteiger erklärt: Was ein ETF ist, wie ein Sp
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Ein ETF-Sparplan ist ein automatischer monatlicher Kauf eines börsengehandelten Indexfonds, oft ab 25–50 € pro Monat. Typische TER liegen bei 0,1–0,3 % gegenüber 1,5–2,5 % bei aktiv gemanagten Fonds. Vor dem ETF sollten Notgroschen (3 Monatsgehälter) und wichtige Versicherungen (Haftpflicht, BU) stehen. Der Sparerpauschbetrag beträgt 1.000 € pro Jahr (mit Freistellungsauftrag).'
+faq:
+  - question: 'Was ist ein ETF-Sparplan?'
+    answer: 'Ein ETF-Sparplan ist ein automatisierter monatlicher Kauf eines börsengehandelten Indexfonds (Exchange Traded Fund). Viele Broker bieten ETF-Sparpläne schon ab 25 € monatlich an. Ein MSCI-World-ETF investiert mit einer Einzahlung automatisch in rund 1.500 Unternehmen aus 23 Industrieländern.'
+  - question: 'Wie hoch sind die Kosten eines ETF-Sparplans?'
+    answer: 'Die TER (Total Expense Ratio) liegt typischerweise bei 0,1–0,3 % pro Jahr. Aktiv gemanagte Fonds kosten im Vergleich 1,5–2,5 % — über 30 Jahre macht das einen erheblichen Unterschied im Endvermögen. Viele Neobroker (Trade Republic, Scalable Capital, ING) bieten Sparpläne kostenlos an.'
+  - question: 'Was ist der Cost-Average-Effekt?'
+    answer: 'Beim monatlichen Sparplan kaufst du ETF-Anteile zu unterschiedlichen Kursen — manchmal teurer, manchmal günstiger. Über die Zeit ergibt sich ein Durchschnittspreis, der das Risiko reduziert, zum ungünstigsten Zeitpunkt einzusteigen.'
+  - question: 'Wie viel Sparerpauschbetrag gibt es 2025?'
+    answer: '1.000 € pro Jahr für Ledige, 2.000 € für Zusammenveranlagte (Stand 2025). Kapitalerträge (Dividenden, Zinsen, Veräußerungsgewinne) bis zu dieser Grenze sind steuerfrei — vorausgesetzt, du erteilst deinem Broker einen Freistellungsauftrag.'
+  - question: 'Was sollte vor einem ETF-Sparplan geklärt sein?'
+    answer: 'Erstens ein Notgroschen von rund 3 Monatsgehältern auf Tagesgeld — das Geld ist für Notfälle, nicht für den Markt. Zweitens die wichtigsten Versicherungen: Privathaftpflicht (Pflicht) und Berufsunfähigkeit (dringend empfohlen). Erst danach fließt überschüssiges Geld in den ETF.'
+  - question: 'Welcher ETF ist für Einsteiger geeignet?'
+    answer: 'Für die meisten Einsteiger reicht ein ETF auf den MSCI World (Industrieländer) oder MSCI ACWI/FTSE All-World (inklusive Schwellenländer). Ein einzelner breit gestreuter ETF genügt — keine Komplikation durch mehrere Produkte.'
+sources:
+  - title: 'SPIVA Europe Scorecard (Aktive vs. passive Fonds)'
+    publisher: 'S&P Dow Jones Indices'
+    year: 2024
+  - title: '§ 20 Absatz 9 EStG (Sparerpauschbetrag)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'MSCI World Index Factsheet'
+    publisher: 'MSCI Inc.'
+    year: 2025
 ---
 
 Wenn du anfängst, dich mit Finanzen zu beschäftigen, stößt du früher oder später auf ETFs. Und schnell merkst du: Alle reden darüber, aber niemand erklärt es wirklich von Grund auf.

@@ -4,6 +4,28 @@ description: 'Wie groß ist deine Rentenlücke wirklich? Mit dieser Methode bere
 pubDate: '2026-04-30'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
+tldr: 'Die Rentenlücke ist die Differenz zwischen deinem Zielbedarf im Alter (rund 70–80 % des letzten Nettoeinkommens) und der gesetzlichen Nettorente. Bei 2.500 € Netto heute und 1.150 € Nettorente später liegt die typische Lücke bei rund 850 €/Monat — das entspricht etwa 340.000 € Kapitalbedarf bei 3 % Entnahmerate. Bei 7 % Rendite über 35 Jahre reichen dafür rund 230–270 €/Monat.'
+faq:
+  - question: 'Wie berechne ich meine Rentenlücke?'
+    answer: 'Formel: Nettobedarf im Alter (70–80 % des heutigen Nettos) minus gesetzliche Nettorente minus sonstige Einnahmen. Die Nettorente entnimmst du deiner jährlichen Renteninformation — beachte: dort stehen Brutto-Werte in heutigen Euro vor Inflation und Steuer.'
+  - question: 'Wie viel Kapital brauche ich, um meine Rentenlücke zu schließen?'
+    answer: 'Bei einer Entnahmerate von 3 % pro Jahr entsprechen 850 €/Monat Lücke rund 340.000 € Kapital. Formel: monatliche Lücke × 12 / Entnahmerate. Bei 4 % Entnahmerate läge der Kapitalbedarf bei rund 255.000 €.'
+  - question: 'Wie viel muss ich monatlich sparen, um 340.000 € bis zur Rente zu erreichen?'
+    answer: 'Bei 7 % durchschnittlicher Rendite und 35 Jahren Ansparzeit reichen rund 230–270 € monatlich. Wer 10 Jahre später beginnt, muss fast doppelt so viel einzahlen — der Zinseszinseffekt wirkt massiv zugunsten früher Sparer.'
+  - question: 'Was zeigt meine Renteninformation der DRV?'
+    answer: 'Die jährlich versendete Renteninformation zeigt deine aktuelle Rentenanwartschaft (Stand heute) und die Hochrechnung bis zum regulären Rentenalter bei unverändertem Verlauf. Beide Werte sind in heutigen Euro vor Inflation, Steuer und Kranken-/Pflegeversicherungsbeiträgen.'
+  - question: 'Warum ist die Rentenlücke bei Berufseinsteigern besonders groß?'
+    answer: 'Kürzere Einzahlzeiten, mögliche Teilzeitphasen mit weniger Rentenpunkten, sowie die zunehmende Besteuerung von Renten erhöhen die Lücke. Gleichzeitig frisst Inflation die Kaufkraft — wer heute 850 € Lücke errechnet, braucht in 35 Jahren nominal deutlich mehr.'
+sources:
+  - title: 'Renteninformation und Rentenauskunft'
+    publisher: 'Deutsche Rentenversicherung Bund'
+    year: 2025
+  - title: 'Rentenniveau und Rentenanpassung Deutschland'
+    publisher: 'Deutsche Rentenversicherung Bund'
+    year: 2025
+  - title: 'Alterssicherungsbericht der Bundesregierung'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2024
 ---
 
 "Du hast eine Rentenlücke" — das hört man oft. Aber was das konkret bedeutet und wie groß sie bei dir ist, bleibt meistens vage. Dabei ist die Rentenlücke der wichtigste Ausgangspunkt für jede Altersvorsorge-Entscheidung.

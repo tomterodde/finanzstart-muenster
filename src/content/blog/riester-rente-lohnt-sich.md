@@ -4,6 +4,28 @@ description: 'Riester-Rente einfach erklärt: Wer profitiert wirklich von der st
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Altersvorsorge'
+tldr: 'Riester lohnt sich vor allem für Familien mit Kindern (300 € Kinderzulage ab Geburt 2008) und für Gutverdiener mit hohem Grenzsteuersatz. Für Singles ohne Kinder mit mittlerem Einkommen frisst die Produktkostenstruktur die Förderung oft auf. Die Auszahlung ist voll steuerpflichtig und bis auf wenige Ausnahmen bis zum Rentenalter gebunden.'
+faq:
+  - question: 'Wie hoch sind die Riester-Zulagen 2025?'
+    answer: 'Die Grundzulage beträgt 175 € pro Jahr, die Kinderzulage 300 € pro Kind (ab Geburt 2008) bzw. 185 € für früher geborene Kinder. Wer unter 25 einen Vertrag abschließt, erhält einmalig 200 € Berufseinsteigerbonus.'
+  - question: 'Wie viel muss ich einzahlen, um die volle Förderung zu bekommen?'
+    answer: 'Mindestens 4 % deines Vorjahres-Bruttoeinkommens (abzüglich der erhaltenen Zulagen), höchstens jedoch 2.100 € pro Jahr. Wer weniger einzahlt, bekommt die Zulagen anteilig gekürzt.'
+  - question: 'Für wen lohnt sich Riester nicht?'
+    answer: 'Für Singles ohne Kinder mit mittlerem Einkommen fällt die Förderung gering aus, und die Produktkosten zehren sie oft auf. Auch wer Flexibilität braucht, ist mit einem ETF-Sparplan besser bedient — Riester-Kapital ist bis zur Rente gebunden.'
+  - question: 'Wie wird die Riester-Rente im Alter besteuert?'
+    answer: 'Die Auszahlungen (Rente und Einmalkapital) sind voll steuerpflichtig nach dem persönlichen Einkommensteuersatz. Bis zu 30 % des Kapitals können einmalig entnommen werden, der Rest wird als lebenslange Rente gezahlt.'
+  - question: 'Was passiert mit meinem Riester, wenn ich Grundsicherung beziehe?'
+    answer: 'Riester-Auszahlungen werden auf die Grundsicherung im Alter angerechnet. Wer im Alter auf Grundsicherung angewiesen sein wird, profitiert im Zweifel nicht von seiner privaten Riester-Vorsorge — ein wichtiger Prüfpunkt bei Geringverdienern.'
+sources:
+  - title: '§ 10a EStG (Zusätzliche Altersvorsorge)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: '§§ 79–99 EStG (Altersvorsorgezulage)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Statistik Riester-Verträge'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2024
 ---
 
 Die Riester-Rente hat ein Imageproblem. Kaum ein Finanzprodukt wird so kontrovers diskutiert — auf der einen Seite staatliche Förderung und Steuervorteile, auf der anderen Seite hohe Kosten und komplizierte Verträge.

@@ -4,6 +4,28 @@ description: 'BU-Versicherung klingt trocken — ist aber eine der wichtigsten A
 pubDate: '2026-04-07'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
+tldr: 'Rund jeder vierte Arbeitnehmer wird vor dem Renteneintritt berufsunfähig — häufigste Ursache sind mit etwa 30 % psychische Erkrankungen. Die gesetzliche Erwerbsminderungsrente liegt im Schnitt bei nur 800–900 € und reicht meist nicht. Eine BU-Rente sollte 60–70 % des Nettoeinkommens abdecken; je früher der Abschluss, desto günstiger und leichter der Zugang.'
+faq:
+  - question: 'Wie hoch sollte die BU-Rente sein?'
+    answer: 'Als Faustregel mindestens 60–70 % des aktuellen Nettoeinkommens, um Miete, Lebenshaltung und Altersvorsorge abzusichern. Für Berufseinsteiger sind 1.500 € monatliche BU-Rente ein typischer Richtwert, der später per Nachversicherungsgarantie erhöht werden sollte.'
+  - question: 'Was kostet eine BU-Versicherung für Berufseinsteiger?'
+    answer: 'Für eine/n 25-jährige/n Büroangestellte/n mit 1.500 € BU-Rente liegt der Beitrag typischerweise bei 50–90 € monatlich. Handwerker zahlen 100–160 € für den gleichen Schutz, da das Risiko statistisch höher ist.'
+  - question: 'Was ist der Unterschied zwischen BU und Erwerbsminderungsrente?'
+    answer: 'Die gesetzliche Erwerbsminderungsrente zahlt erst, wenn du in keinem Beruf mehr mindestens 3 Stunden täglich arbeiten kannst — und liegt im Schnitt bei 800–900 €. Die BU-Versicherung zahlt bereits, wenn du deinen konkreten Beruf voraussichtlich dauerhaft zu mindestens 50 % nicht mehr ausüben kannst.'
+  - question: 'Was bedeutet "Verzicht auf abstrakte Verweisung"?'
+    answer: 'Ohne diesen Verzicht könnte die Versicherung dich auf einen anderen Beruf verweisen, den du theoretisch noch ausüben könntest — und müsste dann nicht zahlen. Ein guter BU-Tarif verzichtet ausdrücklich auf die abstrakte Verweisung; das ist eines der wichtigsten Vertragsmerkmale überhaupt.'
+  - question: 'Warum sollte man die BU früh abschließen?'
+    answer: 'Zwei Gründe: Jung und gesund bekommst du einen Vertrag ohne Risikozuschläge oder Ausschlüsse. Und das Einstiegsalter bestimmt den Beitrag auf die gesamte Laufzeit — mit 35 statt 25 kann der gleiche Schutz schnell 50–80 % teurer werden.'
+sources:
+  - title: 'Map-Report BU-Versicherung (Leistungspraxis der Versicherer)'
+    publisher: 'Franke und Bornberg'
+    year: 2024
+  - title: 'Statistik Erwerbsminderungsrente'
+    publisher: 'Deutsche Rentenversicherung Bund'
+    year: 2024
+  - title: 'Branchenreport BU-Leistungspraxis'
+    publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
+    year: 2024
 ---
 
 Stell dir vor, du kannst deinen Beruf von heute auf morgen nicht mehr ausüben. Nicht wegen Faulheit, sondern wegen Krankheit oder Unfall. Was passiert dann finanziell?

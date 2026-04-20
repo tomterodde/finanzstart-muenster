@@ -4,6 +4,25 @@ description: 'Private Rentenversicherung oder ETF-Sparplan? Ein ehrlicher Vergle
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
+tldr: 'Beide Produkte lösen unterschiedliche Probleme: Die private Rentenversicherung bietet lebenslangen Langlebigkeitsschutz, der ETF-Sparplan niedrige Kosten und volle Flexibilität. Bei 500 € Monatsbeitrag über 30 Jahre und 7 % Bruttorendite entstehen durch den Kostenunterschied (0,2 % vs. 2,0 % p.a.) rund 139.000 € Endvermögen-Differenz zugunsten des ETFs. Entscheidend ist die individuelle Situation, nicht eine pauschale Empfehlung.'
+faq:
+  - question: 'Was kostet eine private Rentenversicherung im Vergleich zu einem ETF-Sparplan?'
+    answer: 'Fondsgebundene Rentenversicherungen haben typischerweise 1,5–3 % Gesamtkosten pro Jahr (Abschluss + Verwaltung). Ein ETF-Sparplan liegt bei 0,1–0,3 % TER. Auf 30 Jahre mit 500 € monatlich summiert sich die Differenz auf rund 139.000 € Endvermögen (566.000 € vs. 427.000 € bei 7 % Bruttorendite).'
+  - question: 'Wann ist eine private Rentenversicherung sinnvoller als ein ETF?'
+    answer: 'Wenn du echten Langlebigkeitsschutz brauchst (lebenslange Auszahlung, egal wie alt du wirst), von der günstigeren Ertragsanteilbesteuerung bei langer Laufzeit profitierst oder als Selbstständige/r den Pfändungsschutz schätzt. Für reine Renditeoptimierung ist der ETF-Sparplan meist überlegen.'
+  - question: 'Wie wird die private Rentenversicherung im Alter besteuert?'
+    answer: 'Bei Laufzeiten ab 12 Jahren und Auszahlung ab 62 wird nur der Ertragsanteil besteuert — je nach Renteneintrittsalter deutlich günstiger als die Abgeltungssteuer von 25 % auf ETF-Kursgewinne. Wer stattdessen eine Einmalauszahlung wählt, zahlt die Halbeinkünfteregelung.'
+  - question: 'Kann man eine private Rentenversicherung vorzeitig kündigen?'
+    answer: 'Ja, aber meist mit deutlichen Verlusten. Abschlusskosten werden in den ersten Jahren verrechnet, der Rückkaufswert liegt oft unter den eingezahlten Beiträgen. ETF-Depots dagegen kannst du jederzeit verkaufen — zum aktuellen Marktwert.'
+  - question: 'Was ist Langlebigkeitsschutz und warum ist er relevant?'
+    answer: 'Die Rentenversicherung zahlt lebenslang, unabhängig davon ob du 80 oder 100 Jahre alt wirst. Ein ETF-Depot ist irgendwann aufgebraucht, wenn du zu viel entnimmst. Wer sehr alt wird und keine anderen Einkommensquellen hat, profitiert vom Langlebigkeitsschutz.'
+sources:
+  - title: '§ 22 EStG (Ertragsanteilbesteuerung von Renten)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'TER-Kostenquoten europäischer ETFs'
+    publisher: 'Morningstar'
+    year: 2024
 ---
 
 "Schließ eine private Rentenversicherung ab" — diesen Satz hören viele beim ersten Gespräch über Altersvorsorge. Gleichzeitig liest man überall: "ETF ist das Beste". Was stimmt? Und wofür?

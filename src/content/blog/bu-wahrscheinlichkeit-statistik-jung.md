@@ -4,6 +4,28 @@ description: 'Jeder vierte Arbeitnehmer wird berufsunfähig, bevor er in Rente g
 pubDate: '2026-05-07'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Einkommenssicherung'
+tldr: 'Rund 25 % aller Erwerbstätigen in Deutschland werden vor dem regulären Renteneintritt berufsunfähig. Psychische Erkrankungen führen mit 30–35 % die Ursachenstatistik an — weit vor Bewegungsapparat (20–25 %) und Krebs (15–18 %). Auch Büroangestellte sind substanziell gefährdet; Warten verteuert die BU-Prämie und riskiert Ausschlüsse.'
+faq:
+  - question: 'Wie hoch ist das Risiko, berufsunfähig zu werden?'
+    answer: 'Etwa jeder vierte Erwerbstätige in Deutschland wird vor dem Renteneintritt berufsunfähig. In einem Büro mit 12 Personen werden also statistisch rund 3 im Laufe ihres Arbeitslebens BU-Leistungen in Anspruch nehmen — sofern sie versichert sind.'
+  - question: 'Was sind die häufigsten Ursachen für Berufsunfähigkeit?'
+    answer: 'Psychische Erkrankungen (Burnout, Depression, Angststörungen) sind mit 30–35 % die häufigste Ursache. Es folgen Erkrankungen des Bewegungsapparats (20–25 %), Krebserkrankungen (15–18 %), Herz-Kreislauf-Erkrankungen (10–12 %) und Unfälle (7–9 %).'
+  - question: 'Trifft Berufsunfähigkeit nur körperlich arbeitende Menschen?'
+    answer: 'Nein. Körperliche Berufe sind früher und häufiger betroffen und zahlen höhere Prämien — in absoluten Zahlen sind Kaufleute, IT-Experten, Lehrer und Sozialarbeiter aber ebenso gefährdet, besonders durch psychische Erkrankungen.'
+  - question: 'Reicht die gesetzliche Erwerbsminderungsrente?'
+    answer: 'Nein. Sie zahlt erst, wenn du in keinem Beruf mehr mindestens 3 Stunden täglich arbeiten kannst, und liegt durchschnittlich bei nur 800–900 € monatlich. Für den konkreten ausgeübten Beruf gibt es keine staatliche Absicherung.'
+  - question: 'Warum wird eine BU mit zunehmendem Alter teurer oder unmöglich?'
+    answer: 'Mit 27 und ohne Vorerkrankungen bekommst du Top-Konditionen. Mit 35 und z.B. einer Rücken- oder Angstdiagnose drohen Risikozuschläge, Ausschlüsse oder Ablehnung. Jung und gesund zahlst du zudem eine niedrigere Prämie über die gesamte Laufzeit.'
+sources:
+  - title: 'Statistik zur Berufsunfähigkeit in Deutschland'
+    publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
+    year: 2024
+  - title: 'BU-Ursachen nach Diagnosegruppen'
+    publisher: 'Morgen & Morgen Rating BU-Versicherung'
+    year: 2024
+  - title: 'Statistik Erwerbsminderungsrente'
+    publisher: 'Deutsche Rentenversicherung Bund'
+    year: 2024
 ---
 
 "Das trifft mich nicht — ich sitze nur am Schreibtisch." Das ist der häufigste Gedanke, wenn das Thema Berufsunfähigkeit aufkommt. Und er ist falsch. Die Statistiken zeigen: BU ist kein Randproblem, und die häufigsten Ursachen haben mit körperlicher Arbeit wenig zu tun.

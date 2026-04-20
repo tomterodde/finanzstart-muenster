@@ -4,6 +4,25 @@ description: 'Die 50-30-20-Regel erklärt: So teilst du dein Netto-Gehalt auf �
 pubDate: '2026-04-09'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Die 50-30-20-Regel teilt dein Netto-Einkommen in drei Blöcke: 50 % für Bedürfnisse (Miete, Essen, Versicherungen), 30 % für Wünsche (Freizeit, Reisen) und 20 % für Sparen und Vorsorge. Bei 2.000 € netto sind das 1.000 / 600 / 400 €. Überschreiten die Fixkosten 50 %, liegt ein strukturelles Problem vor — der Hebel ist dann Einnahmen erhöhen oder Fixkosten senken, nicht Kaffee-Verzicht.'
+faq:
+  - question: 'Wie funktioniert die 50-30-20-Regel?'
+    answer: 'Du teilst dein monatliches Netto-Einkommen in drei Blöcke: 50 % Bedürfnisse (Miete, Lebensmittel, Mobilität, Versicherungen), 30 % Wünsche (Restaurants, Reisen, Hobbys), 20 % Sparen und Vorsorge (Notgroschen, Altersvorsorge, ETF-Sparplan, Schuldenabbau).'
+  - question: 'Ist die 50-30-20-Regel bei niedrigem Einkommen realistisch?'
+    answer: 'Sie ist ein Startpunkt, kein Dogma. Bei sehr niedrigem Einkommen ist 10 % Sparen besser als 0 % — erst Notgroschen aufbauen, dann Altersvorsorge. Bei hohem Einkommen sollte die Sparquote über 20 % liegen, weil Fixkosten langsamer wachsen als das Gehalt.'
+  - question: 'Was bedeutet "pay yourself first"?'
+    answer: 'Zuerst sparen, dann ausgeben. Den Sparbetrag als Dauerauftrag am Monatsanfang abbuchen, nicht am Monatsende schauen, was übrig bleibt. Wissenschaftlich ist dieses Prinzip die effektivste Methode — wer erst konsumiert, spart strukturell zu wenig.'
+  - question: 'Warum ist die 50-Prozent-Grenze ein Warnsignal?'
+    answer: 'Wenn Fixkosten mehr als 50 % des Nettos verschlingen, kannst du nicht dauerhaft am Lifestyle sparen. Die Hebel sind dann: Einnahmen erhöhen (Gehaltsverhandlung, Jobwechsel) oder Fixkosten senken (WG, günstigere Krankenkasse, Mobilfunktarif) — nicht Spotify oder Kaffee.'
+  - question: 'Wie teile ich die 20 % Sparen konkret auf?'
+    answer: 'Zuerst Notgroschen (3 Monatsgehälter auf Tagesgeld), dann Schulden mit hohem Zins abbauen, parallel Altersvorsorge starten (idealerweise früh wegen des Zinseszinseffekts). Die genaue Aufteilung hängt von Lebenssituation und Zielen ab — Faustregel: Notgroschen vor Rendite.'
+sources:
+  - title: 'All Your Worth: The Ultimate Lifetime Money Plan'
+    publisher: 'Elizabeth Warren, Amelia Warren Tyagi (Erstveröffentlichung der 50/30/20-Regel)'
+    year: 2005
+  - title: 'Statistik zur Sparquote in Deutschland'
+    publisher: 'Deutsche Bundesbank'
+    year: 2024
 ---
 
 Die meisten Budgetpläne scheitern nicht, weil sie falsch sind — sondern weil sie zu kompliziert sind. Wer 15 Kategorien tracken muss, gibt nach zwei Wochen auf.

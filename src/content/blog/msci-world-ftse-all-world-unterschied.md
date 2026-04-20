@@ -4,6 +4,25 @@ description: 'Was ist der Unterschied zwischen MSCI World und FTSE All-World? We
 pubDate: '2026-04-29'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Der MSCI World enthält rund 1.500 Unternehmen aus 23 Industrieländern, ohne Schwellenländer; der FTSE All-World umfasst 3.500–4.000 Unternehmen inklusive Emerging Markets (~10–12 %). Historisch entwickeln sich beide Indizes sehr ähnlich — langfristig kein statistisch signifikanter Unterschied. Entscheidend sind für Einsteiger Broker-Verfügbarkeit, TER und Ausschüttungsart, nicht die Indexwahl.'
+faq:
+  - question: 'Was ist der Unterschied zwischen MSCI World und FTSE All-World?'
+    answer: 'Der MSCI World umfasst rund 1.500 Unternehmen aus 23 Industrieländern. Der FTSE All-World enthält 3.500–4.000 Unternehmen inklusive Schwellenländer (China, Indien, Brasilien u.a.) mit rund 10–12 % Gewichtung. Der US-Anteil liegt beim MSCI World bei etwa 65–70 %, beim FTSE All-World bei 60–65 %.'
+  - question: 'Welcher ETF hat historisch besser abgeschnitten?'
+    answer: 'Langfristig sehr ähnlich — kein statistisch signifikanter Unterschied. In Phasen starker Schwellenländer-Performance lag der FTSE All-World vorne, in schwachen Emerging-Markets-Jahren der MSCI World. Da Schwellenländer nur 10–12 % des All-World ausmachen, bleiben die Unterschiede marginal.'
+  - question: 'Was kosten MSCI World und FTSE All-World ETFs?'
+    answer: 'Typische TER (Total Expense Ratio): MSCI-World-ETFs liegen bei 0,12–0,20 %, FTSE-All-World-ETFs bei 0,15–0,22 %. Günstige Anbieter sind iShares und Xtrackers (MSCI World), Vanguard (FTSE All-World).'
+  - question: 'Soll ich einen All-World-ETF oder MSCI World plus Emerging Markets separat wählen?'
+    answer: 'Für Einsteiger reicht ein einzelner All-World-ETF — weniger Komplexität, kein Rebalancing nötig. Die Kombination MSCI World + Emerging Markets separat (z.B. 70/30) bietet mehr Kontrolle über die Gewichtung, erfordert aber gelegentliches Nachjustieren.'
+  - question: 'Welcher Index ist für Berufseinsteiger die richtige Wahl?'
+    answer: 'Beide sind solide. Entscheidend ist: Welcher ETF ist im Sparplan bei deinem Broker kostenlos, welcher hat die niedrigere TER, und passt die Ausschüttungsart (thesaurierend oder ausschüttend) zu deiner Strategie? Wichtiger als die Indexwahl ist: anfangen, regelmäßig einzahlen, nicht verkaufen.'
+sources:
+  - title: 'MSCI World Index Factsheet'
+    publisher: 'MSCI Inc.'
+    year: 2025
+  - title: 'FTSE All-World Index Factsheet'
+    publisher: 'FTSE Russell'
+    year: 2025
 ---
 
 Du willst einen weltweiten ETF kaufen und stehst vor der Wahl: MSCI World oder FTSE All-World? Beide klingen ähnlich — aber es gibt relevante Unterschiede.

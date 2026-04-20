@@ -4,6 +4,23 @@ description: 'Was ist Zinseszins und warum ist er so mächtig? Einfache Erkläru
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Grundlagen'
+tldr: 'Zinseszins bedeutet, dass du Zinsen auch auf bereits angesammelte Zinsen bekommst — das Kapital wächst exponentiell statt linear. Wer mit 25 statt mit 35 anfängt, hat bei gleicher Einmalanlage von 5.000 € und 5 % Rendite am Ende rund 14.000 € mehr. Entscheidend ist nicht der Betrag, sondern der Zeitpunkt.'
+faq:
+  - question: 'Wie funktioniert die 72er-Regel beim Zinseszins?'
+    answer: 'Teile 72 durch den Zinssatz in Prozent — das Ergebnis ist die Anzahl Jahre, bis sich dein Kapital verdoppelt. Bei 6 % p.a. verdoppelt sich das Kapital also alle 12 Jahre, bei 7 % alle ca. 10 Jahre.'
+  - question: 'Wie viel bringt ein Sparplan von 100 € monatlich über 30 Jahre?'
+    answer: 'Bei 6 % p.a. Rendite werden aus 36.000 € Einzahlungen rund 100.450 € — das entspricht fast einer Verdreifachung durch den Zinseszinseffekt. Je höher die Rendite, desto stärker der Effekt.'
+  - question: 'Warum zerstört ein Sparbuch den Zinseszinseffekt?'
+    answer: 'Sparbücher zahlen aktuell 0,1–1 % Zinsen. Nach Inflation (rund 2 %) ist die reale Rendite negativ — der Zinseszins wirkt nur bei Anlageformen, deren Rendite die Inflation übersteigt.'
+  - question: 'Ab welchem Alter lohnt sich der Einstieg in den Vermögensaufbau?'
+    answer: 'So früh wie möglich. Wer mit 25 einmalig 5.000 € bei 5 % anlegt, hat mit 65 rund 35.200 €. Wer bis 35 wartet und dann 5.000 € anlegt, hat mit 65 nur 21.610 € — ohne einen Cent weniger einzuzahlen.'
+sources:
+  - title: 'Renditedreieck (historische DAX-Rendite über Haltedauern)'
+    publisher: 'Deutsches Aktieninstitut'
+    year: 2024
+  - title: 'Preisindizes und Inflationsrate Deutschland'
+    publisher: 'Statistisches Bundesamt'
+    year: 2025
 ---
 
 Stell dir vor, du legst 100 Euro an. Im ersten Jahr bekommst du 5 Euro Zinsen — am Ende hast du 105 Euro. Im zweiten Jahr bekommst du nicht wieder 5 Euro, sondern 5,25 Euro. Warum? Weil du jetzt auf 105 Euro Zinsen bekommst, nicht auf 100.
