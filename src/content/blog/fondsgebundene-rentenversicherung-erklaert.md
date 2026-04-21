@@ -4,6 +4,28 @@ description: 'Was ist eine fondsgebundene Rentenversicherung, wie funktioniert s
 pubDate: '2026-04-23'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
+tldr: 'Eine fondsgebundene Rentenversicherung kombiniert Versicherungsmantel mit Fondsanlage. Steuervorteil: Während der Ansparphase keine Abgeltungssteuer auf Kursgewinne und Umschichtungen; bei Rentenbezug nach dem 62. Lebensjahr und 12 Jahren Laufzeit gilt das Halbeinkünfteverfahren (§ 20 Abs. 1 Nr. 6 EStG) — nur 50 % der Erträge werden mit dem persönlichen Steuersatz belastet. Gegenargument: Abschlusskosten (2,5–5 % der Beitragssumme), Verwaltungskosten (0,2–0,5 % p.a.), Fondskosten (0,1–0,5 % p.a.). Gesamtkosten 1–2 % p.a. vs. 0,1–0,2 % bei ETF-Sparplan. Lohnt sich bei Nettotarifen, 30+ Jahren Laufzeit und niedrigem Steuersatz im Rentenalter.'
+faq:
+  - question: 'Was ist eine fondsgebundene Rentenversicherung?'
+    answer: 'Ein Hybridprodukt aus Rentenversicherung und Fondsanlage: Der Versicherer verwaltet einen Sparvertrag mit Renten-Auszahlungsoption, investiert die Beiträge aber in Investmentfonds oder ETFs statt in den klassischen Deckungsstock. Anders als klassische Lebensversicherungen gibt es keine garantierte Verzinsung — die Wertentwicklung hängt vollständig von der Fondswahl ab.'
+  - question: 'Welche Steuervorteile bietet die Fondspolice?'
+    answer: 'Zwei: 1) In der Ansparphase keine Abgeltungssteuer auf Kursgewinne, Dividenden oder Umschichtungen innerhalb des Versicherungsmantels — der Zinseszinseffekt wirkt auf das volle Kapital. 2) Bei Kapitalauszahlung nach § 20 Abs. 1 Nr. 6 EStG (ab 62 Jahren, 12 Jahre Mindestlaufzeit): Halbeinkünfteverfahren — nur 50 % der Erträge werden mit dem persönlichen Steuersatz versteuert.'
+  - question: 'Wie hoch sind die Kosten einer Fondspolice?'
+    answer: 'Mehrere Kostenschichten: Abschlusskosten 2,5–5 % der Beitragssumme (über fünf Jahre gezillmert nach § 169 VVG), Verwaltungskosten 0,2–0,5 % p.a., Fondskosten (TER) 0,1–0,5 % p.a., Risikokosten für Todesfallschutz. Gesamtbelastung bei Provisionstarifen häufig 1–2 % p.a. Nettotarife ohne Abschlussprovision reduzieren die Effektivkosten deutlich.'
+  - question: 'Fondspolice oder ETF-Sparplan — was ist besser?'
+    answer: 'Abhängig von Steuersituation, Zeithorizont und Kostenstruktur. Fondspolice lohnt sich bei: Laufzeit ab 30 Jahren, niedrigem Steuersatz im Rentenalter (<25 %), geplanten Umschichtungen, Nettotarifen. ETF-Sparplan lohnt sich bei: kürzeren Laufzeiten, hoher Flexibilität, Standard-Allokation ohne Umschichtung. Die Kostenfrage ist entscheidend: Ein teurer Provisionstarif kann den Steuervorteil vollständig auffressen.'
+  - question: 'Was passiert bei Kündigung einer Fondspolice?'
+    answer: 'Auszahlung des Rückkaufswerts — in den ersten Jahren oft deutlich unter den eingezahlten Beiträgen, weil Abschlusskosten zuerst verrechnet werden (Zillmerung nach § 169 VVG). Bei Kündigung vor 12 Jahren Laufzeit oder vor dem 62. Lebensjahr entfällt außerdem der Halbeinkünftevorteil — die gesamten Erträge werden mit der Abgeltungssteuer (26,375 %) belastet.'
+sources:
+  - title: 'Einkommensteuergesetz (EStG) § 20 Abs. 1 Nr. 6 Kapitallebensversicherung'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Versicherungsvertragsgesetz (VVG) § 169 Rückkaufswert'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Lebensversicherung-Marktstatistik'
+    publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
+    year: 2024
 ---
 
 Fondsgebundene Rentenversicherungen werden oft als "das Beste aus zwei Welten" vermarktet: Rendite wie ETFs, Steuervorteile wie eine Versicherung. Die Realität ist differenzierter.

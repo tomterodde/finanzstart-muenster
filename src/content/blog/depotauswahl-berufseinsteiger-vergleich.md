@@ -4,6 +4,28 @@ description: 'Welches Depot ist für Berufseinsteiger am besten? Ein ehrlicher V
 pubDate: '2026-05-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Für einen ETF-Sparplan als Berufseinsteiger sind Neobroker (Trade Republic, Scalable Capital) mit kostenlosen Sparplänen und rund 2.000 ETF-Auswahlmöglichkeiten die günstigste Option. Klassische Direktbanken (ING, DKB, Comdirect) kosten minimal mehr, bieten dafür zuverlässigeres Steuerreporting und Kombination mit Girokonto. Filialbanken (Sparkasse, Volksbank) sind mit 30–60 € Jahresdepotgebühr und Orderkosten über 30 Jahre Sparphase um mehrere tausend Euro teurer. Wertpapiere sind als Sondervermögen nach KAGB insolvenzgeschützt; Einlagensicherung auf Verrechnungskonto bis 100.000 € (EU-Richtlinie 2014/49/EU).'
+faq:
+  - question: 'Welches Depot ist für ETF-Sparpläne am günstigsten?'
+    answer: 'Trade Republic und Scalable Capital (Free-Tarif) bieten ETF-Sparpläne aktuell komplett kostenlos an, ohne Depotgebühr und ohne Ausführungsgebühr. Bei Direktbanken wie ING und DKB laufen Sparpläne oft über Aktionstarife ebenfalls bei 0 €; regulär fallen 0,75–1,75 % pro Ausführung an. Bei 100 € Sparrate summieren sich diese Kosten über 30 Jahre auf mehrere hundert bis tausend Euro.'
+  - question: 'Wie sicher ist ein Depot bei Neobrokern?'
+    answer: 'Genauso sicher wie bei klassischen Banken. Trade Republic und Scalable Capital sind BaFin-reguliert und Teil der gesetzlichen Einlagensicherung (bis 100.000 € Cash auf dem Verrechnungskonto, EU-Richtlinie 2014/49/EU). Wertpapiere selbst sind als Sondervermögen nach KAGB getrennt vom Bankvermögen verwahrt — bei Insolvenz bekommst du dein Depot zu einer anderen Bank übertragen, unabhängig vom Anbieter.'
+  - question: 'Neobroker oder Direktbank — was ist für Einsteiger besser?'
+    answer: 'Bei reinem ETF-Sparplan-Nutzen sind Neobroker günstiger und bedienerfreundlicher. Direktbanken (ING, DKB) eignen sich besser, wenn du Depot plus Girokonto plus Tagesgeld aus einer Hand möchtest und zuverlässiges Steuerreporting (Bescheinigungen, Verlustverrechnungstopf) brauchst. Für Ausländische Dividenden-ETFs oder Quellensteuererstattung sind etablierte Direktbanken oft erfahrener.'
+  - question: 'Wie viele ETFs sollte ein Depot im Sparplan anbieten?'
+    answer: 'Für Einsteiger reicht praktisch jedes Angebot: Selbst kleine Auswahlen (ING: ~800 ETFs, DKB: ~600) decken alle gängigen Welt-ETFs ab (MSCI World, FTSE All-World, MSCI Emerging Markets). Größere Auswahlen (Scalable: ~2.100, Trade Republic: ~1.900) sind nur relevant, wenn du Nischen-ETFs (Sektoren, Faktoren, Themen) sparen willst. Für den Grundaufbau irrelevant.'
+  - question: 'Was kostet eine Filialbank-Depot im Vergleich?'
+    answer: 'Filialbanken (Sparkasse, Volksbank) verlangen häufig 30–60 € Jahresdepotgebühr plus 0,25–1 % Orderkosten (mindestens 5–10 € pro Order). Auf 30 Jahre Sparphase mit 100 €/Monat ergeben sich grob 3.000–5.000 € Mehrkosten gegenüber einem Neobroker. Die persönliche Beratung rechtfertigt diesen Preisunterschied für reine ETF-Sparer selten — für komplexere Depots mit aktivem Handel kann der Service sinnvoll sein.'
+sources:
+  - title: 'Kapitalanlagegesetzbuch (KAGB) — Sondervermögen'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Einlagensicherungsgesetz (EinSiG) & EU-Richtlinie 2014/49/EU'
+    publisher: 'Europäische Union / BaFin'
+    year: 2024
+  - title: 'Wertpapierhandel und Wertpapierinstitutsgesetz (WpIG)'
+    publisher: 'Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)'
+    year: 2024
 ---
 
 Bevor der erste ETF-Sparplan läuft, braucht es ein Depot. Die Entscheidung fühlt sich komplex an — dabei sind die relevanten Kriterien überschaubar. Das teuerste Fehler ist, zu warten und keins zu eröffnen.

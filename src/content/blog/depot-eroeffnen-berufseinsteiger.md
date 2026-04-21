@@ -4,6 +4,28 @@ description: 'Wie eröffne ich ein Wertpapierdepot? Was sind die Unterschiede zw
 pubDate: '2026-04-09'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Ein Wertpapierdepot ist die Voraussetzung für ETF-Sparpläne und Aktienkauf — seit PSD2 (2018) ist die Eröffnung online in 15 Minuten via Video-Ident (GwG § 12) möglich. Drei Anbietertypen: Filialbank (teuer, 20–90 €/Jahr Depotgebühr), Direktbank (ING, DKB, Comdirect: 0 €, große Auswahl), Neo-Broker (Trade Republic, Scalable: 0 €, oft kostenlose Sparpläne). Wertpapiere sind als Sondervermögen insolvenzgeschützt (KAGB). Freistellungsauftrag einrichten: Sparerpauschbetrag 1.000 € (2.000 € bei Ehepaaren, § 20 Abs. 9 EStG).'
+faq:
+  - question: 'Welche Unterlagen brauche ich für die Depoteröffnung?'
+    answer: 'Personalausweis oder Reisepass für die Video-Ident oder PostIdent-Verifikation (§ 12 GwG), Steuer-ID (für Abgeltungssteuer-Abwicklung), IBAN eines Referenzkontos für Ein- und Auszahlungen. Bei deutschen Anbietern liegt der gesamte Eröffnungsprozess bei 15–30 Minuten.'
+  - question: 'Sind meine Wertpapiere im Depot sicher, wenn der Broker pleitegeht?'
+    answer: 'Ja. Wertpapiere werden als Sondervermögen nach KAGB getrennt vom Bankvermögen verwahrt — sie gehören rechtlich dir, nicht dem Broker. Bei Insolvenz bekommst du dein Depot zu einem anderen Institut übertragen. Zusätzlich greift die gesetzliche Anlegerentschädigung (EdW) bis 90 % des Forderungswerts, maximal 20.000 €, für nicht herausgegebene Wertpapiere.'
+  - question: 'Was ist ein Freistellungsauftrag und wie viel spare ich?'
+    answer: 'Der Freistellungsauftrag stellt Kapitalerträge bis zum Sparerpauschbetrag von 1.000 € (bzw. 2.000 € bei zusammen veranlagten Ehepaaren, § 20 Abs. 9 EStG) von der Abgeltungssteuer frei. Ohne Freistellung zahlst du auf jeden Euro Dividende oder Gewinn 26,375 % Kapitalertragsteuer (inkl. Soli), mit Freistellung bis zum Pauschbetrag 0 €. Ersparnis: bis zu 263 € jährlich.'
+  - question: 'Was kostet ein ETF-Sparplan bei deutschen Brokern?'
+    answer: 'Bei den meisten Neo-Brokern (Trade Republic, Scalable Capital Free) sind Sparpläne auf gängige ETFs (MSCI World, FTSE All-World) kostenlos. Direktbanken (ING, DKB, Comdirect) bieten oft Aktionen mit 0 € pro Ausführung; regulär liegen die Kosten bei 0,75–1,75 % der Sparrate. Bei 100 € Sparrate sind das 0,75–1,75 € pro Monat.'
+  - question: 'Filialbank, Direktbank oder Neo-Broker — welche Wahl passt?'
+    answer: 'Filialbanken (Sparkasse, Volksbank) sind für Selbstentscheider wegen hoher Gebühren selten sinnvoll. Direktbanken (ING, DKB, Comdirect) bieten das beste Gesamtpaket mit großer ETF-Auswahl, Zinsen auf Cash und Einlagensicherung bis 100.000 €. Neo-Broker (Trade Republic, Scalable) sind ideal für reine ETF-Sparplan-Nutzer mit einfachen Ansprüchen.'
+sources:
+  - title: 'Einkommensteuergesetz (EStG) — § 20 Abs. 9 Sparerpauschbetrag'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Geldwäschegesetz (GwG) — § 12 Video-Ident'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Anlegerentschädigungsgesetz (AnlEntG)'
+    publisher: 'Entschädigungseinrichtung der Wertpapierhandelsunternehmen (EdW)'
+    year: 2024
 ---
 
 Du willst anfangen zu investieren — einen ETF-Sparplan starten, Aktien kaufen oder einfach dein erstes Depot eröffnen. Aber wo? Und worauf kommt es an?

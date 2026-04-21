@@ -4,6 +4,28 @@ description: 'Die gesetzliche Rente wird nicht reichen – das ist Fakt. Wie gro
 pubDate: '2026-04-07'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Altersvorsorge'
+tldr: 'Das aktuelle gesetzliche Rentenniveau liegt bei 48 % und sinkt laut Rentenversicherungsbericht der Bundesregierung langfristig weiter. Bei empfohlenen 70–80 % des letzten Nettoeinkommens als Ziel ergibt sich für typische Berufseinsteiger eine Rentenlücke von 500–1.000 € monatlich. Ursachen: Demografischer Wandel (1970: 4 Beitragszahler pro Rentner, heute: 2), gesetzlich festgelegtes sinkendes Rentenniveau (§ 154 SGB VI), 2 % durchschnittliche Inflation halbiert Kaufkraft in 35 Jahren. Wer mit 25 statt 35 anfängt (100 €/Monat, 6 % p.a.), hat mit 67 rund 201.000 € statt 101.000 €.'
+faq:
+  - question: 'Was ist die Rentenlücke?'
+    answer: 'Die Differenz zwischen dem im Ruhestand benötigten Einkommen (Faustregel: 70–80 % des letzten Nettoeinkommens) und der tatsächlichen gesetzlichen Rentenzahlung. Bei 2.500 € Nettoeinkommen entspricht das einem Bedarf von 1.750–2.000 € — die gesetzliche Rente liefert typischen Berufseinsteigern rund 1.000–1.300 €. Lücke: 500–1.000 € monatlich, die privat geschlossen werden müssen.'
+  - question: 'Wie hoch ist das Rentenniveau aktuell?'
+    answer: 'Das Nettorentenniveau vor Steuern liegt 2025 bei 48 % (§ 154 SGB VI, Haltelinie bis 2039 nach aktuellem Gesetzentwurf) — das heißt: Ein Standardrentner mit 45 Entgeltpunkten erhält 48 % des durchschnittlichen Nettogehalts. Ohne neue Haltelinien sinkt das Niveau laut Rentenversicherungsbericht bis 2045 prognostisch auf unter 45 %.'
+  - question: 'Warum reicht die gesetzliche Rente nicht?'
+    answer: 'Drei strukturelle Gründe: 1) Demografie — das Umlageverfahren finanziert sich aus Beiträgen aktiver Arbeitnehmer; der Beitragszahler-Rentner-Quotient sinkt seit Jahrzehnten. 2) Gesetzlich vorgegebene Absenkung des Rentenniveaus zur Stabilisierung der Beitragssätze (§ 154 SGB VI). 3) Inflation: Bei 2 % durchschnittlicher Teuerung (EZB-Zielwert) halbiert sich die Kaufkraft in rund 35 Jahren.'
+  - question: 'Wie kann ich meine Rentenlücke berechnen?'
+    answer: 'Drei Schritte: 1) Rentenauskunft der Deutschen Rentenversicherung anfordern (ab 27 automatisch jährlich nach § 109 SGB VI, vorher auf Antrag). 2) Zielwert ermitteln: 70–80 % des heutigen Nettoeinkommens als Richtwert. 3) Differenz aus prognostizierter gesetzlicher Rente und Zielwert = Rentenlücke. Online-Rechner der DRV bieten eine erste Schätzung.'
+  - question: 'Wie viel muss ich privat für die Rente sparen?'
+    answer: 'Abhängig von Alter, Einkommen und Ziel. Faustregel: 10–20 % des Nettoeinkommens in Altersvorsorge und Vermögensaufbau. Wer mit 25 Jahren 100 € monatlich bei 6 % Rendite bis 67 anlegt, erreicht rund 201.000 € — das deckt bei 4 %-Entnahmerate (Trinity Study) etwa 670 € monatliche Zusatzrente. Pro 100 € Sparrate mehr steigt die Zielsumme entsprechend.'
+sources:
+  - title: 'Rentenversicherungsbericht der Bundesregierung'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2024
+  - title: 'Sozialgesetzbuch VI (SGB VI) — §§ 109, 154'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Rentenbestand und Rentenniveau'
+    publisher: 'Deutsche Rentenversicherung Bund'
+    year: 2024
 ---
 
 Du hast gerade deinen ersten Job angefangen – vielleicht nach dem Studium an der WWU, vielleicht nach einer Ausbildung. Die Rente ist das Letzte, worüber du nachdenken willst. Verständlich.

@@ -4,6 +4,28 @@ description: 'Psychische Erkrankungen sind der häufigste BU-Grund. Was bedeutet
 pubDate: '2026-04-13'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'
+tldr: 'Psychische Erkrankungen sind seit Jahren die häufigste Ursache für Berufsunfähigkeit in Deutschland — rund 30 % aller BU-Leistungen werden darauf gezahlt (Morgen & Morgen, GDV). Beim BU-Abschluss müssen auch kurze Psychotherapien, Antidepressiva-Gaben und Burnout-Krankschreibungen angegeben werden; sonst droht arglistige Täuschung. Typische Reaktionen: Ausschluss psychischer Erkrankungen, Risikozuschlag oder Ablehnung. Eine anonyme Risikovoranfrage über einen Makler schützt vor der Speicherung abgelehnter Anträge.'
+faq:
+  - question: 'Wie oft sind psychische Erkrankungen Ursache für Berufsunfähigkeit?'
+    answer: 'Rund 30 % aller BU-Leistungsfälle werden in Deutschland aufgrund psychischer Erkrankungen gezahlt — damit sind sie seit Jahren die häufigste Einzelursache, vor Rückenerkrankungen und Krebs. Die Tendenz ist steigend, insbesondere in akademischen Berufen und bei jüngeren Versicherten.'
+  - question: 'Muss ich Psychotherapie bei der BU angeben?'
+    answer: 'Ja. Die Gesundheitsfragen umfassen typischerweise 3, 5 oder 10 Jahre zurück und decken Psychotherapie, psychoaktive Medikamente, stationäre Behandlung und Krankschreibungen wegen Burnout oder Anpassungsstörungen ab. Auch kurze oder präventive Therapien sind anzeigepflichtig. Unterlassene Angaben gelten als arglistige Täuschung und können im Leistungsfall zur Verweigerung führen (§ 19 VVG).'
+  - question: 'Was ist eine anonyme Risikovoranfrage?'
+    answer: 'Ein Makler reicht deine Gesundheitsangaben anonymisiert bei mehreren Versicherern ein und holt verbindliche Voten zu Annahme, Zuschlag oder Ausschluss ein — ohne dass dein Name in der Versicherer-internen Datenbank HIS (Hinweis- und Informationssystem) landet. Das ist der Standardweg vor einem BU-Antrag, besonders bei psychischen Vorerkrankungen.'
+  - question: 'Kann ich trotz psychischer Vorerkrankung eine BU abschließen?'
+    answer: 'Ja, je nach Schwere und Zeitraum. Bei leichten, abgeschlossenen Episoden (z.B. einmalige Kurztherapie vor Jahren) ist oft normaler Abschluss möglich. Bei mittelschweren Fällen kommt häufig ein Ausschluss psychischer Erkrankungen zustande — der BU-Schutz für körperliche Ursachen bleibt bestehen. Bei schweren oder rezidivierenden Fällen droht Ablehnung; dann sind Alternativen wie Grundfähigkeitsversicherung zu prüfen.'
+  - question: 'Wie wird psychische Berufsunfähigkeit im Leistungsfall nachgewiesen?'
+    answer: 'Die Versicherung verlangt ärztliche Atteste, Krankenhausberichte und oft ein fachärztliches Gutachten. Der Nachweis einer 50-prozentigen Berufsunfähigkeit ist bei psychischen Diagnosen aufwendiger als bei körperlichen und führt öfter zu Auseinandersetzungen. Gute BU-Tarife verzichten auf abstrakte Verweisung und zahlen bereits bei Berufsunfähigkeit im aktuellen Beruf.'
+sources:
+  - title: 'BU-Leistungsursachen (Morgen & Morgen BU-Analyse)'
+    publisher: 'Morgen & Morgen GmbH'
+    year: 2024
+  - title: '§ 19 VVG (Anzeigepflicht bei Vertragsschluss)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Branchenstatistik Berufsunfähigkeit'
+    publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
+    year: 2024
 ---
 
 Psychische Erkrankungen sind seit Jahren der häufigste Grund für Berufsunfähigkeit in Deutschland — noch vor Rücken- und Krebserkrankungen. Rund 30 % aller BU-Leistungen werden wegen psychischer Erkrankungen gezahlt.

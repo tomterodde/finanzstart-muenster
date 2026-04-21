@@ -4,6 +4,28 @@ description: 'Dein ETF verliert 20 % — was jetzt? Warum Verkaufen der teuerste
 pubDate: '2026-05-11'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Kurseinbrüche sind ein vorhersehbarer Teil der Geldanlage — der MSCI World hat seit 1970 mehrere Einbrüche von 34–54 % erlebt (Dotcom 2000–2003, Finanzkrise 2008–2009, Corona-Crash 2020) und sich danach zuverlässig erholt. Der teuerste Fehler ist Verkaufen im Tief: Wer 2008 auf dem Tiefpunkt verkaufte, verpasste die Erholung bis 2013. Behavioral Finance (Kahneman/Tversky, Prospect Theory): Verluste schmerzen doppelt so stark wie gleich große Gewinne sich gut anfühlen. Richtiges Verhalten: Sparplan weiterlaufen lassen (Cost-Average-Effekt wirkt besonders in fallenden Märkten), nicht täglich ins Depot schauen, Anlagehorizont von 10+ Jahren nur mit entbehrlichem Geld.'
+faq:
+  - question: 'Soll ich bei einem Kurseinbruch meinen ETF verkaufen?'
+    answer: 'Nein, außer du brauchst das Geld wirklich. Verkaufen im Tief realisiert den Verlust und verpasst die Erholung. Der MSCI World hat nach jedem historischen Einbruch neue Höchststände erreicht: Nach der Finanzkrise 2008–2009 (-54 %) dauerte die Erholung rund 4 Jahre, nach dem Corona-Crash 2020 (-34 %) nur 5 Monate. Wer investiert bleibt, profitiert statistisch — wer verkauft, macht den Verlust endgültig.'
+  - question: 'Wie lange dauert es, bis sich der Markt erholt?'
+    answer: 'Historisch sehr unterschiedlich: Corona-Crash 2020: rund 5 Monate. Finanzkrise 2008: rund 4 Jahre. Dotcom-Blase 2000: 5–6 Jahre (MSCI World). Wichtig: Erholungsphasen sind unvorhersehbar und laufen oft schnell in kurzen Zeiträumen — wer bei der Erholung nicht investiert ist, verpasst die renditestärksten Tage. J.P. Morgan Studien zeigen: 10 verpasste Spitzentage senken die Gesamtrendite erheblich.'
+  - question: 'Sollte ich meinen Sparplan bei fallenden Kursen pausieren?'
+    answer: 'Nein, im Gegenteil. Der Cost-Average-Effekt wirkt am stärksten in fallenden Märkten — du kaufst für dieselbe Sparrate mehr Anteile, senkst also den durchschnittlichen Einstiegskurs. Wer 2020 den Sparplan während des Corona-Crashs weiterlaufen ließ, profitierte überproportional von der schnellen Erholung. Pausieren ist psychologisch verständlich, rechnerisch aber kontraproduktiv.'
+  - question: 'Lohnt es sich, bei einem Kurseinbruch nachzukaufen?'
+    answer: 'Ja, wenn Liquidität über den Notgroschen hinaus vorhanden ist. Historisch sind Nachkäufe in Bärenmärkten renditestark — man kauft zu reduzierten Kursen. Voraussetzung: Ein Anlagehorizont von 10+ Jahren und ausreichend Notgroschen (3–6 Monatsausgaben), damit man nicht in der nächsten Krise zum Verkauf gezwungen wird. Market-Timing auf den exakten Boden funktioniert nicht — ein Einstieg in der Phase reicht.'
+  - question: 'Warum fällt es psychologisch so schwer, bei Einbrüchen zu halten?'
+    answer: 'Prospect Theory (Kahneman/Tversky 1979, Nobelpreis 2002): Verluste werden ungefähr doppelt so stark empfunden wie gleich große Gewinne. Das Gehirn ist evolutionär auf Verlustvermeidung programmiert — in der Geldanlage ist das kontraproduktiv. Gegenmittel: Vor dem Investment die eigene Reaktion antizipieren, Aktienquote passend zur Risikotragfähigkeit wählen, nicht täglich ins Depot schauen.'
+sources:
+  - title: 'MSCI World Index — Historische Rückgänge und Erholungen'
+    publisher: 'MSCI Inc.'
+    year: 2024
+  - title: 'Prospect Theory: An Analysis of Decision under Risk'
+    publisher: 'Daniel Kahneman & Amos Tversky, Econometrica'
+    year: 1979
+  - title: 'Guide to the Markets — Importance of Staying Invested'
+    publisher: 'J.P. Morgan Asset Management'
+    year: 2024
 ---
 
 Der MSCI World fällt um 25 %. Dein Depot, das du über 3 Jahre aufgebaut hast, hat innerhalb von Wochen ein Viertel seines Wertes verloren. Was machst du?

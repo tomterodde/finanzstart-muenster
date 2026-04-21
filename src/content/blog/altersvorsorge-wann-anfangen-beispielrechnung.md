@@ -4,6 +4,28 @@ description: 'Wie viel Unterschied macht es, mit 25 statt 35 mit der Altersvorso
 pubDate: '2026-04-09'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
+tldr: 'Zeit schlägt Betrag: 200 € monatlich ab 25 Jahren ergeben bei 6 % Rendite p.a. bis zum Renteneintritt mit 67 rund 400.000 € — ab 35 Jahren nur noch rund 196.000 €. Die 10 Jahre Warten kosten bei gleicher Sparrate 204.000 €. Wer erst mit 35 anfängt und dasselbe Ziel erreichen will, muss 282 € monatlich einzahlen (41 % mehr) — zinseszinsbedingt praktisch uneinholbar. Empfehlung: 10–20 % des Nettoeinkommens in Altersvorsorge, aufgeteilt auf gesetzliche Rente, bAV (§ 3 Nr. 63 EStG) und private Vorsorge.'
+faq:
+  - question: 'Wann sollte ich mit der Altersvorsorge anfangen?'
+    answer: 'So früh wie möglich nach Berufseinstieg — idealerweise mit Anfang 20. Der Zinseszinseffekt wächst exponentiell: Wer mit 25 statt 35 beginnt (200 €/Monat, 6 % p.a., bis 67), hat am Ende 400.000 € statt 196.000 € — 104.000 € mehr bei nur 24.000 € höherer Einzahlung. Die restlichen 180.000 € sind reiner Zinseszins-Gewinn.'
+  - question: 'Wie viel muss ich mehr einzahlen, wenn ich später anfange?'
+    answer: 'Um mit 35 dasselbe Zielvermögen wie bei Start mit 25 (rund 400.000 € bei 200 €/Monat, 6 % p.a.) zu erreichen, musst du rund 282 € monatlich einzahlen — also 41 % mehr pro Monat. Bei Start mit 45 sind es schon rund 450 € monatlich, also mehr als das Doppelte. Je später der Start, desto unverhältnismäßig höher die notwendige Sparrate.'
+  - question: 'Wie viel Prozent meines Einkommens sollte ich für die Altersvorsorge sparen?'
+    answer: 'Faustregel: 10–20 % des Nettoeinkommens in private Altersvorsorge und Vermögensaufbau, zusätzlich zu gesetzlicher Rente (Pflichtbeitrag von derzeit 18,6 %) und bAV. Bei 2.500 € Netto sind das 250–500 € pro Monat. Je früher du anfängst, desto niedriger kannst du im prozentualen Rahmen bleiben und trotzdem das Ziel erreichen.'
+  - question: 'Schulden tilgen oder parallel für die Altersvorsorge sparen?'
+    answer: 'Abhängig vom Zinssatz: Übersteigt der Schuldzins die erwartete Anlagerendite (z.B. Dispo-Kredit mit 10–14 %, Konsumkredit 5–8 %), zuerst tilgen. Bei niedrig- oder zinsfreien Schulden (BAföG, Immobiliendarlehen mit 2–4 %) kann parallel gespart werden. Als Orientierung dient die historische Aktienrendite von rund 7 % p.a. (DAI Renditedreieck).'
+  - question: 'Welche Altersvorsorge-Bausteine gehören zusammen?'
+    answer: 'Die klassische Drei-Schichten-Struktur: 1. Basisversorgung (gesetzliche Rente, Rürup-Rente, § 10 EStG), 2. Geförderte Zusatzvorsorge (Riester nach §§ 10a, 79 ff. EStG und betriebliche Altersvorsorge nach § 3 Nr. 63 EStG), 3. Private Vorsorge (ETF-Sparplan, Rentenversicherung). Welche Bausteine wie gewichtet werden, hängt von Steuerklasse, Arbeitgeberzuschuss und Familienstand ab.'
+sources:
+  - title: 'Renditedreieck DAX (Historische Aktienrenditen)'
+    publisher: 'Deutsches Aktieninstitut (DAI)'
+    year: 2024
+  - title: 'Einkommensteuergesetz (EStG) §§ 3 Nr. 63, 10, 10a'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Altersvorsorge-Bericht der Bundesregierung'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2024
 ---
 
 "Ich fange nächstes Jahr an." Das ist der teuerste Satz in der Altersvorsorge. Nicht weil er böse gemeint ist — sondern weil er sich Jahr für Jahr wiederholt, bis die Mathematik unerbittlich zuschlägt.

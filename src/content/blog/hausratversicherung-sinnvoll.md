@@ -4,6 +4,28 @@ description: 'Ist eine Hausratversicherung wirklich sinnvoll? Wann sich der Schu
 pubDate: '2026-04-20'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Versicherungen'
+tldr: 'Eine Hausratversicherung lohnt sich rechnerisch ab einem Hausratwert von rund 10.000 € — bei typischer Berufseinsteiger-Ausstattung ist diese Schwelle schneller erreicht als gedacht (15.000–30.000 € sind üblich). Jahresprämie liegt bei 50–150 €. Drei Stolperfallen: Unterversicherung (Faustregel 650 €/m² Wohnfläche), Zeitwert- statt Neuwertentschädigung und fehlender Fahrraddiebstahl-Einschluss (in Münster mit 5.000+ gestohlenen Fahrrädern/Jahr praktisch Pflicht). Keine Pflichtversicherung, aber für eigene Wohnung fast immer sinnvoller Grundschutz.'
+faq:
+  - question: 'Ab welchem Hausratwert lohnt sich eine Hausratversicherung?'
+    answer: 'Rechnerisch ab etwa 10.000 € Hausratwert — darunter zahlst du über die Jahre mehr Prämien, als der potenzielle Totalschaden ausmachen würde. Die meisten Berufseinsteiger unterschätzen ihren Hausratwert: Laptop, Smartphone, Sofa, Bett, Kleidung, Küchengeräte summieren sich schnell auf 15.000–30.000 €. Bei 50–150 € Jahresprämie ist das Verhältnis günstig.'
+  - question: 'Wie hoch muss die Versicherungssumme sein?'
+    answer: 'Faustregel: 650 € pro Quadratmeter Wohnfläche — bei 50 m² also 32.500 €. Bei dieser Summe bieten viele Versicherer einen "Unterversicherungsverzicht" an, der eine anteilige Leistungskürzung im Schadensfall ausschließt. Zu niedrig angesetzte Versicherungssummen sind die häufigste Ursache für Leistungskürzungen (§ 75 VVG).'
+  - question: 'Ist Fahrraddiebstahl in der Hausratversicherung enthalten?'
+    answer: 'In der Grunddeckung nur Einbruchdiebstahl aus der Wohnung oder verschlossenen Räumen — einfacher Diebstahl (Fahrrad vor dem Café gestohlen) nicht. Der Zusatzbaustein "Fahrraddiebstahl" kostet 20–40 € jährlich. In fahrradintensiven Städten wie Münster mit über 5.000 gemeldeten Fahrraddiebstählen pro Jahr (Polizei NRW) praktisch Pflicht.'
+  - question: 'Zeitwert oder Neuwert — was ist besser?'
+    answer: 'Neuwertentschädigung. Bei Zeitwerttarifen bekommst du nur den Restwert deiner Gegenstände ersetzt — ein 3 Jahre altes MacBook also deutlich unter Kaufpreis. Der Neuwert-Zuschlag kostet meistens nur 10–20 € jährlich, macht aber im Schadensfall den entscheidenden Unterschied. Standard in guten Tarifen.'
+  - question: 'Was bedeutet "grobe Fahrlässigkeit" bei der Hausratversicherung?'
+    answer: 'Situationen wie nicht ausgepustete Kerze, eingeschaltetes Bügeleisen oder offene Wohnungstür. Günstige Tarife kürzen die Leistung in diesen Fällen nach § 81 VVG erheblich. Der Zusatz "Verzicht auf Einrede der groben Fahrlässigkeit" ist für wenige Euro jährlich buchbar und schützt vor dem häufigsten Streitfall im Schadensfall.'
+sources:
+  - title: 'Versicherungsvertragsgesetz (VVG) — §§ 75, 81'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Polizeiliche Kriminalstatistik — Fahrraddiebstahl'
+    publisher: 'Landeskriminalamt Nordrhein-Westfalen'
+    year: 2024
+  - title: 'ZÜRS-Geoportal Hochwasserzonen'
+    publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
+    year: 2024
 ---
 
 "Hausratversicherung — brauche ich das überhaupt?" Die Frage taucht bei fast jedem auf, der zum ersten Mal eine eigene Wohnung einrichtet. Die Antworten im Internet sind selten ehrlich: Entweder wird sie pauschal als unverzichtbar verkauft, oder als überflüssiger Luxus abgetan.

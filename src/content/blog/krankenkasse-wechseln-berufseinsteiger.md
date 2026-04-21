@@ -4,6 +4,28 @@ description: 'Welche Krankenkasse lohnt sich für Berufseinsteiger in Münster? 
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Versicherungen'
+tldr: 'Berufseinsteiger unter der Jahresarbeitsentgeltgrenze (2025: 73.800 €) sind in der GKV pflichtversichert. Der Basissatz beträgt 14,6 % des Bruttogehalts (hälftig vom Arbeitgeber getragen), dazu kommt ein kassenindividueller Zusatzbeitrag von 1,5–3,5 %. Der Zusatzbeitrag ist der einzige Hebel beim Kassenvergleich — die Differenz zwischen günstigster und teuerster Kasse liegt bei 300–600 € pro Jahr. Wechsel nach 12 Monaten Mitgliedschaft möglich (§ 175 SGB V), bei Zusatzbeitragserhöhung greift Sonderkündigungsrecht. Familienversicherung endet bei Einkommen über 505 €/Monat (§ 10 SGB V).'
+faq:
+  - question: 'Wie hoch ist der Krankenkassenbeitrag 2025?'
+    answer: 'Der gesetzliche Basissatz beträgt 14,6 % des Bruttogehalts (§ 241 SGB V), hälftig von Arbeitgeber und Arbeitnehmer getragen — also je 7,3 %. Dazu kommt der kassenindividuelle Zusatzbeitrag (2025 durchschnittlich 2,5 %, Spanne 1,5–3,5 %), der seit 2019 paritätisch finanziert wird. Bei 3.000 € Brutto beträgt der Arbeitnehmeranteil rund 294 € monatlich.'
+  - question: 'Wann endet die Familienversicherung bei den Eltern?'
+    answer: 'Automatisch, sobald das Einkommen die Grenze von 505 €/Monat überschreitet (2025, § 10 Abs. 1 Nr. 5 SGB V). Mit dem ersten sozialversicherungspflichtigen Job endet die Familienversicherung taggenau zum Arbeitsbeginn. Der neue Arbeitgeber leitet die Anmeldung bei der gewählten Kasse ein — die aktive Kassenwahl liegt aber beim Arbeitnehmer.'
+  - question: 'Wie kann ich die Krankenkasse wechseln?'
+    answer: 'Nach mindestens 12 Monaten Mitgliedschaft mit Kündigungsfrist von zwei Monaten zum Monatsende (§ 175 SGB V). Erhöht die bisherige Kasse den Zusatzbeitrag, greift das Sonderkündigungsrecht und ein sofortiger Wechsel ist möglich. Formaler Ablauf: Neue Kasse auswählen, Aufnahmeantrag stellen — die neue Kasse übernimmt die Kündigung der alten.'
+  - question: 'Wann ist PKV statt GKV sinnvoll?'
+    answer: 'PKV ist für Arbeitnehmer erst ab einem Jahresbruttoeinkommen von 73.800 € (2025, Jahresarbeitsentgeltgrenze § 6 SGB V) wählbar. Vorteil: bessere Leistungen, junge Gesunde oft günstiger. Nachteil: Beiträge steigen mit dem Alter, Rückkehr in die GKV nach 55 praktisch unmöglich (§ 6 Abs. 3a SGB V), Kinder und Partner nicht automatisch mitversichert. Für Berufseinsteiger unter der Grenze nicht relevant.'
+  - question: 'Lohnt sich die günstigste Krankenkasse automatisch?'
+    answer: 'Nicht unbedingt. Entscheidend ist das Gesamtpaket: Zusatzbeitrag + Zusatzleistungen + digitale Services + Erreichbarkeit. Eine Kasse mit 0,5 %-Punkten höherem Zusatzbeitrag kann bei Nutzung von Bonusprogrammen, Zahnprophylaxe oder Osteopathie trotzdem günstiger sein. Vergleichsportale wie Krankenkasseninfo.de zeigen aktuelle Beiträge.'
+sources:
+  - title: 'Sozialgesetzbuch V (SGB V) — §§ 175, 241, 6, 10'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Jahresarbeitsentgeltgrenze und Beitragsbemessungsgrenzen 2025'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2025
+  - title: 'GKV-Kennzahlen'
+    publisher: 'GKV-Spitzenverband'
+    year: 2024
 ---
 
 Wenn du deinen ersten Job antritts, passiert bei der Krankenversicherung oft eines von zwei Dingen: Du bleibst einfach bei der Kasse deiner Eltern — oder du wählst die erstbeste Option, die dir HR nennt. Beides kostet im Zweifel Geld oder Leistung, die du dir hättest sparen können.
