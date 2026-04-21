@@ -4,6 +4,28 @@ description: 'Wie werden ETF-Gewinne besteuert? Abgeltungssteuer, Vorabpauschale
 pubDate: '2026-04-13'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Auf ETF-Gewinne und Ausschüttungen fällt die Abgeltungssteuer von 25 % plus Solidaritätszuschlag an — effektiv 26,375 % ohne Kirchensteuer. Der Sparerpauschbetrag von 1.000 € pro Jahr (2.000 € für Ehepaare) bleibt mit Freistellungsauftrag steuerfrei. Auf Aktien-ETFs gilt die Teilfreistellung von 30 %, der effektive Steuersatz sinkt damit auf rund 18,5 %. Solange du nicht verkaufst, fällt nur die Vorabpauschale an.'
+faq:
+  - question: 'Wie hoch ist die Abgeltungssteuer auf ETF-Gewinne?'
+    answer: '25 % plus 5,5 % Solidaritätszuschlag darauf ergibt einen effektiven Satz von 26,375 %. Bei Aktien-ETFs greift die Teilfreistellung von 30 %, sodass der effektive Satz auf ca. 18,5 % sinkt. Hinzu kommt ggf. Kirchensteuer (8–9 %).'
+  - question: 'Was ist der Sparerpauschbetrag 2025?'
+    answer: '1.000 € pro Jahr für Ledige, 2.000 € für Ehepaare (Stand 2025). Kapitalerträge (Dividenden, Zinsen, Veräußerungsgewinne) bis zu dieser Grenze sind steuerfrei — vorausgesetzt, du hast einen Freistellungsauftrag bei deinem Broker eingerichtet.'
+  - question: 'Was passiert ohne Freistellungsauftrag?'
+    answer: 'Ohne Freistellungsauftrag führt der Broker Abgeltungssteuer ab dem ersten Euro Kapitalertrag automatisch ab. Du kannst den Freibetrag zwar über die Einkommensteuererklärung nachträglich geltend machen, aber das kostet Zeit und Nerven. Das Einrichten dauert online wenige Minuten.'
+  - question: 'Was ist die Vorabpauschale?'
+    answer: 'Eine jährliche Mindestbesteuerung auf thesaurierende ETFs, eingeführt mit der Investmentsteuerreform 2018. Berechnungsbasis ist der BMF-Basiszins multipliziert mit dem Fondswert. Der Broker führt die Steuer automatisch ab; beim späteren Verkauf werden bereits gezahlte Vorabpauschalen angerechnet, sodass keine Doppelbesteuerung entsteht.'
+  - question: 'Wann lohnt sich die Steuererklärung beim ETF-Depot?'
+    answer: 'Wenn dein persönlicher Steuersatz unter 25 % liegt (Günstigerprüfung), wenn du Verluste aus Vorjahren verrechnen willst oder wenn du Auslands-ETFs bzw. ausländische Broker nutzt. Bei deutschen Brokern mit korrektem Freistellungsauftrag ist eine Angabe in der Steuererklärung meist nicht nötig.'
+sources:
+  - title: '§ 20 EStG (Einkünfte aus Kapitalvermögen), § 32d EStG (Abgeltungssteuer)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Investmentsteuergesetz — Vorabpauschale, Teilfreistellung'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Basiszins zur Berechnung der Vorabpauschale'
+    publisher: 'Bundesministerium der Finanzen (BMF)'
+    year: 2025
 ---
 
 ETF-Sparplan eingerichtet, läuft — aber was passiert steuerlich? Viele Anleger beschäftigen sich erst damit, wenn der erste Steuerbescheid kommt. Dabei ist das System gar nicht kompliziert, wenn man die drei relevanten Begriffe kennt.

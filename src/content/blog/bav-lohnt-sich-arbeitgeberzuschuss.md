@@ -4,6 +4,28 @@ description: 'Lohnt sich die betriebliche Altersvorsorge? Was der Arbeitgeberzus
 pubDate: '2026-05-02'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Altersvorsorge'
+tldr: 'Die betriebliche Altersvorsorge funktioniert über Entgeltumwandlung: Beiträge bis 3.624 € pro Jahr (2025) sind steuer- und bis 7.248 € sozialabgabenfrei. Seit 2019 muss der Arbeitgeber bei Neuverträgen mindestens 15 % Zuschuss zahlen, wenn er durch die Umwandlung Sozialabgaben spart. Entscheidend für den Vorteil gegenüber einem ETF-Sparplan ist der Arbeitgeberzuschuss: Ab 25 % wird die bAV klar attraktiv, bei 50 % kaum zu schlagen. Im Alter fallen volle Kranken-/Pflegeversicherungsbeiträge und nachgelagerte Besteuerung an.'
+faq:
+  - question: 'Was ist Entgeltumwandlung?'
+    answer: 'Entgeltumwandlung bedeutet: Du verzichtest auf einen Teil deines Bruttogehalts, der direkt in einen Altersvorsorgevertrag eingezahlt wird. Bis 3.624 € pro Jahr (2025) ist der Beitrag steuer- und bis 7.248 € sozialabgabenfrei (§ 3 Nr. 63 EStG). Dadurch sinkt das steuerpflichtige Brutto und damit auch Steuer- und SV-Last.'
+  - question: 'Muss der Arbeitgeber einen Zuschuss zahlen?'
+    answer: 'Ja, bei Neuverträgen seit 2019 mindestens 15 % des umgewandelten Betrags (§ 1a Abs. 1a BetrAVG), sofern der Arbeitgeber durch die Umwandlung Sozialversicherungsbeiträge spart. Für Altverträge vor 2019 gilt das seit 2022. Viele Arbeitgeber zahlen freiwillig 20–50 %.'
+  - question: 'Wann lohnt sich die bAV im Vergleich zum ETF-Sparplan?'
+    answer: 'Bei 50 % Arbeitgeberzuschuss ist die bAV fast immer überlegen — der sofortige Renditehebel ist hoch. Bei 25–50 % in der Regel attraktiv, abhängig von den Produktkosten. Bei nur 15 % Pflichtzuschuss kommt es auf Produktqualität und individuelle Steuersituation an. Ohne Zuschuss ist ein ETF-Sparplan wegen niedrigerer Kosten und voller Flexibilität meist besser.'
+  - question: 'Wie wird die bAV-Rente im Alter besteuert?'
+    answer: 'Nachgelagert als Einkommen nach § 19 oder § 22 EStG (je nach Durchführungsweg). Zusätzlich fallen volle Beiträge zur gesetzlichen Kranken- und Pflegeversicherung an (aktuell rund 18 %, abhängig vom Zusatzbeitrag) — ein Punkt, der bei der Hochrechnung oft unterschätzt wird.'
+  - question: 'Was passiert mit der bAV bei Jobwechsel?'
+    answer: 'Der Vertrag kann zum neuen Arbeitgeber mitgenommen (Portabilität nach § 4 BetrAVG) oder beitragsfrei gestellt werden. Die Übertragung ist nicht immer verlustfrei, insbesondere bei Direktversicherungen mit hohen Abschlusskosten in den ersten Jahren. Vor einem Wechsel lohnt ein genauer Blick in den Vertrag.'
+sources:
+  - title: '§ 3 Nr. 63 EStG (Steuerfreiheit der Beiträge)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: '§ 1a BetrAVG (Arbeitgeberzuschuss von mindestens 15 %)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Betriebliche Altersvorsorge — Grundlagen und Durchführungswege'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2024
 ---
 
 Die betriebliche Altersvorsorge klingt nach einem geschenkten Vorteil: Steuern und Sozialabgaben sparen, und der Arbeitgeber zahlt auch noch dazu. Aber ob die bAV wirklich besser ist als ein privater ETF-Sparplan, hängt von mehreren Faktoren ab — vor allem von der Höhe des Arbeitgeberzuschusses und den Produktkosten.

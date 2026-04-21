@@ -4,6 +4,25 @@ description: 'Was ist Diversifikation, wie funktioniert Risikostreuung und warum
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Grundlagen'
+tldr: 'Diversifikation verteilt Kapital auf gering korrelierte Anlagen, um das unsystematische (unternehmensspezifische) Risiko zu reduzieren. Empirische Studien zeigen: Ab rund 20–30 Aktien aus verschiedenen Branchen sinkt das unsystematische Risiko deutlich, ab 50 Positionen nähert es sich dem reinen Marktrisiko. Ein weltweiter Aktien-ETF hält 1.500–8.000 Unternehmen — breit diversifiziert in einem Produkt. Systematisches Marktrisiko bleibt bestehen und wird durch die Marktrendite kompensiert.'
+faq:
+  - question: 'Was ist Diversifikation?'
+    answer: 'Diversifikation bedeutet, Kapital auf verschiedene Anlagen zu verteilen, die nicht alle gleichzeitig fallen. Ziel ist es, Schwankungen (Volatilität) zu reduzieren, ohne die erwartete Rendite entsprechend zu senken. Das funktioniert, wenn die Anlagen gering miteinander korreliert sind.'
+  - question: 'Was ist der Unterschied zwischen systematischem und unsystematischem Risiko?'
+    answer: 'Unsystematisches Risiko ist das Einzeltitelrisiko eines Unternehmens oder einer Branche — es lässt sich durch Diversifikation nahezu vollständig eliminieren. Systematisches Risiko ist das Marktrisiko (z.B. globale Rezession) — es trifft alle Anlagen gleichzeitig und bleibt immer bestehen. Für systematisches Risiko wird man durch die Marktrendite entschädigt, für unsystematisches nicht.'
+  - question: 'Wie viele Aktien braucht man für ausreichende Diversifikation?'
+    answer: 'Ab 20–30 Aktien aus verschiedenen Branchen sinkt das unsystematische Risiko deutlich (Studie Evans & Archer, 1968, bestätigt in späteren Arbeiten). Ab 50 Positionen nähert man sich dem reinen Marktrisiko. Ein weltweiter ETF mit 1.500–8.000 Unternehmen deckt das in einem Produkt ab.'
+  - question: 'Schützt Diversifikation vor Börsencrashs?'
+    answer: 'Nein. In globalen Finanzkrisen (2008, 2020) fallen die meisten Aktienmärkte weltweit gleichzeitig. Diversifikation über Aktien hinaus (Anleihen, Gold, Immobilien) dämpft diese Einbrüche, eliminiert sie aber nicht. Für langfristige Anleger ist das Marktrisiko kein Grund zum Ausstieg — sondern der Preis für die langfristig positive Aktienrendite.'
+  - question: 'Gilt Diversifikation auch bei der Altersvorsorge?'
+    answer: 'Ja, auf Systemebene. Wer den Ruhestand allein auf die gesetzliche Rente stützt, ist undiversifiziert gegenüber politischen und demografischen Risiken. Eine Kombination aus gesetzlicher Rente, bAV und privater Vorsorge (ETF, Versicherung) streut diese Risiken — ähnlich dem Drei-Säulen-Modell.'
+sources:
+  - title: 'Diversification and the Reduction of Dispersion (Evans & Archer)'
+    publisher: 'Journal of Finance'
+    year: 1968
+  - title: 'Modern Portfolio Theory (Markowitz)'
+    publisher: 'Journal of Finance'
+    year: 1952
 ---
 
 "Leg nicht alle Eier in einen Korb." Den Spruch kennt jeder. Aber in der Praxis machen erschreckend viele Berufseinsteiger genau das — kaufen drei Aktien, die sie persönlich mögen, und nennen das ein Portfolio.

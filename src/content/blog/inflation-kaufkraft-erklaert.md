@@ -4,6 +4,25 @@ description: 'Was ist Inflation, wie wirkt sie auf Kaufkraft und Ersparnisse, un
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Grundlagen'
+tldr: 'Inflation ist der allgemeine Anstieg des Preisniveaus — gemessen am Warenkorb des Statistischen Bundesamts. EZB-Zielwert: 2 % p.a. Bei 0,5 % Sparbuchzins und 2,5 % Inflation ergibt sich eine reale Rendite von −2 %. 10.000 € verlieren bei 3 % Inflation über 30 Jahre fast 60 % Kaufkraft (auf rund 4.120 € real). Aktien-ETFs und Sachwerte (Immobilien) haben historisch die Kaufkraft besser erhalten als Sparkonten, bieten aber keine Garantie.'
+faq:
+  - question: 'Was ist Inflation?'
+    answer: 'Inflation beschreibt den allgemeinen Anstieg des Preisniveaus über einen Zeitraum. Das Statistische Bundesamt misst sie monatlich anhand eines Warenkorbs aus typischen Waren und Dienstleistungen. Bei 3 % Inflation haben 100 € heute in einem Jahr noch die Kaufkraft von rund 97 €.'
+  - question: 'Wie hoch ist die Inflation in Deutschland aktuell?'
+    answer: 'Der langfristige EZB-Zielwert liegt bei 2 % pro Jahr. 2022/2023 lag die deutsche Verbraucherpreisinflation zeitweise über 8 % (Energiepreisschock, Lieferketten), 2024 hat sie sich wieder Richtung 2 %-Korridor bewegt. Aktuelle Monatswerte veröffentlicht Destatis.'
+  - question: 'Was ist die reale Rendite?'
+    answer: 'Reale Rendite = Nominalzins minus Inflation. Bei 0,5 % Sparbuchzins und 2,5 % Inflation ergibt sich eine reale Rendite von −2 % — dein Kapital verliert Kaufkraft, obwohl der nominale Kontostand stabil bleibt. Nur wer über der Inflationsrate Rendite erzielt, wächst real.'
+  - question: 'Welche Anlagen schützen vor Inflation?'
+    answer: 'Historisch haben breit gestreute Aktien-ETFs (5–7 % reale Rendite p.a. über lange Zeiträume), Immobilien (Mieten/Werte steigen tendenziell mit), inflationsindexierte Anleihen und Gold die Kaufkraft besser erhalten als Sparkonten. Keine dieser Anlagen garantiert Inflationsschutz — Sparbuch und Tagesgeld sind als Liquiditätspuffer sinnvoll, aber kein Schutz für langfristiges Kapital.'
+  - question: 'Warum muss ich Inflation bei der Altersvorsorge berücksichtigen?'
+    answer: 'Wer heute 2.500 € netto zum Leben braucht und in 40 Jahren in Rente geht, benötigt bei 2 % Inflation rund 5.500 € — für denselben Lebensstandard. Wer Inflation ignoriert, unterschätzt seinen Rentenbedarf massiv und plant an der Realität vorbei.'
+sources:
+  - title: 'Verbraucherpreisindex für Deutschland'
+    publisher: 'Statistisches Bundesamt (Destatis)'
+    year: 2024
+  - title: 'Preisstabilitätsziel der EZB (2 % symmetrisch)'
+    publisher: 'Europäische Zentralbank'
+    year: 2024
 ---
 
 100 Euro in der Tasche. Die Zahl ändert sich nicht. Aber was du dafür bekommst — das ändert sich jedes Jahr. Manchmal schnell, manchmal langsam. Das ist Inflation.
