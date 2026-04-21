@@ -4,6 +4,25 @@ description: 'Kann man mit 100 Euro im Monat wirklich Vermögen aufbauen? Konkre
 pubDate: '2026-05-15'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
+tldr: '100 € monatlich in einen breit gestreuten Welt-Aktien-ETF ergeben bei 7 % Rendite p.a. nach 40 Jahren rund 264.000 € — bei einer Einzahlungssumme von nur 48.000 €. Der Zinseszins trägt mehr bei als die eigentlichen Einzahlungen. Wer 10 Jahre später startet, landet bei rund 122.500 € — mehr als die Hälfte Endvermögen weggeschmolzen. Einstiegsschwelle bei Neobrokern: 25–50 € monatlich, Sparpläne auf breite ETFs sind bei den meisten Anbietern kostenfrei.'
+faq:
+  - question: 'Reichen 100 Euro im Monat für den Vermögensaufbau?'
+    answer: 'Für den Einstieg ja. Bei 7 % Rendite p.a. und 40 Jahren Laufzeit ergeben sich rund 264.000 € Endvermögen bei nur 48.000 € Einzahlung. Als alleinige Altersvorsorge reicht das je nach Einkommen nicht — empfohlen sind 10–20 % des Nettoeinkommens. 100 € sind ein guter Anfang, die Rate kann mit steigendem Einkommen erhöht werden.'
+  - question: 'Wie viel Unterschied macht es, 10 Jahre früher zu starten?'
+    answer: 'Erheblich. 100 € monatlich bei 7 % Rendite p.a.: 40 Jahre Laufzeit → rund 264.000 €. 30 Jahre Laufzeit → rund 122.500 €. 20 Jahre → rund 52.400 €. 10 Jahre früher starten verdoppelt im genannten Beispiel das Endvermögen annähernd — bei gleicher monatlicher Rate.'
+  - question: 'Wie richte ich einen ETF-Sparplan mit 100 Euro ein?'
+    answer: 'Vier Schritte: 1) Depot bei einem Neobroker (Trade Republic, Scalable) oder einer Direktbank (ING, DKB) eröffnen. 2) Einen breit diversifizierten ETF wählen (MSCI World, FTSE All-World). 3) Sparplan über 100 € monatlich einrichten, Ausführungsdatum festlegen. 4) Laufen lassen und in Kurstiefs nicht pausieren.'
+  - question: 'Welcher ETF eignet sich für 100 Euro monatlich?'
+    answer: 'Für Einsteiger reicht ein einzelner, breit diversifizierter Welt-ETF — MSCI World (23 Industrieländer, ~1.500 Unternehmen) oder FTSE All-World (inklusive Schwellenländer, ~3.500 Unternehmen). TER: 0,12–0,22 %. Bei den meisten Brokern ist der Sparplan auf diese ETFs kostenlos.'
+  - question: 'Ist die Annahme von 7 % Rendite realistisch?'
+    answer: '7 % entspricht der historischen Durchschnittsrendite des MSCI World über lange Zeiträume (nominale Rendite, vor Inflation). Real (nach Inflation) liegt die Rendite bei etwa 5 %. Es gab Jahrzehnte mit deutlich weniger und mit deutlich mehr Rendite — der Wert ist eine langfristige Orientierung, keine Garantie.'
+sources:
+  - title: 'Renditedreieck DAX/MSCI World (Historische Renditen)'
+    publisher: 'Deutsches Aktieninstitut (DAI)'
+    year: 2024
+  - title: 'MSCI World Index Factsheet'
+    publisher: 'MSCI Inc.'
+    year: 2025
 ---
 
 100 Euro im Monat — das klingt nach wenig. Zu wenig, um wirklich etwas zu erreichen. Aber die Mathematik zeigt: Wer früh anfängt und konsequent bleibt, baut damit mehr auf als viele, die mehr haben und spät anfangen.

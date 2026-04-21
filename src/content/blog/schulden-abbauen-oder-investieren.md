@@ -4,6 +4,25 @@ description: 'Soll ich erst Schulden abbauen oder gleichzeitig investieren? Die 
 pubDate: '2026-04-24'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Die Entscheidung Schulden tilgen vs. investieren entscheidet der Zinsvergleich: Schuldzins höher als erwartete Anlagerendite → tilgen. Historische Weltaktien-Rendite liegt bei rund 7 % p.a. Dispokredite (10–15 %) und Kreditkartenschulden (15–20 %) immer zuerst tilgen — das ist garantierte Rendite, die kein ETF bietet. BAföG-Darlehen (0–1,77 %) und KfW-Studienkredite können parallel zum Sparplan laufen. Vorher immer mindestens einen Mini-Notgroschen von einem Monatsgehalt aufbauen.'
+faq:
+  - question: 'Soll ich erst Schulden tilgen oder investieren?'
+    answer: 'Entscheidend ist der Zinssatz. Schuldzins höher als die erwartete Anlagerendite (Faustregel 7 % bei Welt-ETF) → zuerst tilgen. Schuldzins deutlich niedriger → paralleles Investieren sinnvoll. Hochverzinste Schulden (Dispo, Kreditkarte) immer zuerst tilgen, weil kein ETF dauerhaft 10–15 % p.a. liefert.'
+  - question: 'Wie hoch sind typische Schuldzinsen 2025?'
+    answer: 'Dispositionskredit: 10–15 % effektiv, Kreditkarten-Revolving: 15–20 %, Ratenkredite für Konsumenten: 5–12 %, KfW-Studienkredit: rund 5,8 %, BAföG-Darlehen für Neufälle: 0 % (zinsfrei), ältere BAföG-Darlehen teils 1,77 %. Aktuelle Werte veröffentlicht die Deutsche Bundesbank in den Zinsstatistiken.'
+  - question: 'Lohnt es sich, niedrigverzinste Schulden parallel zum Sparplan laufen zu lassen?'
+    answer: 'Ja, bei BAföG (0 %) und vergleichbaren Darlehen mit Zins deutlich unter 4 % ist paralleles Investieren mathematisch vorteilhaft. Dazu kommt der psychologische Effekt: frühzeitige Spargewohnheiten und genutzte Zinseszins-Jahre sind langfristig sehr wertvoll.'
+  - question: 'Was kommt vor der Schuldentilgung — der Notgroschen?'
+    answer: 'Ja. Reihenfolge: Erst Mini-Notgroschen (1 Monatsgehalt auf Tagesgeld), dann Hochzinsschulden tilgen, parallel ggf. kleiner Sparplan (50–100 €) zur Gewohnheitsbildung, dann voller Notgroschen (3 Monate), dann Haupt-Sparplan hochfahren. Ohne Notgroschen droht bei jedem unerwarteten Ereignis erneuter Dispo — Teufelskreis.'
+  - question: 'Was kostet es, 5 Jahre mit dem Investieren zu warten?'
+    answer: 'Erheblich. Wer mit 25 statt 30 startet und 200 € monatlich 40 statt 35 Jahre bei 7 % Rendite einzahlt, hat am Ende rund 525.000 € statt 360.000 € — ein Unterschied von rund 165.000 € bei nur 12.000 € zusätzlicher Einzahlung. Deshalb: Hochzinsschulden schnell tilgen, aber nicht jahrelang mit dem Sparplan warten.'
+sources:
+  - title: 'Zinsstatistiken (Kredite an private Haushalte)'
+    publisher: 'Deutsche Bundesbank'
+    year: 2024
+  - title: 'KfW-Studienkredit — Konditionen'
+    publisher: 'Kreditanstalt für Wiederaufbau (KfW)'
+    year: 2025
 ---
 
 Du hast einen Studienkredit, vielleicht einen Dispo-Rahmen, vielleicht eine Rate für das Fahrrad. Gleichzeitig willst du anfangen zu investieren. Was zuerst?

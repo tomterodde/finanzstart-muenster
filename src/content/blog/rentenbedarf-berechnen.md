@@ -4,6 +4,25 @@ description: 'Rentenbedarf berechnen: So findest du heraus, wie viel du im Alter
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
+tldr: 'Als Zielnettoeinkommen im Ruhestand gelten 70–80 % des letzten Nettos. Nach Abzug von Steuern und KV/PV bleiben von der gesetzlichen Bruttorente rund 75–80 % netto übrig. Die verbleibende Lücke wird über die 4%-Regel hochgerechnet: Benötigtes Zielkapital = Jahreslücke ÷ 0,04. Beispiel: 1.260 € Lücke pro Monat ergeben ein Zielkapital von rund 378.000 €. Bei 6 % Rendite p.a. und 35 Jahren Ansparzeit reichen rund 270 € Sparrate — bei nur 25 Jahren steigt die Rate auf rund 570 €.'
+faq:
+  - question: 'Wie viel Nettoeinkommen brauche ich im Alter?'
+    answer: 'Als Faustregel 70–80 % des letzten Nettos. Einige Kosten entfallen im Alter (Altersvorsorgebeiträge, Berufskleidung, Pendeln), dafür steigen Gesundheits- und Freizeitkosten. Wer heute 2.800 € netto verdient, kalkuliert mit rund 2.200 € Zielnettoeinkommen im Ruhestand.'
+  - question: 'Wie hoch sind die Abzüge auf die gesetzliche Rente?'
+    answer: 'Auf die Bruttorente fallen KV- und PV-Beiträge (aktuell rund 10–12 % zusammen) sowie Einkommensteuer an — Letztere steigt jährlich: Wer 2025 in Rente geht, versteuert 83,5 % der Rente, ab 2040 werden es 100 % sein (Rentenbesteuerungsgesetz). Grobe Faustregel: 20–25 % Abzüge auf die Bruttorente.'
+  - question: 'Was ist die 4%-Regel?'
+    answer: 'Die 4%-Regel (Trinity Study, 1998) besagt, dass ein diversifiziertes Aktien-/Anleihen-Portfolio eine jährliche Entnahme von 4 % des Startkapitals rund 30 Jahre aushält, ohne real aufgebraucht zu werden. Sie basiert auf historischen US-Marktdaten. Für Deutschland wird wegen höherer Steuer- und Kostenbelastung oft konservativer mit 3,0–3,5 % gerechnet.'
+  - question: 'Wie berechne ich meinen Rentenbedarf in vier Schritten?'
+    answer: 'Schritt 1: Zielnettoeinkommen im Alter festlegen (70–80 % des letzten Nettos). Schritt 2: Erwartete Nettorente abziehen (Renteninformation der DRV, minus 20–25 % Abzüge). Schritt 3: Monatliche Lücke × 12 ÷ 0,04 = benötigtes Zielkapital. Schritt 4: Monatliche Sparrate aus Zielkapital, Zeithorizont und angenommener Rendite berechnen.'
+  - question: 'Berücksichtigt die Rechnung die Inflation?'
+    answer: 'Nein — die Basisrechnung arbeitet mit heutigen Euro. Wer Inflation explizit einplanen will, nutzt eine reale (inflationsbereinigte) Renditeannahme von etwa 4–5 % statt 6–7 % nominal, oder rechnet das Zielnettoeinkommen mit erwarteter Inflationsrate auf den Renteneintritt hoch.'
+sources:
+  - title: 'Retirement Savings: Choosing a Withdrawal Rate That Is Sustainable (Trinity Study)'
+    publisher: 'American Association of Individual Investors (AAII) — Cooley, Hubbard, Walz'
+    year: 1998
+  - title: 'Rentenversicherungsbericht 2024 (Nettorente und Rentenbesteuerung)'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2024
 ---
 
 "Ich muss für die Rente sparen" — das wissen die meisten. Aber wie viel? Diese Frage bleibt meistens unbeantwortet, weil sie unangenehm konkret wird.

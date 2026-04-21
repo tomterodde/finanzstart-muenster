@@ -4,6 +4,28 @@ description: 'Sondervermögen einfach erklärt: Was der Begriff bedeutet, warum 
 pubDate: '2026-05-26'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Fonds und ETFs sind in Deutschland rechtlich als Sondervermögen organisiert (Kapitalanlagegesetzbuch, OGAW-/UCITS-Richtlinie EU-weit). Das Anlegergeld ist strikt vom Vermögen der Kapitalverwaltungsgesellschaft und der Verwahrstelle getrennt — bei deren Insolvenz bleibt das Fondsvermögen unangetastet. Wichtige Ausnahme: ETCs, ETNs und Zertifikate sind Schuldverschreibungen mit vollem Emittentenrisiko. Marktrisiko (Kursschwankungen) bleibt in jedem Fall bei den Anlegern.'
+faq:
+  - question: 'Was ist Sondervermögen?'
+    answer: 'Sondervermögen ist ein rechtlicher Schutzmechanismus nach Kapitalanlagegesetzbuch (KAGB) und EU-OGAW-Richtlinie. Das Fondsvermögen wird strikt vom Vermögen der Kapitalverwaltungsgesellschaft (KVG) getrennt und von einer unabhängigen Verwahrstelle aufbewahrt. Anleger sind rechtliche Miteigentümer des Fondsvermögens — die KVG verwaltet nur.'
+  - question: 'Was passiert, wenn die Fondsgesellschaft pleite geht?'
+    answer: 'Das Fondsvermögen ist insolvenzgeschützt, weil es nicht zum Vermögen der Kapitalverwaltungsgesellschaft gehört. Gläubiger der KVG können nicht darauf zugreifen. Im Insolvenzfall wird die Verwaltung auf eine andere KVG übertragen oder das Fondsvermögen an die Anleger ausgezahlt. Dein ETF bleibt wirtschaftlich erhalten.'
+  - question: 'Sind ETCs (Gold-ETCs) auch Sondervermögen?'
+    answer: 'Nein. ETCs (Exchange Traded Commodities) und ETNs (Exchange Traded Notes) sind rechtlich Schuldverschreibungen des Emittenten. Geht der Emittent pleite, bist du ungesicherter Gläubiger. Seriöse Gold-ETCs (z.B. Xetra-Gold) sichern zwar durch Gold-Hinterlegung ab — der Schutzmechanismus ist aber anders und nicht gleichzusetzen mit Sondervermögen eines UCITS-ETFs.'
+  - question: 'Schützt Sondervermögen vor Kursverlusten?'
+    answer: 'Nein. Sondervermögen schützt nur vor Insolvenzrisiken der Fondsgesellschaft und Depotbank. Das Marktrisiko — also Kursschwankungen der Aktien, Anleihen oder anderen Wertpapiere im Fonds — tragen weiterhin die Anleger. Genau dieses Marktrisiko ist auch die Grundlage für die erwartete Rendite.'
+  - question: 'Woran erkenne ich, dass mein ETF Sondervermögen ist?'
+    answer: 'An der Kennzeichnung "UCITS" (Undertakings for Collective Investment in Transferable Securities) im Fondsnamen oder Factsheet. Alle in der EU zugelassenen ETFs und offenen Investmentfonds sind UCITS-konform und damit Sondervermögen. Bezeichnungen wie "ETC", "ETN", "Zertifikat" oder "Index-Note" weisen dagegen auf Schuldverschreibungen hin.'
+sources:
+  - title: 'Kapitalanlagegesetzbuch (KAGB) — §§ 92 ff. Sondervermögen'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'OGAW-Richtlinie 2009/65/EG (UCITS)'
+    publisher: 'Europäische Union'
+    year: 2024
+  - title: 'Anlegerinformationen zu Fonds und ETFs'
+    publisher: 'Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)'
+    year: 2024
 ---
 
 "Was passiert mit meinem ETF, wenn die Fondsgesellschaft pleite geht?" Diese Frage taucht regelmäßig auf, wenn Berufseinsteiger zum ersten Mal Geld in einen Fonds stecken. Die beruhigende Antwort: rechtlich praktisch nichts. Der Grund heißt **Sondervermögen**.

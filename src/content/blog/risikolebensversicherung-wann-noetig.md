@@ -4,6 +4,25 @@ description: 'Wann brauche ich eine Risikolebensversicherung? Was sie kostet, wa
 pubDate: '2026-04-28'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'
+tldr: 'Die Risikolebensversicherung (RLV) zahlt eine vereinbarte Summe an Hinterbliebene, wenn der Versicherte während der Laufzeit stirbt. Kein Sparanteil, kein Rückkaufswert — dadurch günstig: gesunde 30-Jährige zahlen für 300.000 € Versicherungssumme und 20 Jahre Laufzeit oft 10–20 € monatlich. Unverzichtbar bei Kindern, Immobilienkredit oder unverheirateten Paaren. Faustregel Versicherungssumme: 3–5 Jahresnettogehälter plus Restschuld. Kapitallebensversicherungen sind wegen Kostenstruktur selten empfehlenswert — RLV plus ETF-Sparplan ist transparenter.'
+faq:
+  - question: 'Wer braucht eine Risikolebensversicherung?'
+    answer: 'Primär: Eltern mit Kindern, Paare mit Immobilienkredit, unverheiratete Paare (keine gesetzliche Hinterbliebenenrente), Alleinverdiener-Haushalte. Ziel ist immer, Personen abzusichern, die wirtschaftlich vom eigenen Einkommen abhängen, oder Kredite, die sonst die Hinterbliebenen belasten würden.'
+  - question: 'Wie hoch sollte die Versicherungssumme sein?'
+    answer: 'Faustregel: 3–5 Jahresnettogehälter des abgesicherten Einkommens plus Restschuld eines Immobilienkredits. Bei 35.000 € Jahresnetto und 250.000 € Restschuld ergibt sich ein Bedarf von rund 350.000–425.000 €. Bei einem Immobilienkredit kann eine annuitätisch fallende Versicherungssumme (sinkt mit der Restschuld) die Prämie reduzieren.'
+  - question: 'Was kostet eine Risikolebensversicherung?'
+    answer: 'Für gesunde Nichtraucher zwischen 30 und 40 liegen Jahresprämien typischerweise bei 100–250 € bei 300.000 € Versicherungssumme und 20 Jahren Laufzeit. Raucher zahlen meist das 2- bis 3-fache. Vorerkrankungen führen je nach Schwere zu Zuschlägen oder Ausschlüssen.'
+  - question: 'Sollte ich eine Kapitallebensversicherung abschließen?'
+    answer: 'Meist nein. Kombiprodukte mit Sparanteil (Kapital-/Renten-Lebensversicherung) haben hohe Kosten und sind intransparent. Sinnvoller ist die Trennung: günstige reine Risikolebensversicherung für den Todesfallschutz plus ETF-Sparplan für den Vermögensaufbau — jedes Produkt tut dann, was es am besten kann.'
+  - question: 'Muss der Begünstigte namentlich genannt werden?'
+    answer: 'Ja, insbesondere bei unverheirateten Paaren und komplexen Familienkonstellationen. Ohne namentliche Benennung fällt die Leistung in den Nachlass und kann durch gesetzliche Erbfolge an andere Personen gehen. Das widerrufliche Bezugsrecht im Vertrag regelt das eindeutig.'
+sources:
+  - title: 'Versicherungsvertragsgesetz (VVG) — Lebensversicherung'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'GDV-Statistik Lebensversicherung'
+    publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
+    year: 2024
 ---
 
 Die Risikolebensversicherung ist eine der günstigsten Versicherungen überhaupt — und gleichzeitig eine der wichtigsten, wenn sie gebraucht wird. Aber sie wird nicht von jedem gebraucht.

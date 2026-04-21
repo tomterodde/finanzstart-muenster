@@ -4,6 +4,25 @@ description: 'Was ist Rebalancing, warum ist es wichtig — und wie oft sollte m
 pubDate: '2026-05-19'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Rebalancing bringt ein Multi-Asset-Portfolio auf die ursprüngliche Zielgewichtung zurück, etwa von 80/20 MSCI World zu Emerging Markets wieder auf geplante 70/30. Für Einzel-ETF-Anleger (MSCI World, FTSE All-World) nicht nötig — der Indexanbieter gewichtet automatisch. Empfohlene Frequenz: einmal jährlich oder bei ±5 % Abweichung. Steuerschonend: Neueinzahlungen in die untergewichtete Position lenken, statt zu verkaufen.'
+faq:
+  - question: 'Was ist Rebalancing im ETF-Portfolio?'
+    answer: 'Rebalancing bedeutet, die Gewichtung der einzelnen Positionen auf die ursprünglich geplante Aufteilung zurückzuführen. Wenn z.B. aus einem 70/30-Portfolio MSCI World / Emerging Markets durch Kursentwicklung ein 80/20 geworden ist, werden MSCI-World-Anteile verkauft und Emerging-Markets-Anteile gekauft, bis die Zielallokation wiederhergestellt ist.'
+  - question: 'Muss ich bei einem einzelnen Welt-ETF rebalancen?'
+    answer: 'Nein. Bei einem einzelnen MSCI-World- oder FTSE-All-World-ETF übernimmt der Indexanbieter die interne Gewichtung automatisch — Apple, Microsoft und andere Indexbestandteile werden regelmäßig neu gewichtet. Rebalancing durch dich ist nur nötig, wenn du mehrere ETFs mit fester Zielallokation kombinierst.'
+  - question: 'Wie oft sollte ich rebalancen?'
+    answer: 'Zwei etablierte Ansätze: zeitbasiert (einmal jährlich) oder schwellenwertbasiert (bei Abweichung von mehr als ±5 % von der Zielgewichtung). Für Privatanleger reicht jährlich — häufigere Anpassungen erhöhen Transaktionskosten und steuerpflichtige Realisierungen ohne nennenswerten Nutzen.'
+  - question: 'Wie rebalance ich steuerschonend?'
+    answer: 'Neue Einzahlungen gezielt in die untergewichtete Position lenken, statt Anteile der übergewichteten Position zu verkaufen. Das vermeidet Abgeltungssteuer von 26,375 % auf realisierte Gewinne. In der Ansparphase reicht das meist aus; erst in der Entnahmephase oder bei starker Drift wird aktiv verkauft.'
+  - question: 'Verbessert Rebalancing die Rendite?'
+    answer: 'Leicht — Studien zeigen, dass regelmäßiges Rebalancing die risikogewichtete Rendite über lange Zeiträume etwas verbessern kann (Vanguard Research: "Best Practices for Portfolio Rebalancing", 2010). Der Effekt ist gering, aber die Risikokontrolle und Disziplin (antizyklisches Handeln) sind der Hauptnutzen.'
+sources:
+  - title: 'Best Practices for Portfolio Rebalancing'
+    publisher: 'Vanguard Research'
+    year: 2010
+  - title: 'MSCI World Index Factsheet'
+    publisher: 'MSCI Inc.'
+    year: 2025
 ---
 
 Wer ein Portfolio aus mehreren ETFs hat (z. B. MSCI World + Emerging Markets), merkt nach einigen Jahren: Die ursprüngliche Aufteilung stimmt nicht mehr. Aktien, die gut gelaufen sind, machen jetzt mehr aus als geplant — andere weniger. Das nennt man Drift, und Rebalancing ist die Lösung.

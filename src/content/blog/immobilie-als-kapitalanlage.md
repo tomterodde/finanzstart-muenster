@@ -4,6 +4,28 @@ description: 'Immobilie als Kapitalanlage: Wann lohnt sich eine vermietete Wohnu
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Eine Kapitalanlage-Immobilie rechnet sich, wenn die Nettomietrendite (nach Bewirtschaftungskosten, Instandhaltungsrücklage und Steuern) attraktiv bleibt — typischerweise 1,5–2,5 % aus einer Bruttorendite von 4 %. In Münster liegen die Kaufpreisfaktoren (Kaufpreis ÷ Jahreskaltmiete) derzeit bei 25–35, was die Mietrendite deutlich drückt. Kaufnebenkosten in NRW: 6,5 % Grunderwerbsteuer + rund 2 % Notar/Grundbuch, plus ggf. bis 3,57 % Makler. Abschreibung (AfA): 2 % p.a. für Bestand, 3 % für Neubauten ab 2023.'
+faq:
+  - question: 'Was ist der Unterschied zwischen Brutto- und Nettomietrendite?'
+    answer: 'Bruttomietrendite = Jahreskaltmiete ÷ Kaufpreis × 100. Nettomietrendite zieht davon alle Kosten ab: nicht umlagefähige Nebenkosten, Instandhaltungsrücklage (Faustregel 1–1,5 €/m² monatlich), Mietausfälle, Kreditzinsen und Steuern. Aus 4 % Bruttorendite werden oft nur 1,5–2,5 % netto — die Bruttorendite ist als Entscheidungsgrundlage ungeeignet.'
+  - question: 'Was ist der Kaufpreisfaktor?'
+    answer: 'Kaufpreis geteilt durch Jahreskaltmiete. Faktor unter 20: günstig, attraktive Mietrendite; Faktor 20–25: marktüblich; Faktor über 30: teuer, Rendite läuft nur über erhoffte Wertsteigerung. In Münster liegen die Faktoren für gute Lagen derzeit bei 25–35.'
+  - question: 'Welche Kaufnebenkosten fallen in NRW an?'
+    answer: 'Grunderwerbsteuer NRW: 6,5 % des Kaufpreises. Notar und Grundbuch: rund 1,5–2 %. Makler (wenn beteiligt): 3,57 % für den Käufer bei hälftiger Teilung. Gesamt: rund 10–12 % Kaufnebenkosten, die zusätzlich zum Kaufpreis finanziert werden müssen.'
+  - question: 'Wie wird eine vermietete Immobilie steuerlich behandelt?'
+    answer: 'Mieteinnahmen werden mit dem persönlichen Einkommensteuersatz versteuert (§ 21 EStG). Abziehbar sind Kreditzinsen, Verwaltung, Instandhaltung und die lineare Abschreibung (AfA): 2 % vom Gebäudewert pro Jahr (§ 7 Abs. 4 EStG), für Neubauten ab 2023 3 %. Gewinne aus dem Verkauf sind nach 10 Jahren Haltedauer steuerfrei (§ 23 EStG).'
+  - question: 'Was ist die bessere Geldanlage — Immobilie oder ETF-Sparplan?'
+    answer: 'Beide haben unterschiedliche Profile. Immobilie: hoher Kapitalbedarf, Hebel durch Kredit, Klumpenrisiko, AfA-Vorteil, aktiver Aufwand. ETF-Sparplan: niedriger Einstieg, breite Diversifikation, sehr liquide, passiv, historisch höhere Rendite (7–9 % MSCI World). Welche Kombination passt, hängt von Startkapital, Steuersituation und Zeitbudget ab — pauschal besser ist keines.'
+sources:
+  - title: '§ 21 EStG (Einkünfte aus Vermietung), § 7 EStG (Abschreibung)'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Wohnungsmarktbericht Münster'
+    publisher: 'Stadt Münster, Amt für Stadtentwicklung'
+    year: 2024
+  - title: 'Immobilienpreisindex für Wohnimmobilien'
+    publisher: 'Deutsche Bundesbank'
+    year: 2024
 ---
 
 "Immobilien sind die sicherste Geldanlage." Diesen Satz hört man oft — von Eltern, von Kollegen, manchmal sogar von Bankberatern. Er ist nicht falsch. Aber er ist auch nicht vollständig.
