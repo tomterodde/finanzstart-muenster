@@ -4,6 +4,28 @@ description: 'Betriebliche Altersvorsorge einfach erklärt: Wie bAV funktioniert
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Altersvorsorge'
+tldr: 'Die bAV nach § 1a BetrAVG erlaubt Entgeltumwandlung: Bis zu 8 % der Beitragsbemessungsgrenze der gesetzlichen Rentenversicherung (2025: 7.728 €/Jahr) fließen steuerfrei (§ 3 Nr. 63 EStG) und bis 4 % (3.864 €/Jahr) sozialabgabenfrei in die Altersvorsorge. Für nach 2019 abgeschlossene Verträge ist der Arbeitgeber zum Pflichtzuschuss von mindestens 15 % des umgewandelten Beitrags verpflichtet, wenn er Sozialversicherungsbeiträge spart (§ 1a Abs. 1a BetrAVG). Hauptnachteile: nachgelagerte volle Besteuerung im Rentenbezug, GKV-Pflichtbeiträge auf die bAV-Rente (Freibetrag 2025: 187,25 €/Monat, § 226 SGB V).'
+faq:
+  - question: 'Was ist die betriebliche Altersvorsorge?'
+    answer: 'Die bAV ist ein Altersvorsorge-Baustein, bei dem der Arbeitgeber für den Arbeitnehmer einen Versorgungsvertrag abschließt — entweder über Entgeltumwandlung (Beiträge aus dem Bruttogehalt) oder arbeitgeberfinanziert. Rechtsgrundlage: Betriebsrentengesetz (BetrAVG). Fünf Durchführungswege: Direktversicherung, Pensionskasse, Pensionsfonds, Unterstützungskasse, Direktzusage. Für Berufseinsteiger sind die ersten drei praxisrelevant.'
+  - question: 'Wie hoch ist der Arbeitgeberzuschuss zur bAV?'
+    answer: 'Für Verträge ab 2019 gilt ein gesetzlicher Pflichtzuschuss von 15 % des umgewandelten Beitrags (§ 1a Abs. 1a BetrAVG), sofern der Arbeitgeber durch die Entgeltumwandlung Sozialabgaben spart. Seit 2022 gilt das auch für Altverträge. Viele Arbeitgeber zahlen freiwillig höhere Zuschüsse (30–50 %), besonders bei Gehaltsverhandlungen verhandelbar.'
+  - question: 'Wie viel kann ich in die bAV einzahlen?'
+    answer: 'Steuerfrei bis zu 8 % der Beitragsbemessungsgrenze der gesetzlichen Rentenversicherung nach § 3 Nr. 63 EStG — 2025 sind das 7.728 € jährlich. Sozialabgabenfrei nur die Hälfte davon (4 % = 3.864 €). Darüber hinausgehende Beiträge sind zwar möglich, werden aber voll belastet. Für Einsteiger praktikabel: 50–200 € monatlich, abhängig von Arbeitgeberzuschuss.'
+  - question: 'Was passiert mit der bAV bei Jobwechsel?'
+    answer: 'Unverfallbare Anwartschaften (nach 3 Jahren Betriebszugehörigkeit und ab 21. Lebensjahr, § 1b BetrAVG) bleiben beim alten Arbeitgeber liegen ("ruhen") oder werden auf den neuen Arbeitgeber übertragen, wenn beide Seiten zustimmen (Portabilität). In der Praxis ist eine verlustfreie Übertragung nicht immer möglich — besonders bei verschiedenen Durchführungswegen. Bei häufigen Jobwechseln Fragmentierung der Ansprüche beachten.'
+  - question: 'Lohnt sich die bAV für Berufseinsteiger?'
+    answer: 'Abhängig vom Arbeitgeberzuschuss: Ab 30 % Zuschuss rechnet sich die bAV fast immer gegenüber einem privaten ETF-Sparplan, weil der Zuschuss einen sofortigen Renditebonus darstellt. Bei nur 15 % gesetzlichem Minimum und niedrigem Einkommen kann ein flexibler ETF-Sparplan gleichwertig sein — die bAV-Rente wird im Alter voll besteuert und mit GKV-Beiträgen belastet. Entscheidung hängt von konkretem Tarif und Laufzeit ab.'
+sources:
+  - title: 'Betriebsrentengesetz (BetrAVG) §§ 1a, 1b'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Einkommensteuergesetz (EStG) § 3 Nr. 63'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Alterssicherungsbericht — Verbreitung und Höhe der bAV'
+    publisher: 'Bundesministerium für Arbeit und Soziales (BMAS)'
+    year: 2024
 ---
 
 Wenn du deinen ersten Job antritts, fragt dich die HR vielleicht, ob du an der betrieblichen Altersvorsorge teilnehmen möchtest. Klingt gut. Aber was steckt dahinter, und lohnt es sich wirklich?

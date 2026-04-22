@@ -4,6 +4,28 @@ description: 'Dividenden-ETF oder thesaurierender ETF — was lohnt sich für Be
 pubDate: '2026-04-30'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Vermögensaufbau'
+tldr: 'In der Ansparphase sind thesaurierende ETFs steuerlich meist überlegen: Dividenden werden fondsintern reinvestiert, ohne sofortige Abgeltungssteuer von 26,375 % (inkl. Soli, § 32d EStG) zu auslösen — voller Zinseszinseffekt bleibt erhalten. Bei ausschüttenden Dividenden-ETFs wird jede Ausschüttung nach Ausschöpfung des Sparerpauschbetrags (1.000 €/Jahr, § 20 Abs. 9 EStG) sofort besteuert. Rechenbeispiel: Bei 50.000 € Startkapital, 7 % Gesamtrendite und 3 % Dividendenquote summiert sich der steuerliche Nachteil über 20 Jahre auf 8.000–12.000 €. Dividenden-ETFs wie MSCI World High Dividend filtern gezielt — Wachstumsunternehmen fallen raus, was Gesamtrendite drückt.'
+faq:
+  - question: 'Was ist der Unterschied zwischen thesaurierenden und ausschüttenden ETFs?'
+    answer: 'Thesaurierende ETFs (z.B. iShares Core MSCI World IE00B4L5Y983) reinvestieren Dividenden fondsintern — der Fondsanteil wächst im Wert, es gibt keine Barausschüttung. Ausschüttende ETFs (z.B. Vanguard FTSE All-World IE00B3RBWM25) zahlen Dividenden quartalsweise oder jährlich an die Anleger aus. Wirtschaftlich besitzt du in beiden Fällen dasselbe Vermögen — steuerlich und renditetechnisch gibt es aber Unterschiede.'
+  - question: 'Warum sind thesaurierende ETFs steuerlich besser?'
+    answer: 'Bei thesaurierenden ETFs fällt jährlich nur die Vorabpauschale nach § 18 InvStG an (meist sehr gering bei aktuellen Zinsen), die echte Steuerlast wird auf den Verkaufszeitpunkt verschoben. Bei ausschüttenden ETFs wird jede Dividende sofort mit 26,375 % Abgeltungssteuer belastet — Zinseszins wirkt auf den geringeren Nettobetrag. Über 20 Jahre summiert sich der Effekt bei 3 % Dividendenrendite auf rund 10 % weniger Endvermögen.'
+  - question: 'Wann sind Dividenden-ETFs sinnvoll?'
+    answer: 'In drei Situationen: 1) Entnahmephase im Rentenalter — regelmäßige Ausschüttungen ohne Anteilsverkauf. 2) Niedrige Einkommenssituation, in der Sparerpauschbetrag (1.000 €/Jahr) nicht ausgeschöpft wird und steuerfreie Ausschüttungen möglich sind. 3) Psychologischer Vorteil — wer durch sichtbare Ausschüttungen motiviert wird, das Sparen durchzuhalten. Für reine Ansparphase ist thesaurierend meistens überlegen.'
+  - question: 'Was ist ein Dividenden-ETF und wie unterscheidet er sich?'
+    answer: 'Ein "echter" Dividenden-ETF (z.B. MSCI World High Dividend Yield, SPDR S&P Global Dividend Aristocrats) filtert aus dem Gesamtmarkt gezielt Unternehmen mit hoher Dividendenrendite (typisch >3–4 %). Kritikpunkt: Wachstumsunternehmen wie Tech-Werte (Amazon, Alphabet zahlten jahrelang keine oder nur kleine Dividenden) fallen raus. Historisch hat der MSCI World High Dividend den MSCI World über lange Zeiträume underperformt — Dividendenrendite ist kein Rendite-Hack.'
+  - question: 'Wie hoch ist die Abgeltungssteuer auf ETF-Dividenden?'
+    answer: 'Pauschal 25 % Kapitalertragsteuer zuzüglich 5,5 % Solidaritätszuschlag, also effektiv 26,375 %; plus ggf. Kirchensteuer (8–9 %). Berechnungsgrundlage sind 70 % der Ausschüttung bei Aktien-ETFs (Teilfreistellung nach § 20 Abs. 1 Nr. 3 InvStG). Effektive Steuerbelastung auf ETF-Dividenden: rund 18,46 % inkl. Teilfreistellung und Soli. Bis zum Sparerpauschbetrag von 1.000 € bzw. 2.000 € (Ehepaare) steuerfrei.'
+sources:
+  - title: 'Einkommensteuergesetz (EStG) §§ 20, 32d Abgeltungssteuer'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Investmentsteuergesetz (InvStG) §§ 18, 20 Vorabpauschale und Teilfreistellung'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Factsheet MSCI World High Dividend Yield Index'
+    publisher: 'MSCI Inc.'
+    year: 2024
 ---
 
 Dividenden klingen gut — regelmäßige Auszahlungen, passives Einkommen, Gefühl von "mein Geld arbeitet für mich". Aber ist ein Dividenden-ETF für den langfristigen Vermögensaufbau wirklich besser als ein thesaurierender ETF? Die ehrliche Antwort ist: meistens nein — zumindest für Berufseinsteiger.

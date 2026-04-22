@@ -4,6 +4,28 @@ description: 'Was ist das CAPM, wie funktioniert das Capital Asset Pricing Model
 pubDate: '2026-05-25'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Das Capital Asset Pricing Model (Sharpe 1964, Lintner 1965, Mossin 1966; Nobelpreis für Sharpe 1990) quantifiziert den Zusammenhang zwischen Risiko und erwarteter Rendite: Erwartete Rendite = risikofreier Zins + Beta × Marktrisikoprämie. Historische Marktrisikoprämie (MSCI World vs. 10-Jahres-Bund): rund 5–7 % p.a. Kerneinsicht: Nur systematisches (nicht-diversifizierbares) Risiko wird vom Markt belohnt — Einzelwettrisiken sind durch Diversifikation eliminierbar und verdienen keine Prämie. Das CAPM ist Grundlage für Indexfonds-Theorie, Fama-French-Mehrfaktorenmodelle und jede ernsthafte Portfolio-Allokation.'
+faq:
+  - question: 'Was ist das CAPM einfach erklärt?'
+    answer: 'Das Capital Asset Pricing Model ist eine Formel, die erklärt, welche Rendite eine Anlage je nach ihrem Risiko erwarten lassen sollte. Kernaussage: Erwartete Rendite = risikofreier Zins + Beta × (Marktrendite − risikofreier Zins). Je stärker eine Aktie mit dem Gesamtmarkt schwankt (höheres Beta), desto höher muss die erwartete Rendite sein. Entwickelt von William Sharpe (Nobelpreis 1990).'
+  - question: 'Was bedeutet Beta bei Aktien?'
+    answer: 'Beta misst, wie stark eine Aktie relativ zum Gesamtmarkt schwankt: Beta = 1 bedeutet identische Schwankungen wie der Markt; Beta > 1 stärkere Schwankungen (Tech-Aktien oft 1,3–1,8); Beta < 1 geringere Schwankungen (Versorger und Konsumgüter 0,5–0,8); Beta < 0 gegenläufige Bewegung (sehr selten). Beta ist der zentrale Risikoparameter im CAPM und wird aus historischen Kursdaten geschätzt.'
+  - question: 'Wie hoch ist die Marktrisikoprämie historisch?'
+    answer: 'Historisch liegt die Marktrisikoprämie für den MSCI World gegenüber kurzlaufenden Staatsanleihen bonitätsstarker Emittenten bei rund 5–7 % p.a. (Dimson/Marsh/Staunton Global Investment Returns Yearbook). Deutsche Bundesanleihen als risikofreier Zins lagen 2024 bei 2,3–2,8 %; die erwartete Marktrendite daraus folgt bei 8–10 %. Diese Größen sind langfristige Durchschnittswerte, nicht garantiert.'
+  - question: 'Was ist der Unterschied zwischen systematischem und unsystematischem Risiko?'
+    answer: 'Systematisches Risiko betrifft den ganzen Markt (Konjunktur, Zinsen, Inflation) und ist nicht wegdiversifizierbar — dafür zahlt der Markt eine Risikoprämie. Unsystematisches Risiko betrifft einzelne Unternehmen (Managementfehler, Produkthaftung, Bilanzskandal) und lässt sich durch Diversifikation eliminieren (Evans & Archer 1968: bereits 15–20 Aktien eliminieren den Großteil). Das CAPM belohnt nur systematisches Risiko.'
+  - question: 'Warum ist das CAPM für Privatanleger relevant?'
+    answer: 'Drei praktische Konsequenzen: 1) Hohe Renditeerwartung erfordert hohes Risiko — "sichere Hochzinsanlagen" gibt es nicht. 2) Einzelaktien bieten keine höhere erwartete Rendite als ein ETF mit gleichem Beta; das zusätzliche unsystematische Risiko wird nicht kompensiert — Argument für breite ETFs. 3) Das richtige Beta hängt von Anlagehorizont und Risikotragfähigkeit ab — junge Anleger können höhere Beta-Werte tragen.'
+sources:
+  - title: 'Capital Asset Prices: A Theory of Market Equilibrium'
+    publisher: 'William F. Sharpe, Journal of Finance'
+    year: 1964
+  - title: 'Global Investment Returns Yearbook — Market Risk Premium'
+    publisher: 'Dimson, Marsh & Staunton (UBS)'
+    year: 2024
+  - title: 'Common Risk Factors in the Returns on Stocks and Bonds (Fama-French)'
+    publisher: 'Eugene Fama & Kenneth French, Journal of Financial Economics'
+    year: 1993
 ---
 
 Das Capital Asset Pricing Model — kurz CAPM — ist die wohl berühmteste Formel der Kapitalmarkttheorie. Sie hat einem der Autoren, William Sharpe, 1990 den Nobelpreis eingebracht.

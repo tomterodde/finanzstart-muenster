@@ -4,6 +4,28 @@ description: 'Horizontale, vertikale und laterale Diversifikation: Was die drei 
 pubDate: '2026-05-27'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Das Ansoff-Schema (H. Igor Ansoff, 1957) unterscheidet drei Diversifikationstypen: horizontal (dieselbe Wertschöpfungsstufe, breitere Produktpalette), vertikal (entlang der Wertschöpfungskette nach vorne oder hinten) und lateral (komplett neue Geschäftsfelder). Übertragen aufs Portfolio: Horizontal = breiter Welt-ETF mit 1.500+ Unternehmen (eliminiert unsystematisches Risiko nach Markowitz 1952 fast vollständig). Lateral = Mix verschiedener Anlageklassen (Aktien, Anleihen, Immobilien, Gold — reduziert systematisches Marktrisiko). Vertikal-inspiriert = Verteilung über Wirtschaftssektoren. Evans & Archer (1968) zeigten: Bereits 15–20 zufällig gewählte Aktien eliminieren den Großteil des unsystematischen Risikos.'
+faq:
+  - question: 'Was ist horizontale Diversifikation?'
+    answer: 'Aus der BWL (Ansoff 1957): Erweiterung des Angebots auf derselben Wertschöpfungsstufe (Brotbäcker produziert zusätzlich Brötchen). Übertragen aufs Portfolio: Breitere Streuung innerhalb einer Anlageklasse — statt einer Einzelaktie 1.500 Aktien eines MSCI-World-ETFs. Reduziert laut Markowitz (1952) und Evans/Archer (1968) das unsystematische Risiko fast vollständig, weil Einzelwerterisiken sich gegenseitig ausgleichen.'
+  - question: 'Was ist vertikale Diversifikation?'
+    answer: 'Ausdehnung entlang der Wertschöpfungskette — rückwärts zum Lieferanten (Möbelhersteller kauft Sägewerk) oder vorwärts zum Kunden (Schokoladenhersteller eröffnet Ladengeschäfte). Für Anleger weniger direkt übertragbar, aber als Sektorallokation denkbar: Mischung aus Rohstoff-, Industrie-, Konsumgüter-Aktien deckt verschiedene Glieder einer Wirtschaftskette ab und reduziert Sektor-Klumpenrisiko.'
+  - question: 'Was ist laterale Diversifikation?'
+    answer: 'Expansion in komplett neue Geschäftsfelder ohne Bezug zum Kerngeschäft (Amazon: Bücher → AWS → Streaming → Supermarkt). Fürs Portfolio entspricht das der klassischen Diversifikation über Anlageklassen: Aktien, Anleihen, Immobilien, Rohstoffe, Gold — jede Klasse reagiert unterschiedlich auf Zinsen, Inflation, Konjunktur. Das reduziert im Gegensatz zu horizontaler Diversifikation auch systematisches Risiko.'
+  - question: 'Reicht ein weltweiter Aktien-ETF zur Diversifikation?'
+    answer: 'Horizontal ja, lateral nein. Ein MSCI World ist horizontal maximal diversifiziert (1.500+ Unternehmen aus 23 Ländern), bleibt aber zu 100 % in einer Anlageklasse — das gesamte Marktrisiko trägst du weiterhin. Für vollständige Diversifikation ergänzen: Notgroschen/Tagesgeld (Liquidität), ggf. Anleihen (Zinskomponente), Immobilien (über REITs oder Eigenheim), später eventuell Rohstoffe oder Gold als Inflationsschutz.'
+  - question: 'Wie viele Aktien braucht man für gute Diversifikation?'
+    answer: 'Empirisch (Evans & Archer 1968, bestätigt von Statman 1987): Bereits 15–20 zufällig gewählte Aktien eliminieren rund 85–90 % des unsystematischen Risikos. Bei 30 Aktien sind es über 95 %. Bei MSCI-World-ETFs mit 1.500+ Unternehmen ist das unsystematische Risiko praktisch vollständig eliminiert — weitere Streuung bringt nur noch marginale Effekte. Entscheidender ist dann die Diversifikation über Länder, Sektoren und Anlageklassen.'
+sources:
+  - title: 'Strategies for Diversification (Ansoff-Matrix)'
+    publisher: 'H. Igor Ansoff, Harvard Business Review'
+    year: 1957
+  - title: 'Diversification and the Reduction of Dispersion'
+    publisher: 'John L. Evans & Stephen H. Archer, Journal of Finance'
+    year: 1968
+  - title: 'Portfolio Selection'
+    publisher: 'Harry Markowitz, Journal of Finance'
+    year: 1952
 ---
 
 Diversifikation ist nicht gleich Diversifikation. Der Begriff stammt ursprünglich aus der Betriebswirtschaftslehre, wo Unternehmen damit ihre Produktpaletten strukturieren. Und dort werden drei Arten unterschieden: **horizontal**, **vertikal** und **lateral**.

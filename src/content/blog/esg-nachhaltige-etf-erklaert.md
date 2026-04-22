@@ -4,6 +4,28 @@ description: 'Was steckt hinter ESG-ETFs? Wie funktioniert nachhaltiges Investie
 pubDate: '2026-04-16'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
+tldr: 'ESG-ETFs (Environmental, Social, Governance) filtern Unternehmen nach Nachhaltigkeitskriterien. Die EU-Offenlegungsverordnung (SFDR, 2019/2088) klassifiziert Fonds in Artikel 6 (keine ESG-Strategie), Artikel 8 (bewirbt ESG-Merkmale) und Artikel 9 (verfolgt nachhaltige Ziele). Vier Ansätze: Ausschlussfilter, ESG-Integration, Best-in-Class, Impact Investing. Renditevergleich MSCI World vs. MSCI World SRI zeigt historisch vergleichbare Ergebnisse — teils leichte Outperformance bei ESG-Varianten. Kritikpunkte: uneinheitliche Definitionen, stark abweichende ESG-Ratings (Korrelation zwischen MSCI, Sustainalytics, ISS oft nur 0,5–0,6), Greenwashing-Risiko. TER meist 0,05–0,15 % höher als klassische ETFs.'
+faq:
+  - question: 'Was bedeutet ESG bei ETFs?'
+    answer: 'ESG steht für Environmental (Umwelt — CO₂-Emissionen, Ressourcenverbrauch), Social (Arbeitnehmerrechte, Lieferketten, Diversität) und Governance (Unternehmensführung, Transparenz, Antikorruption). ESG-ETFs filtern Unternehmen nach diesen Kriterien und schließen schlechte Bewertungen aus oder gewichten sie geringer. Rechtliche Grundlage in der EU: Offenlegungsverordnung SFDR (2019/2088) mit Fonds-Klassifikation in Artikel 6/8/9.'
+  - question: 'Welche ESG-ETF-Varianten gibt es?'
+    answer: 'Vier Hauptansätze: 1) Ausschlussfilter — komplette Branchen (Waffen, Tabak, Kohle, Glücksspiel) ausgeschlossen. 2) ESG-Integration — alle Branchen bleiben, aber ESG-Bewertung beeinflusst Gewichtung. 3) Best-in-Class — pro Branche nur ESG-Beste; auch Ölkonzerne möglich. 4) Impact Investing — gezielt in Projekte mit messbarem positiven Effekt (Erneuerbare Energien, Mikrofinanz). Varianten unterscheiden sich erheblich in Strenge.'
+  - question: 'Ist die Rendite von ESG-ETFs schlechter?'
+    answer: 'Nein, historische Daten zeigen keine signifikant schlechtere Rendite. Der MSCI World SRI Index hat gegenüber dem MSCI World seit Auflage (2011) teils sogar leicht outperformt. Unterschiede liegen im Bereich weniger Prozentpunkte über Jahrzehnte und sind statistisch nicht signifikant. Die "ESG kostet Rendite"-These gilt empirisch als widerlegt. Höhere TER (meist 0,05–0,15 % höher) schmälert langfristig leicht die Nettorendite.'
+  - question: 'Warum ist Greenwashing bei ESG-ETFs ein Problem?'
+    answer: 'Es gibt keine einheitliche Definition von "nachhaltig" — jede Rating-Agentur (MSCI, Sustainalytics, ISS, Refinitiv) wendet eigene Methoden an. Studien (MIT Sloan, 2022) zeigen Korrelationen der Bewertungen zwischen verschiedenen Anbietern von nur 0,5–0,6. Ein Unternehmen kann bei einem Rater "Top-ESG" und bei einem anderen "Schlusslicht" sein. Die EU versucht mit SFDR und Taxonomie-Verordnung Standards zu setzen.'
+  - question: 'Für wen lohnt sich ein ESG-ETF?'
+    answer: 'Für Anleger, die bestimmte Branchen bewusst ausschließen möchten (Waffen, Kohle, Tabak), ohne dafür Renditenachteile zu erwarten. Wichtig: Ausschlusskriterien des konkreten ETFs prüfen — nicht nur das Label. Artikel-9-Fonds nach SFDR sind am strengsten, Artikel-8-Fonds ein Kompromiss. Wer maximale Diversifikation und niedrigste Kosten priorisiert, fährt mit klassischem MSCI World oder FTSE All-World ebenso gut.'
+sources:
+  - title: 'Offenlegungsverordnung SFDR (EU) 2019/2088'
+    publisher: 'Europäische Union'
+    year: 2024
+  - title: 'Aggregate Confusion: The Divergence of ESG Ratings'
+    publisher: 'MIT Sloan (Berg, Koelbel, Rigobon)'
+    year: 2022
+  - title: 'MSCI World SRI Index Factsheet'
+    publisher: 'MSCI Inc.'
+    year: 2025
 ---
 
 "Nachhaltig investieren" klingt gut. Aber was bedeutet das konkret? Wer sich ESG-ETFs anschaut, stellt schnell fest: Es ist komplizierter als das grüne Label suggeriert.
