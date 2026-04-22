@@ -4,6 +4,28 @@ description: 'Heirat verändert Steuern, Erbrecht, Versicherungen und Altersvors
 pubDate: '2026-05-14'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Heirat ändert finanziell vor allem vier Bereiche: 1) Steuern — Ehegattensplitting (§ 26b EStG) spart bei Einkommensunterschieden bis zu rund 19.000 € jährlich (BMF Splittingtabelle 2025), kein Vorteil bei gleichen Einkommen; 2) Erbrecht — Ehepartner erbt gesetzlich 1/4 zzgl. ggf. 1/4 Zugewinnausgleich (§§ 1931, 1371 BGB), ohne Ehe null; 3) Krankenversicherung — Familienversicherung kostenfrei bei Einkommen unter 535 €/Monat 2025 (§ 10 SGB V); 4) Erbschaftsteuer — Freibetrag Ehegatten 500.000 € (§ 16 ErbStG, Steuerklasse I) vs. 20.000 € für unverheiratete Partner (Steuerklasse III). Steuerklassenwahl: IV/IV mit Faktor oft besser als III/V, weil vorhersehbarere Lohnsteuer. Versorgungsausgleich im Scheidungsfall (§ 1587 BGB) teilt Ehe-Rentenansprüche hälftig.'
+faq:
+  - question: 'Lohnt sich das Ehegattensplitting immer?'
+    answer: 'Nein. Splittingvorteil ist maximal bei großen Einkommensunterschieden: bei 80.000 € vs. 0 € rund 8.700 € Ersparnis, bei 60.000 € vs. 20.000 € rund 2.000 €, bei gleichen Einkommen 0 €. Grund: Splittingtabelle addiert beide Einkommen, teilt durch 2, berechnet Steuer, verdoppelt sie — nutzt also den progressiven Steuertarif aus. Bei gleichem Einkommen entsteht kein Vorteil, weil beide bereits im gleichen Steuertarif-Segment liegen. Alternative Einzelveranlagung prüfen bei Verlustjahren oder Auslandseinkünften.'
+  - question: 'Welche Steuerklassenkombination ist am besten?'
+    answer: 'Drei Optionen: III/V — Hochverdiener Klasse III (wenig Lohnsteuer), Partner Klasse V (viel) — sinnvoll bei Einkommensverhältnis ca. 60:40. IV/IV — beide gleich behandelt — sinnvoll bei ähnlichen Einkommen. IV/IV mit Faktor (§ 39f EStG) — proportional nach Einkommen, verhindert Nachzahlung bei Steuererklärung — meist beste Option. Achtung bei III/V: Partner in Klasse V hat oft hohe Steuer-Nachzahlung, Partner in III muss Steuererklärung abgeben (Pflichtveranlagung § 46 EStG).'
+  - question: 'Was ändert sich beim Erbrecht durch Heirat?'
+    answer: 'Ohne Ehe: kein gesetzliches Erbrecht des Partners — Erbe geht an Eltern/Geschwister (§ 1925 BGB). Mit Ehe: Ehepartner erbt gesetzlich neben Kindern 1/4 des Nachlasses plus ggf. 1/4 als pauschalen Zugewinnausgleich (§ 1371 BGB, wenn Zugewinngemeinschaft ohne Ehevertrag) — also insgesamt 1/2. Ohne Kinder und mit Eltern des Verstorbenen: 1/2 + 1/4 Zugewinn = 3/4. Erbschaftsteuerfreibetrag Ehegatten: 500.000 € (§ 16 ErbStG), unverheirateter Partner nur 20.000 € — also 500.000 € steuerlicher Vorteil durch Heirat.'
+  - question: 'Wann lohnt sich Familienversicherung in der GKV?'
+    answer: 'Wenn ein Ehepartner nicht oder wenig verdient (monatliches Gesamteinkommen unter 535 €/Monat 2025, bei Minijob 556 €, § 10 SGB V). Familienversicherung ist beitragsfrei — spart bei regulär erforderlichem Mindestbeitrag (2025: ca. 220 €/Monat für freiwillig Versicherte) rund 2.640 €/Jahr. Eingetragene Lebenspartnerschaft zählt gleich, nicht-eheliche Lebensgemeinschaft nicht. Wichtig: Familienversicherung endet automatisch bei Überschreiten der Einkommensgrenze oder bei Aufnahme einer versicherungspflichtigen Beschäftigung.'
+  - question: 'Braucht man nach der Heirat eine Risikolebensversicherung?'
+    answer: 'Ja, wenn finanzielle Abhängigkeit besteht: gemeinsamer Immobilienkredit, Kinder, oder ein Partner verdient deutlich mehr und der andere wäre ohne diesen auf Grundsicherung angewiesen. Faustformel: Versicherungssumme = 5-faches Jahresbruttoeinkommen des Hauptverdieners oder Restschuld des Immobilienkredits. Beiträge für 30-jährige Raucher ca. 180-250 €/Jahr für 250.000 € Deckung bei 20 Jahren Laufzeit. Alternativ: "Verbunden-Police" für beide Ehepartner — günstiger als zwei Einzelverträge, zahlt einmalig beim ersten Todesfall.'
+sources:
+  - title: 'Einkommensteuergesetz (EStG) §§ 26b, 39f Ehegattensplitting und Faktorverfahren'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Bürgerliches Gesetzbuch (BGB) §§ 1371, 1931 Erbrecht des Ehegatten'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG) § 16 Freibeträge'
+    publisher: 'Bundesministerium der Finanzen'
+    year: 2025
 ---
 
 Heirat ist nicht nur eine romantische Entscheidung — es ist auch eine finanzielle. Mit der Hochzeit ändern sich Steuerklasse, Erbrecht, Versicherungsschutz und Rentenansprüche. Wer das kennt, ist vorbereitet. Wer es ignoriert, zahlt manchmal drauf.

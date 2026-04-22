@@ -4,6 +4,28 @@ description: 'Nur 500 Euro verfügbar — lohnt sich Investieren überhaupt? Was
 pubDate: '2026-04-25'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Mit 500 € lohnt sich Geldanlage bereits — vorausgesetzt, der Notgroschen (3 Monatsgehälter auf Tagesgeld) ist voll. Sonst: 500 € auf Tagesgeldkonto (EU-Einlagensicherung bis 100.000 €). Beste Option für Einsteiger: breit diversifizierter Welt-ETF (MSCI World IE00B4L5Y983 oder FTSE All-World IE00B3RBWM25) als Einmalanlage + Sparplan ab 25 €/Monat bei Neobrokern (Trade Republic, Scalable Capital: 0-1 € Orderkosten, kostenloser Sparplan). Bei 7 % Rendite (MSCI-World-Langzeitdurchschnitt nach DAI-Renditedreieck) wächst die Einmalanlage auf 1.965 € nach 20 Jahren, 3.807 € nach 30 Jahren. Was nicht sinnvoll: Einzelaktien (Klumpenrisiko), Kryptowährungen (Volatilität), aktiv gemanagte Fonds (Kostenquote TER 1,5-2 % frisst Rendite). Sparerpauschbetrag 1.000 €/Jahr (§ 20 Abs. 9 EStG) schützt Kleinanleger vor Abgeltungssteuer.'
+faq:
+  - question: 'Lohnt sich Investieren mit nur 500 Euro?'
+    answer: 'Ja, wenn Neobroker wie Trade Republic oder Scalable Capital genutzt werden: Einmalorder 0-1 €, Sparplan kostenlos, Teilstücke kaufbar. Bei einer Gebühr von 1 € auf 500 € Einmalanlage sind das 0,2 % — deutlich weniger als die 1,5 % Ausgabeaufschlag bei Bankfonds. Wichtiger als der Betrag: der frühe Start. 500 € mit 25 ergeben bei 7 % Rendite und 40 Jahren Laufzeit rund 7.500 €. Wer erst mit 35 anfängt, landet bei 3.800 € — der Zinseszins-Hebel liegt in der Zeit.'
+  - question: 'Was ist besser: Einmalanlage oder Sparplan?'
+    answer: 'Bei 500 € Einmalanlage: Mathematisch zeigen Studien (Vanguard 2023, Lump Sum Investing vs. DCA), dass Einmalanlage in 66 % der Fälle besser abschneidet — weil der Markt langfristig steigt. Aber: Emotionaler Schutz durch Cost-Average-Effekt bei Sparplan. Empfehlung für Berufseinsteiger: 500 € jetzt einmalig anlegen plus Sparplan ab 25-100 €/Monat parallel starten. So fängt sofort Zinseszins an zu wirken, und der Sparplan etabliert die Sparroutine unabhängig vom Markt.'
+  - question: 'Welcher ETF ist für Anfänger mit 500 Euro geeignet?'
+    answer: 'Drei bewährte Optionen für Einsteiger: 1) iShares Core MSCI World (IE00B4L5Y983) — 1.500+ Aktien aus 23 Industrieländern, TER 0,20 %, thesaurierend. 2) Vanguard FTSE All-World (IE00BK5BQT80) — 3.900+ Aktien inklusive Schwellenländer (China, Indien), TER 0,22 %, thesaurierend. 3) Xtrackers MSCI ACWI (IE00BGHQ0G80) — ähnlich All-World, TER 0,25 %. Alle sind breit diversifiziert, steueroptimiert (UCITS-Fonds in Irland) und bei jedem deutschen Broker sparplanfähig. Für Einsteiger: FTSE All-World einfach, fertig, keine Tüftelei.'
+  - question: 'Brauche ich einen Notgroschen bevor ich investiere?'
+    answer: 'Ja, Notgroschen zuerst. Grund: Wenn du investiertes Geld bei Marktcrash verkaufen musst (weil Waschmaschine kaputt oder Jobverlust), realisierst du Verluste. Empfohlen: 3 Nettomonatsgehälter auf Tagesgeldkonto (EU-Einlagensicherung 100.000 €, jederzeit verfügbar, Zinsen 2025 rund 2-3 % bei Consorsbank, ING, Trade Republic). Bei 1.800 € netto also 5.400 €. Nach Notgroschen ist investieren psychisch entspannter — ein Marktcrash zwingt nicht zu Panikverkäufen.'
+  - question: 'Wie viel Steuern fallen auf 500 Euro ETF-Anlage an?'
+    answer: 'In der Regel keine, solange der Sparerpauschbetrag (1.000 €/Jahr pro Person, § 20 Abs. 9 EStG) nicht ausgeschöpft ist. Bei 500 € Einmalanlage in thesaurierenden ETF: Nur Vorabpauschale fällt jährlich an (§ 18 InvStG, meist sehr gering bei aktuellem Basiszins 2025 rund 2,53 %), echte Besteuerung erst bei Verkauf. Bei ausschüttendem ETF: 3 % Ausschüttungsrendite = 15 €/Jahr — weit unter Sparerpauschbetrag. Freistellungsauftrag bei der Bank einrichten, damit nichts einbehalten wird. Erst bei deutlich höheren Anlagesummen oder Realisierung großer Gewinne wird die Abgeltungssteuer relevant.'
+sources:
+  - title: 'DAI-Renditedreieck — Historische Aktienrenditen 1970-2024'
+    publisher: 'Deutsches Aktieninstitut'
+    year: 2024
+  - title: 'Investmentsteuergesetz (InvStG) §§ 18, 20 Vorabpauschale und Teilfreistellung'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Einkommensteuergesetz (EStG) § 20 Abs. 9 Sparerpauschbetrag'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
 ---
 
 500 Euro. Kein Vermögen, aber ein Anfang. Die häufige Reaktion: "Das lohnt sich doch noch nicht." Die Wahrheit: Es lohnt sich — wenn du es richtig machst.
