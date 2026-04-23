@@ -4,6 +4,28 @@ description: 'Selbstständige in Münster haben keine automatische Rentenversich
 pubDate: '2026-05-09'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
+tldr: 'Selbstständige sind überwiegend nicht in GRV pflichtversichert (Ausnahmen § 2 SGB VI: Handwerker in Anlage A HwO, Lehrer/Erzieher ohne Angestellte, Künstler/Publizisten via KSVG). Vier Optionen: 1) Rürup/Basisrente (§ 10 Abs. 1 Nr. 2 EStG) — 2026 voll abzugsfähig bis 29.344 € (Ledige) / 58.688 € (Verheiratete), lebenslange Rente, pfändungssicher § 851c ZPO. 2) Freiwillige GRV-Beiträge (§ 7 SGB VI) — 2026 Mindestbeitrag 103,42 €/Monat, Maximalbeitrag 1.497,30 €/Monat (Höchstbeitragsbemessungsgrenze 8.050 €/Monat West). 3) ETF-Depot — flexibel, keine Steuerförderung in Ansparphase, 25 % Abgeltungsteuer § 32d EStG mit 30 %-Teilfreistellung bei Aktien-ETFs § 20 InvStG. 4) Neues Altersvorsorgedepot ab 2027 (Bundestagsbeschluss 27.3.2026). Laut DIW 2023 sind rund 45 % der Solo-Selbstständigen von Altersarmut bedroht.'
+faq:
+  - question: 'Sind Selbstständige in der gesetzlichen Rentenversicherung pflichtversichert?'
+    answer: 'Grundsätzlich nein — aber mit wichtigen Ausnahmen nach § 2 SGB VI: 1) Handwerker in zulassungspflichtigen Berufen (Anlage A HwO) für mindestens 18 Jahre, danach Befreiung möglich. 2) Lehrer und Erzieher ohne sozialversicherungspflichtige Angestellte. 3) Selbstständige Pflegepersonen. 4) Hebammen und Entbindungspfleger. 5) Künstler und Publizisten über Künstlersozialkasse (KSVG) — mit 50 % Zuschuss vom Bund und Verwerter. 6) Selbstständige mit nur einem Auftraggeber auf Dauer (Scheinselbstständigkeit § 7 SGB IV — Prüfung durch Clearingstelle DRV). Befreiungsanträge möglich für Handwerker nach 18 Beitragsjahren oder Gründer (§ 6 SGB VI).'
+  - question: 'Wie funktioniert die Rürup-Rente steuerlich?'
+    answer: 'Rürup (Basisrente) nach § 10 Abs. 1 Nr. 2 EStG: 2026 100 % der Beiträge absetzbar bis Höchstbetrag 29.344 € Ledige / 58.688 € Verheiratete (§ 10 Abs. 3 EStG). Auszahlung ab 62 (ab Vertragsabschluss 2012+) als lebenslange Leibrente — kein Kapitalwahlrecht. Rentenzahlung zu 100 % steuerpflichtig ab 2040 (§ 22 Nr. 1 EStG, Kohortenprinzip). Besonderheiten: nicht vererbbar (nur Hinterbliebenenzusatzversicherung), nicht übertragbar, pfändungssicher nach § 851c ZPO — im Privatinsolvenz-Fall für Selbstständige wichtig. Kündigung nicht möglich, nur Beitragsfreistellung. Steuervorteil lohnt sich ab Grenzsteuersatz rund 30 %.'
+  - question: 'Wie hoch sind freiwillige GRV-Beiträge für Selbstständige 2026?'
+    answer: 'Freiwillige Versicherung nach § 7 SGB VI: 2026 Mindestbeitrag 103,42 €/Monat (18,6 % von Mindesteinkommen 555,99 €), Höchstbeitrag 1.497,30 €/Monat (bezogen auf Beitragsbemessungsgrenze West 8.050 €/Monat, neue Länder 7.950 €). Flexibel zwischen Min und Max wählbar, jederzeit anpassbar, auch nachträglich bis 31.3. des Folgejahres möglich. Vorteile: baut Ansprüche auf Erwerbsminderungsrente auf (3 Pflichtbeitragsjahre in 5 Jahren + 5 Jahre Wartezeit, § 43 SGB VI), Hinterbliebenenrente, Mutterschaftsleistungen, Reha-Maßnahmen. Mindestens 5 Jahre Beitragszeit für Altersrente erforderlich (§ 50 SGB VI).'
+  - question: 'Wie viel Altersvorsorge sollten Selbstständige monatlich zurücklegen?'
+    answer: 'Faustregel: 20-25 % des Nettoeinkommens — 5-10 Prozentpunkte mehr als Angestellte (die rund 19 % via AG+AN-Anteil GRV sparen). Grund: fehlende arbeitgeberfinanzierte bAV, keine automatischen Rentenpunkte, kein Einkommenssicherungsnetz bei BU/EM. Beispiel 4.000 € Nettoeinkommen: 800-1.000 €/Monat Altersvorsorge. Bei 30 Jahren und 6 % p.a. = rund 800.000 € (bei 800 €) bzw. 1 Mio. € (bei 1.000 €). Aufteilung: 40-50 % ETF-Depot (Flexibilität), 30-40 % Rürup (Steuervorteil), 10-20 % freiwillige GRV oder Immobilie. Bei schwankendem Einkommen Mindestsparrate in guten Monaten erhöhen.'
+  - question: 'Was passiert bei Geschäftsaufgabe mit der Altersvorsorge?'
+    answer: 'Rürup: läuft weiter, kein Kapitalzugriff, pfändungssicher (§ 851c ZPO) auch bei Privatinsolvenz — einziger Nachteil: weitere Beiträge aus privatem Vermögen oder beitragsfrei stellen. ETF-Depot: jederzeit auflösbar, aber bei Insolvenz nicht pfändungsgeschützt — Schutz nur im Rürup-Mantel. Freiwillige GRV: Pausieren jederzeit, bereits gezahlte Beiträge bleiben erhalten. Betriebliche Rücklagen: in Personengesellschaft (Einzelunternehmer/GbR) vollständig haftend für Geschäftsschulden — in Kapitalgesellschaft (GmbH/UG) nur Stammkapital haftet. Steuerliche Rückabwicklung von Rücklagen möglich (§ 6b EStG Übertragung stiller Reserven). Aufgabegewinn bei Geschäftsveräußerung halber Steuersatz (§ 34 Abs. 3 EStG) ab 55 Jahren.'
+sources:
+  - title: 'Sozialgesetzbuch Sechstes Buch (SGB VI) §§ 2, 6, 7, 43, 50 Rentenversicherung Selbstständige'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Einkommensteuergesetz (EStG) §§ 10, 22 Nr. 1 Rürup-Basisrente und Besteuerung'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Altersvorsorge und Altersarmut bei Selbstständigen 2023'
+    publisher: 'Deutsches Institut für Wirtschaftsforschung (DIW Berlin)'
+    year: 2023
 ---
 
 Münster hat eine wachsende Selbstständigenszene: Freelancer aus der WWU, IT-Dienstleister im Technologiezentrum, Berater, Kreative, Side-Business-Betreiber neben dem Hauptjob. Was viele verbindet: Altersvorsorge ist Eigenverantwortung — niemand zieht automatisch Beiträge ab.
