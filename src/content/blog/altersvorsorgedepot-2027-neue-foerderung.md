@@ -4,6 +4,28 @@ description: 'Der Bundestag hat die Riester-Nachfolge beschlossen: Das Altersvor
 pubDate: '2026-04-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
+tldr: 'Das Altersvorsorgedepot ersetzt die Riester-Rente für Neuverträge ab 1.1.2027 (Bundestagsbeschluss 27.3.2026, pAV-Reformgesetz). Kernneuerungen: 1) Keine Beitragsgarantie mehr — volle ETF-Investition möglich; 2) Gestaffelte Zulage — 50 Cent pro Euro bis 360 €/Jahr, 25 Cent pro Euro von 361-1.800 €, maximal 540 € Grundzulage (vs. 175 € bisher Riester); 3) Kinderzulage 300 €/Kind ab 25 €/Monat Beitrag (bisher 4 % des Vorjahresbruttos nötig); 4) Öffnung für Selbstständige und Freiberufler; 5) Kostendeckel 1,0 % p.a. beim Standardprodukt (vs. 1,5-3 % Riester-Bestand); 6) Flexiblere Auszahlungsphase mit Zeitrenten. Bei 150 €/Monat Einzahlung, 35 Jahren Laufzeit, 7 % Rendite: rund 320.000 € Endvermögen gegenüber 190-220.000 € bei klassischem Riester-Fondssparplan.'
+faq:
+  - question: 'Was ist das Altersvorsorgedepot?'
+    answer: 'Ein neues staatlich gefördertes Wertpapierdepot für die private Altersvorsorge, das ab 1.1.2027 die Riester-Rente für Neuverträge ersetzt. Beschlossen vom Bundestag am 27.3.2026 (pAV-Reformgesetz). Anders als Riester: keine Pflicht zur Beitragsgarantie — volle Aktienquote über breit gestreute ETFs möglich. Staatliche Zulage wird gestaffelt gezahlt (bis 540 €/Jahr Grundzulage + 300 €/Kind). Öffnung für Selbstständige. Kosten auf 1 % p.a. beim Standardprodukt gedeckelt — inspiriert vom schwedischen PPM-System.'
+  - question: 'Wie viel Zulage bekomme ich beim Altersvorsorgedepot?'
+    answer: 'Gestaffeltes Zulagenmodell: Für die ersten 360 € Eigenbeitrag zahlt der Staat 50 Cent pro Euro = 180 €. Für die nächsten 1.440 € (bis 1.800 € Jahresbeitrag) zahlt der Staat 25 Cent pro Euro = 360 €. Maximale Grundzulage: 540 €/Jahr. Kinderzulage: 300 € pro kindergeldberechtigtem Kind, bereits ab 25 € Monatsbeitrag. Bei 2 Kindern: 540 + 600 = 1.140 € Zulage/Jahr — Förderquote 63 % auf 1.800 € Eigenbeitrag. Auszahlung der Zulagen direkt in das Depot vom Staat.'
+  - question: 'Sollte ich jetzt noch einen Riester-Vertrag abschließen?'
+    answer: 'In den meisten Fällen nein, aber mit Ausnahmen: Bestehende Riester-Verträge laufen unverändert weiter — Zulagen, Steuervorteile, Kapital bleiben erhalten. Neue Riester-Abschlüsse bis Ende 2026 sind theoretisch noch möglich, aber meist nicht sinnvoll wegen niedriger Rendite durch Beitragsgarantie (2025: Garantiezins 0,25 %). Ausnahmen: sehr konservative Anleger, die Garantie brauchen; Selbstständige gar nicht förderberechtigt bei Riester. Wer heute sparen will: ETF-Sparplan ohne Förderung, 2027 dann Umstieg ins Altersvorsorgedepot.'
+  - question: 'Können Selbstständige das Altersvorsorgedepot nutzen?'
+    answer: 'Ja, das ist eine der wichtigsten Neuerungen. Riester war für Selbstständige faktisch geschlossen — nur mittelbar förderberechtigt über einen riesterfähigen Ehepartner. Das Altersvorsorgedepot öffnet staatliche Zulagen-Förderung erstmals auch für Selbstständige, Freiberufler und Gewerbetreibende, unabhängig von Pflichtversicherung in der GRV. Damit wird das Altersvorsorgedepot ein universelles Instrument — neben der weiter bestehenden Rürup-Rente mit Sonderausgabenabzug (§ 10 EStG) für Hochverdiener.'
+  - question: 'Was passiert mit bestehenden Riester-Verträgen?'
+    answer: 'Bestandsschutz: Alle vor dem 31.12.2026 abgeschlossenen Riester-Verträge laufen unverändert weiter — Zulagen, Steuervorteile, Produktmerkmale (Beitragsgarantie, Rentenpflicht) bleiben gemäß AltZertG bestehen. Kein Zwang zum Wechsel. Optional: Wechselmöglichkeit ins neue Altersvorsorgedepot ab 2027 geplant — Detailregelung noch offen (Stand Bundestagsbeschluss März 2026). Sinnvoll wäre Wechsel bei stark kostenbelasteten Riester-Versicherungen, weniger sinnvoll bei schon angesparten Fondssparplänen mit niedrigen Kosten.'
+sources:
+  - title: 'Bundestagsbeschluss pAV-Reformgesetz 27.3.2026'
+    publisher: 'Deutscher Bundestag'
+    year: 2026
+  - title: 'Reform der privaten Altersvorsorge — FAQ zum Altersvorsorgedepot'
+    publisher: 'Bundesministerium der Finanzen (BMF)'
+    year: 2026
+  - title: 'Gutachten zur Reform der privaten Altersvorsorge'
+    publisher: 'Fokusgruppe private Altersvorsorge, BMF'
+    year: 2023
 ---
 
 Am 27. März 2026 hat der Deutsche Bundestag die größte Reform der privaten Altersvorsorge seit Einführung der Riester-Rente beschlossen. Ab dem 1. Januar 2027 gibt es ein neues staatlich gefördertes Instrument: das **Altersvorsorgedepot**. Es ersetzt die Riester-Rente für Neuverträge — und öffnet die staatliche Förderung erstmals für ETFs ohne Garantiezwang. Was steckt dahinter?

@@ -4,6 +4,28 @@ description: 'Elterngeld, Krankenversicherung, Altersvorsorge: Was ändert sich 
 pubDate: '2026-04-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Einkommenssicherung'
+tldr: 'Elterngeld nach BEEG (§§ 1-4): 65-67 % des Nettoeinkommens der letzten 12 Monate vor Geburt, gedeckelt auf 1.800 €/Monat (Basis-Elterngeld, § 2 BEEG), Mindestbetrag 300 €. Elterngeld Plus (§ 4a BEEG): halbe monatliche Leistung, doppelte Bezugsdauer. Seit 2024: Einkommensgrenze 200.000 €/Jahr für Paare — darüber kein Elterngeld-Anspruch (§ 1 Abs. 8 BEEG). Krankenversicherung GKV beitragsfrei während Elternzeit, PKV-Beiträge laufen weiter (ca. 400-700 €/Monat). Altersvorsorge: Kindererziehungszeiten § 56 SGB VI sichert 1,0 Entgeltpunkt/Jahr für 3 Jahre = rund 118 €/Monat lebenslange Rente. Laut Destatis-Elterngeldstatistik 2024: 1,87 Mio. Eltern bezogen Elterngeld, durchschnittliche Bezugsdauer Mütter 14,1 Monate, Väter 3,7 Monate.'
+faq:
+  - question: 'Wie hoch ist das Elterngeld bei 3.500 Euro brutto?'
+    answer: 'Bei 3.500 € brutto Vollzeit entspricht das rund 2.200 € netto (Steuerklasse IV, kinderlos, gesetzliche KV). Elterngeld nach § 2 BEEG = 65 % × 2.200 € = rund 1.430 €/Monat. Bei niedrigeren Einkommen steigt der Satz auf 67 % (Einkommen unter 1.240 €, § 2 Abs. 2 BEEG), darunter auch Geschwister-Bonus +10 %. Einmalige Zahlungen (Boni, Urlaubsgeld) werden herausgerechnet. Bei 4.500 € brutto wird der 1.800-€-Deckel erreicht.'
+  - question: 'Was ist besser: Basis-Elterngeld oder Elterngeld Plus?'
+    answer: 'Basis-Elterngeld (§ 2 BEEG): Volle Leistung für 12-14 Monate — passt für reine Elternzeit ohne Nebentätigkeit. Elterngeld Plus (§ 4a BEEG): Halbe Leistung für 24-28 Monate — passt für Teilzeit-Rückkehr (bis 32 Stunden/Woche). Rechenbeispiel: 1.500 € Basis-Elterngeld 12 Monate = 18.000 €. Als Plus: 750 € × 24 Monate = 18.000 € — gleiche Summe, aber zusätzlich Teilzeitgehalt möglich. Kombinationsvariante nach § 4 BEEG nutzbar.'
+  - question: 'Kann ich während der Elternzeit arbeiten?'
+    answer: 'Ja, bis zu 32 Stunden/Woche (§ 15 BEEG, Grenze seit 1.9.2021 von 30 auf 32 Stunden erhöht). Der Arbeitgeber muss Teilzeit zustimmen, außer bei kleineren Betrieben (unter 15 Mitarbeiter) oder wenn dringende betriebliche Gründe entgegenstehen. Eigene Einkünfte werden beim Elterngeld angerechnet: Hinzuverdienst mindert das Elterngeld anteilig (§ 2 Abs. 3 BEEG). Elterngeld Plus ist für Teilzeit-Rückkehr optimiert — kein Deckel-Verlust wie bei Basis-Elterngeld.'
+  - question: 'Was passiert mit meiner bAV während der Elternzeit?'
+    answer: 'Die bAV läuft während Elternzeit nicht automatisch weiter. Optionen: 1) Beitragsfrei stellen — Kapital bleibt investiert, aber keine neuen Beiträge, keine Arbeitgeberzuschüsse. 2) Private Fortzahlung nach § 1b Abs. 5 BetrAVG — eigene Beiträge, kein Arbeitgeberanteil. 3) Steuerlich: Einzahlungen aus Elterngeld sind nach § 3 Nr. 67 EStG steuerfrei — bei Entgeltumwandlung aber kein Steuervorteil. Empfehlung: kleine Beiträge (50-100 €/Monat) fortführen, um Rentenlücke nicht zu vergrößern.'
+  - question: 'Ab wann gilt die neue Einkommensgrenze beim Elterngeld?'
+    answer: 'Seit 1.4.2024 gilt neue Obergrenze: Paare mit gemeinsamem zu versteuerndem Einkommen über 200.000 €/Jahr haben keinen Elterngeld-Anspruch mehr (§ 1 Abs. 8 BEEG). Alleinerziehende: 150.000 €. Für Geburten ab 1.4.2025: Grenze sinkt weiter auf 175.000 € (Paare). Maßgeblich ist das zu versteuernde Einkommen laut Steuerbescheid des Kalenderjahres vor der Geburt — also für Geburten 2025 der Steuerbescheid 2024. Ziel: 10-15 % Einsparung im BMFSFJ-Haushalt.'
+sources:
+  - title: 'Bundeselterngeld- und Elternzeitgesetz (BEEG) §§ 1-4, 4a, 15'
+    publisher: 'Bundesministerium der Justiz'
+    year: 2025
+  - title: 'Elterngeldstatistik 2024 — Bezugsdauern und Höhe'
+    publisher: 'Statistisches Bundesamt (Destatis)'
+    year: 2024
+  - title: 'Elterngeld-Digital — offizieller Rechner und Antragssystem'
+    publisher: 'Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)'
+    year: 2025
 ---
 
 Elternzeit ist eine der größten finanziellen Veränderungen im Leben — und trotzdem beschäftigen sich die meisten erst kurz vorher damit. Dabei lohnt es sich, die Zahlen frühzeitig zu kennen: Das Elterngeld ist gedeckelt, die Krankenversicherung läuft weiter, und die Rentenlücke wächst.
