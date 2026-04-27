@@ -4,6 +4,25 @@ description: 'Was passiert wenn du deinen ETF-Sparplan pausierst? Wann ist eine 
 pubDate: '2026-04-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Einen ETF-Sparplan zu pausieren ist bei allen großen Brokern (Trade Republic, Scalable, ING, Comdirect, DKB) jederzeit kostenlos möglich. Es entstehen keine Gebühren, keine Steuern, keine Strafen — die vorhandenen Anteile bleiben im Depot und entwickeln sich weiter. Sinnvoll bei kurzfristigen Engpässen (Notgroschen geht zur Neige) oder wirklich notwendigen Kürzungen. Nicht sinnvoll: aus Angst bei Markteinbrüchen pausieren — gerade bei fallenden Kursen kauft der Sparplan günstiger ein (Cost-Average-Effekt). Wer pausiert, sollte ein klares Re-Aktivierungsdatum oder Trigger-Ereignis festlegen.'
+faq:
+  - question: 'Was passiert technisch, wenn ich meinen ETF-Sparplan pausiere?'
+    answer: 'Es laufen schlicht keine neuen Käufe mehr. Die bereits gekauften Anteile bleiben im Depot und entwickeln sich weiter — Kursgewinne, Ausschüttungen und thesaurierende Erträge sammeln sich wie zuvor. Keine Sparplangebühren, kein Verkauf, kein steuerliches Ereignis. Bei den meisten Brokern reaktivierbar per Klick zum nächsten Monatsersten.'
+  - question: 'Ist es sinnvoll, bei Markteinbrüchen zu pausieren?'
+    answer: 'Nein, im Gegenteil — gerade bei fallenden Kursen kauft der Sparplan mehr Anteile pro Sparrate (Cost-Average-Effekt). Historisch zeigen Studien, dass Anleger, die in Krisen weitersparen, langfristig höhere Renditen erzielen als solche, die pausieren oder aussteigen. Wer 2008/2020 ohne Unterbrechung weitergespart hat, profitierte überproportional von der Erholung.'
+  - question: 'Wann ist Pausieren wirklich gerechtfertigt?'
+    answer: 'Bei echten finanziellen Engpässen: Notgroschen aufgebraucht, Jobverlust, längere Krankheit, hohe ungeplante Ausgaben. In diesen Fällen ist Pausieren besser als Schulden auf der Kreditkarte aufzubauen. Auch sinnvoll: Sparplan kurzfristig reduzieren statt komplett pausieren — z. B. von 300 € auf 50 € — das hält die Sparroutine.'
+  - question: 'Gibt es steuerliche Folgen?'
+    answer: 'Nein. Pausieren ist kein steuerliches Ereignis, weil keine Anteile verkauft werden. Vorabpauschale auf thesaurierende ETFs läuft normal weiter (basierend auf Bestand und Basiszins). Erst beim tatsächlichen Verkauf greift die Abgeltungsteuer (25 % + Soli + ggf. KiSt., reduziert um Teilfreistellung 30 % bei Aktien-ETFs nach § 20 Abs. 1 Nr. 3 InvStG). Sparerpauschbetrag 1.000 € (Single) bzw. 2.000 € (Verheiratete) bleibt nutzbar.'
+  - question: 'Wie verhindere ich, dass aus einer Pause eine Dauer-Unterbrechung wird?'
+    answer: 'Drei Strategien: (1) Festes Re-Aktivierungsdatum im Kalender vermerken (z. B. 6 Monate später), (2) An ein Trigger-Ereignis koppeln (z. B. "Wenn Notgroschen wieder bei 3 Monatsgehältern, reaktiviere ich"), (3) Mini-Sparplan beibehalten (25 oder 50 €/Monat), um die Routine nicht zu verlieren. Studien zeigen: Wer komplett pausiert, kommt oft erst Jahre später zurück — das kostet Zinseszins-Jahre.'
+sources:
+  - title: 'Bundesverband deutscher Banken — ETF-Sparpläne'
+    url: 'https://bankenverband.de/themen/finanzwissen/'
+  - title: 'Finanztip — Sparplan pausieren oder weiterlaufen lassen'
+    url: 'https://www.finanztip.de/indexfonds-etf/etf-sparplan/'
+  - title: 'Stiftung Warentest — Pantoffel-Portfolio und Sparplan-Routine'
+    url: 'https://www.test.de/Anlagestrategie-Pantoffel-Portfolio-mit-ETF-5039945-0/'
 ---
 
 Der Markt fällt 20 %. Oder du hast einen unerwarteten Engpass. Oder du fragst dich schlicht, ob du weitermachen sollst, wenn alles rot ist. Die Frage: Sparplan pausieren — ja oder nein?

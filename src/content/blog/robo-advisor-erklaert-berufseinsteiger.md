@@ -4,6 +4,25 @@ description: 'Was ist ein Robo-Advisor, wie funktioniert er, was kostet er — u
 pubDate: '2026-05-05'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Robo-Advisor sind digitale Vermögensverwalter, die nach BaFin-Erlaubnis (§ 32 KWG bzw. § 15 WpIG) ETF-Portfolios automatisch aufbauen, rebalancieren und im Risiko anpassen. Typische Gesamtkosten 0,7–1,2 % p. a. (Service-Fee + ETF-TER), bei klassischen ETF-Sparplänen meist nur 0,15–0,30 % TER. Sinnvoll für Anleger ohne Lust auf eigene Auswahl, mit Wunsch nach automatischem Rebalancing oder ohne Zeit für ein 1:1-Setup. Berufseinsteiger mit kleinen Sparraten fahren mit einem 1-ETF-Welt-Sparplan (MSCI World oder FTSE All-World) meist günstiger.'
+faq:
+  - question: 'Wie funktioniert ein Robo-Advisor?'
+    answer: 'Nach Anmeldung erstellt ein Online-Fragebogen (Geeignetheitstest gemäß § 64 WpHG) ein Risikoprofil aus Anlagezielen, Anlagehorizont und Risikobereitschaft. Daraus wird ein ETF-Portfolio (typisch 5–15 ETFs aus Aktien, Anleihen, ggf. Rohstoffen) gebaut. Einzahlungen werden automatisch nach der Zielallokation investiert, das Rebalancing übernimmt der Anbieter. Der Anleger gibt die Vermögensverwaltungsvollmacht — Einzelaufträge sind nicht nötig.'
+  - question: 'Was kostet ein Robo-Advisor?'
+    answer: 'Service-Fee (Verwaltungsgebühr) typisch 0,5–1,0 % p. a. plus ETF-Kosten (TER) 0,15–0,40 % p. a. = Gesamtkosten ca. 0,7–1,2 % p. a. Beispiele 2025: Quirion 0,48 % + ETF, Scalable Capital 0,75 % + ETF, Whitebox 0,35–0,95 % + ETF. Zum Vergleich: Ein selbst gemanagter ETF-Sparplan auf MSCI World kostet rund 0,2 % p. a. Auf 30 Jahre macht 0,7 % Mehrkostenpunkt etwa 15–20 % weniger Endvermögen aus.'
+  - question: 'Wann lohnt sich ein Robo-Advisor?'
+    answer: 'Sinnvoll für: (1) Anleger, die das emotionale Eingreifen in Krisen scheuen — der Robo macht stur weiter, (2) Vermögen ab 25.000 €, wo ein Multi-ETF-Portfolio mit Rebalancing manuell aufwendig wird, (3) Personen ohne Zeit oder Lust für eigene Recherche. Weniger sinnvoll für: Berufseinsteiger mit kleinen Sparraten (Kostenquote schlägt stärker durch), Hobby-Anleger mit Spaß an eigener Auswahl, Anleger mit existierendem 1-ETF-Setup.'
+  - question: 'Sind Robo-Advisor sicher?'
+    answer: 'Ja, soweit die Insolvenzregelungen greifen: ETFs sind Sondervermögen (§ 92 KAGB) und somit insolvenzgeschützt. Die Depotbank verwahrt die Wertpapiere getrennt. Der Robo-Advisor selbst hat eine BaFin-Lizenz als Finanzportfolioverwalter (§ 1 Abs. 1a Nr. 3 KWG). Bei Insolvenz des Anbieters bleibt das Vermögen erhalten und kann zu einem anderen Verwahrer übertragen werden. Markt- und Kursrisiken trägt der Anleger wie bei jeder ETF-Anlage.'
+  - question: 'Robo-Advisor oder eigener ETF-Sparplan?'
+    answer: 'Faustregel: Wer einen klaren Plan hat (z. B. 70 % MSCI World + 30 % MSCI EM via Sparplan, einmal jährlich rebalancen) spart 0,5–0,8 % p. a. Wer aber zu Panikverkäufen neigt oder das Setup nicht selbst pflegen möchte, fährt mit einem Robo besser — denn nichts kostet so viel Rendite wie eine emotionale Fehlentscheidung in der Krise. Beides ist legitim, der Unterschied liegt in der Selbstdisziplin.'
+sources:
+  - title: 'BaFin — Online-Vermögensverwaltung (Robo-Advice)'
+    url: 'https://www.bafin.de/DE/Verbraucher/Finanzwissen/AnlageFinanzdienstleistung/Robo_Advice/robo_advice_node.html'
+  - title: 'Stiftung Warentest — Robo-Advisor-Vergleich'
+    url: 'https://www.test.de/Robo-Advisor-im-Test-5491166-0/'
+  - title: 'Verbraucherzentrale — Robo-Advisor: Geld digital anlegen'
+    url: 'https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/roboadvisor-geld-digital-anlegen-29251'
 ---
 
 Robo-Advisor klingen nach Hightech-Geldanlage: Algorithmen, die dein Portfolio automatisch verwalten. Das stimmt — aber ob das besser ist als ein simpler ETF-Sparplan, hängt von deiner Situation ab. Für viele Berufseinsteiger ist die Antwort: der ETF-Sparplan reicht.

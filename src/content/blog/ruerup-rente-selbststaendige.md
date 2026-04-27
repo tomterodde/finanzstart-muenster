@@ -4,6 +4,25 @@ description: 'Rürup-Rente erklärt: Wer profitiert, wie hoch der Steuervorteil 
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
+tldr: 'Die Rürup-Rente (Basisrente nach § 10 Abs. 1 Nr. 2 EStG) ist die staatlich geförderte Altersvorsorge für Selbstständige und Gutverdiener. 2025 sind Beiträge bis 29.344 € (Single) bzw. 58.688 € (Verheiratete) als Sonderausgaben absetzbar — bei 42 % Grenzsteuersatz entspricht das 12.324 € Steuerersparnis pro Jahr. Renten werden ab 2040 zu 100 % nachgelagert besteuert. Wesentliche Nachteile: keine Kapitalauszahlung, nicht vererbbar (außer mit Hinterbliebenenoption), nicht beleihbar, nicht übertragbar. Sinnvoll bei Grenzsteuersatz ab 35 %.'
+faq:
+  - question: 'Wer profitiert besonders von der Rürup-Rente?'
+    answer: 'Selbstständige und Freiberufler ohne Versorgungswerk haben oft keine Pflichtversicherung in der gesetzlichen Rentenversicherung — Rürup ist für sie die wichtigste steuerlich geförderte Altersvorsorgeform. Auch Angestellte mit hohem Einkommen (Grenzsteuersatz ab 42 %) profitieren stark, da sie den maximalen Sonderausgabenabzug nutzen können. Bei niedrigerem Steuersatz (unter 30 %) ist der Effekt geringer und ein ETF-Sparplan oft sinnvoller.'
+  - question: 'Wie hoch ist der Steuervorteil 2025?'
+    answer: '100 % der Beiträge bis 29.344 € (Single) bzw. 58.688 € (Verheiratete) sind absetzbar (§ 10 Abs. 3 EStG, gekoppelt an die Beitragsbemessungsgrenze knappschaftliche RV). Bei einem Grenzsteuersatz von 42 % und Maximalbeitrag entspricht das einer Ersparnis von rund 12.324 €/Jahr. Wer 1.000 €/Monat einzahlt (= 12.000 €/Jahr) und 35 % Grenzsteuersatz hat, spart rund 4.200 € Steuern jährlich.'
+  - question: 'Wie wird die Rürup-Rente in der Auszahlung besteuert?'
+    answer: 'Es gilt die nachgelagerte Besteuerung (§ 22 Nr. 1 Buchst. a EStG). Der steuerpflichtige Anteil hängt vom Renteneintrittsjahr ab: Renteneintritt 2025 → 83,5 % steuerpflichtig, Renteneintritt 2040 oder später → 100 %. Wer heute einzahlt und 2050 in Rente geht, zahlt also auf die volle Rente Einkommensteuer. Das Steuermodell verschiebt die Steuerlast in die Rentenphase, wo der Steuersatz meist niedriger ist als im Erwerbsleben.'
+  - question: 'Was sind die größten Nachteile der Rürup-Rente?'
+    answer: '(1) Lebenslange Verrentung — keine Kapitalauszahlung möglich, (2) nicht vererbbar — bei Tod vor Rentenbeginn ist das Kapital weg (außer mit teurer Hinterbliebenenoption oder Beitragsrückgewähr), (3) nicht beleihbar oder übertragbar, (4) nicht kündbar — nur Beitragsfreistellung möglich, (5) lebenslange Bindung an einen Anbieter mit dessen Kostenstruktur. Diese Inflexibilität ist der Preis für den hohen Steuervorteil.'
+  - question: 'Rürup oder ETF-Sparplan — was ist besser?'
+    answer: 'Faustregel: Bei Grenzsteuersatz unter 30 % ist ein ETF-Sparplan meist überlegen — flexibler, vererbbar, mit Sparerpauschbetrag/Teilfreistellung steuerlich attraktiv. Bei Grenzsteuersatz ab 35–42 % gewinnt Rürup, weil der Sonderausgabenabzug die Renditenachteile aus Kosten und Inflexibilität überkompensiert. Ideal ist oft eine Kombination: Rürup für den steuerlich geförderten Teil, ETF-Sparplan für die Flexibilitätsreserve.'
+sources:
+  - title: 'Bundesministerium der Finanzen (BMF) — Basisrente (Rürup)'
+    url: 'https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/Basisrente/basisrente.html'
+  - title: 'Deutsche Rentenversicherung — Rürup-Rente'
+    url: 'https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Ruerup-Rente/ruerup-rente.html'
+  - title: 'Stiftung Warentest — Rürup-Rente'
+    url: 'https://www.test.de/thema/ruerup-rente/'
 ---
 
 Wer selbstständig ist, hat keine gesetzliche Rentenversicherung — zumindest nicht automatisch. Das bedeutet: Wer nichts tut, hat im Alter nichts. Die Rürup-Rente (offiziell: Basisrente) ist das staatlich geförderte Pendant zur Riester-Rente — aber speziell für Selbstständige, Freiberufler und Gutverdiener konzipiert.
