@@ -4,6 +4,25 @@ description: 'Frisch fertig an der Westfälischen Wilhelms-Universität Münster
 pubDate: '2026-05-12'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Fünf Entscheidungen prägen die Finanzen nach dem WWU-Abschluss: (1) Gehaltsverhandlung — Spielraum durchschnittlich 5–10 %, Region Münster bei BWL/Informatik 42–55k Brutto-Einstieg, Jura 55–75k bei Großkanzlei, (2) Privathaftpflicht und Berufsunfähigkeitsversicherung sofort — je jünger und gesünder, desto günstiger und einfacher die Annahme, (3) Notgroschen 3 Monatsausgaben (rund 5.000–8.000 €) auf Tagesgeld, (4) ETF-Sparplan mit MSCI World oder FTSE All-World ab 100 €/Monat — Cost-Average und Zinseszins über 30+ Jahre, (5) erste Steuererklärung mit Berufsstartkosten (Werbungskosten Umzug, Pendlerpauschale 0,30 €/0,38 € pro km, Bewerbungskosten).'
+faq:
+  - question: 'Wie verhandle ich beim Berufseinstieg ein höheres Gehalt?'
+    answer: 'Vor dem Bewerbungsgespräch Marktwert recherchieren (Stepstone, Glassdoor, Kununu, Bundesagentur Entgeltatlas). Rahmen statt Punktzahl nennen ("zwischen 50 und 55k"), Begründung: nicht "ich brauche das", sondern "Marktwert plus mein Profil". Verhandelbar sind oft nicht nur Grundgehalt, sondern auch: 13. Gehalt, variable Anteile, Urlaubstage (28 statt 25), Weiterbildungsbudget, Homeoffice-Tage, Job-Ticket, Dienstwagen oder Bahncard. Spielraum bei Berufseinstieg: 5–10 %.'
+  - question: 'Welche Versicherungen sind im ersten Job zwingend?'
+    answer: 'Drei Pflicht-Versicherungen: (1) Privathaftpflicht — 5–10 €/Monat für 10–15 Mio. € Versicherungssumme, ein einziger Schaden kann ohne sie ruinös werden, (2) Berufsunfähigkeitsversicherung — sofort abschließen, Beiträge steigen jährlich mit Alter, BU-Schutz mindestens 75 % des Nettoeinkommens, (3) Krankenversicherung — gesetzlich (Standard) oder privat (erst ab 73.800 €/Jahr 2025 Pflichtgrenze und nur ohne geplante Familie sinnvoll). Hausrat ab eigener Wohnung mit nennenswertem Inventar.'
+  - question: 'Wie investiere ich als Berufseinsteiger sinnvoll?'
+    answer: 'Standard-Einstieg: ETF-Sparplan auf einen breit gestreuten Welt-ETF (MSCI World mit 1.500+ Unternehmen oder FTSE All-World mit Schwellenländern, TER 0,12–0,22 %). Sparrate ab 100 €/Monat, mit jeder Gehaltserhöhung erhöhen. Broker: Trade Republic, Scalable Capital oder ING (kostenlose Sparpläne). Thesaurierende Variante spart Wiederanlage-Aufwand. 30 Jahre lang 200 €/Monat bei 7 % p. a. = ca. 245.000 €.'
+  - question: 'Was kann ich im ersten Berufsjahr steuerlich absetzen?'
+    answer: 'Werbungskosten über die Pauschale 1.230 €/Jahr hinaus: Umzugskosten beruflich veranlasst (Pauschale ohne Nachweis 964 € seit März 2024, plus tatsächliche Speditionskosten), doppelte Haushaltsführung wenn Hauptwohnsitz beibehalten, Pendlerpauschale (0,30 €/km bis 20 km, 0,38 € ab 21. km, max. 4.500 € außer eigenem Auto), Bewerbungskosten (Bewerbungsfotos, Reisekosten, Kopien), Arbeitsmittel (Laptop, Fachbücher, Bürostuhl im Homeoffice), Fortbildungskosten. Erfahrungsgemäß durchschnittliche Erstattung 600–1.200 € im ersten Jahr.'
+  - question: 'Wann lohnt sich der Wechsel von Münster in eine andere Stadt?'
+    answer: 'Nur wenn das Gesamtpaket stimmt: Bruttogehalt-Aufschlag mindestens 10 % über regionalen Mehrkosten. Beispiel: Münster vs. München → München zahlt 10–15 % höhere Brutto-Gehälter, aber Mietkosten 50 % höher und Lebenshaltung 25 % teurer. Netto-Real-Effekt oft negativ. Ausnahme: Spezialisierte Berufe (Investment Banking, Tech bei Top-Konzernen) mit überproportionalen Gehältern. Karriereperspektive (Headhunter-Markt, Branchencluster) oft wichtiger als Einstiegsgehalt — Münster hat starke IT-, Versicherungs- und Logistik-Cluster.'
+sources:
+  - title: 'Bundesagentur für Arbeit — Entgeltatlas'
+    url: 'https://web.arbeitsagentur.de/entgeltatlas/'
+  - title: 'Bundesministerium der Finanzen — Werbungskosten'
+    url: 'https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/lohnsteuer.html'
+  - title: 'Statistisches Bundesamt — Verdienste'
+    url: 'https://www.destatis.de/DE/Themen/Arbeit/Verdienste/_inhalt.html'
 ---
 
 Du hast an der WWU Münster studiert — Jura, BWL, Informatik, Medizin, Sozialwissenschaften, egal. Jetzt fängt der erste richtige Job an. Plötzlich kommt Geld rein statt raus. Und plötzlich stehen Entscheidungen an, die für die nächsten Jahrzehnte zählen. Die meisten macht man intuitiv falsch.

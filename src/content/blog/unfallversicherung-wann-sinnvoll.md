@@ -4,6 +4,25 @@ description: 'Private Unfallversicherung erklärt: Was sie leistet, wo ihre Gren
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
+tldr: 'Die private Unfallversicherung leistet eine einmalige Invaliditätssumme bei dauerhaften unfallbedingten Beeinträchtigungen — ausgezahlt anhand der Gliedertaxe (z. B. Verlust eines Arms = 70 % der Versicherungssumme). Sie deckt nur Unfälle (rund 8 % aller Invaliditätsursachen), nicht Krankheiten — die machen aber rund 92 % aller dauerhaften Erwerbsminderungen aus. Daher ist sie kein Ersatz für eine Berufsunfähigkeitsversicherung. Sinnvoll für: Kinder (BU oft nicht möglich), Berufstätige mit hohem Unfallrisiko, Hausfrauen/-männer ohne Erwerbseinkommen. Faustregel Versicherungssumme: 5–6-faches Bruttojahresgehalt mit 350–500 % Progression.'
+faq:
+  - question: 'Was leistet eine private Unfallversicherung?'
+    answer: 'Bei dauerhaften körperlichen Beeinträchtigungen durch Unfall (Mindest-Invaliditätsgrad meist 1 %, sinnvoll erst ab Schwellen wie 25 % oder 50 %) zahlt sie eine Einmalleistung. Die Höhe richtet sich nach Gliedertaxe (Tabelle für Verlust/Funktionsverlust einzelner Körperteile) und vereinbarter Versicherungssumme. Mit Progression (typisch 225–500 %) steigt die Leistung bei höheren Invaliditätsgraden überproportional.'
+  - question: 'Was ist der Unterschied zur Berufsunfähigkeitsversicherung?'
+    answer: 'Unfallversicherung: einmalige Kapitalzahlung nur bei Unfällen, unabhängig vom Beruf. BU: monatliche Rente bei dauerhaftem Verlust der Berufsfähigkeit zu mindestens 50 %, sowohl durch Unfall als auch Krankheit. Statistisch: nur 8 % aller Berufsunfähigkeitsfälle sind unfallbedingt — die restlichen 92 % entstehen durch Krankheit (Psyche, Skelett, Krebs, Herz-Kreislauf). Die BU ist daher der zentrale Einkommensschutz; die Unfallversicherung ergänzend.'
+  - question: 'Für wen ist eine Unfallversicherung sinnvoll?'
+    answer: 'Klar sinnvoll: (1) Kinder — eine BU ist für Kinder nicht abschließbar, eine Kinder-Unfallversicherung schließt einen Teil der Lücke, (2) Personen mit erhöhtem Unfallrisiko (Handwerker, Sportler, Pflegekräfte), (3) Hausfrauen/-männer ohne BU-Zugang. Weniger sinnvoll: Bürotätige Berufstätige mit ausreichender BU — die Unfallversicherung deckt dann nur 8 % der Risikofälle ab.'
+  - question: 'Wie hoch sollte die Versicherungssumme sein?'
+    answer: 'Faustregel: 5–6-fache Bruttojahresgehalt mit 350–500 % Progression. Bei einem Bruttojahresgehalt von 50.000 € entspricht das einer Grundsumme von 250.000–300.000 € mit 500 %-Progression — d. h. bei 100 % Invalidität Auszahlung von 1,25–1,5 Mio. €. Wichtig: Die Versicherungssumme muss zur tatsächlich notwendigen Lebensanpassung passen (Umbau Haus, Hilfsmittel, lebenslange Pflege).'
+  - question: 'Welche Kosten sind realistisch?'
+    answer: 'Erwachsene mit 250.000 € Versicherungssumme und 350 %-Progression: rund 100–250 €/Jahr je nach Beruf und Anbieter. Gefahrengruppen unterscheiden A (Bürojobs, niedrigere Beiträge) und B (handwerklich, höhere Beiträge). Kinder: 60–120 €/Jahr für 200.000 €. Wichtig: Genau auf Ausschlüsse achten (z. B. Bewusstseinsstörungen, manche Risikosportarten), Bauchspeicheldrüsen-Klauseln und Mitwirkungsanteile (häufiger Streitpunkt).'
+sources:
+  - title: 'GDV — Private Unfallversicherung'
+    url: 'https://www.gdv.de/gdv/themen/sach-und-haftpflichtversicherung/unfallversicherung'
+  - title: 'Stiftung Warentest — Private Unfallversicherung im Test'
+    url: 'https://www.test.de/Private-Unfallversicherung-Wann-sich-eine-Police-lohnt-5008055-0/'
+  - title: 'Verbraucherzentrale — Unfallversicherung'
+    url: 'https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-unfallversicherung-wann-sich-die-police-lohnt-13767'
 ---
 
 Die private Unfallversicherung gehört zu den am häufigsten abgeschlossenen Versicherungen in Deutschland. Sie wird aktiv verkauft, oft im Paket mit anderen Produkten angeboten — und ist dabei für viele Menschen nicht das, was sie eigentlich brauchen.
