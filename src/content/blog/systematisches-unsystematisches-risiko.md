@@ -4,6 +4,25 @@ description: 'Systematisches und unsystematisches Risiko einfach erklärt: Was b
 pubDate: '2026-05-24'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
+tldr: 'Aktienrisiko teilt sich in zwei Komponenten: (1) Systematisches Risiko (Marktrisiko) — entsteht aus Konjunktur, Zinsen, Inflation, geopolitischen Krisen und kann nicht wegdiversifiziert werden. Wird mit dem Beta-Faktor (CAPM) gemessen. (2) Unsystematisches Risiko (titelspezifisches Risiko) — entsteht aus einzelnen Unternehmen (Vorstandswechsel, Produktflop, Bilanzskandal) und sinkt durch Diversifikation gegen null. Schon ab 20–30 zufälligen Aktien ist das unsystematische Risiko weitgehend eliminiert. Bei einem Welt-ETF mit 1.500+ Titeln (MSCI World) bleibt nur noch das systematische Marktrisiko — und genau für dieses bekommt der Anleger die Risikoprämie.'
+faq:
+  - question: 'Was ist systematisches Risiko?'
+    answer: 'Systematisches Risiko (auch Marktrisiko) betrifft den gesamten Markt und kann nicht durch Diversifikation eliminiert werden. Treiber: Zinsentscheidungen der Notenbanken, Konjunkturzyklen, Inflation, geopolitische Krisen, regulatorische Änderungen. Beispiel: Die Corona-Krise 2020 ließ alle Aktienmärkte gleichzeitig 30 % fallen — kein Aktien-Portfolio konnte sich entziehen. Im CAPM-Modell wird systematisches Risiko mit dem Beta-Faktor gemessen: Beta = 1 entspricht Marktrisiko, Beta > 1 überdurchschnittlich, Beta < 1 unterdurchschnittlich.'
+  - question: 'Was ist unsystematisches Risiko?'
+    answer: 'Unsystematisches Risiko (titelspezifisches oder idiosynkratisches Risiko) betrifft einzelne Unternehmen oder Branchen — Vorstandswechsel, Produktflop, Bilanzskandal, Lieferantenpleite, Streiks, Patentablauf. Beispiel Wirecard 2020: Aktie verlor 99 % wegen Bilanzbetrug — alle anderen DAX-Werte blieben unbeeinflusst. Dieses Risiko verschwindet durch Diversifikation, weil sich Einzelfälle gegenseitig ausgleichen.'
+  - question: 'Wie viele Aktien brauche ich für gute Diversifikation?'
+    answer: 'Klassische Studien (Evans/Archer 1968, Statman 1987) zeigen: Mit 15–20 zufällig gewählten Aktien werden bereits rund 80 % des unsystematischen Risikos eliminiert, mit 30 etwa 95 %. Wichtig: Die Aktien müssen über Branchen, Länder, Größenklassen verteilt sein — 20 deutsche Bankaktien diversifizieren wenig. Ein MSCI-World-ETF mit 1.500+ Aktien aus 23 Industrieländern ist praktisch komplett von unsystematischem Risiko befreit.'
+  - question: 'Werde ich für unsystematisches Risiko entlohnt?'
+    answer: 'Nein — und das ist die wichtigste Erkenntnis. Im CAPM-Modell zeigen sich Renditeprämien nur für nicht-diversifizierbares Risiko. Wer Einzelaktien hält und damit unsystematisches Risiko trägt, bekommt dafür keine zusätzliche erwartete Rendite — er trägt einfach mehr Risiko bei gleicher erwarteter Rendite. Ökonomisch rational ist daher nur breite Diversifikation. Aktive Stockpicker übernehmen unsystematisches Risiko bewusst, weil sie überdurchschnittliche Renditen erwarten — empirisch gelingt das nur einer Minderheit.'
+  - question: 'Was bedeutet das für die Anlagestrategie?'
+    answer: 'Drei Schlussfolgerungen: (1) Einzelaktien sind nur für Anleger sinnvoll, die bewusst Stockpicking betreiben und ein zusätzliches Risiko akzeptieren. (2) Für die Mehrheit ist ein breit gestreuter Welt-ETF (MSCI World oder FTSE All-World) die rationalere Wahl — er eliminiert unsystematisches Risiko bei minimalen Kosten. (3) Beimischungen wie Schwellenländer-ETF (MSCI EM) oder Small-Cap-ETF erhöhen die Diversifikation weiter — über Industrieländer-Schwergewichte hinaus.'
+sources:
+  - title: 'Bundesbank — Diversifikation und Risiko'
+    url: 'https://www.bundesbank.de/de/aufgaben/themen/'
+  - title: 'BaFin — Geldanlage und Risiko'
+    url: 'https://www.bafin.de/DE/Verbraucher/GeldanlageWertpapiere/geldanlagewertpapiere_node.html'
+  - title: 'Stiftung Warentest — ETF und Diversifikation'
+    url: 'https://www.test.de/Sparplaene-mit-ETF-Bequem-zum-Vermoegen-5172357-0/'
 ---
 
 Jede Aktie schwankt. Aber warum? Die Antwort teilt sich in zwei Kategorien, die du als Anleger kennen solltest — denn eine davon kannst du wegdiversifizieren, die andere nicht. Wer das nicht unterscheidet, trägt Risiko, für das er nicht entlohnt wird.
