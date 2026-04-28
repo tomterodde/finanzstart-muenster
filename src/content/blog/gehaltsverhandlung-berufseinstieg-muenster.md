@@ -1,7 +1,7 @@
 ---
 title: 'Gehaltsverhandlung beim Berufseinstieg: Was in Münster realistisch ist'
 description: 'Erste Gehaltsverhandlung nach dem Studium: Marktdaten Münster, Verhandlungsspielräume nach Branche und konkrete Argumentation für Berufseinsteiger.'
-pubDate: '2026-04-30'
+pubDate: '2026-04-28'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Gehaltsverhandlung beim Berufseinstieg ist ein einmaliger Hebel: 5.000 € mehr Einstiegsgehalt bedeuten über 40 Berufsjahre bei 3 % jährlicher Steigerung kumuliert ca. 380.000 € mehr Lifetime-Earnings (vor Steuern). Münster-spezifisch 2025: WWU-BWL-Absolvent Einstieg 48.000–58.000 € (IHK Nord Westfalen, Stepstone Gehaltsreport 2025), WWU-Wirtschaftsinformatiker 52.000–65.000 €, Jurist 1. Examen 50.000–62.000 €, Mediziner Assistenzarzt nach TV-Ärzte 56.244 € (Stand 03/2025). Verhandlungsspielraum typisch 5–10 % über erstem Angebot, bei knappen Spezialisten (IT, Medizin) 10–15 %. Tabuthemen: Mindestgehalt nennen, Gegenangebote erfinden. Pflichtargumente: Studienleistung (Note unter 2,5), Praktika/Werkstudent-Erfahrung in fachverwandter Tätigkeit, Auslandsaufenthalt, Sprachkenntnisse mit Zertifikat. § 87 Abs. 2 BetrVG: Bei Tarifbindung sind Verhandlungen begrenzt — ED-Zulagen, Urlaub, Homeoffice bleiben verhandelbar.'

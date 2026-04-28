@@ -1,7 +1,7 @@
 ---
 title: '5-Jahres-Karriereplan: Wie Gehaltssprünge den Vermögensaufbau hebeln'
 description: 'Karriere und Geld zusammen denken: Welche Gehaltssprünge in 5 Jahren realistisch sind und wie sie den Vermögensaufbau exponentiell beschleunigen.'
-pubDate: '2026-04-30'
+pubDate: '2026-04-28'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Die ersten fünf Berufsjahre sind die wichtigste Hebelphase: Wer in 5 Jahren von 50.000 € auf 75.000 € Brutto springt (jährliche Steigerung 8,4 %, realistisch mit 1–2 Stellenwechseln), erhöht das Lebensvermögen bei 30 % Sparquote über 35 weitere Berufsjahre um ca. 600.000 € (vs. konstantes Einstiegsgehalt mit Inflationsausgleich). Drei Sprung-Typen: (1) Interner Aufstieg durch Beförderung — typisch 5–10 % pro Stufe, alle 18–24 Monate, (2) Externer Wechsel — typisch 10–20 % Sprung, optimal alle 2–3 Jahre, (3) Spezialisierungssprung — Master/MBA/Zertifizierung mit Folge-Bewerbung 15–30 % Sprung. Die Sparquote sollte mit dem Einkommen wachsen — nicht der Lebensstil. Faustregel "50 % der Gehaltssteigerung sparen": Wer von 3.000 € auf 4.000 € netto springt, erhöht Lifestyle um 500 € und Sparrate um 500 €. Über 5 Jahre macht das den Unterschied zwischen finanzieller Hängematte und stabiler Selbstbestimmung.'

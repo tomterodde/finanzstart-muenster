@@ -1,7 +1,7 @@
 ---
 title: 'Zweites Standbein neben dem Hauptjob aufbauen: Rechtlich, steuerlich, zeitlich'
 description: 'Wie du systematisch ein zweites Einkommen neben dem Hauptjob aufbaust: arbeitsrechtliche Spielregeln, steuerliche Behandlung, Zeit- und Energiebudget.'
-pubDate: '2026-04-30'
+pubDate: '2026-04-28'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Ein zweites Standbein neben dem Hauptjob ist arbeitsrechtlich erlaubt — aber an drei Bedingungen geknüpft: keine Konkurrenz zum Arbeitgeber (§ 60 HGB analog, § 241 Abs. 2 BGB Treuepflicht), Einhaltung Arbeitszeitgesetz (max. 48 Stunden/Woche im Durchschnitt, § 3 ArbZG), keine Beeinträchtigung der Hauptleistung. Anzeigepflicht meist im Arbeitsvertrag verankert (Genehmigungsvorbehalt rechtswidrig — nur Anzeige zulässig nach BAG 24.06.1999). Steuerlich: Kleinunternehmerregelung bis 25.000 €/Jahr Umsatz spart Umsatzsteuer-Voranmeldung (§ 19 UStG, ab 2025 erhöht); zusätzliches Einkommen unterliegt vollem Grenzsteuersatz, da Hauptjob den Grundfreibetrag schon ausschöpft. Sozialversicherung: Hauptjob-Krankenkasse bleibt zuständig wenn nebenberufliche Selbstständigkeit unter 20 h/Woche und unter Hauptjob-Einkommen (§ 5 Abs. 5 SGB V Hauptbeschäftigung). Realistischer Zeitrahmen: 8–15 Stunden/Woche im ersten Jahr, das entspricht 2–3 produktiven Abenden plus halber Samstag. Bei höherem Einsatz: Burnout-Risiko, schlechte Performance im Hauptjob, Beziehungskonflikte.'

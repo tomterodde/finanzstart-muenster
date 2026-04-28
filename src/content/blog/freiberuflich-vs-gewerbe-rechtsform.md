@@ -1,7 +1,7 @@
 ---
 title: 'Freiberuflich oder Gewerbe? Die Unterschiede einfach erklärt'
 description: 'Freiberufler vs. Gewerbetreibender: Welche Rechtsform passt? Steuerliche, rechtliche und buchhalterische Unterschiede mit Beispielen aus der Praxis.'
-pubDate: '2026-04-30'
+pubDate: '2026-04-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Die Wahl zwischen Freiberuflichkeit und Gewerbe ist nicht frei — sie ergibt sich aus der ausgeübten Tätigkeit. Freie Berufe nach § 18 EStG sind Katalogberufe (Ärzte, Anwälte, Architekten, Steuerberater, Journalisten, Künstler, Wissenschaftler) und ähnliche Berufe (Programmierer, Designer, Berater unter bestimmten Bedingungen). Vorteile: keine Gewerbesteuer (§ 35 EStG bis Freibetrag 24.500 € irrelevant, darüber spart der Freiberufler), keine IHK-Pflichtmitgliedschaft, einfache EÜR statt doppelter Buchführung möglich. Gewerbetreibende nach § 15 EStG (Handel, Handwerk, Vermittlung, Großteil der Online-Geschäfte): IHK-Beitrag (60–500 €/Jahr je nach Gewinn), Gewerbeanmeldung beim Ordnungsamt (20–60 €), Gewerbesteuer ab 24.500 € Gewinn (Hebesatz Münster 2025: 460 %). Bilanzierungspflicht erst ab 600.000 € Umsatz oder 60.000 € Gewinn — sonst EÜR möglich. Mischformen sind heikel: Wer als "Freiberufler" auch gewerbliche Tätigkeit ausübt, fällt in voller Höhe in die Gewerblichkeit (§ 15 Abs. 3 Nr. 1 EStG, Abfärbetheorie) — Trennung über zwei separate Tätigkeiten oder GbR/GmbH.'
