@@ -10,6 +10,21 @@
       ],
       "destination": "https://finanzstart-muenster.de/$1",
       "permanent": true
+    },
+    {
+      "source": "/blog/riester-rente-wann-lohnt-sich",
+      "destination": "/blog/riester-rente-lohnt-sich",
+      "permanent": true
+    },
+    {
+      "source": "/blog/notgroschen-wie-viel-wohin",
+      "destination": "/blog/notgroschen-wo-parken-tagesgeld",
+      "permanent": true
+    },
+    {
+      "source": "/blog/immobilien-kaufen-mieten-muenster",
+      "destination": "/blog/mieten-oder-kaufen-muenster",
+      "permanent": true
     }
   ]
 }
