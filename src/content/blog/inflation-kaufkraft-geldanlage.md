@@ -58,7 +58,7 @@ Aktuell bieten Tagesgeldkonten 2–3 % Zinsen. Das klingt nach Inflationsschutz.
 - Zinserträge werden mit 25 % Abgeltungssteuer besteuert
 - Realer Ertrag nach Steuer: bei 3 % Zins und 3 % Inflation: 3 % × (1 - 0,25) = 2,25 % netto → **-0,75 % real**
 
-Tagesgeld schützt nicht vollständig vor Inflation. Es ist der richtige Platz für den [Notgroschen](/blog/notgroschen-wie-viel-wohin) — aber nicht für langfristiges Vermögen.
+Tagesgeld schützt nicht vollständig vor Inflation. Es ist der richtige Platz für den [Notgroschen](/blog/notgroschen-wo-parken-tagesgeld) — aber nicht für langfristiges Vermögen.
 
 ## Langfristiger Inflationsschutz: Was funktioniert
 

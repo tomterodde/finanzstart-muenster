@@ -1,21 +1,21 @@
 ---
-title: 'Rürup-Rente: Für wen sie sich rechnet — und für wen nicht'
-description: 'Die Rürup-Rente (Basisrente) lohnt sich nicht für jeden. Wann der Steuerabzug wirklich zählt — und für welche Gruppen ETF oder Riester besser sind.'
+title: 'Rürup vs. ETF-Sparplan: Die Steuerrechnung im Vergleich'
+description: 'Lohnt sich Rürup wirklich gegenüber einem flexiblen ETF-Sparplan? Konkrete Steuerrechnung über 30 Jahre — Eigenaufwand, Endkapital und Rente nach Steuern im Vergleich.'
 pubDate: '2026-05-08'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
-tldr: 'Die Rürup-Rente (Basisrente, § 10 Abs. 1 Nr. 2 EStG) wurde 2005 mit dem Alterseinkünftegesetz eingeführt — Zielgruppe primär Selbstständige ohne GRV-Pflicht. 2025 sind Beiträge bis 29.344 € (Ledige) bzw. 58.688 € (Verheiratete) als Sonderausgaben absetzbar. Seit 2023 100 % der Einzahlungen voll steuerwirksam — vorher gestaffelter Anstieg. Die nachgelagerte Besteuerung der Rente steigt parallel: 2025 sind 83,5 % steuerpflichtig, ab 2058 100 % (§ 22 Nr. 1 Buchst. a EStG). Pflichtmerkmale: Auszahlung frühestens ab 62 Jahren als lebenslange Leibrente, keine Kapitalauszahlung möglich, nicht übertragbar/vererbbar/beleihbar (§ 851c ZPO Pfändungsschutz). Lohnt vor allem bei Grenzsteuersatz 42 %+ (zu versteuerndes Einkommen ab 68.480 € Single, 2025) und sicherer langer Anlagehorizont. Für Berufseinsteiger mit niedrigem Steuersatz ist ein flexibler ETF-Sparplan meist überlegen.'
+tldr: 'Rürup-Beiträge sind 2025 bis 29.344 € (Single) als Sonderausgaben absetzbar (§ 10 Abs. 1 Nr. 2 EStG) — bei Grenzsteuersatz 42 % bedeutet das 0,42 € Steuerersparnis pro 1 € Beitrag. ETF-Sparplan dagegen aus Netto, dafür flexibel und kapitalfähig. Über 30 Jahre bei 5 % p. a. Rendite und Grenzsteuersatz heute 42 % / im Alter 30 %: Rürup-Police mit 1,5 % Kosten erreicht ca. 580.000 € Endkapital (entspricht ~2.000 € lebenslange Bruttorente, ~1.400 € netto), ETF-Sparplan mit 0,2 % Kosten ca. 750.000 € (Auszahlung flexibel, nur Kapitalerträge mit 25 % Abgeltungsteuer + Teilfreistellung 30 % belastet). Rürup gewinnt nur bei Grenzsteuersatz dauerhaft 42 %+, sehr niedrigen Produktkosten unter 1 % und sicherer Pflichtversicherung über § 851c ZPO. Für die meisten Sparer: ETF-Sparplan überlegen.'
 faq:
-  - question: 'Wie hoch ist der maximale Rürup-Beitrag mit Steuervorteil 2025?'
-    answer: 'Höchstbetrag 2025: 29.344 € für Ledige, 58.688 € für zusammenveranlagte Ehepaare (§ 10 Abs. 3 EStG). Dieser Wert ist an den Höchstbeitrag zur knappschaftlichen Rentenversicherung gekoppelt: 24,7 % (Beitragssatz GRV+Knappschaft 18,6 % + Differenz) auf die Beitragsbemessungsgrenze West 2025 (96.600 €/Jahr) = ca. 23.864 € — plus den Höchstbeitrag bzw. -zuschuss seit Lebenseinkommensbesteuerungs-Reform. Wichtig: Bei Pflichtversicherten in der GRV werden bereits gezahlte AN- und AG-Beiträge (zur GRV, berufsständische Versorgungswerke, landwirtschaftliche Alterskassen) vom Höchstbetrag abgezogen. Beispiel: Angestellter mit 60.000 € Brutto zahlt 5.580 € AN-Beitrag GRV. Davon abgezogen vom 29.344 €-Limit verbleiben 18.184 € möglicher Rürup-Beitrag — alle darüber hinaus eingezahlten Beträge sind nicht mehr steuerlich absetzbar.'
-  - question: 'Wann lohnt sich Rürup für Selbstständige?'
-    answer: 'Drei Konstellationen: 1) Hochverdienender Selbstständiger ohne Versorgungswerk: Bei zu versteuerndem Einkommen über 68.480 € (Single, 2025) Grenzsteuersatz 42 % — 1 € Rürup-Beitrag spart 0,42 € Steuer. Bei 66.760 €+ greift bereits die zweite Progressionszone (42 %). Reichensteuer ab 277.826 € (45 %). 2) Selbstständiger mit unsicherer Liquidität: Pfändungsschutz nach § 851c ZPO macht Rürup-Vermögen vor Gläubigern sicher — relevant für Berufe mit Haftungsrisiko (Architekten, Ingenieure, Berater). 3) Sehr lange Anlagehorizont (25+ Jahre): Steuerersparnis kann reinvestiert werden. Faustregel: Wer den Mindestbeitrag jährlich ohne Liquiditäts-Einschränkung zahlen kann, jung ist (unter 45) und einen Grenzsteuersatz von 35+ % hat, profitiert deutlich. Achtung: Renditeerwartung der Rürup-Police selbst ist meist niedriger als reine Kapitalmarktanlage wegen der Kostenstruktur (Abschluss-/Verwaltungskosten 1,5–3 % p.a.).'
-  - question: 'Wie wird die Rürup-Rente im Alter besteuert?'
-    answer: 'Volle nachgelagerte Besteuerung: Die ausgezahlte Rürup-Rente ist mit dem persönlichen Einkommensteuersatz steuerpflichtig (§ 22 Nr. 1 Satz 3 Buchst. a EStG). Für Renten, die 2025 erstmals beginnen, sind 83,5 % der Bruttorente steuerpflichtig — der Rest (16,5 %) ist als persönlicher Freibetrag dauerhaft steuerfrei. Bis 2040 steigt der steuerpflichtige Anteil jährlich um 0,5 % auf 99 % (Wachstumschancengesetz 2024 hat den Anstieg verlangsamt; ursprünglich 100 % ab 2040, jetzt erst ab 2058). Im Rentenalter ist der Grenzsteuersatz typischerweise niedriger als im Berufsleben (z. B. 25–30 % statt 35–42 %) — das ist der Kernhebel der nachgelagerten Besteuerung. Beispiel: Während der Ansparphase 1.000 € Rürup-Beitrag = 420 € Steuerersparnis. Im Rentenalter pro 1.000 € Auszahlung = 250–300 € Steuerschuld. Differenz: 120–170 € pro 1.000 € — kumuliert über 30 Beitragsjahre erheblich.'
-  - question: 'Was passiert mit Rürup-Vermögen bei Tod vor Rentenbeginn?'
-    answer: 'Standardvariante (ohne Zusatzbausteine): Vermögen verfällt — keine Kapitalauszahlung an Erben, keine Rückzahlung der Beiträge (§ 10 Abs. 1 Nr. 2 EStG verlangt nicht-vererbbare Leibrente). Optional einschließbare Bausteine, die meist Renditeabschläge oder höhere Beiträge bedeuten: 1) Hinterbliebenenrente: Ehepartner oder eingetragene Lebenspartner und kindergeldberechtigte Kinder können eine lebenslange Witwen-/Witwer-/Waisenrente erhalten. Zwingend: Familienstand bestand schon zu Vertragsbeginn, kein nachträglicher Einschluss möglich nach Heirat. 2) Beitragsrückgewähr im Todesfall: Bei Tod vor Rentenbeginn werden die eingezahlten Beiträge an Hinterbliebene ausgezahlt — Vorsicht: gilt steuerlich als Schenkung/Erbschaft, kein Sonderausgabenabzug für Erben. 3) Rentengarantiezeit: Bei Tod nach Rentenbeginn wird die Rente noch X Jahre (typisch 5–20) an Hinterbliebene weitergezahlt. Praxisrelevanz: Junge Berufseinsteiger mit Familie sollten den Hinterbliebenenschutz sorgfältig prüfen — er kostet bis zu 5–10 % Renditeabschlag.'
-  - question: 'Lohnt Rürup für Angestellte mit hohem Einkommen?'
-    answer: 'Bedingt sinnvoll als zweite Säule, nachdem alle anderen geförderten Wege ausgeschöpft sind. Reihenfolge der Optimierung für Angestellte mit Brutto über 80.000 €: 1) Maximale GRV-Beiträge (sind Pflicht). 2) Betriebliche Altersvorsorge bis 7.728 € steuerfrei (8 % BBG West, § 3 Nr. 63 EStG) + 3.864 € sozialabgabenfrei (4 % BBG). 3) Riester voll ausschöpfen (2.100 €/Jahr) — bei Kindern attraktive Zulagen. 4) Erst dann Rürup als steuerlicher Hebel. Spezifische Lebenssituationen, in denen Rürup auch für Angestellte attraktiv ist: Topverdiener kurz vor Rentenbeginn (5–10 Jahre Steuerstundung mit hohem Hebel), Doppelverdiener-Ehe mit asymmetrischer Einkommensverteilung (zu zweit 58.688 €/Jahr abziehbar), Angestellte mit Plan auf Selbstständigkeit (Schutz-Effekt § 851c ZPO greift später). Generelle Warnung: Inflexibilität ist real — kein vorzeitiger Zugriff, kein Beleihen, keine Kapitalauszahlung. Wer das Risiko hoher Liquiditätsbedarf in den nächsten 30 Jahren trägt, sollte Alternative bevorzugen.'
+  - question: 'Wie hoch ist der Steuervorteil bei Rürup pro 1.000 € Beitrag?'
+    answer: 'Reine Steuerersparnis im Einzahlungsjahr: 1.000 € × persönlicher Grenzsteuersatz. Bei Grenzsteuersatz 42 % (Single über 68.480 € zvE 2025) sind das 420 €. Bei 33 % (mittleres Einkommen 40.000–55.000 € zvE) 330 €. Bei 25 % (junge Berufseinsteiger) nur 250 €. Wichtig: Der Effektiv-Vorteil sinkt durch nachgelagerte Besteuerung in der Rentenphase. Bei Rentenbeginn 2025 sind 83,5 % der Rürup-Rente steuerpflichtig (§ 22 Nr. 1 Buchst. a EStG), ab 2058 100 %. Wenn der Grenzsteuersatz im Alter 30 % beträgt, werden 25 % der Auszahlung nachversteuert — Netto-Steuervorteil über die Lebenszeit nur etwa 17 Prozentpunkte (42 % − 25 %), nicht volle 42 %.'
+  - question: 'Was ist der größte Nachteil von Rürup gegenüber ETF?'
+    answer: 'Inflexibilität. Rürup-Vermögen ist gesetzlich gebunden: keine Kapitalauszahlung, kein Zugriff vor 62, nicht beleihbar, nicht übertragbar (§ 10 Abs. 1 Nr. 2 EStG, § 851c ZPO). Wer in 10 Jahren eine Immobilie kaufen will, ein Sabbatical plant oder die Selbstständigkeit aufgibt — kommt nicht ans Geld. Der ETF-Sparplan ist jederzeit verfügbar (T+2 Settlement), beleihbar als Sicherheit für Lombardkredite, vererbbar an beliebige Personen, übertragbar zwischen Depots. Die scheinbar höhere Steuerbelastung des ETF (25 % Abgeltungsteuer + 5,5 % Soli, mit 30 % Teilfreistellung effektiv 18,46 % auf Aktien-ETF-Erträge) ist der Preis für volle Liquidität — für die meisten Sparer ein guter Tausch.'
+  - question: 'Wie viel kostet eine Rürup-Police pro Jahr?'
+    answer: 'Klassische Fondsgebundene Rürup-Police: Abschlusskosten 2,5–4 % der Beitragssumme (verteilt auf 5 Jahre), Verwaltungskosten 1,5–3 % p. a. auf den Fondswert, Fondskosten 0,5–2 % p. a. (TER der enthaltenen Fonds). Gesamtkostenquote häufig 2,5–4 % p. a. Vergleich: ETF-Sparplan bei Direktbank kostet 0,1–0,3 % TER + 0–1,50 € Ausführungsgebühr. Auf 30 Jahre macht der Kostenunterschied bei 5 % Bruttorendite ca. 25–35 % weniger Endkapital aus. Bei Rürup-Banksparplan oder Rürup-Honorartarif (Nettotarif ohne Provision) sinken die Kosten auf 0,5–1 % — diese Varianten sind selten und nur bei Honorarberatern erhältlich.'
+  - question: 'Wann gewinnt Rürup im Steuervergleich gegen ETF?'
+    answer: 'Drei Bedingungen müssen gleichzeitig erfüllt sein: (1) Grenzsteuersatz heute mindestens 42 % und sicher dauerhaft auf diesem Niveau (z. B. etablierter Selbstständiger mit konstantem Hochlohn, Beamter A14+). (2) Erwarteter Grenzsteuersatz im Alter unter 30 %, ideal unter 25 % (z. B. niedrige zusätzliche Renten, kein Mieteinkommen). (3) Rürup-Produkt mit Gesamtkosten unter 1,5 % p. a. (Honorartarif oder günstige Direktversicherer-Police). Sind alle drei erfüllt, liegt der Nettoertrag der Rürup-Strategie über 30 Jahre 5–10 % über dem reinen ETF-Sparplan. Fehlt eine Bedingung — meist die Kostenquote — dreht der Vergleich. Faustregel: Rürup nur nach Vollkostenrechnung über die individuelle Lebensbiografie.'
+  - question: 'Lohnt eine Kombination aus Rürup und ETF?'
+    answer: 'Häufig sinnvoll für Selbstständige mit Grenzsteuersatz 42 %+: Rürup bis zu einem Beitrag, der die Liquidität nicht einschränkt (typisch 5.000–15.000 €/Jahr, deutlich unter dem 29.344-€-Höchstbetrag) — für die garantierte Sockel-Rente und den § 851c ZPO Pfändungsschutz. ETF-Sparplan zusätzlich für den freien Vermögensaufbau, Notgroschen, mittelfristige Ziele (Immobilie, Kindererziehung, Sabbatical). Die Aufteilung 30 % Rürup / 70 % ETF ist für viele Selbstständige ein vernünftiger Ausgangspunkt — ersetzt aber keine individuelle Berechnung mit echten Steuersätzen, Berufslebensplan und Liquiditätsbedarf.'
 sources:
   - title: '§ 10 EStG — Sonderausgaben (gesetze-im-internet.de)'
     url: 'https://www.gesetze-im-internet.de/estg/__10.html'
@@ -25,56 +25,85 @@ sources:
     url: 'https://www.verbraucherzentrale.de/wissen/geld-versicherungen/altersvorsorge/ruerup-rente-basisrente-die-grundlagen-13209'
 ---
 
-Die Rürup-Rente ist das am wenigsten verstandene Altersvorsorgeprodukt in Deutschland. Sie heißt offiziell Basisrente, wurde 2005 eingeführt und wurde für eine spezifische Zielgruppe konzipiert: Selbstständige ohne gesetzliche Rentenversicherungspflicht. Für alle anderen ist sie oft unnötig — manchmal aber doch sinnvoll.
+Rürup oder ETF-Sparplan? Die Frage stellt sich jeder Selbstständige und jeder Gutverdiener mit ausgereizter Riester-Förderung. Die ehrliche Antwort hängt von drei Stellschrauben ab — Steuersatz heute, Steuersatz im Alter, Produktkosten. Hier die Rechnung im Vergleich.
 
-## Wie Rürup funktioniert
+Wer die [grundsätzliche Funktion und Zielgruppe der Rürup-Rente](/blog/ruerup-rente-selbststaendige) sucht, findet sie im Hauptartikel. Hier geht es um den direkten Steuer- und Renditevergleich.
 
-Beiträge zur Rürup-Rente sind als Sonderausgaben steuerlich absetzbar — bis zu **29.344 Euro/Jahr** (2025, für Ledige). Die Steuerersparnis ist der zentrale Vorteil.
+## Die Ausgangsannahmen
 
-Im Alter wird die Rürup-Rente als lebenslange Rente ausgezahlt — voll besteuert (nachgelagerte Besteuerung, wie die gesetzliche Rente auch).
+Selbstständiger, 35 Jahre alt, will 5.000 Euro/Jahr für die Altersvorsorge sparen — über 30 Jahre bis Rentenbeginn mit 65.
 
-**Wichtig:** Keine Kapitalauszahlung möglich. Kein Zugriff vor 62 Jahren. Nicht übertragbar, nicht beleihbar.
+- Grenzsteuersatz heute: **42 %**
+- Grenzsteuersatz im Alter: **30 %** (typisch bei einer Gesamtrente um 30.000 Euro/Jahr)
+- Erwartete Bruttorendite: **5 % p. a.**
 
-## Die Steuerersparnis: Wann sie groß ist
+Zwei Wege werden verglichen:
 
-Bei einem Grenzsteuersatz von **42 %** (Einkommen über ca. 66.760 Euro, 2025):
-- 1.000 Euro Rürup-Beitrag → 420 Euro Steuerersparnis
-- Effektiver Eigenaufwand: 580 Euro
+**Weg A — Rürup-Police:** 5.000 Euro/Jahr brutto. Steuerersparnis 2.100 Euro/Jahr → Eigenaufwand 2.900 Euro/Jahr. Produktkosten 1,5 % p. a. (untere Bandbreite Fondspolice).
 
-Bei einem Grenzsteuersatz von **33 %** (mittleres Einkommen):
-- 1.000 Euro → 330 Euro Steuerersparnis
-- Eigenaufwand: 670 Euro
+**Weg B — ETF-Sparplan:** 2.900 Euro/Jahr aus dem Netto (gleicher Eigenaufwand wie A). Produktkosten 0,2 % p. a. (TER eines Welt-ETF).
 
-Je höher das Einkommen, desto attraktiver die Rürup-Rente steuerlich.
+## Endkapital nach 30 Jahren
 
-## Für wen Rürup sinnvoll ist
+**Weg A — Rürup-Police:**
+- Eingezahlt: 150.000 Euro brutto
+- Bei 5 % Rendite minus 1,5 % Kosten = 3,5 % netto Wachstum
+- Endkapital: ca. **265.000 Euro**
+- Verrentung mit Faktor ca. 30 (lebenslange Leibrente, Stand 2025): ca. **8.800 Euro Bruttorente/Jahr**
 
-**Selbstständige mit hohem Einkommen:** Kein gesetzlicher Rentenanspruch, kein Riester-Anspruch — Rürup ist die einzige geförderte Rentenoption. Bei hohem Grenzsteuersatz ist die Förderung erheblich.
+**Weg B — ETF-Sparplan:**
+- Eingezahlt: 87.000 Euro netto
+- Bei 5 % Rendite minus 0,2 % Kosten = 4,8 % netto Wachstum
+- Endkapital: ca. **194.000 Euro**
 
-**Angestellte mit sehr hohem Einkommen:** Wer bereits den Riester-Höchstbeitrag ausschöpft und zusätzlich Steuervorteile sucht, kann Rürup als zweite Schicht nutzen.
+## Was bleibt nach Steuern?
 
-**Freiberufler in Versorgungswerken:** Wer über ein berufsständisches Versorgungswerk pflichtversichert ist, zahlt keine GRV-Beiträge — kann aber Rürup nutzen, um die steuerlich absetzbare Vorsorge zu maximieren.
+**Weg A — Rürup-Rente:**
+- 8.800 Euro Bruttorente, 100 % steuerpflichtig (Rentenbeginn nach 2058)
+- Grenzsteuersatz im Alter 30 % → Steuerlast 2.640 Euro
+- Nettorente: **6.160 Euro/Jahr** lebenslang
 
-## Für wen Rürup weniger sinnvoll ist
+**Weg B — ETF-Auszahlung:**
+- 194.000 Euro Kapital frei verfügbar
+- Bei Entnahme über 25 Jahre (Verbrauch bis 90): ca. 12.500 Euro/Jahr brutto
+- Davon Kapitalertragsanteil ca. 50 % (50 % sind Eigenkapital, steuerfrei)
+- Auf den Ertragsanteil 25 % Abgeltungsteuer + Soli + Teilfreistellung 30 %, effektiv ca. 18,5 %
+- Steuerlast: ca. 1.150 Euro
+- Nettoauszahlung: **ca. 11.350 Euro/Jahr** über 25 Jahre
 
-**Berufseinsteiger mit niedrigem bis mittlerem Einkommen:** Bei einem Grenzsteuersatz von 25–33 % ist die Förderung überschaubar. Die Inflexibilität (kein Zugriff, keine Kapitalauszahlung) ist ein echter Nachteil. Ein ETF-Sparplan bietet ähnliche Renditeerwartung bei deutlich mehr Flexibilität.
+## Der Vergleich
 
-**Angestellte mit Kindern (Riester-Anspruch):** Riester mit Kinderzulagen ist für diese Gruppe oft attraktiver — besonders bei mittlerem Einkommen.
+| Kriterium | Rürup-Police | ETF-Sparplan |
+|---|---|---|
+| Eigenaufwand/Jahr | 2.900 € | 2.900 € |
+| Endkapital | 265.000 € | 194.000 € |
+| Auszahlung/Jahr | 6.160 € lebenslang | 11.350 € für 25 Jahre |
+| Verfügbarkeit | gebunden | jederzeit |
+| Vererbbar | nein | ja |
+| Pfändungsschutz | ja (§ 851c ZPO) | nein |
 
-**Wer hohe Liquiditätsbedürfnisse hat:** Rürup bindet Kapital bis zum Rentenalter. Wer nicht sicher ist, ob er das Geld vorher braucht, sollte das einkalkulieren.
+Nach 25 Jahren ist die Rürup-Rente weiter da, der ETF-Topf leer. Bei einem Lebensalter von 90 sind die Auszahlungssummen vergleichbar (Rürup ca. 154.000 Euro netto über 25 Jahre, ETF ca. 284.000 Euro). Bei 95 hat die Rürup-Rente ihren Hebel: weitere 30.800 Euro netto.
 
-## Rürup-Produkte: Worauf achten?
+## Was die Rechnung zeigt
 
-Wie bei Riester gilt: Rürup ist ein Förderrahmen, kein Produkt. Darunter gibt es:
-- **Fondspolicen:** Renditechance, aber hohe Kosten möglich
-- **Banksparpläne:** Günstig, renditeschwach
-- **Fondsgebundene Rentenversicherungen:** Ähnlich wie Fondspolicen
+**Rürup gewinnt bei sehr langem Leben** (95+) und niedrigen Produktkosten. Bei mittlerer Lebenserwartung liegt der ETF-Sparplan in der Gesamtsumme deutlich vorne — und die Flexibilität ist real wertvoll.
 
-Die Kostenstruktur des Produkts ist entscheidend. Hohe Abschluss- und Verwaltungskosten können die Steuerersparnis komplett auffressen. Gesamtkostenquote prüfen.
+**Mit höheren Rürup-Kosten dreht der Vergleich klar.** Bei 2,5 % Gesamtkosten (typische Fondspolice) erreicht Rürup nur ca. 215.000 Euro Endkapital. Die Rente liegt unter 5.100 Euro netto/Jahr — dann schlägt der ETF in jedem Szenario.
+
+**Der Steuersatz im Alter ist der zweite Hebel.** Liegt er nicht bei 30 %, sondern bei 35 %, schmilzt der Rürup-Vorteil zusätzlich.
+
+## Wann Rürup trotzdem Sinn ergibt
+
+Trotz dieser Rechnung kann Rürup im Einzelfall richtig sein:
+- Selbstständiger mit Haftungsrisiko (§ 851c ZPO Pfändungsschutz)
+- Sehr disziplinierter Sparer, der ohne den Zwang der Rürup-Bindung das Geld anders ausgeben würde
+- Topverdiener kurz vor Rente (5–10 Jahre Steuerstundung mit hohem Hebel)
+
+In allen anderen Fällen ist der ETF-Sparplan in der Ansparphase die bessere Wahl — siehe auch [ETF-Sparplan für Berufseinsteiger](/blog/etf-sparplan-einsteiger-muenster).
 
 ## Fazit
 
-Rürup lohnt sich vor allem für Selbstständige mit hohem Einkommen und für Angestellte in Topverdienerklassen, die zusätzliche steuerliche Förderung suchen. Für Berufseinsteiger mit mittlerem Einkommen ist ein flexibler ETF-Sparplan in der Ansparphase oft die bessere Wahl. Ob Rürup für deine Situation sinnvoll ist, hängt von Steuersatz, Berufsform und Zeithorizont ab — das lässt sich nur individuell berechnen.
+Die Rürup-Steuerersparnis ist real, aber kein Selbstläufer. Mit Produktkosten unter 1,5 % p. a. und einem persistenten Steuersatzunterschied von 12 Prozentpunkten zwischen Berufsleben und Rente kann Rürup gewinnen — sonst nicht. Die genaue Rechnung mit eigenen Steuersätzen, Produktkosten und Lebensplan macht der Finanzberater. Eine pauschale Empfehlung gibt es nicht.
 
 ---
 
