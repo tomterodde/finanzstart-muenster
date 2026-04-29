@@ -2,7 +2,7 @@
 title: 'Fahrrad zur Arbeit in Münster: Steuervorteile, die Pendler kennen sollten'
 description: 'In Münster fahren die meisten mit dem Rad zur Arbeit. Was steuerlich dabei zählt — Pendlerpauschale, Dienstrad-Leasing, Fahrradkosten absetzen.'
 pubDate: '2026-05-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Pendlerpauschale § 9 Abs. 1 Nr. 4 EStG verkehrsmittelunabhängig: 0,30 €/km für die ersten 20 km, 0,38 €/km ab km 21 (Klimaschutzpaket bis 2026, danach 0,30 € planmäßig). Maximal absetzbar 4.500 €/Jahr ohne Belege außer bei tatsächlich höheren Kfz-Kosten. Werbungskosten-Pauschbetrag § 9a Nr. 1a EStG 1.230 €/Jahr — Pendlerpauschale wirkt erst darüber hinaus. Dienstrad-Leasing § 6 Abs. 1 Nr. 4 EStG (Geldwerter Vorteil): 0,25 % vom Listenpreis/Monat seit 01.01.2020 (vorher 1 %). Bei 3.000 € E-Bike: 7,50 €/Monat geldwerter Vorteil = 90 €/Jahr versteuern. Bei 30 % Grenzsteuersatz: 27 €/Jahr Steuermehrlast vs. ca. 800 €/Jahr Bruttoersparnis. JobRad/Eurorad gängige Anbieter. Steuerfreies Dienstrad seit 2019: § 3 Nr. 37 EStG zusätzlich zum ohnehin geschuldeten Lohn überlassen — KEIN geldwerter Vorteil. Münster-Kontext: Modal Split Radverkehr 39 % (höchster D-Wert nach Mobil-Studie 2024), 600+ km Radwege, Promenade als Fahrrad-Ringschluss.'
 faq:

@@ -2,7 +2,7 @@
 title: 'Robo-Advisor erklärt: Funktionsweise, Anbieter und worauf du bei der Auswahl achtest'
 description: 'Wie ein Robo-Advisor in Deutschland funktioniert: Risikoprofiling, Portfoliostruktur, Rebalancing, BaFin-Lizenz, Insolvenzschutz und Anbietervergleich.'
 pubDate: '2026-05-05'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Robo-Advisor sind digitale Finanzportfolioverwalter mit BaFin-Lizenz nach § 1 Abs. 1a Nr. 3 KWG bzw. § 15 WpIG. Sie ermitteln über einen Geeignetheitstest (§ 64 WpHG) ein Risikoprofil, bauen daraus ein passives ETF-Portfolio (typisch 5–15 ETFs Aktien/Anleihen/Rohstoffe), investieren Einzahlungen automatisch und übernehmen das Rebalancing. Bekannte deutsche Anbieter 2025: Quirion, Scalable Capital, Whitebox, Ginmon, Growney, Oskar (Comdirect/Scalable). Mindestanlagen ab 1 € Sparplan oder 1.000–10.000 € Einmalanlage. Kapital ist als Sondervermögen nach § 92 KAGB insolvenzgeschützt — die Wertpapiere liegen bei einer Depotbank getrennt vom Anbietervermögen. Auswahlkriterien: Service-Fee, Portfoliostruktur, Rebalancing-Frequenz, Mindestanlage, Steueroptimierung, Konzern-Hintergrund. Für den direkten Kostenvergleich mit selbst gemanagten ETF-Sparplänen siehe [Robo-Advisor vs. ETF-Sparplan](/blog/robo-advisor-vs-etf-sparplan).'
 faq:

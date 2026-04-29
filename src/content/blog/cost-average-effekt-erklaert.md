@@ -2,7 +2,7 @@
 title: 'Cost-Average-Effekt: Warum regelmäßiges Investieren so mächtig ist'
 description: 'Was ist der Cost-Average-Effekt, wie funktioniert er beim ETF-Sparplan — und was er wirklich leistet (und was nicht).'
 pubDate: '2026-04-22'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Der Cost-Average-Effekt entsteht beim regelmäßigen Investieren eines festen Betrags: Bei niedrigen Kursen werden automatisch mehr Anteile gekauft, bei hohen weniger. Über die Zeit ergibt sich ein Durchschnittspreis unter dem arithmetischen Mittel. Empirisch schlägt bei langfristig steigenden Märkten oft die Einmalanlage den Sparplan — für Berufseinsteiger ohne großes Startkapital ist der Sparplan jedoch die einzig realistische Option. Entscheidend: in Kursrückgängen nicht pausieren.'
 faq:

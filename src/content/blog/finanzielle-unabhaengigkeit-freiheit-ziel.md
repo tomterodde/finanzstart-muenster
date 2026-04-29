@@ -2,7 +2,7 @@
 title: 'Finanzielle Unabhängigkeit: Was es bedeutet — und was es wirklich kostet'
 description: 'Was ist finanzielle Unabhängigkeit, wie viel Kapital braucht man — und ist das Ziel für Berufseinsteiger realistisch? Mit konkreten Zahlen.'
 pubDate: '2026-05-21'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'FIRE (Financial Independence Retire Early) basiert auf der 4-%-Regel aus der Trinity Study (Cooley/Hubbard/Walz 1998, University Trinity Texas) — bei Entnahme von maximal 4 % des Kapitals jährlich hält das Depot 30 Jahre mit 95 %+ Wahrscheinlichkeit (US-Aktien S&P 500 + US-Bonds 1926-1995). Formel: benötigtes Vermögen = Jahresausgaben × 25. Beispiel: 36.000 €/Jahr Ausgaben × 25 = 900.000 € Ziel-Vermögen. Für längere Zeiträume (40-50 Jahre) oder außerhalb US-Marktes konservativer 3,0-3,5 % Entnahme nutzen (Bengen 2020 Update). Deutsche Besonderheiten: Abgeltungsteuer § 32d EStG 25 % + Soli + ggf. KiSt reduziert Netto-Entnahme, kein vorzeitiger GKV-Zugriff (§ 240 SGB V freiwillige Versicherung rund 300-700 €/Monat), Rürup/bAV nicht vor 62 auszahlbar. Realistische Varianten: Lean FIRE (600.000-800.000 €), Coast FIRE (genug fürs Altersrente-Wachstum + Teilzeitarbeit). Bei 50 % Sparquote und 7 % p.a. Rendite: 17 Jahre bis FIRE laut Mr Money Mustache Shockingly Simple Math.'
 faq:

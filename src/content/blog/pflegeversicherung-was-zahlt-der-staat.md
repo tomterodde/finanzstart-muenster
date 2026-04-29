@@ -2,7 +2,7 @@
 title: 'Pflegeversicherung: Was der Staat zahlt — und warum es nicht reicht'
 description: 'Gesetzliche Pflegeversicherung: Was sie leistet, wo die Lücke liegt und warum private Vorsorge für Berufseinsteiger bereits jetzt relevant ist.'
 pubDate: '2026-04-10'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die soziale Pflegeversicherung (SPV) ist seit 1995 die fünfte Säule der Sozialversicherung (SGB XI). Beitragssatz 2025: 3,6 % vom Bruttogehalt für Versicherte mit einem Kind, bis 4,2 % für Kinderlose, gedeckelt durch die Beitragsbemessungsgrenze von 5.512,50 €/Monat (BBG 2025). Leistungen sind nach 5 Pflegegraden gestaffelt (§ 15 SGB XI). Stationäre Leistungen 2025: PG 2: 805 €, PG 3: 1.319 €, PG 4: 1.855 €, PG 5: 2.096 €/Monat. Heimplatz kostet 3.800–5.000 € monatlich → Lücke (Eigenanteil) 1.700–2.900 €. Elternunterhalt erst ab 100.000 € Bruttojahreseinkommen des Kindes (§ 94 SGB XII, Angehörigen-Entlastungsgesetz 2020). Private Pflegezusatz für Berufseinsteiger ab ca. 20–60 €/Monat sinnvoll: Prämie steigt überproportional mit Eintrittsalter, Gesundheitsprüfung wird mit den Jahren strenger.'
 faq:

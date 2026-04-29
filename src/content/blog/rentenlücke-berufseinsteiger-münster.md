@@ -2,7 +2,7 @@
 title: 'Rentenlücke: Was Berufseinsteiger in Münster wissen müssen'
 description: 'Die gesetzliche Rente wird nicht reichen – das ist Fakt. Wie groß deine Rentenlücke wirklich ist und was du jetzt tun kannst, erklärt dieser Artikel.'
 pubDate: '2026-04-07'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
 tldr: 'Das aktuelle gesetzliche Rentenniveau liegt bei 48 % und sinkt laut Rentenversicherungsbericht der Bundesregierung langfristig weiter. Bei empfohlenen 70–80 % des letzten Nettoeinkommens als Ziel ergibt sich für typische Berufseinsteiger eine Rentenlücke von 500–1.000 € monatlich. Ursachen: Demografischer Wandel (1970: 4 Beitragszahler pro Rentner, heute: 2), gesetzlich festgelegtes sinkendes Rentenniveau (§ 154 SGB VI), 2 % durchschnittliche Inflation halbiert Kaufkraft in 35 Jahren. Wer mit 25 statt 35 anfängt (100 €/Monat, 6 % p.a.), hat mit 67 rund 201.000 € statt 101.000 €.'
 faq:

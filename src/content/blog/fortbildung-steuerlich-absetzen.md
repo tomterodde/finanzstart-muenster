@@ -2,7 +2,7 @@
 title: 'Fortbildung steuerlich absetzen: Werbungskosten und staatliche Förderung kombinieren'
 description: 'Wie du Fortbildung als doppelten Hebel nutzt: voll absetzbare Werbungskosten plus staatliche Förderung wie Aufstiegs-BAföG, Bildungsgutschein und Bildungsprämie.'
 pubDate: '2026-04-28'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Beruflich veranlasste Fortbildung ist als Werbungskosten in unbegrenzter Höhe absetzbar (§ 9 Abs. 1 EStG) — anders als die Erstausbildung (Sonderausgaben, max. 6.000 €/Jahr, § 10 Abs. 1 Nr. 7 EStG). Bei Grenzsteuersatz 30–42 % bedeutet das eine Steuerersparnis von 30–42 % der Kursgebühren plus Reisekosten, Fachliteratur, Computer/Laptop, Prüfungsgebühren. Zusätzlich kombinierbar mit staatlicher Förderung: Aufstiegs-BAföG nach AFBG (50 % Zuschuss + 50 % zinsgünstiges Darlehen, Erlass bei Bestehen, gilt für Meister/Fachwirt/Techniker bis 16.000 €), Bildungsgutschein der Agentur für Arbeit (100 % der Kosten + Lebensunterhalt für Arbeitssuchende und von Arbeitslosigkeit Bedrohte, § 81 SGB III), Bildungsprämie des Bundes (50 % der Kursgebühren bis 500 €, Einkommensgrenze 20.000 € Single/40.000 € Verheiratete), QualiSchecks NRW. Wichtig: Förderung mindert Werbungskosten — nur die selbst getragenen Kosten sind absetzbar. Geschickte Kombination spart 60–80 % der Bruttokurskosten.'
 faq:

@@ -2,7 +2,7 @@
 title: 'Betriebliche Altersvorsorge: Wann lohnt sich die bAV wirklich?'
 description: 'Lohnt sich die betriebliche Altersvorsorge? Was der Arbeitgeberzuschuss bringt, was versteckte Kosten kosten — und wann ein ETF besser ist.'
 pubDate: '2026-05-02'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
 tldr: 'Die betriebliche Altersvorsorge funktioniert über Entgeltumwandlung: Beiträge bis 3.624 € pro Jahr (2025) sind steuer- und bis 7.248 € sozialabgabenfrei. Seit 2019 muss der Arbeitgeber bei Neuverträgen mindestens 15 % Zuschuss zahlen, wenn er durch die Umwandlung Sozialabgaben spart. Entscheidend für den Vorteil gegenüber einem ETF-Sparplan ist der Arbeitgeberzuschuss: Ab 25 % wird die bAV klar attraktiv, bei 50 % kaum zu schlagen. Im Alter fallen volle Kranken-/Pflegeversicherungsbeiträge und nachgelagerte Besteuerung an.'
 faq:

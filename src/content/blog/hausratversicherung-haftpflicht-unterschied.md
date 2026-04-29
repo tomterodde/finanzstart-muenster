@@ -2,7 +2,7 @@
 title: 'Hausratversicherung und Haftpflichtversicherung: Der Unterschied einfach erklärt'
 description: 'Hausrat oder Haftpflicht — was deckt welche Versicherung ab? Die klaren Unterschiede, typische Schadenfälle und warum du meistens beides brauchst.'
 pubDate: '2026-05-31'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Versicherungen'
 tldr: 'Zwei grundsätzlich unterschiedliche Versicherungsarten: Hausratversicherung (§§ 1-20 VHB-Bedingungen) deckt eigene bewegliche Sachen gegen benannte Gefahren (Feuer, Leitungswasser, Sturm/Hagel, Einbruch) — First-Party-Versicherung. Private Haftpflichtversicherung (§ 823 BGB i.V.m. VVG) deckt Schadenersatzansprüche Dritter wegen Personen-/Sach-/Vermögensschäden — Third-Party-Versicherung. Kein Überlappungsbereich: Eigene Möbel durch Wasserrohrbruch → Hausrat. Nachbar-Wohnung durch eigenen Waschmaschinenschaden → Haftpflicht. Kombikosten typisch 80-150 €/Jahr gesamt. Haftpflicht für jeden Erwachsenen essenziell wegen unbegrenzter Haftung bei Personenschäden (§ 823 Abs. 1 BGB: Schadensersatzpflicht für Körper-/Gesundheitsverletzung, Durchschnittsschaden bei schweren Personenschäden 1-5 Mio. € laut GDV). Deckungssumme mindestens 10 Mio. € pauschal für Personen-/Sach-/Vermögensschäden. Hausrat fakultativ ab Hausratwert 10.000 €.'
 faq:

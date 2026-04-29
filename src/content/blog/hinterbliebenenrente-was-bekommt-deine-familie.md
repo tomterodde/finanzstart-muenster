@@ -2,7 +2,7 @@
 title: 'Hinterbliebenenrente: Was bekommt deine Familie, wenn du stirbst?'
 description: 'Wie funktioniert die Witwen-, Witwer- und Waisenrente in Deutschland? Was zahlt die gesetzliche Rentenversicherung — und wo liegt die Lücke?'
 pubDate: '2026-04-12'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
 tldr: 'Gesetzliche Hinterbliebenenrente nach §§ 46, 48 SGB VI: Große Witwen-/Witwerrente 55 % der Versichertenrente des Verstorbenen bei Kind unter 18, eigener Erwerbsminderung oder Alter ab 47 (ab Geburtsjahrgang 1962 schrittweise auf 47 angehoben, § 242a SGB VI). Kleine Rente 25 % für maximal 24 Monate ohne diese Voraussetzungen. Halbwaisenrente 10 %, Vollwaisenrente 20 %. Anspruch nur bei Ehedauer ≥ 1 Jahr (§ 46 Abs. 2a SGB VI gegen "Versorgungsehen") und 5 Jahre Wartezeit des Verstorbenen (§ 50 SGB VI). Einkommensanrechnung nach § 97 SGB VI: Freibetrag 2025 rund 1.038 €/Monat, darüber 40 % Anrechnung. Nicht-eheliche Partner ohne Anspruch. Laut GDV haben 40 % der jungen Familien keine RLV — durchschnittliche Versorgungslücke bei jungen Familien: 200.000-400.000 €.'
 faq:

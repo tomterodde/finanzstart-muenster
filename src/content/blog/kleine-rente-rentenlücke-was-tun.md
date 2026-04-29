@@ -2,7 +2,7 @@
 title: 'Kleine Rente trotz langer Arbeit: Was tun gegen die Rentenlücke?'
 description: 'Trotz 40 Jahren Arbeit nur 900 Euro Rente? Warum das für viele Realität ist — und welche Optionen bestehen, die Rentenlücke noch zu schließen.'
 pubDate: '2026-04-17'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Durchschnittliche Altersrente in Deutschland 2024 laut DRV: Männer 1.728 €/Monat, Frauen 1.316 €/Monat — bei 45 Beitragsjahren ("Standardrentner"). Realität: Durchschnitt aller Rentner Männer 1.276 €, Frauen 918 € (Standardrenten und Rentenbezüge im Ausland abgezogen). Ursache niedriger Renten: unterdurchschnittliches Einkommen = weniger als 1,0 Entgeltpunkte/Jahr (1 EP = Durchschnittsverdienst 50.493 € 2026). Rentenformel § 63 SGB VI: Rente = Entgeltpunkte × Zugangsfaktor × aktueller Rentenwert (39,32 € West 2024) × Rentenartfaktor. Nettorentenniveau nach § 154 SGB VI gesetzlich bis 2025 48 %, nach Rentenreform 2025 Haltelinie bis 2040. Gegenmaßnahmen: 1) Freiwillige RV-Beiträge § 7 SGB VI. 2) Ausgleichszahlungen § 187a SGB VI ab 50. 3) Später Rentenstart: Zugangsfaktor-Zuschlag 0,5 %/Monat Aufschub § 77 Abs. 2 SGB VI. 4) bAV-Optimierung § 1a BetrAVG. 5) Grundrentenzuschlag § 76g SGB VI bei 33+ Grundrentenzeiten. Grundsicherung Alter § 41 SGB XII: ca. 563 € Regelsatz 2026 + Kosten Unterkunft.'
 faq:

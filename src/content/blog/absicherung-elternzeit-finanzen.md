@@ -2,7 +2,7 @@
 title: 'Elternzeit und Finanzen: Was sich ändert — und wie du dich vorbereitest'
 description: 'Elterngeld, Krankenversicherung, Altersvorsorge: Was ändert sich finanziell in der Elternzeit? Ein Überblick für werdende Eltern.'
 pubDate: '2026-04-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Elterngeld nach BEEG (§§ 1-4): 65-67 % des Nettoeinkommens der letzten 12 Monate vor Geburt, gedeckelt auf 1.800 €/Monat (Basis-Elterngeld, § 2 BEEG), Mindestbetrag 300 €. Elterngeld Plus (§ 4a BEEG): halbe monatliche Leistung, doppelte Bezugsdauer. Seit 2024: Einkommensgrenze 200.000 €/Jahr für Paare — darüber kein Elterngeld-Anspruch (§ 1 Abs. 8 BEEG). Krankenversicherung GKV beitragsfrei während Elternzeit, PKV-Beiträge laufen weiter (ca. 400-700 €/Monat). Altersvorsorge: Kindererziehungszeiten § 56 SGB VI sichert 1,0 Entgeltpunkt/Jahr für 3 Jahre = rund 118 €/Monat lebenslange Rente. Laut Destatis-Elterngeldstatistik 2024: 1,87 Mio. Eltern bezogen Elterngeld, durchschnittliche Bezugsdauer Mütter 14,1 Monate, Väter 3,7 Monate.'
 faq:

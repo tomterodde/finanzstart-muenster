@@ -2,7 +2,7 @@
 title: 'Wie wahrscheinlich ist Berufsunfähigkeit wirklich? Zahlen, die überraschen'
 description: 'Jeder vierte Arbeitnehmer wird berufsunfähig, bevor er in Rente geht — was sind die häufigsten Ursachen, und warum trifft es nicht nur körperliche Berufe?'
 pubDate: '2026-05-07'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Rund 25 % aller Erwerbstätigen in Deutschland werden vor dem regulären Renteneintritt berufsunfähig. Psychische Erkrankungen führen mit 30–35 % die Ursachenstatistik an — weit vor Bewegungsapparat (20–25 %) und Krebs (15–18 %). Auch Büroangestellte sind substanziell gefährdet; Warten verteuert die BU-Prämie und riskiert Ausschlüsse.'
 faq:

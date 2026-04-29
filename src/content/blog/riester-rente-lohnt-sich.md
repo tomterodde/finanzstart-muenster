@@ -2,7 +2,7 @@
 title: 'Riester-Rente: Lohnt sie sich 2025 noch?'
 description: 'Riester-Rente einfach erklärt: Wer profitiert wirklich von der staatlichen Förderung — und für wen ist ein ETF-Sparplan die bessere Wahl?'
 pubDate: '2026-04-08'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Riester lohnt sich vor allem für Familien mit Kindern (300 € Kinderzulage ab Geburt 2008) und für Gutverdiener mit hohem Grenzsteuersatz. Für Singles ohne Kinder mit mittlerem Einkommen frisst die Produktkostenstruktur die Förderung oft auf. Die Auszahlung ist voll steuerpflichtig und bis auf wenige Ausnahmen bis zum Rentenalter gebunden.'
 faq:

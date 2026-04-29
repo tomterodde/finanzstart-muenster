@@ -2,7 +2,7 @@
 title: 'Erwerbsminderungsrente: Was zahlt der Staat wirklich?'
 description: 'Erwerbsminderungsrente einfach erklärt: Was der Staat zahlt, wenn du nicht mehr arbeiten kannst — und warum die gesetzliche Absicherung für die meisten nicht reicht.'
 pubDate: '2026-04-08'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die gesetzliche Erwerbsminderungsrente (EMR) greift nur, wenn du wegen Krankheit gar nicht mehr oder nur noch eingeschränkt arbeiten kannst — und zwar in irgendeinem Beruf (abstrakte Verweisung). Der Durchschnittsbetrag der vollen EMR liegt 2024 bei rund 1.100 € brutto pro Monat, die teilweise EMR entsprechend bei etwa der Hälfte. Voraussetzung: 5 Jahre Wartezeit und 3 Jahre Pflichtbeiträge in den letzten 5 Jahren vor Leistungsfall. Eine private Berufsunfähigkeitsversicherung schließt die Lücke und schützt auch vor Verweisung auf andere Berufe.'
 faq:

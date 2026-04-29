@@ -2,7 +2,7 @@
 title: 'Nach dem WWU-Studium: Die 5 wichtigsten Finanzentscheidungen im ersten Job'
 description: 'Frisch fertig an der Westfälischen Wilhelms-Universität Münster — was jetzt finanziell ansteht, welche Fehler teuer werden und wo man anfangen sollte.'
 pubDate: '2026-05-12'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Fünf Entscheidungen prägen die Finanzen nach dem WWU-Abschluss: (1) Gehaltsverhandlung — Spielraum durchschnittlich 5–10 %, Region Münster bei BWL/Informatik 42–55k Brutto-Einstieg, Jura 55–75k bei Großkanzlei, (2) Privathaftpflicht und Berufsunfähigkeitsversicherung sofort — je jünger und gesünder, desto günstiger und einfacher die Annahme, (3) Notgroschen 3 Monatsausgaben (rund 5.000–8.000 €) auf Tagesgeld, (4) ETF-Sparplan mit MSCI World oder FTSE All-World ab 100 €/Monat — Cost-Average und Zinseszins über 30+ Jahre, (5) erste Steuererklärung mit Berufsstartkosten (Werbungskosten Umzug, Pendlerpauschale 0,30 €/0,38 € pro km, Bewerbungskosten).'
 faq:

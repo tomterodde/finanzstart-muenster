@@ -2,7 +2,7 @@
 title: 'Betriebliche Altersvorsorge: Lohnt sie sich für Berufseinsteiger?'
 description: 'Betriebliche Altersvorsorge einfach erklärt: Wie bAV funktioniert, was der Arbeitgeber zahlt und wann sie sich für Berufseinsteiger wirklich lohnt.'
 pubDate: '2026-04-08'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
 tldr: 'Die bAV nach § 1a BetrAVG erlaubt Entgeltumwandlung: Bis zu 8 % der Beitragsbemessungsgrenze der gesetzlichen Rentenversicherung (2025: 7.728 €/Jahr) fließen steuerfrei (§ 3 Nr. 63 EStG) und bis 4 % (3.864 €/Jahr) sozialabgabenfrei in die Altersvorsorge. Für nach 2019 abgeschlossene Verträge ist der Arbeitgeber zum Pflichtzuschuss von mindestens 15 % des umgewandelten Beitrags verpflichtet, wenn er Sozialversicherungsbeiträge spart (§ 1a Abs. 1a BetrAVG). Hauptnachteile: nachgelagerte volle Besteuerung im Rentenbezug, GKV-Pflichtbeiträge auf die bAV-Rente (Freibetrag 2025: 187,25 €/Monat, § 226 SGB V).'
 faq:

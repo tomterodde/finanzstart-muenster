@@ -2,7 +2,7 @@
 title: 'Pflegeversicherung: Warum sie nicht reicht — und was der Eigenanteil kostet'
 description: 'Die gesetzliche Pflegeversicherung deckt nur einen Teil der Pflegekosten. Was Eigenanteile im Pflegeheim kosten — und welche Absicherung sinnvoll ist.'
 pubDate: '2026-05-17'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die soziale Pflegeversicherung (SGB XI) ist eine Teilkasko: Bei vollstationärer Pflege in Pflegegrad 5 zahlt sie 2025 ca. 2.005 €/Monat — die tatsächlichen Heimkosten liegen aber bei 3.800–5.000 €/Monat. Differenz = einrichtungseinheitlicher Eigenanteil (EEE) plus Unterkunft/Verpflegung/Investitionskosten, durchschnittlich 2.700–3.000 €/Monat (verband-der-ersatzkassen.de, Q1 2025). Seit 2022 (§ 43c SGB XI) sinkt der pflegebedingte Eigenanteil mit Verweildauer: 1. Jahr 100 %, 2. Jahr -15 %, 3. Jahr -30 %, ab 4. Jahr -75 %. Reicht das Vermögen nicht, greift Elternunterhalt erst ab 100.000 € Jahresbruttoeinkommen des Kindes (§ 94 Abs. 1a SGB XII, Angehörigen-Entlastungsgesetz 2020). Private Pflegezusatzversicherung kostet für 30-Jährige ca. 20–60 €/Monat, der ehemalige staatlich geförderte "Pflege-Bahr" ist seit 2023 nicht mehr neu abschließbar.'
 faq:

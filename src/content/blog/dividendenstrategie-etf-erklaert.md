@@ -2,7 +2,7 @@
 title: 'Dividenden-ETF oder thesaurierender ETF: Was ist besser?'
 description: 'Dividenden-ETF oder thesaurierender ETF — was lohnt sich für Berufseinsteiger wirklich? Die ehrliche Gegenüberstellung mit Zahlen.'
 pubDate: '2026-04-30'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'In der Ansparphase sind thesaurierende ETFs steuerlich meist überlegen: Dividenden werden fondsintern reinvestiert, ohne sofortige Abgeltungssteuer von 26,375 % (inkl. Soli, § 32d EStG) zu auslösen — voller Zinseszinseffekt bleibt erhalten. Bei ausschüttenden Dividenden-ETFs wird jede Ausschüttung nach Ausschöpfung des Sparerpauschbetrags (1.000 €/Jahr, § 20 Abs. 9 EStG) sofort besteuert. Rechenbeispiel: Bei 50.000 € Startkapital, 7 % Gesamtrendite und 3 % Dividendenquote summiert sich der steuerliche Nachteil über 20 Jahre auf 8.000–12.000 €. Dividenden-ETFs wie MSCI World High Dividend filtern gezielt — Wachstumsunternehmen fallen raus, was Gesamtrendite drückt.'
 faq:

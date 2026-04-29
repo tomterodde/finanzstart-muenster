@@ -2,7 +2,7 @@
 title: 'Liquidität einfach erklärt: Warum verfügbares Geld wichtiger ist als Vermögen'
 description: 'Was bedeutet Liquidität in der privaten Finanzplanung? Welche Anlagen sind wie schnell verfügbar — und warum ein liquider Notgroschen vor dem Investieren kommt.'
 pubDate: '2026-04-28'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Grundlagen'
 tldr: 'Liquidität bedeutet, wie schnell ein Vermögenswert ohne Wertverlust in Bargeld umgewandelt werden kann. Drei Stufen in der Privatfinanzplanung: (1) Sofort liquide — Girokonto, Tagesgeld (gleicher Tag, Schutz bis 100.000 € pro Bank durch Einlagensicherung § 8 EinSiG); (2) Kurzfristig liquide — ETFs, Aktien (T+2 Settlement, Marktwert kann schwanken), Festgeld (zur Fälligkeit, vorzeitige Auflösung mit Zinsverlust); (3) Eingeschränkt liquide — Immobilien (Verkauf 3–12 Monate, Spekulationsfrist § 23 EStG), Riester/Rürup (gebunden bis Rente, § 851c ZPO Pfändungsschutz), Lebensversicherung (Rückkauf möglich, oft mit Verlusten). Faustregel Privatfinanzplanung: 3–6 Monatsausgaben sofort liquide als Notgroschen, dann mittelfristige Ziele in kurzfristig Liquides, langfristige Vorsorge darf gebunden sein. Klassischer Fehler: 80 % des Vermögens in Immobilie und Altersvorsorge — bei Jobverlust oder Krankheit kein Zugriff trotz Millionenvermögen auf dem Papier.'
 faq:

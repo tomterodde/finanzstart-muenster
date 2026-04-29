@@ -2,7 +2,7 @@
 title: 'Robo-Advisor vs. ETF-Sparplan: Was ist besser für Berufseinsteiger?'
 description: 'Robo-Advisor oder selbst gemanagter ETF-Sparplan? Unterschiede, Kosten und wann welche Option für Berufseinsteiger sinnvoll ist.'
 pubDate: '2026-04-09'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Robo-Advisor (Service-Fee 0,5–1,0 % + ETF-TER) verwalten ein ETF-Portfolio automatisch inkl. Rebalancing — Gesamtkosten typisch 0,7–1,2 % p. a. Ein selbst eingerichteter ETF-Sparplan auf einen breit gestreuten Welt-ETF (MSCI World, FTSE All-World) kostet meist nur 0,15–0,30 % TER. Auf 30 Jahre können sich 0,8 % Kostenunterschied auf 15–20 % weniger Endvermögen summieren. Berufseinsteiger mit Sparraten unter 500 €/Monat fahren mit einem 1-ETF-Sparplan deutlich günstiger; Robo-Advisor lohnen ab größeren Summen oder bei Komfortbedarf.'
 faq:

@@ -2,7 +2,7 @@
 title: '1.000 Euro steuerfrei: Neue Entlastungsprämie 2026 — was Arbeitnehmer wissen müssen'
 description: 'Die Bundesregierung plant eine steuer- und abgabenfreie Entlastungsprämie von 1.000 Euro. Was bisher bekannt ist — und wie man sie als Arbeitnehmer bekommt.'
 pubDate: '2026-04-13'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Bundesregierung kündigte am 13.4.2026 eine steuer- und sozialabgabenfreie Entlastungsprämie von bis zu 1.000 € an. Vorbild: Inflationsausgleichsprämie (§ 3 Nr. 11c EStG, 2022-2024, damals 3.000 €). Prämie funktioniert als freiwillige Arbeitgeberleistung mit Zusätzlichkeitsgebot — muss zusätzlich zum Grundgehalt gezahlt werden, nicht als Ersatz für Gehaltserhöhung. Effektiver Netto-Vorteil vs. regulärer Gehaltserhöhung bei 35 % Grenzsteuersatz und rund 20 % Sozialabgaben: 1.000 € brutto = 1.000 € netto (sonst rund 450 € netto bei normalem Gehalt). Zusätzlich angekündigt: Senkung der Mineralölsteuer um 17 Cent/Liter für 2 Monate. Gesetzliche Detailausgestaltung steht aus. Die Inflationsausgleichsprämie 2022-2024 wurde laut Destatis von rund 60 % der Unternehmen ausgezahlt — insgesamt 37 Mrd. € steuerfrei an Arbeitnehmer.'
 faq:

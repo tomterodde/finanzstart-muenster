@@ -2,7 +2,7 @@
 title: 'Zinseszins einfach erklärt: Der mächtigste Hebel beim Vermögensaufbau'
 description: 'Was ist Zinseszins und warum ist er so mächtig? Einfache Erklärung mit Beispielrechnungen für Berufseinsteiger in Münster.'
 pubDate: '2026-04-08'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Grundlagen'
 tldr: 'Zinseszins bedeutet, dass du Zinsen auch auf bereits angesammelte Zinsen bekommst — das Kapital wächst exponentiell statt linear. Wer mit 25 statt mit 35 anfängt, hat bei gleicher Einmalanlage von 5.000 € und 5 % Rendite am Ende rund 14.000 € mehr. Entscheidend ist nicht der Betrag, sondern der Zeitpunkt.'
 faq:

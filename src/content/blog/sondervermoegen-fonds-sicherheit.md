@@ -2,7 +2,7 @@
 title: 'Sondervermögen bei Fonds: Warum dein Geld auch bei Pleite geschützt ist'
 description: 'Sondervermögen einfach erklärt: Was der Begriff bedeutet, warum Fonds dadurch insolvenzgeschützt sind und wo die Grenzen des Schutzes liegen.'
 pubDate: '2026-05-26'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Fonds und ETFs sind in Deutschland rechtlich als Sondervermögen organisiert (Kapitalanlagegesetzbuch, OGAW-/UCITS-Richtlinie EU-weit). Das Anlegergeld ist strikt vom Vermögen der Kapitalverwaltungsgesellschaft und der Verwahrstelle getrennt — bei deren Insolvenz bleibt das Fondsvermögen unangetastet. Wichtige Ausnahme: ETCs, ETNs und Zertifikate sind Schuldverschreibungen mit vollem Emittentenrisiko. Marktrisiko (Kursschwankungen) bleibt in jedem Fall bei den Anlegern.'
 faq:

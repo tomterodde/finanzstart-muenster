@@ -2,7 +2,7 @@
 title: 'Hausratversicherung: Wann sie sinnvoll ist — und was sie wirklich kostet'
 description: 'Hausratversicherung für Berufseinsteiger: Was sie abdeckt, wann sie sich lohnt und worauf du beim Abschluss achten solltest.'
 pubDate: '2026-04-08'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Versicherungen'
 tldr: 'Hausratversicherung nach VHB (Verbundene Hausratversicherungsbedingungen) deckt Hausrat gegen Einbruchdiebstahl, Feuer, Leitungswasser, Sturm/Hagel (ab Windstärke 8, Beaufort), Überspannung durch Blitzschlag. Versicherungssumme 650 €/m² üblich — bei 60 m² rund 39.000 €. Jahresprämie 50-150 € je nach Lage/Wohnfläche/Zuschlägen. Ausschlüsse: einfacher Diebstahl außer Haus (Fahrraddiebstahl als Zusatzbaustein 15-30 €/Jahr), Elementarschäden (Überschwemmung, Starkregen, Erdrutsch — Erweiterung um 20-80 €/Jahr), Glasbruch (Zusatz 15-30 €/Jahr). Unterversicherungsverzicht nach § 75 VVG möglich bei 650-700 €/m² Mindestsumme — bei Unterversicherung wird Schaden nur anteilig erstattet. Laut GDV 2024: Durchschnittsprämie Hausrat 2024 rund 85 €/Jahr, Schadenquote rund 73 %, durchschnittliche Schadenhöhe Einbruch 3.200 €, Leitungswasser 3.800 €.'
 faq:

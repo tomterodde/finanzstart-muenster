@@ -2,7 +2,7 @@
 title: 'Finanzberater werden: Was dieser Beruf wirklich bedeutet — und was man verdient'
 description: 'Was macht ein Finanzberater genau, wie funktioniert das Vergütungsmodell, was sind realistische Einkommenserwartungen — und für wen ist der Beruf geeignet?'
 pubDate: '2026-04-17'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Drei Berufsmodelle: 1) Angestellter Bankberater (Einstieg 35.000-45.000 €/Jahr + 5.000-15.000 € Zielprämien), Deckel durch Festgehalt. 2) Angestellter Versicherungsvertreter (Einstieg 30.000-40.000 € + variable Provision). 3) Selbstständiger Finanzberater provisionsbasiert (§ 34d/34f GewO) — Jahr 1-2: 15.000-30.000 €, Jahr 5+: 60.000-120.000 € möglich, Top-Vermittler 150.000-300.000 €. Laut AfW-Vermittlerbarometer 2024 liegt Medianeinkommen selbstständiger Finanzvermittler bei 65.000 €/Jahr brutto, Spitzengruppe oberer 10 % über 150.000 €. Vergütungsstruktur: Abschlussprovision (einmalig, LVRG 2015 begrenzt auf 25 ‰ Beitragssumme bei Lebensversicherung § 248 VAG) + Bestandsprovision (jährlich laufend, 2-5 %). Bei 200 Kunden × 150 € Bestand = 30.000 € passives Grundeinkommen. Einstieg braucht 2-3 Jahre Durchhaltevermögen, Abbruchquote im ersten Jahr laut BWV 2024 bei rund 70 %.'
 faq:

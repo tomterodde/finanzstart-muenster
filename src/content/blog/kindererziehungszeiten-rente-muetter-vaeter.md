@@ -2,7 +2,7 @@
 title: 'Kindererziehungszeiten und Rente: Was Mütter und Väter wirklich bekommen'
 description: 'Wie werden Kindererziehungszeiten in der Rente angerechnet? Was bekommt wer — und warum reicht es trotzdem oft nicht?'
 pubDate: '2026-04-25'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
 tldr: 'Kindererziehungszeiten nach § 56 SGB VI: 3 Jahre pro Kind (Kinder ab 1992) bzw. 2,5 Jahre (vor 1992, "Mütterrente", § 249 SGB VI). Pro Jahr ein Entgeltpunkt (Durchschnittsverdiener-Äquivalent), Rentenwert 2025 West 39,32 € (§ 68 SGB VI). Drei Jahre Kindererziehungszeit = 3 Entgeltpunkte = rund 118 €/Monat zusätzliche Rente lebenslang. Standardzuordnung zur Mutter, Umverteilung zum Vater möglich bei gemeinsamem Antrag (§ 56 Abs. 2 SGB VI, rückwirkend 2 Monate). Zusätzlich: Berücksichtigungszeiten bis zum 10. Lebensjahr (§ 57 SGB VI) — zählen für Wartezeiten, werden aber nicht rentenwirksam gutgeschrieben. Gender Pension Gap laut DRV-Rentenatlas 2024: Frauen bekommen 42 % weniger Rente als Männer — Hauptursache: Teilzeit und Erwerbsunterbrechung durch Kinderbetreuung.'
 faq:

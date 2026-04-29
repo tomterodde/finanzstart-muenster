@@ -2,7 +2,7 @@
 title: 'Kurzarbeit erklärt: Was ist Kurzarbeitergeld und wie viel bekommst du?'
 description: 'Was ist Kurzarbeit, wie wird Kurzarbeitergeld berechnet und was bedeutet das für Gehalt, Rente und Altersvorsorge?'
 pubDate: '2026-04-20'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Kurzarbeitergeld (KUG) § 95-109 SGB III: Lohnersatzleistung Bundesagentur für Arbeit bei vorübergehendem unvermeidbarem Arbeitsausfall. Höhe: 60 % ausgefallenes Nettoentgelt (kinderlos), 67 % mit mind. 1 Kind. Ab Monat 4 erhöhte Sätze 70/77 %, ab Monat 7 80/87 % (KUG-Verordnung 2020 Corona-Sonderregel, regulär nur 60/67 %). Bezugsdauer regulär 12 Monate § 104 SGB III, Verlängerung auf 24 Monate per Rechtsverordnung möglich. Voraussetzungen Betrieb: 1) erheblicher unvermeidbarer Arbeitsausfall (>10 % Arbeitsausfall, >10 % der Beschäftigten betroffen), 2) Anzeige bei Agentur für Arbeit, 3) Vereinbarung mit Betriebsrat oder Einzelvertrag. Beitragspflicht KV/PV/RV: Arbeitgeber zahlt fiktiv für 80 % des ausgefallenen Bruttoentgelts allein § 168 Abs. 1 Nr. 1 SGB VI — Rentenpunkte fast vollständig erhalten. ALV-Beiträge entfallen für Ausfallzeit § 343 SGB III. Kurzarbeit "null" möglich (100 % Ausfall). Schutz: Kein automatischer Kündigungsschutz, aber faktischer Schutz da KUG nur bei Beschäftigungserhalt fließt.'
 faq:

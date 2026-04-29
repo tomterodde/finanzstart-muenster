@@ -2,7 +2,7 @@
 title: 'Warum die gesetzliche Rente nicht reicht — und was das konkret bedeutet'
 description: 'Das Rentenniveau sinkt, die Beitragszahler werden weniger, die Lebenserwartung steigt. Was das für deine Rente konkret bedeutet — mit Zahlen.'
 pubDate: '2026-05-10'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
 tldr: 'Das gesetzliche Rentenniveau ist von über 60 % (1980) auf rund 48 % (2024) gefallen und sinkt laut aktuellen Projektionen bis 2040 auf 43–45 %. Gleichzeitig schrumpft das Verhältnis Beitragszahler zu Rentnern von 6:1 (1960) auf rund 1,5:1 (2040). Für Berufseinsteiger mit 3.200 € Brutto ergibt sich unter optimistischen Annahmen eine Nettorente von 1.200–1.400 €, was eine monatliche Rentenlücke von 800–1.000 € bedeutet.'
 faq:

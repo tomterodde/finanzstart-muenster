@@ -2,7 +2,7 @@
 title: 'Zahnzusatzversicherung: Wann sie sich wirklich lohnt'
 description: 'Zahnzusatzversicherung für Berufseinsteiger: Was die gesetzliche Kasse zahlt, was du selbst trägst — und wann eine Zusatzversicherung Sinn ergibt.'
 pubDate: '2026-04-09'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Versicherungen'
 tldr: 'Die gesetzliche Krankenversicherung zahlt nur den Festzuschuss zur Regelversorgung (50 % bzw. 60–75 % mit Bonusheft, § 55 SGB V) — bei einem Implantat von 3.000 € sind das oft nur 400–600 €. Eine gute Zahnzusatzversicherung übernimmt 70–90 % der Restkosten und ist sinnvoll für: hochwertigen Zahnersatz erwartbar, sensible Zähne, Wunsch nach Premium-Versorgung. Beiträge: 8–25 €/Monat im jungen Alter, mit Alter steigend (Altersrückstellungen). Wartezeit meist 8 Monate, Zahnstaffel-Begrenzung in den ersten 3–4 Jahren (max. 1.000–2.500 €/Jahr). Vor Abschluss: Zahnstatus muss aktuell behandelt sein (keine offenen Behandlungen).'
 faq:

@@ -2,7 +2,7 @@
 title: 'Teilzeit und Rente: Was Jahre in Teilzeit wirklich kosten'
 description: 'Wie wirkt sich Teilzeit auf die gesetzliche Rente aus? Konkrete Beispielrechnungen zeigen den langfristigen Effekt — und was man tun kann.'
 pubDate: '2026-04-27'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
 tldr: 'Teilzeit reduziert die Rentenpunkte (Entgeltpunkte, EP) proportional zum Einkommen: 50-%-Teilzeit-Stelle bei Durchschnittsverdienst = 0,5 EP/Jahr statt 1,0 EP. Aktueller Rentenwert seit 1.7.2025: 40,79 €/EP (Rentenanpassungs-Verordnung 2025, +3,74 % gegenüber Vorjahr). Beispiel: 10 Jahre 50 %-Teilzeit kosten 5 EP × 40,79 € = ca. 204 €/Monat lebenslange Rente. Strukturell relevant: 48 % erwerbstätiger Frauen in Teilzeit (vs. 12 % der Männer, Statistisches Bundesamt 2024) — Hauptgrund Gender Pension Gap (39 % laut Sozialbericht 2024). Kompensationsmöglichkeiten: Freiwillige Beiträge zur GRV (§ 7 SGB VI), Aufstocken bAV, Mütter-/Väterrente bei Geburt vor 1992 (2,5 EP/Kind, § 70 Abs. 3a SGB VI) und ab 1992 (3 EP/Kind, § 56 SGB VI). Pflegezeiten zählen ebenfalls (§ 44 SGB XI bei mind. 10 Std. wöchentlicher Pflege).'
 faq:
