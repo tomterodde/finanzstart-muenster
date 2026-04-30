@@ -6,7 +6,7 @@ import FormattedDate from '../../../components/FormattedDate.astro';
 import Header from '../../../components/Header.astro';
 import { SITE_TITLE } from '../../../consts';
 
-type Category = 'Grundlagen' | 'Versicherungen' | 'Einkommenssicherung' | 'Vermögensaufbau' | 'Altersvorsorge' | 'Karriere & Einkommen';
+type Category = 'Grundlagen' | 'Versicherungen' | 'Einkommenssicherung' | 'Vermögensaufbau' | 'Altersvorsorge' | 'Karriere & Einkommen' | 'Private Equity';
 
 const categoryDescriptions: Record<Category, string> = {
 	Grundlagen: 'Begriffe, Konzepte und Zusammenhänge — das Fundament für alle Finanzentscheidungen.',
@@ -15,6 +15,7 @@ const categoryDescriptions: Record<Category, string> = {
 	Vermögensaufbau: 'ETFs, Immobilien, Steuern und smarte Strategien für langfristigen Wohlstand.',
 	Altersvorsorge: 'Rentenlücke, Riester, bAV und Co. — so planst du deinen Ruhestand.',
 	'Karriere & Einkommen': 'Einkommensoptimierung, Selbstständigkeit und Karrierewege mit überdurchschnittlichem Potenzial.',
+	'Private Equity': 'Wie PE-Firmen Unternehmen kaufen, optimieren und verkaufen — Karriere, Strategie und Anlagezugang erklärt.',
 };
 
 export async function getStaticPaths() {
@@ -27,6 +28,7 @@ export async function getStaticPaths() {
 		vermoegensaufbau: 'Vermögensaufbau',
 		altersvorsorge: 'Altersvorsorge',
 		'karriere-einkommen': 'Karriere & Einkommen',
+		'private-equity': 'Private Equity',
 	};
 
 	const now = new Date();

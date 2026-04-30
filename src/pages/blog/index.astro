@@ -11,7 +11,7 @@ const posts = (await getCollection('blog'))
 	.filter((post) => post.data.pubDate <= now)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const categories = ['Alle', 'Grundlagen', 'Versicherungen', 'Einkommenssicherung', 'Vermögensaufbau', 'Altersvorsorge', 'Karriere & Einkommen'];
+const categories = ['Alle', 'Grundlagen', 'Versicherungen', 'Einkommenssicherung', 'Vermögensaufbau', 'Altersvorsorge', 'Karriere & Einkommen', 'Private Equity'];
 
 const categorySlugMap: Record<string, string> = {
 	Grundlagen: 'grundlagen',
@@ -20,6 +20,7 @@ const categorySlugMap: Record<string, string> = {
 	Vermögensaufbau: 'vermoegensaufbau',
 	Altersvorsorge: 'altersvorsorge',
 	'Karriere & Einkommen': 'karriere-einkommen',
+	'Private Equity': 'private-equity',
 };
 ---
 

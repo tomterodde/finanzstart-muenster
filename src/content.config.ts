@@ -12,7 +12,7 @@ const blog = defineCollection({
 			updatedDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
 			heroImageAlt: z.string().optional(),
-			category: z.enum(['Grundlagen', 'Versicherungen', 'Einkommenssicherung', 'Vermögensaufbau', 'Altersvorsorge', 'Karriere & Einkommen']).optional(),
+			category: z.enum(['Grundlagen', 'Versicherungen', 'Einkommenssicherung', 'Vermögensaufbau', 'Altersvorsorge', 'Karriere & Einkommen', 'Private Equity']).optional(),
 			tldr: z.string().optional(),
 			faq: z.array(z.object({
 				question: z.string(),
