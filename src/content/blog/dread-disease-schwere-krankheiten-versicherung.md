@@ -1,6 +1,6 @@
 ---
-title: 'Dread Disease: Versicherung gegen schwere Krankheiten erklärt'
-description: 'Was ist eine Dread-Disease-Versicherung, wann zahlt sie — und ist sie eine Alternative oder Ergänzung zur BU?'
+title: 'Dread-Disease-Versicherung: Wann sie sinnvoll ist (und für wen)'
+description: 'Die Dread-Disease-Versicherung zahlt eine Einmalsumme (50.000–250.000 €) bei Diagnose schwerer Krankheiten wie Krebs oder Herzinfarkt. Wann sie BU sinnvoll ergänzt.'
 pubDate: '2026-04-23'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
@@ -16,6 +16,8 @@ faq:
     answer: 'Wichtige Ausschlüsse: 1) Karenzzeit 3-6 Monate nach Vertragsbeginn für nicht-akute Erkrankungen (Krebs, MS) — gegen betrügerische Anträge bei bereits bekannten Verdachtsmomenten. 2) Überlebensklausel 14-30 Tage — Versicherter muss Diagnose mindestens diese Zeit überleben, sonst keine Leistung (statt dessen oft Todesfallleistung geringer Höhe). 3) Frühstadien ausgeschlossen: Carcinoma in situ (außer bei Brustkrebs), frühe Prostatakrebs-Stadien (TNM T1a/b bei Gleason-Score unter 6), Basaliome. 4) Selbstverschulden: Drogenkonsum, illegale Aktivitäten, Kriegsgeschehen. 5) Vorerkrankungen: Bei Nichtanzeige im Antrag Rücktritt nach § 19 VVG innerhalb 5 Jahren möglich. 6) Herzinfarkt ohne Troponin-Erhöhung oder Bypass-OP als prophylaktische Maßnahme (nur bei Arterienverschluss).'
   - question: 'Wann ist Dread Disease sinnvoll, wann lieber eine BU?'
     answer: 'Priorisierung: 1) Erste Wahl immer BU — deckt größtes Risiko (psychische Erkrankungen, Rücken, Nervensystem = rund 60 % aller BU-Fälle) und zahlt monatliche Rente bis Rentenbeginn. 2) Dread Disease als Ergänzung: bei laufenden Krediten (Immobilienfinanzierung), jungen Familien mit Alleinverdiener, Gutverdienern mit Spitzeneinkommen über BU-Deckelung, für Behandlungskosten und Umbaumaßnahmen. 3) Dread Disease als Alternative bei BU-Ablehnung: wegen Vorerkrankungen (psychische Diagnose, Rücken-OP, Autoimmunerkrankungen) oder teuren Berufsgruppen (Dachdecker, Chirurgen). 4) Kombination Multi-Risk-Police: einige Versicherer bieten BU+Dread Disease+Grundfähigkeitsversicherung als Paket mit Kostenvorteil. Budget-Regel: BU hat immer Vorrang, Dread Disease zweite Ebene.'
+  - question: 'Wie berechne ich die richtige Dread-Disease-Summe (Dread-Disease-Rechner)?'
+    answer: 'Drei-Schritt-Rechnung statt einfacher Faustformel: 1) Sofortige Behandlungskosten — typischerweise 30.000–80.000 € für Spezialklinik, alternative Therapien, Reha außerhalb GKV-Regelversorgung. 2) Einkommenslücke während Therapie — Krankengeld nur 78 Wochen lang 70 % des Bruttos (max. 116,38 €/Tag 2025), danach Aussteuerung. Bei 12 Monaten Therapie und 3.500 € Netto: rund 12.000 € Lücke. 3) Lebensanpassung und Schuldentilgung — laufende Immobilienfinanzierung, Wohnungsumbau bei Behinderung, Reduktion der finanziellen Belastung für Familie. Bei 200.000 € Restschuld realistisch 100.000 € Tilgung. Beispielrechnung Familie mit 3.500 € Netto, 200.000 € Hauskredit: 50.000 € (Behandlung) + 12.000 € (Einkommen) + 100.000 € (Tilgung) = rund 162.000 € realistische Versicherungssumme. Faustregel-Kurzform: 2–3-faches Jahresnetto plus laufende Kreditschulden.'
 sources:
   - title: 'Versicherungsvertragsgesetz (VVG) §§ 19, 81 Anzeigepflicht und grobe Fahrlässigkeit'
     publisher: 'Bundesministerium der Justiz'
@@ -47,7 +49,7 @@ Je nach Tarif sind 30–50 oder mehr Krankheitsbilder versichert.
 
 ## Der entscheidende Unterschied zur BU
 
-Die BU zahlt, wenn du **deinen Beruf** nicht mehr ausüben kannst. Die Dread Disease zahlt, wenn du eine **bestimmte Diagnose** bekommst — auch wenn du weiterarbeitest.
+Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide) zahlt, wenn du **deinen Beruf** nicht mehr ausüben kannst. Die Dread Disease zahlt, wenn du eine **bestimmte Diagnose** bekommst — auch wenn du weiterarbeitest.
 
 **Beispiel:** Du bekommst Brustkrebs, wirst operiert und kannst nach 6 Monaten wieder arbeiten. BU-Leistung: keine (du bist nicht dauerhaft berufsunfähig). Dread-Disease-Leistung: volle Einmalsumme — für Behandlungskosten, Umbaumaßnahmen, Einkommensausfall während der Therapie.
 
@@ -69,6 +71,8 @@ Die Zahlung ist nicht zweckgebunden — du entscheidest, wofür du sie verwendes
 - Wenn du einen laufenden Kredit hast, der bei schwerer Erkrankung eine Belastung wäre
 
 Für Berufseinsteiger ohne laufende Verbindlichkeiten und mit guter BU: eher niedrige Priorität. Als erstes kommt die BU, dann ggf. Dread Disease.
+
+**Abgrenzung zu anderen Ergänzungsprodukten:** Wer sich primär gegen Unfälle absichern will, ist mit einer [privaten Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll) günstiger und einfacher dran — sie zahlt aber nur bei dauerhafter Invalidität durch Unfall. Wer Vorerkrankungen hat und keine BU bekommt, sollte zusätzlich die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu) prüfen — sie zahlt bei Verlust körperlicher Grundfähigkeiten unabhängig von Krankheitsdiagnosen.
 
 ## Was beim Abschluss zu beachten ist
 

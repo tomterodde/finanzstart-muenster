@@ -106,7 +106,7 @@ Die 650-€-pro-m²-Regel ist eine Faustformel. Sinnvoll ist, sie mit der Realit
 **Gehobene Ausstattung (hochwertige Möbel, mehrere Geräte, teures Fahrrad):**
 800 bis 1.000 € pro m² — realistisch für Young Professionals mit Büroausstattung zu Hause.
 
-Unterschätzen ist teurer als überschätzen: [Unterversicherung](/blog/hausratversicherung-berufseinsteiger) führt im Schadensfall zu anteilsmäßiger Kürzung.
+Unterschätzen ist teurer als überschätzen: [Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen) führt im Schadensfall zu anteilsmäßiger Kürzung.
 
 ## Was günstiger macht, ohne Leistung zu kosten
 

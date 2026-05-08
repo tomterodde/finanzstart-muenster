@@ -75,6 +75,15 @@ Die Grundfähigkeitsversicherung zahlt, wenn du **objektiv definierte körperlic
 
 Für Büroangestellte, Akademiker und alle, bei denen psychische Erkrankungen ein realistisches Risiko sind, ist die BU in der Regel die bessere Wahl. [Was die BU leistet und worauf du achten solltest, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
 
+## Abgrenzung zu Unfall- und Dread-Disease-Versicherung
+
+Die Grundfähigkeitsversicherung wird oft mit zwei anderen Produkten verwechselt:
+
+- **[Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll)** zahlt nur bei dauerhafter Invalidität durch **Unfall** — und meist als Einmalsumme, nicht als monatliche Rente. Da Unfälle nur rund 9 % aller Invaliditätsfälle ausmachen, ist sie für die meisten kein vollwertiger Ersatz.
+- **[Dread-Disease-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung)** zahlt eine Einmalsumme bei Diagnose definierter schwerer Krankheiten (Krebs, Herzinfarkt, Schlaganfall) — auch wenn du weiter arbeitest. Komplementär zur GF-Versicherung, weil sie genau die Kategorien (Krebs, Herz) abdeckt, die in der GF-Versicherung selten unmittelbar zum Verlust einer Grundfähigkeit führen.
+
+Wer keinen Zugang zur BU hat, ist mit einer **Kombination aus Grundfähigkeit und Dread Disease** oft besser abgesichert als mit der GF-Versicherung allein — das deckt sowohl körperliche Funktionsverluste als auch akute Diagnosen ab.
+
 ## Fazit
 
 Die Grundfähigkeitsversicherung ist kein schlechteres Produkt — sie ist ein anderes Produkt. Sie löst ein spezifisches Problem für eine spezifische Zielgruppe. Wer keine BU bekommt oder sich eine nicht leisten kann, findet hier eine echte Alternative — muss aber die Lücken kennen.

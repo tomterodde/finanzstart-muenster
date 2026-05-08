@@ -1,6 +1,6 @@
 ---
-title: 'Hausratversicherung: Wann sie sinnvoll ist — und was sie wirklich kostet'
-description: 'Hausratversicherung für Berufseinsteiger: Was sie abdeckt, wann sie sich lohnt und worauf du beim Abschluss achten solltest.'
+title: 'Hausratversicherung erste eigene Wohnung: Was Berufseinsteiger brauchen'
+description: 'Erste eigene Wohnung, neuer Job — diese Hausratversicherung-Punkte solltest du als Berufseinsteiger kennen: Versicherungssumme, Fahrrad, Eltern-Police.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Versicherungen'

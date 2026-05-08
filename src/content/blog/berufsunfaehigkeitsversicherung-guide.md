@@ -52,8 +52,9 @@ Laut Statistik wird etwa **jeder vierte Arbeitnehmer** vor dem Rentenalter beruf
 2. **Erkrankungen des Bewegungsapparats** (ca. 20%) — Rücken, Gelenke
 3. **Krebs und andere schwere Erkrankungen** (ca. 17%)
 4. **Herz-Kreislauf-Erkrankungen** (ca. 14%)
+5. **Unfälle** (ca. 9%)
 
-Das trifft nicht nur körperlich arbeitende Menschen. Auch Büroangestellte, Lehrkräfte, Ärzte und IT-Fachleute sind betroffen — gerade im Bereich psychischer Erkrankungen.
+Das trifft nicht nur körperlich arbeitende Menschen. Auch Büroangestellte, Lehrkräfte, Ärzte und IT-Fachleute sind betroffen — gerade im Bereich psychischer Erkrankungen. Wer glaubt, mit einer [privaten Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll) ausreichend abgesichert zu sein, irrt sich: Sie deckt nur die rund 9 % unfallbedingten Fälle ab — die häufigsten BU-Ursachen (Psyche, Krebs, Rücken) leistet sie nicht.
 
 ## Warum früh abschließen?
 
@@ -105,6 +106,15 @@ Das hängt stark von Beruf, Alter, Gesundheitszustand und gewünschter Rentenhö
 | 30 Jahre, Büroangestellte/r, 1.500 € BU-Rente | 70–120 € |
 
 Körperlich arbeitende Berufe zahlen mehr, da das Risiko statistisch höher ist.
+
+## Wenn die BU nicht infrage kommt
+
+Nicht jeder bekommt eine BU zu vernünftigen Konditionen — Vorerkrankungen, Risikoberufe (Dachdecker, Chirurg) oder ein zu enges Budget können den Zugang erschweren. Zwei Alternativen sind dann zu prüfen:
+
+- **[Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu)** — zahlt bei Verlust definierter körperlicher Grundfähigkeiten (Sehen, Gehen, Hände gebrauchen). Rund 30–50 % günstiger als BU, aber psychische Erkrankungen meist ausgeschlossen.
+- **[Dread-Disease-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung)** — zahlt eine Einmalsumme bei Diagnose schwerer Krankheiten wie Krebs oder Herzinfarkt. Sinnvolle Ergänzung zur BU bei laufenden Krediten oder hohen Behandlungskosten.
+
+Beides sind keine 1:1-BU-Ersätze, sondern Spezialprodukte mit klarer Zielgruppe.
 
 ## Fazit
 

@@ -1,6 +1,6 @@
 ---
-title: 'Arbeitslosengeld I: Wie viel bekommst du wirklich — und wie lange?'
-description: 'Wie wird ALG I berechnet, wie lange wird es gezahlt und was musst du als Berufseinsteiger wissen? ALG I einfach erklärt.'
+title: 'ALG 1 berechnen: Wie viel Arbeitslosengeld du 2025 bekommst'
+description: 'ALG 1 beträgt 60 % vom pauschalierten Netto (67 % mit Kind) — durchschnittlich 1.286 € pro Monat 2024. Berechnung, Bezugsdauer und Sperrzeit-Fallen im Überblick.'
 pubDate: '2026-04-11'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'
@@ -16,6 +16,10 @@ faq:
     answer: 'Bezugsdauer nach § 147 SGB III hängt von Versicherungszeit und Alter ab: 12 Monate Beschäftigung = 6 Monate ALG I, 16 Monate = 8 Monate, 20 Monate = 10, 24 Monate = 12. Ab 50 Jahren Staffelung auf bis zu 15 Monate, ab 55 bis 18, ab 58 bis zu 24 Monate (nur bei mindestens 48 Monaten Versicherungspflicht). Für Berufseinsteiger unter 50 maximal 12 Monate.'
   - question: 'Was passiert mit BU-Versicherung und Krankenkasse bei ALG I?'
     answer: 'Private BU-Versicherung läuft weiter — Beiträge musst du selbst zahlen, ALG I deckt das nicht. Gesetzliche Krankenversicherung: ALG-I-Bezieher sind automatisch pflichtversichert (§ 5 Abs. 1 Nr. 2 SGB V), Beiträge zahlt die Bundesagentur für Arbeit. Altersvorsorge: Pflichtbeiträge zur DRV werden für ALG-I-Zeit auf Basis von 80 % des letzten Bruttos abgeführt (§ 166 SGB VI) — die Rentenanwartschaft bleibt also teilweise erhalten.'
+  - question: 'Habe ich Anspruch auf ALG 1 nach Eigenkündigung?'
+    answer: 'Grundsätzlich ja — aber mit Sperrzeit. Nach § 159 SGB III wird bei Eigenkündigung ohne wichtigen Grund eine Sperrzeit von 12 Wochen verhängt. In dieser Zeit kein ALG I, zusätzlich Kürzung der Gesamtbezugsdauer um die 12 Wochen. Wichtige Gründe, die Sperrzeit verhindern: Mobbing am Arbeitsplatz (mit Nachweis), gesundheitliche Gründe (ärztliches Attest), Umzug zum Ehepartner, Pflege Angehöriger. Bei Aufhebungsvertrag droht ebenfalls Sperrzeit, wenn er statt einer Kündigung des Arbeitgebers vereinbart wurde — Ausnahme: Aufhebungsvertrag mit Abfindung in Höhe von 0,25 bis 0,5 Bruttomonatsgehältern pro Beschäftigungsjahr und freiwilliger Vereinbarung wird oft akzeptiert. Vor Vertragsabschluss immer rechtlich prüfen lassen.'
+  - question: 'Wird die Abfindung auf ALG 1 angerechnet?'
+    answer: 'Eine Abfindung wird grundsätzlich nicht auf ALG I angerechnet — sie ist eine Einmalzahlung für den Verlust des Arbeitsplatzes, kein laufendes Einkommen. Aber: Bei vorzeitiger Beendigung des Arbeitsverhältnisses durch Aufhebungsvertrag kann § 158 SGB III greifen — das ALG I ruht dann bis zu dem Zeitpunkt, an dem das Arbeitsverhältnis bei ordentlicher Kündigung geendet hätte (Ruhenszeit). Faustregel: Wer 3 Monate vor regulärem Vertragsende per Aufhebungsvertrag aussteigt, bekommt 3 Monate später ALG I. Praktische Folge: Abfindung muss diese Lücke überbrücken. Steuerlich gilt Fünftelregelung (§ 34 EStG), die die Steuerlast deutlich senkt.'
 sources:
   - title: 'Sozialgesetzbuch Drittes Buch (SGB III) §§ 136-164'
     publisher: 'Bundesministerium der Justiz'

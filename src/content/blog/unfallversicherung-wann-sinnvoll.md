@@ -1,6 +1,6 @@
 ---
-title: 'Unfallversicherung: Wann sie sinnvoll ist — und wann nicht'
-description: 'Private Unfallversicherung erklärt: Was sie leistet, wo ihre Grenzen liegen und für wen sie wirklich sinnvoll ist — im Vergleich zur Berufsunfähigkeitsversicherung.'
+title: 'Unfallversicherung sinnvoll? Nur 8 % der BU-Fälle sind Unfälle'
+description: 'Eine Unfallversicherung deckt nur 8 % aller Berufsunfähigkeitsfälle ab — Krankheiten machen 92 %. Wann sie trotzdem sinnvoll ist (Kinder, BU-Ergänzung) und für wen nicht.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
@@ -16,6 +16,10 @@ faq:
     answer: 'Faustregel: 5–6-fache Bruttojahresgehalt mit 350–500 % Progression. Bei einem Bruttojahresgehalt von 50.000 € entspricht das einer Grundsumme von 250.000–300.000 € mit 500 %-Progression — d. h. bei 100 % Invalidität Auszahlung von 1,25–1,5 Mio. €. Wichtig: Die Versicherungssumme muss zur tatsächlich notwendigen Lebensanpassung passen (Umbau Haus, Hilfsmittel, lebenslange Pflege).'
   - question: 'Welche Kosten sind realistisch?'
     answer: 'Erwachsene mit 250.000 € Versicherungssumme und 350 %-Progression: rund 100–250 €/Jahr je nach Beruf und Anbieter. Gefahrengruppen unterscheiden A (Bürojobs, niedrigere Beiträge) und B (handwerklich, höhere Beiträge). Kinder: 60–120 €/Jahr für 200.000 €. Wichtig: Genau auf Ausschlüsse achten (z. B. Bewusstseinsstörungen, manche Risikosportarten), Bauchspeicheldrüsen-Klauseln und Mitwirkungsanteile (häufiger Streitpunkt).'
+  - question: 'Brauche ich eine Unfallversicherung wenn ich eine BU habe?'
+    answer: 'In der Regel nicht zwingend — die BU deckt sowohl Krankheits- als auch Unfallfolgen ab und ist damit der umfassendere Schutz. Eine Unfallversicherung kann aber als günstige Ergänzung sinnvoll sein, wenn ein Unfall zwar zu dauerhafter Invalidität führt, aber nicht zur Berufsunfähigkeit (z. B. Verlust eines Fingers bei einem Bürojob, der weiter ausgeübt werden kann). Praxisbeispiel: Programmierer verliert nach Unfall einen Daumen — kann weiter arbeiten, BU zahlt nicht, Unfallversicherung zahlt 20 % der Versicherungssumme aus der Gliedertaxe für Behandlungskosten und Lebensanpassung. Zweite Sinn-Frage: Wenn die BU eine Einmalleistung bei Unfalltod oder Schwerstinvalidität nicht enthält, kann die Unfallversicherung diese Lücke schließen. Pauschal: erst BU, dann ggf. UV als Ergänzung — niemals umgekehrt.'
+  - question: 'Unfallversicherung ja oder nein — was sagt die Statistik?'
+    answer: 'Die Statistik spricht eine klare Sprache: Nur rund 9 % aller Berufsunfähigkeitsfälle in Deutschland sind unfallbedingt (GDV/Morgen & Morgen 2024). 91 % entstehen durch Krankheiten — vor allem Psyche (30 %), Bewegungsapparat (20 %), Krebs (17 %) und Herz-Kreislauf (14 %). Wer ausschließlich auf eine Unfallversicherung setzt, ist bei 91 % aller relevanten Fälle ungeschützt. Konkrete Empfehlung für die Entscheidung: 1) Berufstätig mit Bürojob ohne BU? Erst BU abschließen, UV optional. 2) Berufstätig mit BU? UV als günstige Ergänzung (50–150 €/Jahr) prüfen. 3) Kind, das keine BU bekommen kann? UV ja, ist die einzige niedrigschwellige Option. 4) Erwachsener ohne BU-Zugang wegen Vorerkrankungen? UV plus Grundfähigkeitsversicherung kombiniert prüfen.'
 sources:
   - title: 'GDV — Private Unfallversicherung'
     url: 'https://www.gdv.de/gdv/themen/sach-und-haftpflichtversicherung/unfallversicherung'
@@ -80,6 +84,8 @@ Es gibt Situationen, in denen die Unfallversicherung als **Ergänzung** Sinn erg
 **Berufe mit hohem Unfallrisiko:** Für körperlich arbeitende Menschen, bei denen das Unfallrisiko tatsächlich hoch ist, kann die Unfallversicherung als zusätzliche Absicherung sinnvoll sein.
 
 **Als Ergänzung zur BU:** Wer bereits eine BU hat, kann die Unfallversicherung als günstigen Zusatz abschließen — für Szenarien, in denen ein Unfall zu dauerhafter Invalidität führt, aber nicht zur BU (z.B. Verlust eines Fingers, der die Berufsausübung nicht unmöglich, aber einschränkt).
+
+**Wer sich gezielt gegen schwere Erkrankungen absichern will**, sollte statt der Unfallversicherung eher die [Dread-Disease-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung) prüfen — sie zahlt eine Einmalsumme bei Diagnose von Krebs, Herzinfarkt oder Schlaganfall, unabhängig vom Unfallbegriff. Für körperlich Tätige mit BU-Ablehnung ist die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu) eine günstigere Alternative — sie zahlt eine monatliche Rente bei Verlust körperlicher Grundfähigkeiten.
 
 ## Was bei Abschluss wichtig ist
 

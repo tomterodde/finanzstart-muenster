@@ -1,6 +1,6 @@
 ---
-title: 'Hausratversicherung sinnvoll? Die ehrliche Antwort für Berufseinsteiger'
-description: 'Ist eine Hausratversicherung wirklich sinnvoll? Wann sich der Schutz lohnt, wann nicht und wo die Stolperfallen liegen — klar erklärt.'
+title: 'Hausratversicherung sinnvoll? Ab 10.000 € Hausrat ja, sonst nein'
+description: 'Hausratversicherung lohnt sich ab 10.000 € Hausratwert — Berufseinsteiger erreichen die Schwelle bei 50–150 € Jahresprämie. Drei Stolperfallen vor dem Abschluss.'
 pubDate: '2026-04-20'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Versicherungen'
@@ -16,6 +16,10 @@ faq:
     answer: 'Neuwertentschädigung. Bei Zeitwerttarifen bekommst du nur den Restwert deiner Gegenstände ersetzt — ein 3 Jahre altes MacBook also deutlich unter Kaufpreis. Der Neuwert-Zuschlag kostet meistens nur 10–20 € jährlich, macht aber im Schadensfall den entscheidenden Unterschied. Standard in guten Tarifen.'
   - question: 'Was bedeutet "grobe Fahrlässigkeit" bei der Hausratversicherung?'
     answer: 'Situationen wie nicht ausgepustete Kerze, eingeschaltetes Bügeleisen oder offene Wohnungstür. Günstige Tarife kürzen die Leistung in diesen Fällen nach § 81 VVG erheblich. Der Zusatz "Verzicht auf Einrede der groben Fahrlässigkeit" ist für wenige Euro jährlich buchbar und schützt vor dem häufigsten Streitfall im Schadensfall.'
+  - question: 'Ist eine Selbstbeteiligung bei der Hausratversicherung sinnvoll?'
+    answer: 'Für die meisten Berufseinsteiger mit aufgebautem Notgroschen: ja. Eine Selbstbeteiligung von 150–300 € senkt die Jahresprämie typischerweise um 15–25 %. Bei einer 100-€-Prämie entspricht das einer jährlichen Ersparnis von 15–25 €. Rechnung über 10 Jahre: 150–250 € gespart, ein einziger Schaden wird mit Selbstbeteiligung statt voller Erstattung abgerechnet. Faustregel: SB lohnt sich, wenn der Notgroschen die Selbstbeteiligung problemlos abfangen kann und keine Häufung von Kleinschäden zu erwarten ist (alte Wohnung mit Wasserrohr-Risiko zum Beispiel weniger). Nicht sinnvoll: bei sehr knappem Budget oder wenn die Wohnsituation tatsächlich schadensanfällig ist.'
+  - question: 'Hausratversicherung wichtig oder nicht — wovon hängt die Antwort ab?'
+    answer: 'Drei Faktoren entscheiden: 1) Hausratwert. Über 10.000 € macht die Versicherung rational sinnvoll, darunter wird sie rechnerisch zur Wette. 2) Lebenssituation. Eigene Wohnung mit voller Einrichtung = wichtig, möbliertes WG-Zimmer mit gebrauchten Geräten = optional. 3) Risikoprofil der Wohnung. Erdgeschoss, alleinstehende Wohnlage, Hochwasser- oder Starkregengebiet erhöhen das Schadenrisiko deutlich. Bei Berufseinsteigern mit erstem eigenen Haushalt fast immer wichtig — bei einer Jahresprämie von 50–150 € steht eine potenzielle Schadenssumme im fünfstelligen Bereich gegenüber. Studenten in WGs oder kurzzeitigen Zwischenlösungen können dagegen meistens darauf verzichten.'
 sources:
   - title: 'Versicherungsvertragsgesetz (VVG) — §§ 75, 81'
     publisher: 'Bundesministerium der Justiz'
@@ -68,7 +72,7 @@ In diesen Fällen: Geld sparen, Notgroschen aufbauen. Der ist ohnehin die erste 
 
 ## Hausrat und Haftpflicht: Zwei verschiedene Paar Schuhe
 
-Häufige Verwechslung: Die [Hausratversicherung](/blog/hausratversicherung-berufseinsteiger) schützt deinen Besitz bei Schäden, die dir passieren. Die [private Haftpflichtversicherung](/blog/private-haftpflichtversicherung-berufseinsteiger) schützt dich, wenn du anderen Schäden zufügst. Beides ist voneinander unabhängig — und in Kombination meistens der sinnvollste Grundschutz für einen eigenen Haushalt.
+Häufige Verwechslung: Die Hausratversicherung schützt deinen Besitz bei Schäden, die dir passieren. Die [private Haftpflichtversicherung](/blog/private-haftpflichtversicherung-berufseinsteiger) schützt dich, wenn du anderen Schäden zufügst. Beides ist voneinander unabhängig — [die genauen Unterschiede und typischen Schadenfälle stehen hier](/blog/hausratversicherung-haftpflicht-unterschied). In Kombination ist das meistens der sinnvollste Grundschutz für einen eigenen Haushalt.
 
 ## Fazit
 
