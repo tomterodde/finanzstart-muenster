@@ -78,6 +78,12 @@ Das angesparte Kapital wird im Rentenalter als monatliche Rente ausgezahlt — m
 
 Außerdem: Riester-Renten werden auf die Grundsicherung angerechnet. Wer im Alter auf Grundsicherung angewiesen sein könnte, profitiert möglicherweise gar nicht von seiner Riester-Rente.
 
+## Vertiefung
+
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Riester im direkten Vergleich mit ETF, bAV und Rürup.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie sich Riester ins Gesamtsystem einordnet.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Konkrete Sparraten inkl. Riester-Optimierung für Familien.
+
 ## Fazit
 
 Riester ist kein Allheilmittel — aber auch kein schlechtes Produkt per se. Es kommt auf die Situation an:

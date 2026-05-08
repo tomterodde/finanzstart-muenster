@@ -80,6 +80,12 @@ Das macht die bAV für viele Arbeitnehmer attraktiv — besonders wenn der Arbei
 
 **Gutverdiener (Angestellt):** bAV ausschöpfen, danach direkt investieren — Riester lohnt kaum.
 
+## Vertiefung
+
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Förderung im Säulen- und Schichten-Modell.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Empfehlungen je Lebensprofil mit Förderfokus.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Aufteilung der Sparrate inkl. geförderten Bausteinen.
+
 ## Fazit
 
 Staatliche Förderung ist kein Selbstläufer — sie hängt von Einkommen, Familiensituation, Berufsstand und persönlicher Steuersituation ab. Die optimale Kombination ist individuell.

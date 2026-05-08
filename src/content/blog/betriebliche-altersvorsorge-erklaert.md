@@ -95,6 +95,12 @@ In Deutschland gibt es fünf Durchführungswege. In der Praxis begegnen Berufsei
 
 **Direktzusage** — Der Arbeitgeber zahlt selbst eine Rente aus. Gängig in Konzernen, aber mit Insolvenzrisiko verbunden (abgesichert über den Pensions-Sicherungs-Verein).
 
+## Vertiefung: Häufige bAV-Fragen
+
+- [bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht) — Sechs zentrale Nachteile (Doppelverbeitragung, Rentenpunkt-Verlust, Inflexibilität) ehrlich aufgeschlüsselt.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — bAV im direkten Vergleich mit ETF, Riester, Rürup und Rentenversicherung.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie sich bAV in das Gesamtsystem einordnet.
+
 ## Fazit
 
 Die betriebliche Altersvorsorge ist kein Selbstläufer — wer nicht nachfragt, was der Arbeitgeber dazugibt, kann sich nicht wirklich entscheiden.

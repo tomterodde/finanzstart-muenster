@@ -76,6 +76,12 @@ Du verzichtest auf einen Teil deines Bruttogehalts (Entgeltumwandlung) — diese
 
 Ob die bAV für deine Einkommenssituation, dein Unternehmen und deine Lebensplanung die richtige Wahl ist, lässt sich pauschal nicht sagen. Ein Beratungsgespräch rechnet das konkret durch.
 
+## Vertiefung
+
+- [bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht) — Sechs zentrale Nachteile, die in Verkaufsgesprächen oft unterschlagen werden.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — bAV im direkten Vergleich mit allen anderen Optionen.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Konkrete Tabelle nach Bruttogehalt.
+
 ## Fazit
 
 Die bAV ist bei einem attraktiven Arbeitgeberzuschuss eine der renditestärksten Altersvorsorgeformen. Ohne großzügigen Zuschuss und mit teuren Produkten kann sie aber trotz Steuerersparnis schlechter abschneiden als ein simpler ETF-Sparplan. Der Zuschuss ist der Schlüssel — der Rest ist Rechenarbeit.

@@ -93,6 +93,12 @@ Die meisten seriösen Finanzkonzepte setzen auf eine Kombination: strukturierte 
 
 Genau das ist der Punkt, an dem ein persönliches Gespräch mit einem Finanzberater echten Mehrwert liefert: nicht weil ETFs oder Rentenversicherungen pauschal besser oder schlechter sind, sondern weil die optimale Kombination individuell ist.
 
+## Vertiefung
+
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Vollständiger Vergleich aller Optionen mit Empfehlungen je Lebensprofil.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Konkrete Sparraten und 3-Topf-Strategie nach Einkommensklasse.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie private Rentenversicherung und ETF in das Gesamtsystem passen.
+
 ## Fazit
 
 Weder die private Rentenversicherung noch der ETF-Sparplan ist pauschal "besser". Sie lösen unterschiedliche Probleme: die Versicherung schützt vor dem Risiko, sehr alt zu werden; das Depot bietet Flexibilität und günstige Kosten.

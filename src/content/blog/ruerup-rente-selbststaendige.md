@@ -92,6 +92,12 @@ Die Rürup-Rente wird im Rentenalter **nachgelagert besteuert** — ähnlich wie
 
 Das klingt zunächst nachteilig — ist es aber meistens nicht. In der Erwerbsphase zahlt man Steuern auf Spitzensteuersatz-Niveau, im Rentenalter oft auf einem deutlich niedrigeren Niveau. Die Steuerstundung ist also in der Regel vorteilhaft.
 
+## Vertiefung
+
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Rürup im direkten Vergleich mit ETF, bAV, Riester und Rentenversicherung.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Aufteilung der Sparrate für Selbstständige inkl. Rürup-Anteil.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Rürup als Schicht 1 der Basisvorsorge.
+
 ## Fazit
 
 Rürup ist kein Produkt für jeden — aber für Selbstständige mit gutem Einkommen und langem Zeithorizont ein ernstzunehmender Baustein der Altersvorsorge. Der Steuervorteil ist real und substanziell.

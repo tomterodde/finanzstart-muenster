@@ -76,6 +76,12 @@ Als Faustregel: **20–30 % des Nettoeinkommens** für die Altersvorsorge. Das i
 
 Bei schwankendem Einkommen (typisch für Selbstständige): In guten Monaten mehr, in schlechten weniger — aber nie auf null. Ein automatischer Dauerauftrag in ein Depot oder eine Rürup-Police hilft, die Disziplin zu halten.
 
+## Vertiefung
+
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Vergleich aller Optionen mit dediziertem Selbstständigen-Profil.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Beispielrechnung Selbstständige mit 5.000 € Gewinn.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Was für Selbstständige in welcher Säule funktioniert.
+
 ## Fazit
 
 Selbstständige tragen das volle Altersvorsorgerisiko selbst — das ist Freiheit und Verantwortung zugleich. Wer das ignoriert, riskiert Altersarmut trotz eines erfolgreichen Berufslebens.

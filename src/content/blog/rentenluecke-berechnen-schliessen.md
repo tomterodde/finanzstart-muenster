@@ -89,6 +89,12 @@ Diese Überschlagsrechnung zeigt dir die Größenordnung — mehr nicht. Sie ber
 
 Welche Kombination aus gesetzlicher Rente, betrieblicher Altersvorsorge und privaten Ersparnissen für dich optimal ist, lässt sich pauschal nicht sagen — das hängt von zu vielen individuellen Faktoren ab. Ein Beratungsgespräch hilft, das realistisch durchzurechnen.
 
+## Vertiefung
+
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Konkrete Tabelle nach Bruttogehalt mit Aufteilung der Sparrate.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Vollständiger Vergleich aller Optionen zum Lückenschluss.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie sich die drei Säulen in der Lückenrechnung kombinieren.
+
 ## Fazit
 
 Deine Rentenlücke zu kennen ist der erste Schritt. Die schlechte Nachricht: Sie ist bei Berufseinsteigern fast immer größer als gedacht. Die gute Nachricht: Zeit ist der mächtigste Hebel — wer früh anfängt, muss wenig einzahlen, um viel zu erreichen.
