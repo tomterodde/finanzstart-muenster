@@ -62,6 +62,12 @@ Wer Bürgergeld oder Arbeitslosengeld bezieht und ehrenamtlich tätig ist: Einna
 
 Das Freiwilligen-Zentrum Münster und das Ehrenamtsnetzwerk Münster beraten zu Versicherungsschutz, Aufwandsentschädigungen und rechtlichen Fragen rund ums Ehrenamt — kostenlos.
 
+## Verwandte Münster-Themen
+
+- [Altersvorsorge für Selbstständige in Münster](/blog/altersvorsorge-selbststaendige-muenster)
+- [Altersvorsorge für IT-Berufe in Münster](/blog/muenster-it-jobs-altersvorsorge)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Ehrenamt in Münster ist gesellschaftlich wertvoll — rentenrechtlich unsichtbar. Wer viel ehrenamtlich arbeitet, sollte das in seiner Altersvorsorgeplanung berücksichtigen und privat gegensteuern. Die Ehrenamtspauschale ist ein echter Steuervorteil — darüber hinaus baut Ehrenamt keine staatliche Altersvorsorge auf.

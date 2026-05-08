@@ -69,6 +69,12 @@ Seit 2019 gilt: Wenn der Arbeitgeber ein E-Bike **zusätzlich zum Gehalt** (nich
 
 Für Münsteraner, deren Arbeitgeber das anbietet: Unbedingt nutzen.
 
+## Verwandte Münster-Themen
+
+- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster)
+- [Wohnkosten und Nebenkosten in Münster](/blog/wohnen-muenster-kosten-nebenkosten)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 In Münster lohnt es sich, die Steuerthemen rund ums Fahrrad zu kennen: Pendlerpauschale gilt auch für Radfahrer, Dienstrad-Leasing bringt echte Steuerersparnis, und das steuerfreie Dienstrad als Zusatzleistung ist ein echter Vorteil. Wer in der Steuererklärung systematisch vorgeht, holt auch aus dem Alltag in der Fahrradstadt heraus, was drinsteht.

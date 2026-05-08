@@ -70,6 +70,12 @@ Besonders relevant für Berufseinsteiger in Münster:
 
 Münsters Finanzämter: Finanzamt Münster-Innenstadt (für Stadtmitte, Südviertel, Mauritz) und Finanzamt Münster-Außenstadt (für andere Stadtteile).
 
+## Verwandte Münster-Themen
+
+- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster)
+- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Die erste Steuererklärung nach dem Studium ist für die meisten WWU-Absolventen ein lohnendes Investment von 2–3 Stunden Zeit. Die Erstattung ist im ersten Jahr oft am höchsten — durch den Einstieg mitten im Jahr und mögliche Studienkostenverlustvorträge. Wer das ignoriert, verschenkt oft mehrere Hundert bis über tausend Euro.

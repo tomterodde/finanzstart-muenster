@@ -70,6 +70,12 @@ Als Faustregel: **20 % des Nettoeinkommens** — zumindest in guten Jahren. Das 
 
 Bei 4.000 Euro monatlichem Nettoeinkommen: 800 Euro/Monat in Altersvorsorge. Über 30 Jahre bei 6 % Rendite: ca. **800.000 Euro**.
 
+## Verwandte Münster-Themen
+
+- [Altersvorsorge für IT-Berufe in Münster](/blog/muenster-it-jobs-altersvorsorge)
+- [Soziales Engagement und Ehrenamt: Auswirkung auf die Rente](/blog/muenster-soziales-ehrenamt-rente)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Selbstständige in Münster haben mehr Freiheit und mehr Verantwortung zugleich. Wer Altersvorsorge aktiv angeht — mit einer Kombination aus steuergeförderter Rürup, ETF-Depot und optional Immobilie — kann auch ohne gesetzliche Rentenversicherung eine solide Absicherung aufbauen. Die Werkzeuge sind da; die Initiative muss selbst kommen.

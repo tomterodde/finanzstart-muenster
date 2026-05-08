@@ -76,6 +76,12 @@ Höheres Bruttogehalt bedeutet mehr Rentenpunkte — denn die gesetzliche Rente 
 
 Außerdem: Wer mehr verdient, kann mehr in bAV, ETF oder private Altersvorsorge investieren. Der Zinseszinseffekt beginnt beim Einstiegsgehalt.
 
+## Verwandte Münster-Themen
+
+- [Gehaltsverhandlung beim Berufseinstieg in Münster — Schritt-für-Schritt](/blog/gehaltsverhandlung-berufseinstieg-muenster)
+- [Die 7 häufigsten Finanzfehler beim Berufsstart in Münster](/blog/finanzfehler-berufsstart-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Gehaltsverhandlung ist eine Fähigkeit — keine Dreistigkeit. In Münster gibt es trotz Universitätsstadtatmosphäre harte Marktgehälter, die verhandelbar sind. Wer beim ersten Job 300 Euro mehr herausholt, investiert das vielleicht 40 Jahre lang — und macht daraus ein Vielfaches.

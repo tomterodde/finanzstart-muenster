@@ -91,6 +91,12 @@ Die Abgabefrist für die freiwillige Steuererklärung beträgt **4 Jahre** — d
 
 Wer verpflichtet ist, die Erklärung abzugeben, hat bis zum **31. Juli des Folgejahres** Zeit (ohne Steuerberater).
 
+## Verwandte Münster-Themen
+
+- [Nebenjob und Freelance in Münster: Steuern verstehen](/blog/steuern-muenster-nebenjob-freelancer)
+- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Die Steuererklärung ist für die meisten Berufseinsteiger kein Pflichttermin — aber ein lohnenswerter. Im Schnitt 1.000 € zurückbekommen, die man sonst einfach liegen lässt, ist kein triviales Ergebnis.

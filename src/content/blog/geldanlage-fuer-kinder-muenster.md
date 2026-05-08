@@ -67,6 +67,12 @@ Mit 18 Jahren hat das Kind einen soliden Startbetrag — für Studium, Führersc
 
 **Erbschaftssteuer:** Schenkungen an Kinder bis 400.000 Euro sind alle 10 Jahre steuerfrei. Für die meisten Familien kein Thema.
 
+## Verwandte Münster-Themen
+
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
+- [Finanzplanung bei Heirat in Münster](/blog/finanzplanung-heirat-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit für Eltern in Münster
 
 Ein Junior-ETF-Depot ist die beste Möglichkeit, Kindern langfristig etwas mitzugeben — mehr als jedes Sparbuch und fast jede Versicherungspolice. 50–100 Euro/Monat, früh anfangen, laufen lassen. Mit 18 Jahren hat das Kind einen echten Start ins Finanzleben.

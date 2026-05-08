@@ -95,6 +95,12 @@ Bei 4.500 Euro brutto (Ingenieure, IT, Medizin) steigt das Netto auf ca. 2.900 E
 
 Gehaltsverhandlungen, Weiterbildung und Jobwechsel nach 2–3 Jahren sind finanziell deutlich wirkungsvoller als das Optimieren von Spotify-Abonnements.
 
+## Verwandte Münster-Themen
+
+- [Wohnkosten und Nebenkosten in Münster im Überblick](/blog/wohnen-muenster-kosten-nebenkosten)
+- [Mieten oder Kaufen in Münster: Was rechnet sich?](/blog/mieten-oder-kaufen-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 In Münster ist ein Einstiegsgehalt von 3.200 Euro brutto kein Luxus. Nach Steuern, Miete und Lebenshaltung bleibt wenig Raum für Fehler. Aber es reicht für einen soliden Start — wenn du Prioritäten setzt: Notgroschen zuerst, Altersvorsorge früh, Krankenkasse und Steuern nicht ignorieren.

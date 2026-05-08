@@ -95,6 +95,12 @@ Wir haben es im [Artikel über die Rentenlücke](/blog/rentenlücke-berufseinste
 
 100 € im Monat ab 25 sind langfristig mehr wert als 300 € ab 35. Das klingt kontraintuitiv — ist aber Mathematik.
 
+## Verwandte Münster-Themen
+
+- [Gehaltsverhandlung beim Berufseinstieg: Was in Münster realistisch ist](/blog/gehaltsverhandlung-berufseinstieg-muenster)
+- [Berufsstart in Münster: Gehaltsspannen und Marktwert](/blog/berufsstart-muenster-gehalt-verhandlung)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Keiner dieser Fehler ist unausweichlich. Sie entstehen nicht aus Unwissenheit oder Unverantwortlichkeit, sondern daraus, dass niemand uns das beibringt — nicht in der Schule, nicht im Studium, meistens auch nicht im ersten Job.

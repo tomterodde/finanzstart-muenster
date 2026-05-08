@@ -77,6 +77,12 @@ Nachteil: Eingeschränkte Privatsphäre, Koordinationsaufwand, nicht immer langf
 
 **Kaution:** Max. 3 Monatsmieten kalt — separat anlegen (Tagesgeldkonto), nicht vom Vermieter in der laufenden Miete verrechnen lassen.
 
+## Verwandte Münster-Themen
+
+- [Mieten oder Kaufen in Münster: Was rechnet sich wirklich?](/blog/mieten-oder-kaufen-muenster)
+- [Netto-Gehalt vs. Lebenshaltungskosten in Münster](/blog/netto-gehalt-lebenshaltungskosten-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Wohnen in Münster ist teuer — das lässt sich nicht wegrechnen. Wer früh eine WG als Übergangslösung nutzt, spart mehrere Hundert Euro pro Monat, die in den Vermögensaufbau fließen können. Wer eine eigene Wohnung will, sollte Wohnkosten realistisch in die Budgetplanung einbeziehen und Nebenkosten nicht unterschätzen.

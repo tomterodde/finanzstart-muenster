@@ -75,6 +75,14 @@ Grobe Übersicht für Münster:
 
 Bei niedrigem Jahreseinkommen: Steuererklärung lohnt sich fast immer. [Wie das funktioniert, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster)
 
+**Übergang zum ersten Job:** Wer nach dem Werkstudent-Job in den ersten regulären Job startet, sollte sich frühzeitig mit Gehaltsverhandlung beschäftigen — das erste Brutto entscheidet über die Karriere-Einkommensbasis. [Marktdaten und Verhandlungsstrategie für Berufseinsteiger in Münster stehen hier.](/blog/berufsstart-muenster-gehalt-verhandlung)
+
+## Verwandte Münster-Themen
+
+- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster)
+- [Krankenkasse als Azubi in Münster — was du wissen musst](/blog/krankenkasse-azubi-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Minijob ist einfach, sauber und netto fast gleich brutto. Werkstudentenstelle bringt mehr Geld und Berufserfahrung, aber mehr Bürokratie und Rentenversicherungspflicht. Pflichtpraktikum ist der steuerliche Jackpot — wenn es der Studienplan hergibt.

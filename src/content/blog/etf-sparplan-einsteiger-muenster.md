@@ -103,6 +103,14 @@ Bevor du in ETFs investierst, sollten zwei Dinge geklärt sein:
 
 Was danach übrig bleibt, kannst du in einen ETF-Sparplan stecken — auch wenn es zunächst nur 50 oder 100 € sind. Wie der Zinseszins wirkt, wenn du früh anfängst, zeigt der [Artikel zur Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster) mit konkreten Zahlen.
 
+**Für Selbstständige:** Der ETF-Sparplan ist nur ein Baustein — ohne gesetzliche Rentenversicherung muss die Architektur breiter aufgestellt sein (Rürup, Rentenversicherung, ETF-Depot, ggf. Immobilie). [Wie Selbstständige in Münster Altersvorsorge konkret aufbauen, steht hier.](/blog/altersvorsorge-selbststaendige-muenster)
+
+## Verwandte Münster-Themen
+
+- [Girokonten Münster im Vergleich 2025](/blog/girokonten-muenster-vergleich-2025)
+- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Ein ETF-Sparplan ist ein solides, transparentes und kostengünstiges Instrument für langfristigen Vermögensaufbau. Für viele Berufseinsteiger ist er ein guter Einstieg — aber nicht automatisch für jeden die optimale Lösung.

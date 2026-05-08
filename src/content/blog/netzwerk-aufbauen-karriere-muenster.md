@@ -86,6 +86,12 @@ Wer selbstständig arbeitet oder es plant, versteht schnell: Netzwerk ist direkt
 
 Ein Netzwerk von 100 aktiven Kontakten, die wissen was du machst: In einem Jahr kommen vielleicht 5–10 Kontaktanfragen oder Empfehlungen daraus. Das ist kein Zufall — das ist Aufbauarbeit, die sich verzinst.
 
+## Verwandte Münster-Themen
+
+- [Gehaltsverhandlung beim Berufseinstieg in Münster](/blog/gehaltsverhandlung-berufseinstieg-muenster)
+- [Berufsstart in Münster: Gehaltsspannen und Marktwert](/blog/berufsstart-muenster-gehalt-verhandlung)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Netzwerk aufbauen in Münster ist keine Frage des Extroversionsgrades. Es ist eine Frage der Konsequenz: Regelmäßig Kontakte machen, Mehrwert geben, Beziehungen pflegen. Wer das früh anfängt — am besten noch während des Studiums oder in den ersten Berufsjahren — hat langfristig einen Wettbewerbsvorteil, den keine Qualifikation allein ersetzen kann.

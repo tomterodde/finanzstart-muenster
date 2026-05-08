@@ -108,6 +108,12 @@ Empfehlung: In den ersten 2–3 Wochen der Ausbildung die Wahl treffen. Dein Arb
 
 **Fitnessstudio-Zuschüsse:** Kooperationen mit Münsteraner Fitnessstudios (Fitness First, Body Street, Aspria) oder Sportvereinen — 15 bis 50 € Zuschuss pro Jahr sind realistisch.
 
+## Verwandte Münster-Themen
+
+- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster)
+- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Die richtige Krankenkasse als Azubi ist keine Lebensentscheidung — du kannst nach 12 Monaten jederzeit wechseln. Trotzdem lohnt sich eine bewusste erste Wahl: Zusatzbeitrag, Bonusprogramm und regionale Präsenz machen über die Ausbildungszeit zusammen schnell 300 bis 500 € aus.

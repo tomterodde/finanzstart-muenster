@@ -78,6 +78,12 @@ Nach der Heirat: Der Ehepartner erbt gesetzlich einen Anteil (je nach Erbfolge 1
 4. **Testament aufsetzen** — besonders bei Immobilien oder ungleichen Vermögen
 5. **Altersvorsorge gemeinsam planen** — Wer zahlt wie viel ein? Wer übernimmt Elternzeit?
 
+## Verwandte Münster-Themen
+
+- [Geldanlage für Kinder in Münster](/blog/geldanlage-fuer-kinder-muenster)
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Heirat in Münster bedeutet mehr als die Feier im Rathaus. Wer die finanziellen Änderungen kennt und aktiv gestaltet — Steuerklasse, Testament, Versicherungen, Altersvorsorge — profitiert langfristig. Wer es dem Zufall überlässt, verschenkt manchmal erhebliche Vorteile.

@@ -81,6 +81,12 @@ Für Berufseinsteiger in Münster:
 
 Zwei Konten klingt nach mehr Aufwand — aber es trennt Ausgaben (Girokonto) von Ersparnissen (Tagesgeld/Depot) sauber.
 
+## Verwandte Münster-Themen
+
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
+- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Wer für sein Girokonto zahlt, macht das aus Gewohnheit, nicht aus Notwendigkeit. In Münster — wie überall — gibt es genug kostenfreie Alternativen, die alle wichtigen Funktionen bieten. Wer wechselt, spart 60–120 Euro/Jahr — ohne Einschränkung im Alltag.

@@ -98,6 +98,14 @@ Größere Sprünge nur bei Stellenwechsel — intern oder extern typisch 10–20
 
 Eine Stunde Vorbereitung für die Verhandlung bringt mehr als jeder ETF-Sparplan-Tipp. Wer vor dem ersten Job die Marktdaten nicht recherchiert hat, lässt fünfstellige Beträge auf dem Tisch.
 
+**Steuerlicher Folgehebel:** Höheres Einstiegsgehalt bedeutet auch höhere Steuerlast — was viele unterschätzen, ist die Steuererstattung im ersten Berufsjahr (Werbungskosten, Umzugskosten, Zweitwohnsitz, Bewerbungskosten). [Wie die erste Steuererklärung als Berufseinsteiger in Münster optimal abläuft, steht hier.](/blog/steuererklaerung-berufseinsteiger-muenster)
+
+## Verwandte Münster-Themen
+
+- [Berufsstart in Münster: Gehaltsspannen nach Branche und Verhandlungsstrategie](/blog/berufsstart-muenster-gehalt-verhandlung)
+- [Netzwerk aufbauen für die Karriere in Münster](/blog/netzwerk-aufbauen-karriere-muenster)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 Die erste Gehaltsverhandlung ist gut planbar: Marktdaten recherchieren, drei tragende Argumente vorbereiten, Spanne statt Punktzahl nennen, ruhig verhandeln. Wer den Sprung verpasst, holt ihn in den nächsten 5 Jahren nur teilweise auf. Wer dazu eine Strategie für jährliche Erhöhungen plus systematischen Sparaufbau hat, verbindet zwei Hebel zu einem strukturellen Vorteil.

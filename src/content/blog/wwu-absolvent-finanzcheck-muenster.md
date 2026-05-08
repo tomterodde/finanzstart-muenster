@@ -77,6 +77,50 @@ Münster ist teuer. Die Mieten sind gestiegen, der Wohnungsmarkt ist eng. Als Si
 
 Das ist relevant für deine Finanzplanung: Wie viel bleibt nach Miete für Altersvorsorge, Versicherungen und Sparen? Wenn das Netto nur knapp über der Miete liegt, stimmt das Verhältnis nicht. [Ob Mieten oder Kaufen in Münster für dich sinnvoller ist, diskutiert dieser Artikel.](/blog/mieten-oder-kaufen-muenster)
 
+## Alle Münster-Finanzthemen im Überblick
+
+Dieser Artikel ist der Einstieg. Für vertiefende Themen rund um Finanzen in Münster gibt es spezialisierte Artikel — gruppiert nach Lebensphase und Anliegen:
+
+### Berufsstart Münster (Karriere & Einkommen)
+
+- [Berufsstart in Münster: Gehalt, Verhandlung, Marktwert](/blog/berufsstart-muenster-gehalt-verhandlung)
+- [Gehaltsverhandlung beim Berufseinstieg in Münster](/blog/gehaltsverhandlung-berufseinstieg-muenster)
+- [Die 7 häufigsten Finanzfehler beim Berufsstart in Münster](/blog/finanzfehler-berufsstart-muenster)
+- [Netzwerk aufbauen für die Karriere in Münster](/blog/netzwerk-aufbauen-karriere-muenster)
+
+### Studium & Werkstudent (WWU-Phase)
+
+- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster)
+- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster)
+- [Krankenkasse als Azubi in Münster](/blog/krankenkasse-azubi-muenster)
+
+### Wohnen in Münster
+
+- [Mieten oder Kaufen in Münster: Was rechnet sich?](/blog/mieten-oder-kaufen-muenster)
+- [Wohnkosten und Nebenkosten in Münster im Überblick](/blog/wohnen-muenster-kosten-nebenkosten)
+- [Netto-Gehalt vs. Lebenshaltungskosten in Münster](/blog/netto-gehalt-lebenshaltungskosten-muenster)
+- [Fahrrad, Steuer und Pendler in Münster](/blog/muenster-fahrrad-steuer-pendler)
+
+### Geldanlage & Vermögensaufbau in Münster
+
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
+- [Geldanlage für Kinder in Münster](/blog/geldanlage-fuer-kinder-muenster)
+- [Finanzplanung bei Heirat in Münster](/blog/finanzplanung-heirat-muenster)
+- [Girokonten Münster im Vergleich 2025](/blog/girokonten-muenster-vergleich-2025)
+- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten)
+- [Private Equity in Münster: Mittelstand und Karrierewege](/blog/private-equity-muenster)
+
+### Altersvorsorge in Münster
+
+- [Altersvorsorge für Selbstständige in Münster](/blog/altersvorsorge-selbststaendige-muenster)
+- [Altersvorsorge für IT-Berufe in Münster](/blog/muenster-it-jobs-altersvorsorge)
+- [Soziales Engagement und Ehrenamt: Auswirkung auf die Rente](/blog/muenster-soziales-ehrenamt-rente)
+
+### Steuern in Münster
+
+- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster)
+- [Nebenjob und Freelance in Münster: Steuern verstehen](/blog/steuern-muenster-nebenjob-freelancer)
+
 ## Fazit
 
 Der Berufsstart ist die wichtigste Finanzweiche deines Lebens — weil du jetzt die Gewohnheiten aufbaust, die die nächsten Jahrzehnte prägen. Wer in den ersten zwölf Monaten Gehaltsabrechnung, Krankenkasse, Notgroschen, Versicherungen und Altersvorsorge klärt, hat eine Basis, die die meisten Menschen nie aufgebaut haben.

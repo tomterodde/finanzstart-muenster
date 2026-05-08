@@ -68,6 +68,12 @@ Wer als IT-Freelancer arbeitet: [Altersvorsorge für Selbstständige ist Pflicht
 4. **Bei Selbstständigkeit:** Rentenversicherung aktiv gestalten, nicht vergessen
 5. **Aktienoptionen steuerlich durchrechnen** — vor der Ausübung, nicht danach
 
+## Verwandte Münster-Themen
+
+- [Altersvorsorge für Selbstständige in Münster](/blog/altersvorsorge-selbststaendige-muenster)
+- [Soziales Engagement und Ehrenamt: Auswirkung auf die Rente](/blog/muenster-soziales-ehrenamt-rente)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+
 ## Fazit
 
 IT-Fachkräfte in Münster haben gute Voraussetzungen für Vermögensaufbau — hohes Einkommen, früher Einstieg, gute bAV-Konditionen. Wer diese Vorteile strukturiert nutzt und die typischen Lücken (BU, Selbstständigkeit, Jobwechsel-Fallstricke) schließt, ist für das Alter gut aufgestellt.
