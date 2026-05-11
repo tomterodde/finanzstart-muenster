@@ -69,6 +69,12 @@ Eine Besonderheit, die für Selbstständige relevant ist: die **Berufsschutzklau
 
 Nicht jeder Versicherer bietet das an — beim Vergleich darauf achten.
 
+## Vertiefung
+
+- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen) — Leistungsumfang, Voraussetzungen und Berufsbild-Definition.
+- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle) — Beitragsspannen für Selbstständige nach Beruf.
+- [BU Nachteile: Wann sie nicht sinnvoll ist](/blog/bu-nachteile-wann-nicht-sinnvoll) — Selbstständige mit hohem Vermögen oder kurzer Erwerbsperspektive prüfen.
+
 ## Fazit
 
 Selbstständige brauchen eine BU dringender als die meisten — und sie brauchen einen Vertrag, der zu ihrer Situation passt. Abstrakte Verweisung ausschließen, realistische Einkommensgrundlage wählen, Nachversicherungsgarantie einschließen.

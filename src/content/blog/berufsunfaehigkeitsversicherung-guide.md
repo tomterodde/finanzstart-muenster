@@ -107,6 +107,13 @@ Das hängt stark von Beruf, Alter, Gesundheitszustand und gewünschter Rentenhö
 
 Körperlich arbeitende Berufe zahlen mehr, da das Risiko statistisch höher ist.
 
+## Vertiefung: Häufige BU-Fragen im Detail
+
+- [Was deckt eine BU konkret ab? Leistungen und Ausschlüsse](/blog/bu-was-deckt-sie-ab-leistungen) — Wann zahlt sie, wann nicht, und was bedeutet "50 %-Klausel" wirklich.
+- [Was kostet eine BU im Monat? Tabelle nach Alter und Beruf](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen plus Optimierungs-Hebel.
+- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll) — Wann der Zug abgefahren ist und welche Alternativen passen.
+- [BU Nachteile: Die kritische Analyse (und wann sie nicht sinnvoll ist)](/blog/bu-nachteile-wann-nicht-sinnvoll) — Sechs reale Nachteile ehrlich aufgeschlüsselt.
+
 ## Wenn die BU nicht infrage kommt
 
 Nicht jeder bekommt eine BU zu vernünftigen Konditionen — Vorerkrankungen, Risikoberufe (Dachdecker, Chirurg) oder ein zu enges Budget können den Zugang erschweren. Zwei Alternativen sind dann zu prüfen:

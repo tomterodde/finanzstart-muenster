@@ -69,6 +69,12 @@ Mit 27 Jahren und ohne Vorerkrankungen bekommt man einen BU-Vertrag mit top Kond
 
 Die Prämie ist jung deutlich günstiger — weil das Risiko statistisch geringer ist. Wer früh abschließt, sichert niedrige Prämien für die gesamte Laufzeit.
 
+## Vertiefung
+
+- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen nach Alter und Beruf.
+- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll) — Wann der Abschluss noch lohnt und wann nicht.
+- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen) — Leistungsumfang und typische Ablehnungsgründe.
+
 ## Fazit
 
 Berufsunfähigkeit ist kein Randrisiko für Handwerker. Es ist ein Massenrisiko, das jeden dritten bis vierten Erwerbstätigen trifft — und das häufig psychisch verursacht wird. Wer jung und gesund ist, hat die beste Verhandlungsposition für eine BU-Versicherung. Warten kostet — buchstäblich.

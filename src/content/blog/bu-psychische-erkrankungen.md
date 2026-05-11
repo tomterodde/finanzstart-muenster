@@ -77,6 +77,12 @@ Je jünger und gesünder du bist, desto sauberer deine Krankenakte. Wer mit 23 u
 
 [Was du beim BU-Abschluss generell beachten solltest, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
 
+## Vertiefung
+
+- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen) — Leistungsumfang und typische Ablehnungsgründe.
+- [BU Nachteile und Alternativen bei Ablehnung](/blog/bu-nachteile-wann-nicht-sinnvoll) — Was tun, wenn psychische Vorerkrankungen den BU-Abschluss erschweren.
+- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen plus Risikozuschläge bei Vorerkrankungen.
+
 ## Fazit
 
 Psychische Erkrankungen sind der wichtigste BU-Grund — und gleichzeitig der sensibelste beim Abschluss. Frühzeitig und vollständig anzugeben ist Pflicht; eine anonyme Voranfrage hilft, den richtigen Anbieter zu finden. Wer das ignoriert, riskiert im schlimmsten Moment — wenn er Leistungen braucht — eine Ablehnung.

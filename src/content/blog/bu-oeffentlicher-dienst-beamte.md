@@ -63,6 +63,12 @@ Das ist wichtig, weil: Eine normale BU-Versicherung würde bei einem Beamten pr�
 - **Referendare und Beamte auf Probe**: Noch kein voller Schutz
 - **Alle, die die Versorgungslücke zwischen Ruhegehalt und Gehalt schließen wollen**
 
+## Vertiefung
+
+- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen) — Leistungsumfang, Voraussetzungen und Ausschlüsse.
+- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen für Beamte und andere Berufsgruppen.
+- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll) — Wann der Abschluss noch lohnt.
+
 ## Fazit
 
 Beamte sind besser abgesichert als Angestellte in der Privatwirtschaft — aber nicht lückenfrei. Besonders in den ersten Jahren und für Angestellte im öffentlichen Dienst gibt es relevante Absicherungslücken.
