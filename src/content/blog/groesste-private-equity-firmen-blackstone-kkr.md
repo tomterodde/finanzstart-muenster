@@ -110,6 +110,12 @@ Performance dieser Aktien war historisch stark: **Blackstone +180 % über 5 Jahr
 
 **Als Berufstätiger im Mittelstand:** Wenn dein Arbeitgeber zur PE-Portfolio-Firma wird, ändert sich die Arbeitsweise oft deutlich — Reporting wird strikter, KPIs härter, strategische Veränderungen schneller. Wer diese Phasen versteht, kann sie für die eigene Karriere nutzen.
 
+## Vertiefung
+
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Heimische Mid-Market-Spezialisten (DPE, Auctus, Equistone).
+- [Wie verdienen PE-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld) — Gebührenstruktur und Wertschöpfungs-Hebel.
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Grundlagen und Beispiele.
+
 ## Fazit
 
 Private Equity ist eine konzentrierte Branche — wenige Mega-Firmen kontrollieren den Großteil des global verwalteten Kapitals. Im DACH-Raum sind besonders EQT, Triton, Permira, Advent, Cinven und KKR aktiv. Wer in Münster oder anderswo in Deutschland Karriere im Finance-Bereich plant, in einem Mittelständler arbeitet oder als Anleger mit PE in Berührung kommt, sollte die wichtigsten Namen und Strategien kennen. Das ist keine Nische mehr — sondern Wirtschaftsmainstream.

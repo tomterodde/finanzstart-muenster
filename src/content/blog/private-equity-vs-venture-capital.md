@@ -108,6 +108,12 @@ Typische VC-Pfade: **Tech-Gründer mit Exit** → VC-Partner. **Top-Operator** (
 
 Für die meisten Privatanleger ist das kein Ersatz für ein **breit gestreutes ETF-Depot**, sondern bestenfalls eine **Beimischung** für 5–15 % des liquiden Vermögens — und nur, wenn du die Bindungsdauer und das Risiko trägst. Das gehört in die individuelle Beratungs-Diskussion, nicht in pauschale Empfehlungen.
 
+## Vertiefung
+
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Grundlagen und Definition.
+- [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld) — Gebührenstruktur und Wertschöpfungs-Hebel.
+- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Sechs reale Nachteile von PE.
+
 ## Fazit
 
 Private Equity und Venture Capital sind keine austauschbaren Begriffe — auch wenn sie oft so verwendet werden. PE optimiert reife Unternehmen mit Leverage und liefert konsistente Renditen. VC finanziert riskante Wachstumswetten mit Power-Law-Verteilung und kann bei Top-Fonds dramatisch outperformen. Karrierepfade, Renditeprofile und Investorenstrukturen unterscheiden sich grundlegend. Wer das versteht, kann gezielter studieren, präziser bewerben und ehrlicher entscheiden, welche Welt zu ihm passt.

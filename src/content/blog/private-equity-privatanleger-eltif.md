@@ -126,6 +126,12 @@ PE ist **vermutlich nicht** sinnvoll für:
 
 Wenn du auf alle drei Fragen ehrlich "ja" antworten kannst, kann PE eine sinnvolle Beimischung sein. Welche konkrete Struktur (ELTIF, geschlossene Beteiligung, börsennotierter PE-Manager, Private Bank, strukturierte Beratung) zu dir passt, lässt sich nicht pauschal beantworten — das gehört in ein persönliches Beratungsgespräch mit jemandem, der **Zugang zu mehreren Anbietern** hat und nicht nur ein Produkt vertickt.
 
+## Vertiefung
+
+- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Risiken und Warren-Buffett-Kritik im Detail.
+- [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld) — Gebührenstruktur, die deine Nettorendite bestimmt.
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Wer im DACH-Markt aktiv ist.
+
 ## Fazit
 
 Private Equity ist seit der ELTIF-Reform 2024 erstmals real für Privatanleger zugänglich — ab rund 10.000 €. Die Renditeerwartung ist attraktiv, aber Liquiditätsbindung, Manager-Risiko und steuerliche Komplexität sind echt. Für die meisten Anleger ist PE höchstens eine **Beimischung von 5–15 %** zum bestehenden Depot, niemals der Kern. Die Manager- und Vehikel-Auswahl ist entscheidend — und das ist ein Bereich, in dem strukturierte Beratung mit PE-Spezialisierung mehr Wert liefern kann als reines Produkt-Vergleichen. Wer sich ernsthaft für PE als Anleger interessiert, sollte sich Zeit für die Strukturentscheidung nehmen und nicht auf erste Vertriebsangebote eingehen.

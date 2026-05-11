@@ -93,6 +93,12 @@ Das ganze kann in **2–3 Wochen** durch sein. Wer das nicht kennt, verliert den
 
 **Wenn du in den Beraterpfad willst:** Suche dir eine strukturierte Finanzberatung, die mit institutionellen Asset-Managern arbeitet, baue dort PE-Spezialwissen auf, und nutze die ersten Jahre für Kundenakquise und Weiterbildung. [Was du beim Berufseinstieg in Münster generell beachten solltest, ist hier erklärt.](/blog/berufsstart-muenster-gehalt-verhandlung)
 
+## Vertiefung
+
+- [Was verdienen PE-Manager? Gehaltsstruktur und Carry](/blog/wie-verdienen-private-equity-firmen-geld) — 70.000 € Einstieg bis 10 Mio. € Senior-Partner-Vergütung.
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Wo bewerben sich Berufseinsteiger lokal.
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Grundlagen für Career Switcher.
+
 ## Fazit
 
 Private Equity ist ein hoch kompetitives Feld — aber der klassische IB-Weg ist nicht der einzige. Wer aus Münster kommt und nicht über LSE oder WHU einsteigt, kann mit gezielter Vorbereitung trotzdem in PE-Fonds reinkommen — oder sich über die Beratungs-Schiene als PE-Spezialist positionieren. Beide Wege haben unterschiedliche Anforderungen, Lebensentwürfe und Einkommensprofile. Welcher Pfad zu dir passt, hängt von deinen Stärken (Modeling versus Beziehungsaufbau), deiner Risiko-Toleranz (Konzern-Karriere versus Selbstständigkeit) und deinem Lebenswunsch ab. Diese Entscheidung sollte man nicht aus dem Bauch treffen — ein Gespräch mit jemandem, der beide Welten kennt, ist Gold wert.

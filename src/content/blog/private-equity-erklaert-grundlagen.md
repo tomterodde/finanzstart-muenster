@@ -98,6 +98,13 @@ Für **Berufseinsteiger ohne Finance-Hintergrund**: Wahrscheinlich kein direkter
 
 Für **Privatanleger**: Direkter Zugang zu PE-Fonds ist klassisch institutionell. Über sogenannte **ELTIF-Vehikel** und Beteiligungs-AGs gibt es seit 2024 auch Wege für Kleinanleger — mit eigenen Vor- und Nachteilen, die einen separaten Artikel verdienen.
 
+## Vertiefung: Häufige PE-Fragen im Detail
+
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Niedrigschwelligere Erklärung mit "auf Deutsch"-Übersetzung und konkreten Beispielen.
+- [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld) — Management Fee, Carried Interest, Wertschöpfungs-Hebel.
+- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Sechs reale Nachteile inkl. Warren-Buffett-Kritik.
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — DPE, Auctus, Equistone und die internationalen Player.
+
 ## Fazit
 
 Private Equity ist kein Nischenthema mehr. Mit weltweit über 8 Billionen US-Dollar verwaltetem Kapital und massivem Einfluss auf die deutsche Mittelstandslandschaft solltest du als BWL-Student oder finanzaffiner Berufseinsteiger zumindest die Grundmechanik verstehen — Buyouts, Leverage, Carried Interest, Exit-Strategien. Wer diese Konzepte versteht, hat einen Vorteil im Recruiting, im Studium und im späteren Berufsleben. Und wer sich von PE als Anleger angesprochen fühlt, sollte die Risiken (Illiquidität, hohe Schulden, lange Bindung) genauso ernst nehmen wie die Renditechancen.
