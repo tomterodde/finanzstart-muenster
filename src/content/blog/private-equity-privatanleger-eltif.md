@@ -128,6 +128,7 @@ Wenn du auf alle drei Fragen ehrlich "ja" antworten kannst, kann PE eine sinnvol
 
 ## Vertiefung
 
+- [PE Fonds, ETF und Trade Republic im Vergleich](/blog/private-equity-investieren-fonds-etf-trade-republic) — Alle fünf Wege für Privatanleger 2026 inkl. Apollo AAA und LPX-ETFs.
 - [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Risiken und Warren-Buffett-Kritik im Detail.
 - [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld) — Gebührenstruktur, die deine Nettorendite bestimmt.
 - [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Wer im DACH-Markt aktiv ist.

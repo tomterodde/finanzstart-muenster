@@ -106,7 +106,7 @@ Performance dieser Aktien war historisch stark: **Blackstone +180 % über 5 Jahr
 
 **Als BWL-Student:** Wenn du PE als Karriereziel hast, kenne diese Namen auswendig. Nutze die DACH-Offices als Recruiting-Ziele — bewerb dich auf Internships bei EQT München, Triton Frankfurt, Permira Frankfurt, Advent Frankfurt.
 
-**Als Anleger:** Aktien von börsennotierten PE-Firmen sind eine Möglichkeit, indirekt am Erfolg der Branche zu partizipieren — mit deutlich besserer Liquidität als bei Direkt-Fondsbeteiligungen. Über sogenannte **ELTIF-Vehikel** gibt es seit 2024 zusätzlich Zugang zu echten PE-Fonds für Privatanleger ab rund 10.000 €. Welcher Weg für dich passt, hängt von Anlagehorizont, Liquiditätsbedarf und Risikoprofil ab und gehört in eine individuelle Beratungs-Diskussion.
+**Als Anleger:** Aktien von börsennotierten PE-Firmen sind eine Möglichkeit, indirekt am Erfolg der Branche zu partizipieren — mit deutlich besserer Liquidität als bei Direkt-Fondsbeteiligungen. Über sogenannte **ELTIF-Vehikel** gibt es seit 2024 zusätzlich Zugang zu echten PE-Fonds für Privatanleger ab rund 10.000 €. [Welche konkreten Wege Privatanleger haben — Trade Republic, PE-ETF, klassische Fonds, ELTIFs und Beratung — steht im großen Vergleich.](/blog/private-equity-investieren-fonds-etf-trade-republic)
 
 **Als Berufstätiger im Mittelstand:** Wenn dein Arbeitgeber zur PE-Portfolio-Firma wird, ändert sich die Arbeitsweise oft deutlich — Reporting wird strikter, KPIs härter, strategische Veränderungen schneller. Wer diese Phasen versteht, kann sie für die eigene Karriere nutzen.
 

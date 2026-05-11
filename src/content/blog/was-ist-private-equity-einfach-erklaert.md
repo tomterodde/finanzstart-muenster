@@ -135,7 +135,7 @@ Die typische Verteilung folgt dem **"2/20-Modell"**:
 - **Vereinfachter Vertrieb** — über strukturierte Beratungen und teilweise auch online-Plattformen
 - **Vermögensgrenze entfallen** — auch unter 500.000 € Nettovermögen ohne Einschränkung möglich
 
-[Wie Privatanleger konkret in PE investieren können — Vehikel, Mindestanlagen, Risiken — steht hier.](/blog/private-equity-privatanleger-eltif)
+[Wie Privatanleger konkret in PE investieren können — Vehikel, Mindestanlagen, Risiken — steht hier.](/blog/private-equity-privatanleger-eltif) [Konkrete Wege im Vergleich: Trade Republic, PE-ETF, klassische Fonds und ELTIFs.](/blog/private-equity-investieren-fonds-etf-trade-republic)
 
 ## Was sind die Risiken?
 

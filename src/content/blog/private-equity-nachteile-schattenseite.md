@@ -213,7 +213,7 @@ Trotz aller Nachteile passt PE für klare Profile:
 ✅ **Akzeptanz der Volatilität** und der langfristigen Bindung
 ✅ **PE als Beimischung** (5–15 %) zum diversifizierten Gesamtportfolio
 
-[Wie Privatanleger konkret in PE investieren können — Vehikel, Mindestanlagen, Risiken — steht hier.](/blog/private-equity-privatanleger-eltif)
+[Wie Privatanleger konkret in PE investieren können — Vehikel, Mindestanlagen, Risiken — steht hier.](/blog/private-equity-privatanleger-eltif) [Konkrete Wege im Vergleich: Trade Republic, PE-ETF, klassische Fonds und ELTIFs.](/blog/private-equity-investieren-fonds-etf-trade-republic)
 
 ## Was bedeutet das für dich?
 
