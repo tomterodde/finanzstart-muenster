@@ -85,6 +85,13 @@ Hinzu kommt: Provisionsprodukte sind seit der Reform 2015 streng reguliert. Prov
 
 Wichtig: Provisionen sind **kein** Red Flag — sie sind die normale Vergütungsform für 98 % aller Finanzberatungen in Deutschland und gesetzlich gedeckelt. Red Flag ist mangelnde Transparenz, nicht das Modell selbst.
 
+## Vertiefung
+
+- [Honorarberatung vs. Provisionsberatung im Vergleich](/blog/honorarberatung-vs-provisionsberatung-vergleich) — Marktdaten, Kostenrechnung über 30 Jahre, ehrliche Empfehlung je Profil.
+- [Was kostet ein Finanzberater wirklich?](/blog/was-kostet-ein-finanzberater) — Konkrete Preise pro Modell, Beispielrechnungen für Berufseinsteiger und Vermögende.
+- [Wie finde ich einen guten Finanzberater? 12-Punkte-Checkliste](/blog/wie-finde-ich-einen-guten-finanzberater) — Qualitätskriterien, Pflichtfragen, Red Flags.
+- [Vermittlerregister prüfen — Schritt-für-Schritt](/blog/bafin-vermittlerregister-pruefen-leitfaden) — Wie du in 2 Minuten die Zulassung deines Beraters checkst.
+
 ## Verwandte Münster-Themen
 
 - [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
