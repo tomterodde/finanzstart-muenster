@@ -79,7 +79,7 @@ Die gesetzliche Rente ersetzt im Durchschnitt nur ca. 48–50 % des letzten Nett
 
 Wer heute 2.500 Euro netto verdient, bekommt aus der gesetzlichen Rente im Durchschnitt ca. 1.200–1.300 Euro — sofern er 45 Beitragsjahre hat. Für viele Akademiker mit späterem Berufseinstieg sind es weniger.
 
-[Wie groß die Rentenlücke wirklich ist und was das für Berufseinsteiger in Münster bedeutet, erklärt dieser Artikel.](/blog/rentenlücke-berufseinsteiger-münster)
+[Wie du deine persönliche Rentenlücke in 4 Schritten berechnest — Formel, Tabelle, Rechner.](/blog/rentenluecke-berechnen-schliessen) [Speziell für Berufseinsteiger in Münster.](/blog/rentenlücke-berufseinsteiger-münster)
 
 ## Kann ich meine Rentenpunkte einsehen?
 

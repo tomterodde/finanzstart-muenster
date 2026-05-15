@@ -75,7 +75,7 @@ Das zieht nochmals 9–11 % von der Bruttorente ab — vor den Einkommensteuern.
 
 Wer seine Rentenlücke berechnet, sollte nicht mit der Bruttorente rechnen, sondern mit der Nettorente nach Steuern und Sozialabgaben. Das macht die Lücke oft größer als gedacht.
 
-[Wie die Rentenlücke berechnet wird und was sie für Berufseinsteiger bedeutet, erklärt dieser Artikel.](/blog/rentenlücke-berufseinsteiger-münster)
+[Wie du deine Rentenlücke selbst berechnest — Formel, Tabelle nach Bruttogehalt und kostenloser Rechner.](/blog/rentenluecke-berechnen-schliessen)
 
 Private und betriebliche Altersvorsorge ist ebenfalls steuerpflichtig — mit unterschiedlichen Regeln je nach Produkt. Das macht die Gesamtplanung komplex und individuell verschieden.
 

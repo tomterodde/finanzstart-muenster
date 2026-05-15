@@ -238,7 +238,7 @@ Dieser Artikel macht den nüchternen Vergleich aller 6 zentralen Optionen 2026 �
 
 Die optimale Mischung für deine Steuerlage, Lebenssituation und Karriereperspektive lässt sich pauschal nicht beantworten. Sie gehört in eine **unabhängige Beratung** — am besten mit jemandem, der **mehrere Anbieter und Produktarten** vergleichen kann, statt nur einen zu vertreiben.
 
-[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert) [Wie viel du monatlich sparen solltest, steht hier.](/blog/wie-viel-monatlich-altersvorsorge-sparen)
+[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert) [Wie viel du monatlich sparen solltest, steht hier.](/blog/wie-viel-monatlich-altersvorsorge-sparen) [Wer zuerst seinen konkreten Bedarf bestimmen will, berechnet die Rentenlücke hier.](/blog/rentenluecke-berechnen-schliessen)
 
 ## Fazit
 

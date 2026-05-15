@@ -71,6 +71,8 @@ Viele denken: "Ich fange mit 35 an und zahle dann mehr ein." Das stimmt rechneri
 
 Um mit 35 dasselbe Ergebnis zu erreichen wie mit 25 (Endwert ~400.000 €), musst du nicht 200 Euro, sondern ca. **282 Euro monatlich** einzahlen. Du zahlst also 41 % mehr pro Monat — und trotzdem weniger Gesamtkapital als wenn du früher angefangen hättest.
 
+> Wer den Bedarf für seine konkrete Situation ausrechnen will: [Rentenlücke berechnen — Formel, Tabelle und kostenloser Rechner](/blog/rentenluecke-berechnen-schliessen) zeigt dir, wie viel Kapital du wirklich brauchst.
+
 ## Was das für Berufseinsteiger konkret bedeutet
 
 Auch kleine Beträge zählen. 50 Euro monatlich mit 25 sind langfristig mehr wert als 150 Euro monatlich mit 40.
