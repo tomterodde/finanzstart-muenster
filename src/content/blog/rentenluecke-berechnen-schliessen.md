@@ -176,21 +176,26 @@ Das hängt von **Startalter, Renditeerwartung und Ansparzeit** ab. Beispiel-Tabe
 
 ## Wie schließt du die Rentenlücke konkret?
 
-Es gibt vier Hebel, in der Praxis kombinierst du meistens mehrere:
+Die ehrliche Antwort: Mit einer **Kombination** aus mehreren Bausteinen — nicht mit einem einzelnen Produkt. Welche Bausteine in welcher Gewichtung passen, hängt von Steuersituation, Familienstand, Erwerbsstatus und Sicherheitsbedürfnis ab. Das gehört in ein Beratungsgespräch. Die fünf typischen Bausteine im Überblick:
 
-### 1. Betriebliche Altersvorsorge (bAV)
-Wenn dein Arbeitgeber **mindestens 20 % Zuschuss** gibt, ist das oft die rentabelste Option. Steuer- und sozialversicherungsfrei in der Ansparphase. [Lohnt sich die bAV mit Arbeitgeberzuschuss? →](/blog/bav-lohnt-sich-arbeitgeberzuschuss) · [Wann lohnt sich die bAV NICHT? →](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht)
+### 1. Fondsgebundene Privatrente (Flex)
+Verbindet **Renditechance aus Fonds** mit **lebenslanger Rentengarantie**, garantiertem Rentenfaktor und steuerbegünstigter Auszahlung (Halbeinkünfteverfahren ab 62 Jahren bei mindestens 12 Jahren Vertragslaufzeit). Pfändungsschutz inklusive, Verbindlichkeit beim Sparen — ein wesentlicher Vorteil gegenüber dem freiwilligen ETF-Sparplan. Für nahezu jede Altersvorsorge-Strategie ein Standard-Baustein, weil **nur eine Rentenversicherung das Langlebigkeitsrisiko absichert**.
 
-### 2. ETF-Sparplan
-Maximale Flexibilität, niedrige Kosten, langfristig 6–8 % Rendite erwartbar. Kein Steuervorteil in der Ansparphase, dafür flexibel verfügbar. [Private Rentenversicherung vs. ETF-Sparplan →](/blog/private-rentenversicherung-vs-etf)
+### 2. Riester-Rente
+Sehr stark unterschätzt. Vorteile: **Grund- und Kinderzulagen** (175 € bzw. 300 € pro Kind ab Geburtsjahr 2008), **Sonderausgaben-Abzug bis 2.100 €/Jahr**, **100 % Beitragsgarantie**, **Pfändungsschutz**, **Hartz-IV-Schutz**. Für nahezu alle sozialversicherungspflichtig Beschäftigten ein lohnender Baustein — Ausnahmen sind individuell zu prüfen. [Was Riester heute leistet →](/blog/riester-jetzt-noch-abschliessen-vertragsschutz)
 
-### 3. Rürup-Rente / Basisrente
-Vor allem für **Selbständige** und **Gutverdiener** interessant — bis zu 27.566 € (2025) jährlich steuerlich absetzbar. Dafür unflexibel: keine Auszahlung vor Renteneintritt, keine Vererbung. [Rürup-Rente: Für wen lohnt sie sich? →](/blog/privatrente-rurup-fuer-wen)
+### 3. Betriebliche Altersvorsorge (bAV)
+Steuer- und sozialversicherungsfrei in der Ansparphase. Lohnt sich besonders bei **adäquatem Arbeitgeberzuschuss**. [Lohnt sich die bAV mit Arbeitgeberzuschuss? →](/blog/bav-lohnt-sich-arbeitgeberzuschuss) · [Wann lohnt sich die bAV NICHT? →](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht)
 
-### 4. Riester-Rente
-Mit Zulagen, aber durch viele Reformen unattraktiver geworden. Lohnt sich vor allem für Familien mit Kindern oder Geringverdiener. [Riester abschließen — sinnvoll oder nicht? →](/blog/riester-jetzt-noch-abschliessen-vertragsschutz)
+### 4. Rürup-Rente / Basisrente
+Vor allem für **Selbstständige** (die keinen Zugang zu Riester haben) und **Spitzenverdiener** interessant — bis zu 27.566 € (2025) jährlich steuerlich absetzbar. [Rürup-Rente: Für wen lohnt sie sich? →](/blog/privatrente-rurup-fuer-wen)
+
+### 5. ETF-Sparplan
+Maximale Flexibilität und niedrige Kosten — aber **ein Anlageinstrument, keine Altersvorsorgelösung mit Rentengarantie**. Eignet sich gut **als Ergänzung** zur rentenversicherungsbasierten Grundstruktur, nicht als Ersatz. Der häufige Renditevergleich „ETF vs. Privatrente" ist methodisch unfair, weil er Verrentungsoption, Garantien und Steuervorteile ausblendet. [Private Rentenversicherung vs. ETF — sauberer Vergleich →](/blog/private-rentenversicherung-vs-etf)
 
 → Großer Vergleich: [Welche Altersvorsorge lohnt sich 2026 wirklich? →](/blog/beste-altersvorsorge-vergleich-2026) · Konzeptuelle Grundlage: [Die 3 Säulen der Altersvorsorge →](/blog/drei-saeulen-altersvorsorge-erklaert)
+
+> **Wichtig:** Welche Kombination dieser Bausteine in welcher Höhe sinnvoll ist, lässt sich nicht aus einem Blogartikel ableiten. Es hängt von Steuerklasse, Familienstand, Erwerbsstatus, Karriereperspektive und persönlichem Sicherheitsbedürfnis ab. **Genau dafür gibt es Beratung.**
 
 ## Häufige Fehler bei der Rentenlücken-Berechnung
 
