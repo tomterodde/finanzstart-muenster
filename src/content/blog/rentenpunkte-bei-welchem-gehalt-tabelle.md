@@ -1,7 +1,7 @@
 ---
 title: 'Rentenpunkte Tabelle: Wie viele bei 30k, 50k, 60k oder 70k Brutto?'
 description: 'Wie viele Rentenpunkte bekommst du bei welchem Bruttogehalt? Vollständige Tabelle für 30.000 € bis Beitragsbemessungsgrenze, plus Berechnung für Minijob und Teilzeit.'
-pubDate: '2026-06-11'
+pubDate: '2026-05-15'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Rentenpunkte nach Bruttogehalt — Tabelle 2025'
 category: 'Altersvorsorge'

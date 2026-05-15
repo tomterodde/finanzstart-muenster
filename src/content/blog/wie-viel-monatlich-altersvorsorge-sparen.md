@@ -1,7 +1,7 @@
 ---
 title: 'Wie viel pro Monat für Altersvorsorge sparen? (Tabelle 2026)'
 description: 'Wie viel solltest du monatlich für die Altersvorsorge sparen? Konkrete Zahlen für 2.500 €, 3.500 €, 4.500 € und 6.000 € Bruttogehalt — plus Aufteilung auf bAV, ETF und Co.'
-pubDate: '2026-06-16'
+pubDate: '2026-05-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Wie viel pro Monat in Altersvorsorge sparen — Tabelle und Berechnung'
 category: 'Altersvorsorge'

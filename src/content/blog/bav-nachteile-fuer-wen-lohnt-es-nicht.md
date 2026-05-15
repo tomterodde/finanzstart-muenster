@@ -1,7 +1,7 @@
 ---
 title: 'bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?'
 description: 'Welche Nachteile hat die betriebliche Altersvorsorge? Doppelverbeitragung, geringere Rentenpunkte, Inflexibilität — wann sich bAV nicht lohnt und wer Alternativen prüfen sollte.'
-pubDate: '2026-06-17'
+pubDate: '2026-05-15'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Nachteile der betrieblichen Altersvorsorge — wann sie sich nicht lohnt'
 category: 'Altersvorsorge'

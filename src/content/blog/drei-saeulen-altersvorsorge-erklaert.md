@@ -1,7 +1,7 @@
 ---
 title: 'Die 3 Säulen der Altersvorsorge: Was Berufstätige 2026 wissen müssen'
 description: 'Was sind die 3 Säulen der Altersvorsorge in Deutschland? Gesetzliche Rente, betriebliche und private Vorsorge — plus Unterschied zum Schichten-Modell.'
-pubDate: '2026-06-15'
+pubDate: '2026-05-15'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Drei Säulen der Altersvorsorge — Modell und Erklärung'
 category: 'Altersvorsorge'
