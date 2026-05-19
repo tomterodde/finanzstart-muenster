@@ -186,7 +186,7 @@ Die richtige Frage ist nicht "Honorar oder Provision?", sondern: **"Ist dieser B
 
 - **Mindestens 3–5 Versicherer** im Portfolio
 - **Mehrere Fondsgesellschaften** für Investments
-- **Nicht** Ein-Versicherer-Vertrieb (Strukturvertriebe einzelner Konzerne)
+- **Nicht** Ein-Versicherer-Vertrieb ([Strukturvertriebe einzelner Konzerne](/blog/strukturvertrieb-was-steckt-dahinter))
 
 ### Indikator 2: Regulatorischer Status
 

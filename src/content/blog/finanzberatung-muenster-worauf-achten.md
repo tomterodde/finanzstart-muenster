@@ -69,7 +69,7 @@ Hinzu kommt: Provisionsprodukte sind seit der Reform 2015 streng reguliert. Prov
 ## Gute Fragen vor dem ersten Termin
 
 - "Welche Zulassung haben Sie — § 34c, § 34d, § 34f oder § 34h GewO?"
-- "Bei wie vielen Produktanbietern können Sie vergleichen?" (Mehr ist besser — Ein-Versicherer-Vertriebe sind eingeschränkt)
+- "Bei wie vielen Produktanbietern können Sie vergleichen?" (Mehr ist besser — Ein-Versicherer-Vertriebe sind eingeschränkt; [was Strukturvertrieb hier konkret bedeutet](/blog/strukturvertrieb-was-steckt-dahinter))
 - "Erstellen Sie ein schriftliches Beratungsprotokoll nach § 18 WpHG?"
 - "Wie sieht die Folgebetreuung in fünf, zehn, zwanzig Jahren aus?"
 - "Wie ist Ihre Berufshaftpflicht abgesichert?" (Standard: 1,3 Mio. €)

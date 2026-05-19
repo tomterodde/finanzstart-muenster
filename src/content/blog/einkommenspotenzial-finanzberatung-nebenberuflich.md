@@ -33,7 +33,7 @@ Kurze Antwort: Ja. Aber es lohnt sich, genau hinzuschauen, was das in der Praxis
 
 ## Was ein nebenberuflicher Finanzberater tatsächlich macht
 
-Der Begriff "Finanzberater" ist nicht geschützt — theoretisch kann ihn jeder führen. Was zählt, ist die Zulassung. Für die Vermittlung von Versicherungen braucht man die **§ 34d GewO**-Zulassung, für Finanzanlagen die **§ 34f GewO**. Beides ist über die IHK erreichbar, mit einer Sachkundeprüfung.
+Der Begriff "Finanzberater" ist nicht geschützt — theoretisch kann ihn jeder führen. Was zählt, ist die Zulassung. Für die Vermittlung von Versicherungen braucht man die **§ 34d GewO**-Zulassung, für Finanzanlagen die **§ 34f GewO**. Beides ist über die IHK erreichbar, mit einer Sachkundeprüfung. In der Praxis erfolgt der Einstieg häufig über einen [seriösen Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter), der Ausbildung, Produktzugang und Lizenz-Träger bereitstellt.
 
 Der Alltag besteht dann aus drei Tätigkeiten:
 

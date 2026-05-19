@@ -163,7 +163,7 @@ Die **Qualität der Beratung** lässt sich daraus noch nicht ablesen — dafür 
 
 ## Sonderfall: Strukturvertriebe und Konzern-Vermittler
 
-Bei großen Strukturvertrieben (z. B. AWD, MLP, Tecis, OVB, Swiss Life Select, Bonnfinanz) sind die einzelnen Berater oft **Handelsvertreter** mit eigener § 34d/34f-Zulassung. Sie sind im DIHK-Register eingetragen — aber meist als **gebundener Vermittler** mit Hinweis auf den Vertriebspartner.
+Bei [großen Strukturvertrieben](/blog/strukturvertrieb-was-steckt-dahinter) (z. B. AWD, MLP, Tecis, OVB, Swiss Life Select, Bonnfinanz) sind die einzelnen Berater oft **Handelsvertreter** mit eigener § 34d/34f-Zulassung. Sie sind im DIHK-Register eingetragen — aber meist als **gebundener Vermittler** mit Hinweis auf den Vertriebspartner.
 
 **Was bedeutet das?**
 

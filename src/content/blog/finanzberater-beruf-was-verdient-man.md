@@ -56,7 +56,7 @@ Das Einkommen eines Finanzberaters hängt stark vom Modell ab:
 
 **Angestellt bei Bank oder Versicherung:** Fixgehalt plus Provision. Einstieg ca. 30.000–45.000 Euro brutto. Wachstum durch Zielprämien. Deckel durch Festgehalt.
 
-**Selbstständig/provisionsbasiert:** Kein Fixgehalt — dafür unbegrenzte Einkommensmöglichkeiten. In den ersten 1–2 Jahren oft niedrig (Kundenstamm aufbauen). Danach: wer ein gutes Netzwerk hat und kontinuierlich neue Kunden gewinnt, kann 60.000–120.000 Euro und mehr verdienen.
+**Selbstständig/provisionsbasiert:** Kein Fixgehalt — dafür unbegrenzte Einkommensmöglichkeiten. In den ersten 1–2 Jahren oft niedrig (Kundenstamm aufbauen). Danach: wer ein gutes Netzwerk hat und kontinuierlich neue Kunden gewinnt, kann 60.000–120.000 Euro und mehr verdienen. Viele selbstständige Finanzberater arbeiten dabei innerhalb eines [Strukturvertrieb-Modells](/blog/strukturvertrieb-was-steckt-dahinter), das Ausbildung, Produktzugang und Karrierepfade bündelt.
 
 **Realität in den ersten Jahren:** Finanzberatung ist kein schnell-reich-Beruf. Wer das erwartet, wird enttäuscht. Wer bereit ist, 2–3 Jahre in Aufbau zu investieren, kann danach überdurchschnittlich verdienen — mit einem Kundenstamm, der passiv Bestandsprovisionen generiert.
 
