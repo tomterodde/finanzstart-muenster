@@ -1,8 +1,9 @@
 ---
 interface Props {
 	variant?: 'inline' | 'box';
+	quelle?: string;
 }
-const { variant = 'box' } = Astro.props;
+const { variant = 'box', quelle = 'website' } = Astro.props;
 ---
 
 <div class={`newsletter newsletter--${variant}`}>
@@ -24,6 +25,8 @@ const { variant = 'box' } = Astro.props;
 				required
 				aria-label="E-Mail-Adresse"
 			/>
+			<!-- Quellen-Attribution: setzt das Kit-Custom-Field "quelle" (muss in Kit angelegt sein) -->
+			<input type="hidden" name="fields[quelle]" value={quelle} />
 			<button type="submit">Jetzt kostenlos holen</button>
 		</form>
 		<p class="newsletter-fine">Kein Spam. Jederzeit abmeldbar.</p>

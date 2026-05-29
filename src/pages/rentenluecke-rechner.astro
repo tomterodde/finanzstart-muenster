@@ -109,12 +109,25 @@ import Header from '../components/Header.astro';
 							required
 							aria-label="E-Mail-Adresse"
 						/>
+						<!-- Quellen-Attribution: setzt das Kit-Custom-Field "quelle" (muss in Kit angelegt sein, sonst ignoriert) -->
+						<input type="hidden" name="fields[quelle]" value="rentenluecke-rechner" />
 						<button type="submit" class="btn-primary">Checkliste per E-Mail erhalten</button>
 					</form>
 					<p class="cta-privacy">Kein Spam. Jederzeit abmeldbar.</p>
 
 					<div class="or-divider">oder</div>
 					<a href="/finanzcheck/" class="btn-secondary" target="_blank">Checkliste direkt öffnen →</a>
+
+					<div class="call-cta">
+						<p class="call-cta-text">Lieber direkt über deine Zahlen sprechen?</p>
+						<a
+							href="https://outlook.office.com/bookwithme/user/f7d184a8790c451390cda05ae8b3fb18@tecis.de/meetingtype/cdie9Hia-EulszcibmFVfQ2?bookingcode=d1927a5d-5856-470c-894c-a255316c0f36&anonymous&ismsaljsauthenabled&ep=mlink&utm_source=blog&utm_medium=rechner&utm_campaign=rentenluecke"
+							class="btn-primary"
+							target="_blank"
+							rel="noopener"
+						>15-Min-Kennenlernen buchen →</a>
+						<p class="cta-privacy">Kostenlos & unverbindlich. Du wählst den Termin.</p>
+					</div>
 				</div>
 
 				<button id="reset-btn" class="btn-ghost">← Neu berechnen</button>
@@ -431,6 +444,19 @@ import Header from '../components/Header.astro';
 		font-size: 0.8em;
 		color: rgb(var(--gray));
 		margin-bottom: 0.8em;
+	}
+
+	.call-cta {
+		margin-top: 1.75em;
+		padding-top: 1.5em;
+		border-top: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.call-cta-text {
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin: 0 0 0.9em;
 	}
 
 	/* Buttons */
