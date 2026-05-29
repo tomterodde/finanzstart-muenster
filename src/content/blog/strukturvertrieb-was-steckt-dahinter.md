@@ -91,7 +91,7 @@ Was es bietet:
 <aside class="career-cta" style="background: var(--accent-light); border: 1px solid rgba(26, 107, 60, 0.2); border-left: 4px solid var(--accent); border-radius: 10px; padding: 1.5em 1.75em; margin: 2.5em 0;">
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Selbst ausprobieren?</p>
   <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du überlegst, selbst in einem Strukturvertrieb anzufangen?</h3>
-  <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich arbeite selbst bei tecis und zeige dir in 30 Minuten, wie das Modell konkret aussieht — nebenberuflich oder als Haupttätigkeit. Kein Pitch, kein Abschlussdruck.</p>
+  <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich arbeite selbst in diesem Modell und zeige dir in 30 Minuten, wie das konkret aussieht — nebenberuflich oder als Haupttätigkeit. Kein Pitch, kein Abschlussdruck.</p>
   <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
 </aside>
 
