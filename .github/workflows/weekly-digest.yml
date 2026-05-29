@@ -1,0 +1,41 @@
+name: Weekly Newsletter Digest
+
+# Erstellt wöchentlich einen Kit-Broadcast aus den Blog-Artikeln.
+# Standard: ENTWURF (in Kit prüfen + senden). Auto-Versand via send_mode=schedule.
+#
+# Voraussetzung: Repo-Secret KIT_API_KEY (Kit → Settings → Developer → Add a new key).
+
+on:
+  schedule:
+    # Montags 06:00 UTC (~07:00–08:00 DE) — Cron ist immer UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      send_mode:
+        description: 'draft (Entwurf) oder schedule (Auto-Versand mit Puffer)'
+        type: choice
+        options: [draft, schedule]
+        default: draft
+      dry_run:
+        description: 'Nur Vorschau, kein Kit-Call (1 = an)'
+        default: '0'
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate & create digest broadcast
+        run: node scripts/weekly-digest.mjs
+        env:
+          KIT_API_KEY: ${{ secrets.KIT_API_KEY }}
+          DIGEST_SEND_MODE: ${{ github.event.inputs.send_mode || 'draft' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
