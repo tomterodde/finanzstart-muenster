@@ -202,6 +202,32 @@ import Footer from '../components/Footer.astro';
 				background: rgba(255, 255, 255, 0.9);
 			}
 
+			.btn-white-outline {
+				display: inline-block;
+				background: transparent;
+				color: white;
+				padding: 0.85em 2em;
+				border-radius: 8px;
+				font-weight: 700;
+				font-size: 0.95em;
+				text-decoration: none;
+				border: 2px solid rgba(255, 255, 255, 0.6);
+				transition: background 0.15s, border-color 0.15s;
+			}
+
+			.btn-white-outline:hover {
+				background: rgba(255, 255, 255, 0.12);
+				border-color: white;
+			}
+
+			.cta-buttons {
+				display: flex;
+				gap: 0.8em;
+				justify-content: center;
+				flex-wrap: wrap;
+				margin-bottom: 0.5em;
+			}
+
 			.cta-fine {
 				font-size: 0.8em;
 				color: rgba(255, 255, 255, 0.65);
@@ -299,13 +325,22 @@ import Footer from '../components/Footer.astro';
 				</div>
 
 				<div class="cta-box">
-					<h2>Interesse? Schreib mir.</h2>
-					<p>Kein Formular, kein Funnel. Einfach eine kurze Mail — ich antworte persönlich.</p>
-					<a href="mailto:tom@finanzstart-muenster.de?subject=Zusammenarbeiten&body=Hallo Tom,%0D%0A%0D%0Aich interessiere mich für eine Zusammenarbeit und würde gerne mehr erfahren.%0D%0A%0D%0A" class="btn-white">
-						E-Mail schreiben →
-					</a>
+					<h2>Interesse? Lass uns reden.</h2>
+					<p>Buch dir direkt ein unverbindliches 15-Minuten-Kennenlernen — oder schreib mir einfach eine kurze Mail. Kein Pitch, ich antworte persönlich.</p>
+					<div class="cta-buttons">
+						<a
+							href="https://outlook.office.com/bookwithme/user/f7d184a8790c451390cda05ae8b3fb18@tecis.de/meetingtype/cdie9Hia-EulszcibmFVfQ2?bookingcode=d1927a5d-5856-470c-894c-a255316c0f36&anonymous&ismsaljsauthenabled&ep=mlink&utm_source=blog&utm_medium=zusammenarbeiten&utm_campaign=partner"
+							class="btn-white"
+							target="_blank"
+							rel="noopener"
+						>15-Min-Kennenlernen buchen →</a>
+						<a
+							href="mailto:tom@finanzstart-muenster.de?subject=Zusammenarbeiten&body=Hallo Tom,%0D%0A%0D%0Aich interessiere mich für eine Zusammenarbeit und würde gerne mehr erfahren.%0D%0A%0D%0A"
+							class="btn-white-outline"
+						>Lieber per Mail schreiben</a>
+					</div>
 					<p class="cta-fine">oder direkt: <a href="mailto:tom@finanzstart-muenster.de" style="color: rgba(255,255,255,0.85); text-decoration: underline;">tom@finanzstart-muenster.de</a></p>
-					<p class="cta-fine">Kein Newsletter, kein Spam. Nur eine Antwort von mir.</p>
+					<p class="cta-fine">Kein Newsletter, kein Spam. Nur ein ehrliches Gespräch.</p>
 				</div>
 
 			</div>
