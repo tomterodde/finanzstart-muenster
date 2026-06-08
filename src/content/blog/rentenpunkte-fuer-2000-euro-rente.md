@@ -1,7 +1,7 @@
 ---
 title: 'Wie viele Rentenpunkte für 2.000 € Rente? (Tabelle 2025)'
 description: 'Für 2.000 € gesetzliche Rente brauchst du rund 51 Rentenpunkte. Konkrete Tabelle für 1.000 €, 1.500 €, 2.000 €, 2.500 € und 3.000 € Rente — plus Inflations-Realität.'
-pubDate: '2026-06-09'
+pubDate: '2026-05-24'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Rentenpunkte für 2.000 € Rente — Tabelle und Berechnung'
 category: 'Altersvorsorge'

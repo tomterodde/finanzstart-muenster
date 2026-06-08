@@ -67,7 +67,7 @@ Wichtig: Je früher man abschließt, desto günstiger. Wer wartet und im Alter V
 
 ## Krankentagegeld vs. BU-Versicherung
 
-Krankentagegeld deckt vorübergehende Krankheit ab. Die [Berufsunfähigkeitsversicherung](/blog/bu-versicherung-berufseinsteiger-muenster) greift, wenn du dauerhaft nicht mehr arbeiten kannst. Beides ergänzt sich — und eine BU-Versicherung sollte für die meisten Berufstätigen Vorrang haben.
+Krankentagegeld deckt vorübergehende Krankheit ab. Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide) greift, wenn du dauerhaft nicht mehr arbeiten kannst. Beides ergänzt sich — und eine BU-Versicherung sollte für die meisten Berufstätigen Vorrang haben.
 
 ## Fazit
 

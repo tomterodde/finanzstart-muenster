@@ -1,7 +1,7 @@
 ---
 title: 'Rentenpunkte bei Scheidung: Versorgungsausgleich erklärt'
 description: 'Wie viele Rentenpunkte verliert man bei Scheidung? Versorgungsausgleich nach § 1587 BGB einfach erklärt — Berechnung, Ausnahmen und Strategien.'
-pubDate: '2026-06-13'
+pubDate: '2026-05-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Rentenpunkte bei Scheidung — Versorgungsausgleich'
 category: 'Altersvorsorge'

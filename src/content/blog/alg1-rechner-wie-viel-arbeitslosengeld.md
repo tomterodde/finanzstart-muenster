@@ -1,7 +1,7 @@
 ---
 title: 'ALG1-Rechner 2026: Wie viel Arbeitslosengeld bekomme ich?'
 description: 'Wie wird das Arbeitslosengeld 1 berechnet? Formel, Beispielrechnungen, ALG1-Tabelle 2026 nach Brutto und Steuerklasse — mit und ohne Kind.'
-pubDate: '2026-06-16'
+pubDate: '2026-05-31'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Arbeitslosengeld 1 beträgt 60 % des pauschalierten Nettoentgelts (67 % mit Kind). Faustformel: rund 40 bis 45 % vom Bruttogehalt ohne Kind, 45 bis 50 % mit Kind. Das maximale ALG1 liegt 2026 bei rund 2.400 € im Monat (West, ohne Kind), der Anspruch ist durch die Beitragsbemessungsgrenze gedeckelt.'

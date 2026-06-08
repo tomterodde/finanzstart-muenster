@@ -52,7 +52,7 @@ Existiert sie? Wenn ja:
 - Sind Gesundheitsfragen korrekt beantwortet?
 - Laufzeit bis 67?
 
-Wenn nein: Priorität. [Warum BU für Berufseinsteiger so wichtig ist, erklärt dieser Artikel.](/blog/bu-versicherung-berufseinsteiger-muenster)
+Wenn nein: Priorität. [Warum BU für Berufseinsteiger so wichtig ist, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
 
 ### Hausrat- und Wohngebäudeversicherung
 

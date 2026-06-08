@@ -1,7 +1,7 @@
 ---
 title: 'Rentenpunkte für Kindererziehung und Pflege Angehöriger'
 description: 'Mütterrente, Pflegerentenpunkte und Kindererziehungszeiten — wie viele Rentenpunkte du wirklich bekommst und wie du sie korrekt anrechnen lässt.'
-pubDate: '2026-06-12'
+pubDate: '2026-05-27'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Rentenpunkte für Kindererziehung und Pflege'
 category: 'Altersvorsorge'

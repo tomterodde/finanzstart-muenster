@@ -72,7 +72,7 @@ Wenn das Grundgehalt nicht verhandelbar ist: Einmalzahlung, frühere erste Gehal
 
 ## Was viele vergessen: Altersvorsorge und Gehalt hängen zusammen
 
-Höheres Bruttogehalt bedeutet mehr Rentenpunkte — denn die gesetzliche Rente basiert auf dem Verhältnis deines Gehalts zum Durchschnitt. [Wie Rentenpunkte berechnet werden, erklärt dieser Artikel.](/blog/rentenpunkte-berechnen-rente-berufseinsteiger)
+Höheres Bruttogehalt bedeutet mehr Rentenpunkte — denn die gesetzliche Rente basiert auf dem Verhältnis deines Gehalts zum Durchschnitt. [Wie Rentenpunkte berechnet werden, erklärt dieser Artikel.](/blog/rentenpunkte-bei-welchem-gehalt-tabelle)
 
 Außerdem: Wer mehr verdient, kann mehr in bAV, ETF oder private Altersvorsorge investieren. Der Zinseszinseffekt beginnt beim Einstiegsgehalt.
 

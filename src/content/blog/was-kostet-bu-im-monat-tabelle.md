@@ -1,7 +1,7 @@
 ---
 title: 'Was kostet eine Berufsunfähigkeitsversicherung im Monat? (Tabelle 2026)'
 description: 'Was kostet eine BU im Monat? Konkrete Tabelle nach Alter, Beruf und Versicherungssumme — plus Hebel zur Beitragsoptimierung.'
-pubDate: '2026-06-21'
+pubDate: '2026-06-05'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Was kostet eine Berufsunfähigkeitsversicherung im Monat'
 category: 'Einkommenssicherung'

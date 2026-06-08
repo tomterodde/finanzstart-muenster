@@ -1,7 +1,7 @@
 ---
 title: 'Berufsunfähigkeitsversicherung mit 40, 50 oder 60: Noch sinnvoll?'
 description: 'Lohnt sich eine BU mit 40, 50 oder 60 Jahren noch? Konkrete Beitragstabellen je Eintrittsalter, Annahmequoten, sinnvolle Alternativen — und wann der Zug abgefahren ist.'
-pubDate: '2026-06-19'
+pubDate: '2026-06-03'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'BU mit 40, 50 oder 60 Jahren noch sinnvoll'
 category: 'Einkommenssicherung'

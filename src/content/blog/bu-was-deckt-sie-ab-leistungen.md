@@ -1,7 +1,7 @@
 ---
 title: 'Was deckt eine Berufsunfähigkeitsversicherung ab? (Leistungen 2026)'
 description: 'Was leistet eine BU konkret? Wann zahlt sie, wann nicht — und wo liegen die häufigsten Streitpunkte? Klar erklärt mit Statistiken und typischen Fallstricken.'
-pubDate: '2026-06-20'
+pubDate: '2026-06-04'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Was deckt eine Berufsunfähigkeitsversicherung ab — Leistungsumfang'
 category: 'Einkommenssicherung'

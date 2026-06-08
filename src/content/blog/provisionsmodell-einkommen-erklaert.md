@@ -59,7 +59,7 @@ Das ist das Modell, das erfahrene Finanzberater nutzen: Bestandsprovision als Fu
 
 **Unregelmäßiges Einkommen in der Aufbauphase:** Wer neu anfängt, hat noch keinen Bestand. Die ersten Monate können einkommensschwach sein. Das erfordert Rücklagen und Frustrationstoleranz.
 
-**Kein Schutz bei Krankheit oder Pause:** Provisionsbasierte Selbstständige haben keine Lohnfortzahlung. BU-Versicherung und Krankentagegeld sind deshalb besonders wichtig. [Warum das so ist, erklärt dieser Artikel.](/blog/bu-versicherung-berufseinsteiger-muenster)
+**Kein Schutz bei Krankheit oder Pause:** Provisionsbasierte Selbstständige haben keine Lohnfortzahlung. BU-Versicherung und Krankentagegeld sind deshalb besonders wichtig. [Warum das so ist, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
 
 **Abhängigkeit vom Kundenstamm:** Wer Kunden verliert (durch Kündigungen oder schlechte Beratung), verliert Bestandsprovisionen. Kundenbindung ist direkte Einkommenssicherung.
 

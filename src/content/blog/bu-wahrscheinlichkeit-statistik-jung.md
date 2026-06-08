@@ -55,7 +55,7 @@ Die häufigsten Ursachen (Quelle: Branchenberichte der Versicherer):
 
 Das Klischee sagt: Berufsunfähigkeit betrifft Dachdecker und Krankenpfleger. Das stimmt insofern, als körperliche Berufe früher betroffen sind und höhere BU-Prämien zahlen. Aber die absoluten Zahlen zeigen: Kaufleute, IT-Experten, Lehrer, Sozialarbeiter — alle sind substanziell gefährdet.
 
-Besonders Berufseinsteiger unterschätzen das psychische Risiko: hohe Erwartungen, Orientierungsphase, Leistungsdruck, manchmal erste Anzeichen von Burnout in den ersten Berufsjahren. [Was eine BU-Versicherung für Berufseinsteiger kostet und warum ein früher Einstieg günstiger ist, erklärt dieser Artikel.](/blog/bu-versicherung-berufseinsteiger-muenster)
+Besonders Berufseinsteiger unterschätzen das psychische Risiko: hohe Erwartungen, Orientierungsphase, Leistungsdruck, manchmal erste Anzeichen von Burnout in den ersten Berufsjahren. [Was eine BU-Versicherung für Berufseinsteiger kostet und warum ein früher Einstieg günstiger ist, erklärt dieser Artikel.](/blog/was-kostet-bu-im-monat-tabelle)
 
 ## Was die gesetzliche Absicherung leistet — und was nicht
 

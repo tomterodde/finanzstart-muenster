@@ -1,7 +1,7 @@
 ---
 title: 'Krankentagegeld für Selbstständige: Tagegeld richtig wählen'
 description: 'Wie hoch sollte das Krankentagegeld für Selbstständige sein? Karenzzeit, Tagessatz und Beispielrechnung — plus Vergleich von GKV-Wahltarif und PKV-Tarif.'
-pubDate: '2026-06-18'
+pubDate: '2026-06-02'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Selbstständige sollten ihr Krankentagegeld auf 70 bis 80 % des Netto-Einkommens kalibrieren, um Lebenshaltung und laufende Betriebsfixkosten zu decken. Die Karenzzeit (Beginn der Leistung) wird so gewählt, dass sie durch die eigene Liquiditätsreserve gedeckt ist — meist 22 oder 43 Tage. PKV-Tarife sind in der Regel günstiger als GKV-Wahltarife.'

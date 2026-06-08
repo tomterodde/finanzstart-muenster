@@ -1,7 +1,7 @@
 ---
 title: 'BU Nachteile: Was kritisch ist (und für wen sie nicht sinnvoll ist)'
 description: 'Welche Nachteile hat eine Berufsunfähigkeitsversicherung? Hohe Beiträge, Gesundheitsfragen, Ausschlüsse — die ehrliche Analyse plus klare Lösungswege.'
-pubDate: '2026-06-22'
+pubDate: '2026-06-06'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Nachteile der Berufsunfähigkeitsversicherung — kritische Analyse'
 category: 'Einkommenssicherung'

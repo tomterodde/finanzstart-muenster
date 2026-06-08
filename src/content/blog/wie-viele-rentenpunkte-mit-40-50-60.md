@@ -1,7 +1,7 @@
 ---
 title: 'Sind 40 Rentenpunkte viel? Vergleich mit 30, 40, 50 und 60 Jahren'
 description: 'Wie viele Rentenpunkte solltest du mit 30, 40, 50 oder 60 Jahren haben? Konkrete Vergleichswerte, Median nach Alter und was 40 Rentenpunkte real bedeuten.'
-pubDate: '2026-06-10'
+pubDate: '2026-05-25'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Rentenpunkte Vergleich nach Lebensalter'
 category: 'Altersvorsorge'

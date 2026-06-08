@@ -1,7 +1,7 @@
 ---
 title: 'Wie lange ALG1? Bezugsdauer-Tabelle nach Alter und Versicherungszeit'
 description: 'Wie lange wird Arbeitslosengeld 1 gezahlt? Vollständige Tabelle nach Versicherungszeit und Alter — von 6 bis 24 Monaten, plus Sonderregelungen ab 50, 55 und 58.'
-pubDate: '2026-06-17'
+pubDate: '2026-06-01'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die Bezugsdauer des Arbeitslosengeldes 1 hängt von der Versicherungspflichtzeit der letzten 5 Jahre und dem Alter ab. Sie reicht von 6 Monaten (bei 12 Monaten Versicherungszeit) bis 24 Monaten (ab Alter 58 mit 48 Monaten Versicherungszeit). Die Anwartschaft entsteht durch 12 Monate Versicherungspflicht innerhalb der letzten 30 Monate.'

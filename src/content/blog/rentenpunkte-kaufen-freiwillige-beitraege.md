@@ -1,7 +1,7 @@
 ---
 title: 'Rentenpunkte kaufen: Lohnt sich die freiwillige Einzahlung?'
 description: 'Rentenpunkte kaufen über Ausgleichszahlung oder freiwillige Beiträge — Rendite, Steuervorteile und wann es wirklich lohnt im Vergleich zu ETF und privater Vorsorge.'
-pubDate: '2026-06-14'
+pubDate: '2026-05-29'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Rentenpunkte kaufen — Ausgleichszahlung und freiwillige Beiträge'
 category: 'Altersvorsorge'

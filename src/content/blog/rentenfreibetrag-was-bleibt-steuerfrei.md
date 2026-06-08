@@ -1,7 +1,7 @@
 ---
 title: 'Rentenfreibetrag 2026: Was bleibt von der Rente steuerfrei?'
 description: 'Wie hoch ist der Rentenfreibetrag bei Renteneintritt 2026? Tabelle nach Jahr, Berechnung mit Beispiel und welche Bruttorente steuerfrei bleibt.'
-pubDate: '2026-06-11'
+pubDate: '2026-05-26'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Bei Renteneintritt 2026 sind 84 % der Rente steuerpflichtig, 16 % bleiben als Rentenfreibetrag lebenslang steuerfrei. Eine gesetzliche Rente bis rund 1.350 € brutto im Monat bleibt nach Grundfreibetrag und Vorsorgeaufwendungen meist komplett steuerfrei.'

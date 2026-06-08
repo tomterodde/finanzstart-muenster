@@ -1,7 +1,7 @@
 ---
 title: 'Fondsgebundene Rentenversicherung Steuern: So wird sie versteuert'
 description: 'Wie wird eine fondsgebundene Rentenversicherung versteuert? Ansparphase, Kapitalauszahlung und Verrentung — inklusive Halbeinkünfteverfahren und 12+62-Regel.'
-pubDate: '2026-06-15'
+pubDate: '2026-05-30'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
 tldr: 'In der Ansparphase fallen bei einer fondsgebundenen Rentenversicherung keine Steuern auf Erträge an — Umschichtungen im Vertrag sind steuerfrei. Bei Kapitalauszahlung ab Alter 62 und nach 12 Jahren Laufzeit greift das Halbeinkünfteverfahren: nur die Hälfte des Ertrags wird zum persönlichen Steuersatz besteuert. Bei Verrentung wird nur der niedrige Ertragsanteil versteuert.'
