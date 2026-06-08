@@ -85,19 +85,33 @@ Ein sinnvoller Einstieg für Berufseinsteiger könnte sein:
 
 Welche Kombination aus bAV, weiterer privater Vorsorge und staatlich geförderten Produkten für dich optimal ist, lässt sich pauschal nicht sagen. Ein Beratungsgespräch hilft, das auf deine Situation zuzuschneiden.
 
-## Was sind die häufigsten bAV-Varianten?
+## Die 5 Durchführungswege der bAV
 
-In Deutschland gibt es fünf Durchführungswege. In der Praxis begegnen Berufseinsteigern am häufigsten:
+Das Betriebsrentengesetz kennt fünf Wege, über die der Arbeitgeber die Zusage organisiert:
 
-**Direktversicherung** — Der Arbeitgeber schließt eine Lebens- oder Rentenversicherung auf deinen Namen ab. Du profitierst direkt, einfach und transparent. Am verbreitetsten.
+| Durchführungsweg | Wie es funktioniert | Typisch für |
+|---|---|---|
+| **Direktversicherung** | AG schließt Renten-/Lebensversicherung auf deinen Namen ab | kleine und mittlere Betriebe — der häufigste Weg |
+| **Pensionskasse** | externe Versorgungseinrichtung, reguliert wie ein Versicherer | größere Unternehmen, tarifgebundene Branchen |
+| **Pensionsfonds** | externe Einrichtung mit höherer Aktienquote | renditeorientierte Modelle |
+| **Unterstützungskasse** | rechtlich eigenständige Versorgungseinrichtung | höhere Beiträge, Besserverdiener |
+| **Direktzusage** | AG zahlt die Rente später selbst | Konzerne (Insolvenzschutz über PSV) |
 
-**Pensionskasse und Pensionsfonds** — Ähnlich wie die Direktversicherung, aber über externe Einrichtungen. Meist in größeren Unternehmen.
+Für Berufseinsteiger sind in der Praxis vor allem die ersten drei relevant.
 
-**Direktzusage** — Der Arbeitgeber zahlt selbst eine Rente aus. Gängig in Konzernen, aber mit Insolvenzrisiko verbunden (abgesichert über den Pensions-Sicherungs-Verein).
+## Direktversicherung: der häufigste Durchführungsweg
+
+Die Direktversicherung ist der mit Abstand verbreitetste bAV-Weg — vor allem in kleinen und mittleren Unternehmen. Der Arbeitgeber schließt eine Renten- oder Lebensversicherung ab, versicherte Person bist du.
+
+Der Charme: Sie ist einfach, transparent und läuft auf deinen Namen. Die Beiträge fließen per Entgeltumwandlung steuerfrei und (bis 4 % der Beitragsbemessungsgrenze) sozialabgabenfrei ein, der Arbeitgeber-Pflichtzuschuss von 15 % gilt genauso.
+
+Beim Jobwechsel ist die Direktversicherung der portabelste Weg: Du kannst den Vertrag oft privat mit eigenen Beiträgen weiterführen oder — bei Zustimmung beider Arbeitgeber — das Kapital übertragen. Wie das konkret abläuft, steht im Artikel [bAV bei Jobwechsel](/blog/bav-jobwechsel-was-passiert).
 
 ## Vertiefung: Häufige bAV-Fragen
 
+- [Lohnt sich die bAV bei deinem Arbeitgeberzuschuss?](/blog/bav-lohnt-sich-arbeitgeberzuschuss) — Ab welchem Zuschuss sich die Entgeltumwandlung gegenüber einem ETF-Sparplan rechnet.
 - [bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht) — Sechs zentrale Nachteile (Doppelverbeitragung, Rentenpunkt-Verlust, Inflexibilität) ehrlich aufgeschlüsselt.
+- [Betriebsrente auszahlen: Rente, Kapital oder Kombi?](/blog/betriebsrente-auszahlung-optionen) — Welche Auszahlungsform steuerlich und praktisch sinnvoll ist.
 - [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — bAV im direkten Vergleich mit ETF, Riester, Rürup und Rentenversicherung.
 - [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie sich bAV in das Gesamtsystem einordnet.
 
