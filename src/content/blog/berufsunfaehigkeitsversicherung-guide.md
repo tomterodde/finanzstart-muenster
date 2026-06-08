@@ -1,17 +1,17 @@
 ---
 title: 'Berufsunfähigkeitsversicherung: Was du wirklich wissen musst'
-description: 'BU-Versicherung klingt trocken — ist aber eine der wichtigsten Absicherungen überhaupt. Wer sie braucht, wann man abschließt und worauf man achtet.'
+description: 'Berufsunfähigkeitsversicherung: Für wen sie sinnvoll ist, wie hoch die BU-Rente sein sollte, was sie kostet und worauf du beim Abschluss achten musst.'
 pubDate: '2026-04-07'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
-tldr: 'Rund jeder vierte Arbeitnehmer wird vor dem Renteneintritt berufsunfähig — häufigste Ursache sind mit etwa 30 % psychische Erkrankungen. Die gesetzliche Erwerbsminderungsrente liegt im Schnitt bei nur 800–900 € und reicht meist nicht. Eine BU-Rente sollte 60–70 % des Nettoeinkommens abdecken; je früher der Abschluss, desto günstiger und leichter der Zugang.'
+tldr: 'Rund jeder vierte Arbeitnehmer wird vor dem Renteneintritt berufsunfähig — häufigste Ursache sind mit etwa 30 % psychische Erkrankungen. Die gesetzliche Erwerbsminderungsrente liegt im Schnitt bei nur rund 1.000 € und reicht meist nicht. Eine BU-Rente sollte 60–70 % des Nettoeinkommens abdecken; je früher der Abschluss, desto günstiger und leichter der Zugang.'
 faq:
   - question: 'Wie hoch sollte die BU-Rente sein?'
     answer: 'Als Faustregel mindestens 60–70 % des aktuellen Nettoeinkommens, um Miete, Lebenshaltung und Altersvorsorge abzusichern. Für Berufseinsteiger sind 1.500 € monatliche BU-Rente ein typischer Richtwert, der später per Nachversicherungsgarantie erhöht werden sollte.'
   - question: 'Was kostet eine BU-Versicherung für Berufseinsteiger?'
     answer: 'Für eine/n 25-jährige/n Büroangestellte/n mit 1.500 € BU-Rente liegt der Beitrag typischerweise bei 50–90 € monatlich. Handwerker zahlen 100–160 € für den gleichen Schutz, da das Risiko statistisch höher ist.'
   - question: 'Was ist der Unterschied zwischen BU und Erwerbsminderungsrente?'
-    answer: 'Die gesetzliche Erwerbsminderungsrente zahlt erst, wenn du in keinem Beruf mehr mindestens 3 Stunden täglich arbeiten kannst — und liegt im Schnitt bei 800–900 €. Die BU-Versicherung zahlt bereits, wenn du deinen konkreten Beruf voraussichtlich dauerhaft zu mindestens 50 % nicht mehr ausüben kannst.'
+    answer: 'Die gesetzliche Erwerbsminderungsrente zahlt erst, wenn du in keinem Beruf mehr mindestens 3 Stunden täglich arbeiten kannst — und liegt im Schnitt bei rund 1.000 €. Die BU-Versicherung zahlt bereits, wenn du deinen konkreten Beruf voraussichtlich dauerhaft zu mindestens 50 % nicht mehr ausüben kannst.'
   - question: 'Was bedeutet "Verzicht auf abstrakte Verweisung"?'
     answer: 'Ohne diesen Verzicht könnte die Versicherung dich auf einen anderen Beruf verweisen, den du theoretisch noch ausüben könntest — und müsste dann nicht zahlen. Ein guter BU-Tarif verzichtet ausdrücklich auf die abstrakte Verweisung; das ist eines der wichtigsten Vertragsmerkmale überhaupt.'
   - question: 'Warum sollte man die BU früh abschließen?'
@@ -32,7 +32,7 @@ Stell dir vor, du kannst deinen Beruf von heute auf morgen nicht mehr ausüben. 
 
 Für die meisten Menschen: **nichts Gutes.**
 
-Die gesetzliche Erwerbsminderungsrente greift nur unter strengen Voraussetzungen und zahlt im Durchschnitt etwa 800–900 € im Monat. Das reicht in Münster kaum für Miete und Lebenshaltungskosten.
+Die gesetzliche Erwerbsminderungsrente greift nur unter strengen Voraussetzungen und zahlt im Durchschnitt etwa rund 1.000 € im Monat. Das reicht in Münster kaum für Miete und Lebenshaltungskosten.
 
 Die Berufsunfähigkeitsversicherung — kurz BU — schließt genau diese Lücke. Sie ist neben der Rentenvorsorge die wichtigste Absicherung, die du als Berufseinsteiger brauchst.
 
@@ -55,6 +55,24 @@ Laut Statistik wird etwa **jeder vierte Arbeitnehmer** vor dem Rentenalter beruf
 5. **Unfälle** (ca. 9%)
 
 Das trifft nicht nur körperlich arbeitende Menschen. Auch Büroangestellte, Lehrkräfte, Ärzte und IT-Fachleute sind betroffen — gerade im Bereich psychischer Erkrankungen. Wer glaubt, mit einer [privaten Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll) ausreichend abgesichert zu sein, irrt sich: Sie deckt nur die rund 9 % unfallbedingten Fälle ab — die häufigsten BU-Ursachen (Psyche, Krebs, Rücken) leistet sie nicht.
+
+## Ist eine Berufsunfähigkeitsversicherung sinnvoll?
+
+Für die allermeisten Erwerbstätigen: ja. Wer von seinem Gehalt lebt und nicht mehrere Jahresnettogehälter auf der Seite hat, steht ohne BU im Ernstfall vor dem finanziellen Abgrund — die staatliche Auffanglinie liegt im Schnitt bei nur rund 1.000 € brutto.
+
+Besonders sinnvoll ist die BU für:
+
+- **Berufseinsteiger** — junger Eintritt bedeutet niedriger Beitrag plus volle Laufzeit
+- **Selbstständige** — sie haben oft gar keinen Anspruch auf die gesetzliche Erwerbsminderungsrente ([Besonderheiten für Selbstständige](/blog/bu-selbststaendige-besonderheiten))
+- **Akademiker und Fachkräfte** — bei ihnen reißt der Einkommensausfall die größte Lücke
+
+Grenzen gibt es auch: Wer bereits ausgesorgt hat, kurz vor der Rente steht oder als Risikoberuf keinen bezahlbaren Tarif bekommt, für den sieht die Rechnung anders aus. Die ehrliche Gegenseite steht im Artikel [BU-Nachteile: wann sie nicht sinnvoll ist](/blog/bu-nachteile-wann-nicht-sinnvoll). Faustregel: Je stärker du auf dein Arbeitseinkommen angewiesen bist, desto wichtiger ist die BU.
+
+## Berufsunfähigkeitsrente: privat statt gesetzlich
+
+Mit „Berufsunfähigkeitsrente" ist heute die **monatliche Leistung der privaten BU** gemeint — der Betrag, den du im Leistungsfall vertraglich ausgezahlt bekommst. Eine *gesetzliche* Berufsunfähigkeitsrente gibt es seit 2001 nicht mehr; sie wurde durch die [Erwerbsminderungsrente](/blog/erwerbsminderungsrente-was-zahlt-der-staat) ersetzt, die im Schnitt nur rund 1.000 € brutto zahlt und auf *irgendeinen* Beruf verweist.
+
+Genau das ist der Vorteil der privaten BU-Rente: Sie ist vertraglich fixiert (z. B. 1.500 €/Monat), wird unabhängig von deinen Beitragsjahren gezahlt und stellt allein auf deinen zuletzt ausgeübten Beruf ab.
 
 ## Warum früh abschließen?
 
@@ -113,6 +131,9 @@ Körperlich arbeitende Berufe zahlen mehr, da das Risiko statistisch höher ist.
 - [Was kostet eine BU im Monat? Tabelle nach Alter und Beruf](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen plus Optimierungs-Hebel.
 - [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll) — Wann der Zug abgefahren ist und welche Alternativen passen.
 - [BU Nachteile: Die kritische Analyse (und wann sie nicht sinnvoll ist)](/blog/bu-nachteile-wann-nicht-sinnvoll) — Sechs reale Nachteile ehrlich aufgeschlüsselt.
+- [Wie wahrscheinlich ist Berufsunfähigkeit wirklich?](/blog/bu-wahrscheinlichkeit-statistik-jung) — Die Zahlen hinter dem „jeder Vierte" und was das für Junge heißt.
+- [BU bei psychischen Erkrankungen](/blog/bu-psychische-erkrankungen) — Häufigste BU-Ursache, Gesundheitsfragen und worauf du achten musst.
+- [BU im öffentlichen Dienst und für Beamte](/blog/bu-oeffentlicher-dienst-beamte) — Dienstunfähigkeitsklausel und was sie leisten muss.
 
 ## Wenn die BU nicht infrage kommt
 
