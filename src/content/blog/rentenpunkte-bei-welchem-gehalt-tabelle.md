@@ -63,6 +63,23 @@ Das **Durchschnittsentgelt 2025** liegt bei **45.358 € Bruttojahresgehalt**. W
 
 **Annahme:** 40 Beitragsjahre mit konstantem Bruttoeinkommen, aktueller Rentenwert von 39,32 € pro Punkt (Stand 2025), in heutigen Euro ohne Inflation.
 
+## Was ist ein Rentenpunkt wert? Tabelle nach Punktestand
+
+Die zweite wichtige Tabelle dreht die Frage um: Welche Bruttorente ergibt ein bestimmter Punktestand? Ein Rentenpunkt ist 2025 genau **39,32 €** monatliche Bruttorente wert (aktueller Rentenwert). Deine Rente = gesammelte Rentenpunkte × Rentenwert.
+
+| Rentenpunkte | Monatliche Bruttorente (2025) |
+|---:|---:|
+| 10 RP | rund 393 € |
+| 20 RP | rund 786 € |
+| 25 RP | rund 983 € |
+| 30 RP | rund 1.180 € |
+| 35 RP | rund 1.376 € |
+| 40 RP | rund 1.573 € |
+| 45 RP | rund 1.769 € |
+| 50 RP | rund 1.966 € |
+
+Das ist die **Bruttorente** — davon gehen noch Steuern sowie Kranken- und Pflegeversicherung ab. Wie viel netto übrig bleibt, zeigt [Rente versteuern: Steuertabelle für Rentner](/blog/rentenbesteuerung-wie-viel-steuern-auf-rente). Der Rentenwert wird zudem jährlich angepasst (im Schnitt rund +2,4 % p.a.), sodass die Beträge im tatsächlichen Rentenjahr höher liegen.
+
 ## Die Beitragsbemessungsgrenze als Deckel
 
 Die wichtigste Zahl in der Tabelle: **96.600 € Bruttojahresgehalt** — die Beitragsbemessungsgrenze (BBG) 2025 in den alten Bundesländern (8.050 €/Monat). In den neuen Bundesländern gilt seit 2025 dieselbe Grenze nach vollständiger Rechtsangleichung.
