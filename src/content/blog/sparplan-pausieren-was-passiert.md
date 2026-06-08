@@ -1,6 +1,6 @@
 ---
-title: 'Sparplan pausieren: Was passiert — und wann ist es sinnvoll?'
-description: 'Was passiert wenn du deinen ETF-Sparplan pausierst? Wann ist eine Pause sinnvoll und wann solltest du lieber weitermachen?'
+title: 'ETF-Sparplan pausieren: Was passiert? (Trade Republic, Scalable, Comdirect & Co.)'
+description: 'Was passiert, wenn du deinen ETF-Sparplan pausierst oder aussetzt? So geht es Schritt für Schritt bei Trade Republic, Scalable, ING, Comdirect und DKB — und wann eine Pause sinnvoll ist.'
 pubDate: '2026-04-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
@@ -31,11 +31,27 @@ Der Markt fällt 20 %. Oder du hast einen unerwarteten Engpass. Oder du fragst d
 
 Bei einem ETF-Sparplan läuft einfach keine neue Einzahlung — die vorhandenen Anteile bleiben im Depot und entwickeln sich weiter. Keine Kosten, kein Verlust durch die Pause selbst, keine steuerlichen Ereignisse.
 
-Du kannst bei den meisten Brokern jederzeit pausieren und wieder starten — in der Regel per App oder Online-Banking, sofort oder zum nächsten Monat.
+Du kannst bei den meisten Brokern jederzeit pausieren (oft auch „aussetzen" genannt) und wieder starten — in der Regel per App oder Online-Banking, sofort oder zum nächsten Monat.
+
+## So setzt du deinen Sparplan aus — je nach Broker
+
+Das Prinzip ist überall gleich: Sparplan-Übersicht öffnen, betroffenen Plan auswählen, pausieren oder löschen. **Wichtig: Einen Sparplan zu löschen verkauft keine Anteile** — der Bestand bleibt im Depot, du legst später einfach einen neuen an. Die genaue Bezeichnung der Buttons kann je nach App-Version leicht abweichen.
+
+**Trade Republic Sparplan pausieren:** Profil → „Sparpläne" → betroffenen ETF antippen → Rate ändern oder Sparplan löschen. Eine dauerhafte Pause-Funktion gibt es bei Trade Republic nicht — das Löschen ist kostenlos, der Bestand bleibt erhalten, und du startest später einen neuen Sparplan.
+
+**Scalable Capital:** Sparplan-Übersicht → Sparplan auswählen → „Pausieren" oder „Bearbeiten". Scalable bietet eine echte Pausieren-Option, ohne den Plan zu löschen.
+
+**ING:** Wertpapiersparplan im Banking öffnen → „Sparplan aussetzen / ändern". Das Aussetzen einzelner oder mehrerer Ausführungen ist direkt möglich.
+
+**Comdirect Sparplan pausieren:** Sparpläne → betroffenen Plan → „aussetzen" oder „löschen". Das Aussetzen pausiert die nächsten Ausführungen, ohne den Plan zu beenden.
+
+**DKB:** Sparplan-Verwaltung → Plan auswählen → „pausieren / aussetzen".
+
+In jedem Fall gilt: keine Gebühr, kein Verkauf, kein steuerliches Ereignis.
 
 ## Wann eine Pause sinnvoll ist
 
-**Echter finanzieller Engpass:** Wenn du zwischen Notgroschen und Sparplan wählen musst, kommt der Notgroschen zuerst. Eine temporäre Pause, um eine unerwartete Ausgabe zu decken, ist besser als einen Kredit aufzunehmen.
+**Echter finanzieller Engpass:** Wenn du zwischen [Notgroschen](/blog/notgroschen-wo-parken-tagesgeld) und Sparplan wählen musst, kommt der Notgroschen zuerst. Eine temporäre Pause, um eine unerwartete Ausgabe zu decken, ist besser als einen Kredit aufzunehmen.
 
 **Konkrete kurzfristige Ausgabe:** Wenn du in 3 Monaten eine größere Zahlung hast (Kaution, Reparatur), kann es sinnvoll sein, die Sparrate vorübergehend umzuleiten.
 
@@ -43,7 +59,7 @@ Du kannst bei den meisten Brokern jederzeit pausieren und wieder starten — in 
 
 ## Wann eine Pause der falsche Zug ist
 
-**Weil der Markt fällt:** Das ist der häufigste und schlechteste Grund. Fallende Kurse sind beim Sparplan eine Chance — du kaufst mehr Anteile für denselben Betrag. Wer in Crashs pausiert, verpasst günstige Einkaufspreise.
+**Weil der Markt fällt:** Das ist der häufigste und schlechteste Grund. Fallende Kurse sind beim Sparplan eine Chance — du kaufst mehr Anteile für denselben Betrag. Genau das ist der [Cost-Average-Effekt](/blog/cost-average-effekt-erklaert): Wer in Crashs pausiert, verpasst günstige Einkaufspreise. Wie du dich bei einem Markteinbruch richtig verhältst, steht im Detail unter [ETF-Kurseinbruch: Was tun?](/blog/etf-kurseinbruch-was-tun).
 
 Historisch haben Anleger, die in der Krise 2008 oder 2020 weitergezahlt haben, deutlich besser abgeschnitten als jene, die pausiert oder verkauft haben.
 

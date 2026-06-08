@@ -1,7 +1,7 @@
 ---
 title: 'Honorarberatung vs. Provisionsberatung: Was lohnt sich wirklich? (2026)'
 description: 'Honorar- oder Provisionsberatung — welcher Weg passt zu wem? Kosten, Marktanteil, regulatorischer Schutz und die ehrliche Antwort für 90 % der Privathaushalte.'
-pubDate: '2026-06-28'
+pubDate: '2026-05-23'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Honorarberatung vs. Provisionsberatung — Vergleich und Empfehlung 2026'
 category: 'Vermögensaufbau'

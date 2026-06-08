@@ -1,7 +1,7 @@
 ---
 title: 'Private Equity Fonds, ETF und Trade Republic: Welche Wege gibt es 2026?'
 description: 'Wie kann man als Privatanleger in Private Equity investieren? Trade Republic Apollo, PE-ETFs, klassische PE-Fonds und ELTIFs im Vergleich — ehrlich eingeordnet.'
-pubDate: '2026-06-27'
+pubDate: '2026-06-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Private Equity investieren über Fonds, ETF, Trade Republic — Wege im Vergleich'
 category: 'Private Equity'

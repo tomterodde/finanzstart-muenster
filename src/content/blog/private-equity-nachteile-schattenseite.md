@@ -1,7 +1,7 @@
 ---
 title: 'Private Equity Nachteile: Die ehrliche Analyse (und für wen es nicht passt)'
 description: 'Welche Nachteile hat Private Equity? Illiquidität, hohe Kosten, Konzentrationsrisiko — und warum Warren Buffett PE skeptisch sieht. Ehrlich aufgeschlüsselt.'
-pubDate: '2026-06-24'
+pubDate: '2026-05-31'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Private Equity Nachteile und Risiken — ehrliche Analyse'
 category: 'Private Equity'

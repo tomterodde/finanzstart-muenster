@@ -1,7 +1,7 @@
 ---
 title: 'Wie verdienen Private-Equity-Firmen Geld? Das 2/20-Modell erklärt'
 description: 'Wie verdienen PE-Firmen wirklich Geld? Management Fees, Carried Interest, Multiple Arbitrage und Add-on-Strategien — die vier Ertragsquellen einfach erklärt.'
-pubDate: '2026-06-26'
+pubDate: '2026-05-29'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Wie Private-Equity-Firmen Geld verdienen — Geschäftsmodell und Mechanik'
 category: 'Private Equity'

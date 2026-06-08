@@ -1,7 +1,7 @@
 ---
 title: 'Top Private-Equity-Firmen in Deutschland 2026 (Übersicht)'
 description: 'Welche Private-Equity-Firmen sind in Deutschland aktiv? Top-10 deutsche PE-Häuser, internationale Player am DACH-Markt und konkrete Beispiel-Deals.'
-pubDate: '2026-06-25'
+pubDate: '2026-05-30'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Top Private-Equity-Firmen Deutschland — Überblick und Beispiele'
 category: 'Private Equity'

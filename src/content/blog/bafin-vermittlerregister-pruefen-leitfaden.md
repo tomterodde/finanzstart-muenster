@@ -1,7 +1,7 @@
 ---
 title: 'Vermittlerregister prüfen: So checkst du deinen Finanzberater (Schritt-für-Schritt)'
 description: 'Wie prüft man, ob ein Finanzberater oder Versicherungsvermittler zugelassen ist? Schritt-für-Schritt-Anleitung zum DIHK-Vermittlerregister und zur BaFin-Datenbank.'
-pubDate: '2026-07-01'
+pubDate: '2026-05-26'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Vermittlerregister prüfen — Schritt-für-Schritt-Anleitung'
 category: 'Vermögensaufbau'

@@ -1,7 +1,7 @@
 ---
 title: 'Wie finde ich einen guten Finanzberater? Checkliste mit 12 Kriterien'
 description: 'Wie erkennt man einen seriösen Finanzberater? Die 12 wichtigsten Qualitätskriterien, kritische Fragen für den ersten Termin und Red Flags, die du sofort erkennen solltest.'
-pubDate: '2026-06-30'
+pubDate: '2026-05-25'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Wie finde ich einen guten Finanzberater — Checkliste und Kriterien'
 category: 'Vermögensaufbau'
