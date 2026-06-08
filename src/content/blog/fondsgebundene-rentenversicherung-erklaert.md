@@ -47,6 +47,14 @@ Bei Auszahlung im Rentenalter (ab 62 Jahren, nach mindestens 12 Jahren Laufzeit)
 
 Das kann attraktiv sein — besonders wenn der Steuersatz im Rentenalter unter 25 % (Abgeltungssteuer) liegt.
 
+## Der eigentliche Kern: die lebenslange Rente
+
+Bei aller ETF-Diskussion geht der wichtigste Punkt oft unter: Eine fondsgebundene Rentenversicherung ist in erster Linie ein **Verrentungsinstrument**, kein reines Anlageprodukt.
+
+Im Vertrag steckt ein **garantierter Rentenfaktor** — er legt fest, wie viel lebenslange Monatsrente du je 10.000 € Kapital bekommst, unabhängig davon, wie alt du wirst. Damit sichert die Police ein Risiko ab, das ein ETF-Depot strukturell nicht kann: das **Langlebigkeitsrisiko**. Wer mit 67 in Rente geht und 100 wird, bekommt 33 Jahre lang Geld — auch wenn das Kapital rechnerisch längst aufgebraucht wäre.
+
+Genau deshalb ist der verbreitete Vergleich „Fondspolice-Rendite gegen ETF-Rendite" methodisch unfair: Er stellt ein Anlageprodukt einem Produkt gegenüber, das zusätzlich eine lebenslange Rentengarantie und Pfändungsschutz enthält. Du entscheidest dich nicht nur für eine Renditezahl, sondern für planbare, lebenslange Auszahlung.
+
 ## Die Kosten: Das Hauptgegenargument
 
 Hier liegt der Haken. Fondspolicen haben mehrere Kostenschichten:
@@ -57,6 +65,22 @@ Hier liegt der Haken. Fondspolicen haben mehrere Kostenschichten:
 - **Risikokosten:** Für den eingeschlossenen Todesfallschutz
 
 Insgesamt können die Gesamtkosten bei ungünstigen Tarifen 1–2 % p.a. betragen — deutlich mehr als ein ETF-Sparplan mit 0,1–0,2 % Gesamtkosten.
+
+## Fondspolice und ETF-Sparplan: alle Dimensionen
+
+Ein fairer Vergleich betrachtet nicht nur die Rendite, sondern alle Eigenschaften:
+
+| Dimension | Fondspolice | ETF-Sparplan |
+|---|---|---|
+| Renditechance | fondsbasiert, minus ~1–2 % Kosten (Provisionstarif) bzw. ~0,5 % (Nettotarif) | fondsbasiert, ~0,1–0,2 % Kosten |
+| Steuer Ansparphase | steuerfrei, voller Zinseszins | Vorabpauschale + Steuer bei Umschichtung |
+| Steuer Auszahlung | Halbeinkünfteverfahren ab 62/12 Jahre | Abgeltungssteuer 26,375 % |
+| Lebenslange Rentengarantie | ja (garantierter Rentenfaktor) | nein — Entnahme auf eigenes Risiko |
+| Langlebigkeitsschutz | ja | nein |
+| Flexibilität / Zugriff | eingeschränkt (Kündigung kostet) | jederzeit |
+| Pfändungsschutz | teilweise | nein |
+
+Die Tabelle zeigt: Rendite ist nur eine von sieben Dimensionen. Wer ausschließlich auf die Kosten schaut, übersieht die Garantie- und Verrentungskomponente — wer nur auf die Garantie schaut, übersieht die Renditebremse durch hohe Provisionstarife. Wie der reine Rendite-Steuer-Vergleich im Detail ausgeht, zeigt der Artikel [Private Rentenversicherung vs. ETF](/blog/private-rentenversicherung-vs-etf).
 
 ## Wann kann sie sich trotzdem lohnen?
 
@@ -73,6 +97,12 @@ Die Fondspolice kann besser sein als ein ETF-Depot, wenn:
 - Bei hohen Abschlusskosten (klassische Provisionstarife)
 - Wenn du im Rentenalter einen hohen Steuersatz haben wirst
 - Wenn du maximale Flexibilität brauchst (Kündigung kostet)
+
+## Vertiefung
+
+- [Fondsgebundene Rentenversicherung: Steuern und Versteuerung](/blog/fondsgebundene-rentenversicherung-steuern-versteuerung) — Halbeinkünfteverfahren, Vorabpauschale und Auszahlung im Detail gerechnet.
+- [Private Rentenversicherung vs. ETF](/blog/private-rentenversicherung-vs-etf) — Der direkte Rendite- und Steuervergleich beider Wege.
+- [Die 3 Säulen der Altersvorsorge](/blog/drei-saeulen-altersvorsorge-erklaert) — Wo die Fondspolice in das Gesamtsystem gehört.
 
 ## Fazit
 
