@@ -1,6 +1,6 @@
 ---
 title: 'Krankentagegeld: Wann du es brauchst — und wann nicht'
-description: 'Krankentagegeld schließt die Lücke nach der 6-Wochen-Lohnfortzahlung. Wer es braucht, was es kostet, und wo die Fallen sind.'
+description: 'Krankentagegeldversicherung: Was sie ist, wer sie braucht, was sie kostet und wo die Fallen liegen. Sie schließt die Lücke nach der 6-Wochen-Lohnfortzahlung.'
 pubDate: '2026-05-05'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
@@ -30,6 +30,14 @@ sources:
 
 Nach sechs Wochen Krankheit hört die Lohnfortzahlung des Arbeitgebers auf. Was dann kommt, ist Krankengeld von der gesetzlichen Krankenversicherung — und das ist deutlich weniger als das Nettogehalt. Für viele Angestellte ist das kein Problem, für andere schon. Krankentagegeld schließt diese Lücke.
 
+## Was ist eine Krankentagegeldversicherung?
+
+Eine Krankentagegeldversicherung zahlt dir bei längerer Arbeitsunfähigkeit einen vorab vereinbarten Tagessatz und schließt so die Lücke zwischen dem gesetzlichen Krankengeld und deinem vollen Nettoeinkommen.
+
+Sie greift ab einem frei wählbaren Karenztag (z. B. ab Tag 43, wenn das Krankengeld einsetzt), zahlt steuerfrei (§ 3 Nr. 1a EStG) und läuft, bis du wieder arbeitsfähig bist oder die vertragliche Höchstdauer erreicht ist.
+
+Wichtig zur Einordnung: Sie deckt nur *vorübergehende* Krankheit — sie ist die zweite Säule der Einkommenssicherung, nicht ihr Kern. Der Kern bleibt die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide).
+
 ## Was passiert nach 6 Wochen Krankheit?
 
 Nach der Lohnfortzahlung (42 Tage) springt die gesetzliche Krankenversicherung ein:
@@ -48,14 +56,23 @@ Laufende Kosten bleiben: Miete, Lebensmittel, Versicherungen, ggf. Kreditrate. 7
 
 **Für Freiberufler ohne Rücklagen:** Ähnlich wie Selbstständige — ohne Puffer und ohne Tagegeld droht bei längerer Erkrankung schnell eine finanzielle Schieflage.
 
-## Was kostet Krankentagegeld?
+## Was kostet eine Krankentagegeldversicherung?
 
-Die Kosten hängen von Eintrittsalter, Tagessatz und Wartezeit ab:
+Die Prämie hängt von Eintrittsalter, Berufsrisikogruppe, Tagessatz und Karenzzeit ab. Richtwerte 2026:
 
-- Angestellter, 28 Jahre, 30 Euro/Tag ab 43. Tag: ca. **15–25 Euro/Monat**
-- Selbstständiger, 30 Jahre, 80 Euro/Tag ab 1. Tag: ca. **60–100 Euro/Monat**
+| Profil | Tagessatz | Leistung ab | Beitrag/Monat |
+|---|---|---|---|
+| Angestellte/r Innendienst, 28 J. | 30 € | Tag 43 | ~15–25 € |
+| Angestellte/r, 35 J. | 50 € | Tag 43 | ~25–45 € |
+| Selbstständige/r (Büro), 30 J. | 80 € | Tag 15 | ~50–85 € |
+| Selbstständige/r, 30 J. | 100 € | Tag 1 | ~80–130 € |
+| Handwerker/in, 30 J. | 100 € | Tag 1 | ~130–200 € |
 
-Wichtig: Je früher man abschließt, desto günstiger. Wer wartet und im Alter Vorerkrankungen hat, zahlt mehr oder wird abgelehnt.
+Je früher du abschließt, desto günstiger — und desto eher bekommst du überhaupt einen Vertrag ohne Risikozuschläge oder Ausschlüsse.
+
+### Wie hoch sollte der Tagessatz sein?
+
+Faustformel: **(Nettoeinkommen − Krankengeld) ÷ 30 = Tagessatz-Bedarf.** Bei 2.500 € Netto und rund 1.800 € Krankengeld bleibt eine Lücke von etwa 700 €/Monat — also rund **23 € Tagessatz**. Mehr als 90 % deines Nettos darfst du nicht absichern (Überversicherungsverbot, § 74 VVG), sonst kürzt der Versicherer im Leistungsfall.
 
 ## Wo liegen die Fallen?
 
@@ -68,6 +85,12 @@ Wichtig: Je früher man abschließt, desto günstiger. Wer wartet und im Alter V
 ## Krankentagegeld vs. BU-Versicherung
 
 Krankentagegeld deckt vorübergehende Krankheit ab. Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide) greift, wenn du dauerhaft nicht mehr arbeiten kannst. Beides ergänzt sich — und eine BU-Versicherung sollte für die meisten Berufstätigen Vorrang haben.
+
+## Vertiefung
+
+- [Krankengeld vs. Krankentagegeld: die Lücke bei langer Krankheit](/blog/krankentagegeld-krankengeld-luecke) — Wie lange das Krankengeld läuft (78 Wochen), wie hoch es ausfällt und was nach der Aussteuerung kommt.
+- [Krankengeld für Selbstständige: die gefährliche Lücke](/blog/krankengeld-selbststaendige-luecke) — Warum Selbstständige ohne Wahltarif ab Tag 1 leer ausgehen.
+- [Krankentagegeld für Selbstständige richtig wählen](/blog/krankengeld-selbststaendige-tagegeld-richtig-waehlen) — Tagessatz und Karenzzeit kalibrieren, GKV-Wahltarif vs. PKV im Vergleich.
 
 ## Fazit
 
