@@ -1,6 +1,6 @@
 ---
-title: 'Rentenbesteuerung: Wie viel Steuern zahlst du auf deine Rente?'
-description: 'Rente ist nicht steuerfrei. Wie wird die gesetzliche Rente besteuert, wie hoch ist der steuerpflichtige Anteil — und was bedeutet das für die Planung?'
+title: 'Rente versteuern: Steuertabelle für Rentner 2025 — wie viel Steuern zahlst du?'
+description: 'Wie viel Steuern zahlst du auf die Rente? Steuertabelle für Rentner 2025 nach Rentenhöhe, der steuerpflichtige Anteil, KV/PV-Abzüge und wie du deine Nettorente berechnest.'
 pubDate: '2026-04-20'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
@@ -27,61 +27,98 @@ sources:
 
 Viele Menschen gehen davon aus, dass die Rente steuerfrei ist. Das war früher teilweise richtig — heute nicht mehr. Seit 2005 wird die gesetzliche Rente schrittweise vollständig besteuert. Wer das in der Altersvorsorge-Planung ignoriert, unterschätzt die tatsächliche Steuerlast im Alter.
 
-## Das Prinzip: Nachgelagerte Besteuerung
+Die wichtigste Frage zuerst: Wie viel bleibt von welcher Bruttorente netto übrig?
 
-Das deutsche Steuersystem stellt die Altersvorsorge auf nachgelagerte Besteuerung um. Das bedeutet:
+## Steuertabelle für Rentner 2025: Wie viel Steuern auf die Rente?
 
-- **Einzahlphase:** Beiträge zur gesetzlichen Rentenversicherung sind (zunehmend) steuerlich absetzbar
-- **Auszahlphase:** Die Rente wird besteuert
+Die folgende Tabelle zeigt für verschiedene Rentenhöhen, wie viel Einkommensteuer anfällt und was nach Steuern und Sozialabgaben netto bleibt — bei Renteneintritt 2025.
 
-Das klingt fair — und ist es auch meistens. Aber die Übergangsphase schafft Komplexität.
+| Bruttorente (mtl.) | Steuerpflichtig (Jahr) | Einkommensteuer (Jahr) | KV + PV (mtl.) | ≈ Nettorente (mtl.) |
+|---|---|---|---|---|
+| 1.000 € | 10.020 € | 0 € | ~81 € | ~919 € |
+| 1.200 € | 12.024 € | 0 € | ~97 € | ~1.103 € |
+| 1.400 € | 14.028 € | ~60 € | ~113 € | ~1.282 € |
+| 1.600 € | 16.032 € | ~360 € | ~130 € | ~1.440 € |
+| 1.800 € | 18.036 € | ~720 € | ~146 € | ~1.594 € |
+| 2.000 € | 20.040 € | ~1.140 € | ~162 € | ~1.743 € |
+| 2.500 € | 25.050 € | ~2.270 € | ~203 € | ~2.108 € |
 
-## Der steuerpflichtige Rentenanteil: Jahr des Renteneintritts entscheidet
+**Annahmen:** Renteneintritt 2025 (steuerpflichtiger Anteil 83,5 %), alleinstehend, gesetzlich krankenversichert (KVdR), keine Kirchensteuer, keine weiteren Einkünfte. Alle Werte gerundet. Der exakte Betrag kommt aus dem offiziellen [BMF-Steuerrechner](https://www.bmf-steuerrechner.de) — diese Tabelle dient der Orientierung.
 
-Wer 2005 in Rente gegangen ist, musste nur 50 % seiner Rente versteuern. Seitdem steigt der steuerpflichtige Anteil jährlich um 1–2 Prozentpunkte.
+Zwei Dinge fallen auf: Bis etwa **1.300 € Bruttorente** zahlt ein alleinstehender Rentner 2025 noch gar keine Einkommensteuer. Und der größere Abzug ist bei kleinen Renten nicht die Steuer, sondern die Sozialabgaben (KV/PV).
+
+## Wie die Rente besteuert wird: nachgelagerte Besteuerung
+
+Das deutsche Steuersystem stellt die Altersvorsorge auf nachgelagerte Besteuerung um: In der Einzahlphase sind die Beiträge zur Rentenversicherung (zunehmend) steuerlich absetzbar, dafür wird in der Auszahlphase die Rente besteuert (§ 22 Nr. 1 EStG).
+
+Das klingt fair — und ist es meistens auch. Aber die Übergangsphase seit 2005 schafft die eigentliche Komplexität: Wie viel deiner Rente steuerpflichtig ist, hängt vom Jahr deines Renteneintritts ab.
+
+## Der steuerpflichtige Rentenanteil: dein Renteneintrittsjahr entscheidet
+
+Wer 2005 in Rente ging, musste nur 50 % seiner Rente versteuern. Seitdem steigt der steuerpflichtige Anteil jährlich — durch das Wachstumschancengesetz (2024) seit 2023 nur noch um 0,5 Prozentpunkte pro Jahr.
 
 | Renteneintritt | Steuerpflichtiger Anteil |
 |---|---|
 | 2005 | 50 % |
 | 2020 | 80 % |
 | 2025 | 83,5 % |
-| 2040 | 100 % |
+| 2030 | 88 % |
+| 2040 | 96 % |
 | ab 2058 | 100 % |
 
-Wer 2025 in Rente geht: 83,5 % der Rente sind steuerpflichtig. Der restliche Anteil (16,5 %) bleibt dauerhaft steuerfrei — als fester Euro-Betrag, nicht als Prozentsatz.
+Wer 2025 in Rente geht, versteuert 83,5 % der Rente. Der restliche Anteil (16,5 %) bleibt dauerhaft steuerfrei — und zwar als **fester Euro-Betrag**, der im Jahr nach dem Renteneintritt fixiert wird und lebenslang gilt. Spätere Rentenerhöhungen sind voll steuerpflichtig. Wie dieser Freibetrag genau berechnet wird und welche Bruttorente komplett steuerfrei bleibt, steht im Detail unter [Rentenfreibetrag: Was bleibt von der Rente steuerfrei?](/blog/rentenfreibetrag-was-bleibt-steuerfrei).
 
-## Wie viel Steuern fallen tatsächlich an?
+## Ab welcher Rente musst du Steuern zahlen?
 
-Ob du Steuern zahlst, hängt davon ab, ob dein zu versteuerndes Einkommen (inkl. Rente) den Grundfreibetrag übersteigt.
+Steuern fallen erst an, wenn dein **zu versteuerndes Einkommen** den Grundfreibetrag übersteigt — 2025 sind das **12.096 €** (Alleinstehende) bzw. 24.192 € (Verheiratete, Zusammenveranlagung).
 
-Grundfreibetrag 2025: **12.096 Euro** (Einzelperson).
+Entscheidend ist: Nicht die Bruttorente zählt, sondern nur der steuerpflichtige Anteil — und davon gehen noch Pauschalen und deine KV/PV-Beiträge ab. Faustregel 2025: Reine GRV-Bezieher unter **rund 1.300 € Bruttorente/Monat** bleiben meist steuerfrei, über 1.500 € entsteht fast immer eine Steuerpflicht.
 
-Beispiel: Rente 1.400 Euro/Monat = 16.800 Euro/Jahr.
-Steuerpflichtiger Anteil (83,5 %): 14.028 Euro.
-Abzüglich Werbungskostenpauschale (102 Euro) und Sonderausgabenpauschale (36 Euro): ~13.890 Euro zu versteuerndes Einkommen.
-→ Über dem Grundfreibetrag → Steuern fallen an, aber nur auf den Differenzbetrag (~1.794 Euro) → ca. 270 Euro Jahressteuer.
+Der Haken: Sobald **weitere Einkünfte** dazukommen — Betriebsrente, private Rente, Mieteinnahmen oder Kapitalerträge — rutschst du schnell über den Grundfreibetrag, und dann wird auch die gesetzliche Rente anteilig steuerwirksam.
 
-Bei 1.200 Euro Monatsrente: oft unter dem Grundfreibetrag → keine Steuern.
+## Rente versteuern: So rechnest du dein zu versteuerndes Einkommen aus
 
-## Kirchensteuer und Krankenversicherung
+Am Beispiel einer Bruttorente von 1.600 €/Monat (Renteneintritt 2025, alleinstehend):
 
-Zusätzlich zur Einkommensteuer zahlen Rentner:
-- **Krankenversicherungsbeitrag:** ca. 7,3 % + Zusatzbeitrag (ca. 8 % gesamt)
-- **Pflegeversicherung:** 1,7–2,4 % je nach Kinderzahl
+1. **Jahresbruttorente:** 1.600 € × 12 = 19.200 €
+2. **Steuerpflichtiger Anteil (83,5 %):** 16.032 €
+3. **− Werbungskostenpauschale** (§ 9a EStG): 102 €
+4. **− Sonderausgaben-Pauschbetrag:** 36 €
+5. **− KV/PV-Beiträge** (als Vorsorgeaufwand absetzbar): ca. 1.555 €
+6. **= zu versteuerndes Einkommen:** ca. 14.339 €
 
-Das zieht nochmals 9–11 % von der Bruttorente ab — vor den Einkommensteuern.
+Über dem Grundfreibetrag liegen davon 2.243 € — darauf fällt im Eingangssteuersatz (ab 14 %) progressiv Einkommensteuer an, hier rund **360 € im Jahr**. Den exakten Betrag liefert der BMF-Steuerrechner.
 
-## Was das für die Planung bedeutet
+## Was von der Bruttorente noch abgeht: KV, PV und Kirchensteuer
 
-Wer seine Rentenlücke berechnet, sollte nicht mit der Bruttorente rechnen, sondern mit der Nettorente nach Steuern und Sozialabgaben. Das macht die Lücke oft größer als gedacht.
+Vor der Einkommensteuer zieht die Sozialversicherung ab. Auf die gesetzliche Rente zahlst du:
 
-[Wie du deine Rentenlücke selbst berechnest — Formel, Tabelle nach Bruttogehalt und kostenloser Rechner.](/blog/rentenluecke-berechnen-schliessen)
+- **Krankenversicherung (KVdR, § 226 SGB V):** ca. 4,5 % — den allgemeinen Satz (7,3 %) plus halben Zusatzbeitrag teilst du dir mit der Rentenversicherung
+- **Pflegeversicherung:** 3,6 % (kinderlose Rentner: 4,2 %) — trägst du allein, ohne Zuschuss
 
-Private und betriebliche Altersvorsorge ist ebenfalls steuerpflichtig — mit unterschiedlichen Regeln je nach Produkt. Das macht die Gesamtplanung komplex und individuell verschieden.
+Zusammen rund **8,1 % der Bruttorente**. Wichtig: Auf eine **bAV-Auszahlung oder private Versorgungsbezüge** zahlst du KV/PV nicht zur Hälfte, sondern den **vollen Satz (ca. 9 % + 3,6 %)** — nur ein Freibetrag von 187,25 €/Monat (2025) bleibt frei.
+
+Dazu kann **Kirchensteuer** kommen: 8 % der Einkommensteuer (Bayern, Baden-Württemberg) bzw. 9 % (übrige Bundesländer) — nur auf die tatsächlich gezahlte Einkommensteuer, nicht auf die Rente selbst.
+
+## Private Rente, Riester und bAV werden anders besteuert
+
+Die gesetzliche Rente ist nur ein Baustein. Andere Vorsorgeformen folgen eigenen Regeln:
+
+- **Klassische/fondsgebundene private Rentenversicherung:** günstige Ertragsanteilsbesteuerung — bei Rentenbeginn mit 67 sind nur 17 % der Rente steuerpflichtig. Details: [Fondsgebundene Rentenversicherung & Steuern](/blog/fondsgebundene-rentenversicherung-steuern-versteuerung).
+- **Riester-Rente:** voll nachgelagert (100 % steuerpflichtig) — als Gegenstück zur vollen Förderung in der Ansparphase.
+- **Betriebliche Altersvorsorge (bAV):** in der Auszahlung voll steuer- **und** KV/PV-pflichtig. Das ist in der Planung einzukalkulieren — heißt aber nicht, dass sich bAV nicht lohnt: Bei gutem Arbeitgeberzuschuss und Steuerersparnis in der Ansparphase kann die Gesamtbilanz trotzdem positiv sein. Welche Auszahlungsform sinnvoll ist, zeigt [Betriebsrente: Einmalzahlung oder monatliche Rente?](/blog/betriebsrente-auszahlung-optionen).
+
+Die Mischung verschiedener Vorsorgeformen ist also nicht nur eine Rendite-, sondern auch eine Steuerfrage — und die optimale Kombination ist individuell sehr verschieden.
+
+## Was das für deine Planung bedeutet
+
+Wer seine Rentenlücke berechnet, sollte nie mit der Bruttorente rechnen, sondern mit der **Nettorente nach Steuern und Sozialabgaben**. Wie die Steuertabelle oben zeigt, sind das je nach Rentenhöhe nur **75–92 %** der Bruttorente — die Lücke ist also oft größer als gedacht.
+
+[Wie du deine Rentenlücke selbst berechnest — Formel, Tabelle nach Bruttogehalt und kostenloser Rechner.](/blog/rentenluecke-berechnen-schliessen) Und wie die Rente überhaupt zustande kommt, erklärt [Rentenpunkte: Wie die gesetzliche Rente berechnet wird](/blog/rentenpunkte-gesetzliche-rente-erklaert).
 
 ## Fazit
 
-Rente wird besteuert — wie viel, hängt vom Eintrittsjahr und der Rentenhöhe ab. Wer heute plant, sollte die Nettorente im Blick haben und die Steuerlast realistisch einkalkulieren. Was das konkret für deine Altersvorsorgestrategie bedeutet, lässt sich am besten individuell durchrechnen.
+Rente wird besteuert — wie viel, hängt vom Eintrittsjahr, der Rentenhöhe und vor allem von deinen weiteren Einkünften ab. Bis rund 1.300 € reine GRV-Rente bleibst du 2025 steuerfrei; darüber wächst die Last progressiv. Wer heute plant, sollte mit der Nettorente rechnen und die Steuerlast realistisch einkalkulieren. Welche Vorsorge-Kombination in deinem Fall steuerlich am günstigsten ist, hängt von Steuersituation, Familienstand und weiteren Einkünften ab — das lässt sich nur individuell sauber durchrechnen.
 
 ---
 
