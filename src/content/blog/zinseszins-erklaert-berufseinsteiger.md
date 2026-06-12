@@ -29,6 +29,8 @@ Das klingt nach wenig. Über 30 Jahre wird daraus einer der größten Unterschie
 
 Zinseszins ist das Prinzip, bei dem du nicht nur auf dein eingesetztes Kapital Zinsen bekommst, sondern auch auf die bereits angesammelten Zinsen. Es ist kein Trick, keine Renditeversprechen — nur Mathematik. Und die Mathematik ist brutal gut, wenn du früh anfängst.
 
+> 🧮 **Selbst ausprobieren:** Der [Sparplan-Rechner](/sparplan-rechner/) zeigt dir in 60 Sekunden, was aus deiner monatlichen Sparrate mit Zinseszins wird.
+
 ## Was genau ist Zinseszins?
 
 Einfache Zinsen: Du legst 1.000 Euro an, bekommst jedes Jahr 5 % — also jedes Jahr 50 Euro. Nach 10 Jahren: 1.500 Euro.

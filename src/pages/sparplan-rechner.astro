@@ -1,0 +1,596 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead
+			title="Sparplan-Rechner — Was wird aus deiner monatlichen Sparrate?"
+			description="Kostenloser Sparplanrechner mit Zinseszins: Berechne in 60 Sekunden, was aus deiner monatlichen Sparrate wird — inkl. Einzahlungen, Erträgen und Steuer-Schätzung."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<p class="label">Kostenlos & anonym</p>
+				<h1>Sparplan-Rechner</h1>
+				<p class="subtitle">
+					In 60 Sekunden erfährst du, was aus deiner monatlichen Sparrate über die Jahre wird — mit Zinseszins, Ertragsübersicht und vereinfachter Steuer-Schätzung.
+				</p>
+			</div>
+
+			<!-- Step 1: Input -->
+			<div id="step-input" class="card">
+				<h2>Deine Angaben</h2>
+
+				<div class="field">
+					<label for="start-range">Startkapital (optional)</label>
+					<div class="input-row">
+						<input type="range" id="start-range" min="0" max="100000" step="500" value="0" />
+						<span class="input-display"><span id="start-val">0</span> €</span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label for="rate-range">Monatliche Sparrate</label>
+					<div class="input-row">
+						<input type="range" id="rate-range" min="25" max="2000" step="25" value="150" />
+						<span class="input-display"><span id="rate-val">150</span> €/Monat</span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label for="jahre-range">Anlagedauer</label>
+					<div class="input-row">
+						<input type="range" id="jahre-range" min="1" max="45" value="20" />
+						<span class="input-display"><span id="jahre-val">20</span> Jahre</span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label for="rendite-range">Erwartete Rendite pro Jahr</label>
+					<p class="field-hint">Zur Einordnung: weltweite Aktien-ETF historisch ~6–8 % p.a. vor Steuern, Tagesgeld deutlich darunter</p>
+					<div class="input-row">
+						<input type="range" id="rendite-range" min="0" max="12" step="0.5" value="6" />
+						<span class="input-display"><span id="rendite-val">6</span> % p.a.</span>
+					</div>
+				</div>
+
+				<button id="calc-btn" class="btn-primary">Endkapital berechnen</button>
+			</div>
+
+			<!-- Step 2: Results -->
+			<div id="step-result" class="card hidden">
+				<h2>Dein Ergebnis</h2>
+
+				<div class="sparrate-box">
+					<p class="sparrate-label">Endkapital nach <span id="res-jahre">–</span> Jahren</p>
+					<p class="sparrate-value" id="res-endkapital">–</p>
+					<p class="sparrate-note" id="res-params">–</p>
+				</div>
+
+				<div class="result-grid">
+					<div class="result-box">
+						<p class="result-label">Eingezahlt insgesamt</p>
+						<p class="result-value" id="res-einzahlung">–</p>
+						<p class="result-note">Startkapital + alle Sparraten</p>
+					</div>
+					<div class="result-box highlight">
+						<p class="result-label">Erträge durch Zinseszins</p>
+						<p class="result-value" id="res-ertrag">–</p>
+						<p class="result-note" id="res-ertrag-anteil">–</p>
+					</div>
+					<div class="result-box">
+						<p class="result-label">Steuer bei Verkauf (vereinfacht)</p>
+						<p class="result-value" id="res-steuer">–</p>
+						<p class="result-note">Abgeltungsteuer 26,375 % auf 70 % der Erträge (Aktien-ETF mit Teilfreistellung, ohne Sparerpauschbetrag)</p>
+					</div>
+					<div class="result-box">
+						<p class="result-label">Endkapital nach Steuern</p>
+						<p class="result-value" id="res-netto">–</p>
+						<p class="result-note">Bei Komplett-Verkauf am Ende der Laufzeit</p>
+					</div>
+				</div>
+
+				<div class="disclaimer-calc">
+					Diese Berechnung ist eine vereinfachte Modellrechnung mit konstanter Rendite und monatlicher Verzinsung — reale Märkte schwanken, Renditen sind nicht garantiert. Vorabpauschale, Sparerpauschbetrag (1.000 €/Jahr), Fondskosten und Inflation sind nicht berücksichtigt. Keine Anlageberatung.
+				</div>
+
+				<div class="cta-box">
+					<p class="cta-label">Nächster Schritt</p>
+					<h3>Sparplan ist ein Baustein — nicht der ganze Plan</h3>
+					<p class="cta-sub">
+						Hol dir die kostenlose Finanzcheck-Checkliste: 20 Fragen zu Liquidität, Versicherungen, Steuern, Altersvorsorge und Einkommen — damit dein Sparplan auf einem stabilen Fundament steht.
+					</p>
+					<form
+						action="https://app.kit.com/forms/9299804/subscriptions"
+						method="post"
+						class="cta-form"
+					>
+						<input
+							type="email"
+							name="email_address"
+							placeholder="deine@email.de"
+							required
+							aria-label="E-Mail-Adresse"
+						/>
+						<input type="hidden" name="fields[quelle]" value="sparplan-rechner" />
+						<button type="submit" class="btn-primary">Checkliste per E-Mail erhalten</button>
+					</form>
+					<p class="cta-privacy">Kein Spam. Jederzeit abmeldbar.</p>
+
+					<div class="or-divider">oder</div>
+					<a href="/finanzcheck/" class="btn-secondary" target="_blank">Checkliste direkt öffnen →</a>
+
+					<div class="call-cta">
+						<p class="call-cta-text">Lieber direkt über deine Sparstrategie sprechen?</p>
+						<a
+							href="https://outlook.office.com/bookwithme/user/f7d184a8790c451390cda05ae8b3fb18@tecis.de/meetingtype/cdie9Hia-EulszcibmFVfQ2?bookingcode=d1927a5d-5856-470c-894c-a255316c0f36&anonymous&ismsaljsauthenabled&ep=mlink&utm_source=blog&utm_medium=rechner&utm_campaign=sparplan"
+							class="btn-primary"
+							target="_blank"
+							rel="noopener"
+						>15-Min-Kennenlernen buchen →</a>
+						<p class="cta-privacy">Kostenlos & unverbindlich. Du wählst den Termin.</p>
+					</div>
+				</div>
+
+				<button id="reset-btn" class="btn-ghost">← Neu berechnen</button>
+			</div>
+
+			<!-- SEO / Erklärung -->
+			<section class="seo-section">
+				<h2>So rechnet dieser Sparplanrechner</h2>
+				<p>
+					Der Rechner verzinst dein Startkapital und jede monatliche Rate mit der angegebenen Jahresrendite (monatliche Verzinsung). Der entscheidende Effekt ist der <strong>Zinseszins</strong>: Erträge erwirtschaften selbst wieder Erträge — je länger die Laufzeit, desto größer wird der Ertragsanteil im Vergleich zu deinen Einzahlungen. Bei 150 € monatlich und 6 % Rendite stammen nach 20 Jahren bereits knapp die Hälfte des Endkapitals (rund 33.000 € von 69.000 €) aus Erträgen, nicht aus Einzahlungen.
+				</p>
+				<p>
+					Wichtig für die Einordnung: Ein Sparplan ist ein <strong>Anlageinstrument</strong> — er ersetzt keine Altersvorsorge-Strategie mit Garantien und lebenslanger Rente, sondern ergänzt sie. <a href="/blog/beste-altersvorsorge-vergleich-2026/">Wie sich Sparplan, Riester, bAV und fondsgebundene Privatrente kombinieren, liest du hier.</a>
+				</p>
+				<p>
+					Die Grundlagen im Detail: <a href="/blog/zinseszins-erklaert-berufseinsteiger/">Zinseszins erklärt</a> · <a href="/blog/investieren-mit-100-euro/">Investieren mit 100 € im Monat</a> · <a href="/blog/cost-average-effekt-erklaert/">Cost-Average-Effekt</a> · <a href="/blog/steuern-etf-sparplan-abgeltungssteuer/">Steuern auf ETF-Sparpläne</a>
+				</p>
+
+				<h2>Häufige Fragen</h2>
+				<details>
+					<summary>Welche Rendite ist für einen Sparplan realistisch?</summary>
+					<p>Breit gestreute weltweite Aktien-ETF haben historisch etwa 6–8 % pro Jahr vor Steuern und Inflation erzielt — über lange Zeiträume und mit erheblichen Schwankungen dazwischen. Für konservative Planungen rechnen viele mit 5–6 %. Tagesgeld und Festgeld liegen deutlich darunter und verlieren nach Inflation oft real an Wert.</p>
+				</details>
+				<details>
+					<summary>Wie viel sollte ich monatlich sparen?</summary>
+					<p>Die verbreitete Faustregel sind 10–20 % des Nettoeinkommens — aber erst, nachdem ein Notgroschen von 3 Monatsgehältern steht. Wichtiger als die Höhe ist die Konstanz: Ein dauerhafter 100-€-Sparplan schlägt einen 300-€-Plan, der nach zwei Jahren pausiert wird.</p>
+				</details>
+				<details>
+					<summary>Was passiert mit Steuern beim ETF-Sparplan?</summary>
+					<p>Auf realisierte Erträge fällt Abgeltungsteuer an (25 % plus Soli, zusammen 26,375 %), bei Aktien-ETF mit 30 % Teilfreistellung — effektiv also rund 18,5 % auf die Erträge. Pro Jahr bleiben Kapitalerträge bis 1.000 € steuerfrei (Sparerpauschbetrag); während der Laufzeit fällt jährlich eine kleine Vorabpauschale an, die mit der Verkaufssteuer verrechnet wird.</p>
+				</details>
+				<details>
+					<summary>Sparplan oder Rentenversicherung — was ist besser?</summary>
+					<p>Falsche Frage — es sind verschiedene Werkzeuge: Der Sparplan bietet Flexibilität und niedrige Kosten, die fondsgebundene Rentenversicherung lebenslange Verrentung, garantierte Rentenfaktoren und steuerliche Vorteile in der Auszahlphase (Halbeinkünfteverfahren ab 62). Für die meisten ist die Kombination sinnvoller als das Entweder-oder — die konkrete Aufteilung hängt von Lebenssituation und Zielen ab und gehört in ein Beratungsgespräch.</p>
+				</details>
+
+				<p class="weitere-rechner">Weitere Rechner: <a href="/rentenluecke-rechner/">Rentenlücken-Rechner</a> · <a href="/rentensteuer-rechner/">Steuerrechner für Rentner</a></p>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<script>
+	const startRange = document.getElementById('start-range') as HTMLInputElement;
+	const rateRange = document.getElementById('rate-range') as HTMLInputElement;
+	const jahreRange = document.getElementById('jahre-range') as HTMLInputElement;
+	const renditeRange = document.getElementById('rendite-range') as HTMLInputElement;
+	const startVal = document.getElementById('start-val')!;
+	const rateVal = document.getElementById('rate-val')!;
+	const jahreVal = document.getElementById('jahre-val')!;
+	const renditeVal = document.getElementById('rendite-val')!;
+	const calcBtn = document.getElementById('calc-btn')!;
+	const resetBtn = document.getElementById('reset-btn')!;
+	const stepInput = document.getElementById('step-input')!;
+	const stepResult = document.getElementById('step-result')!;
+
+	function fmt(n: number) {
+		return Math.round(n).toLocaleString('de-DE');
+	}
+
+	startRange.addEventListener('input', () => { startVal.textContent = fmt(Number(startRange.value)); });
+	rateRange.addEventListener('input', () => { rateVal.textContent = fmt(Number(rateRange.value)); });
+	jahreRange.addEventListener('input', () => { jahreVal.textContent = jahreRange.value; });
+	renditeRange.addEventListener('input', () => { renditeVal.textContent = Number(renditeRange.value).toLocaleString('de-DE'); });
+
+	calcBtn.addEventListener('click', () => {
+		const start = Number(startRange.value);
+		const rate = Number(rateRange.value);
+		const jahre = Number(jahreRange.value);
+		const rendite = Number(renditeRange.value) / 100;
+
+		const n = jahre * 12;
+		const r = rendite / 12;
+
+		const endkapital = r > 0
+			? start * Math.pow(1 + r, n) + rate * ((Math.pow(1 + r, n) - 1) / r)
+			: start + rate * n;
+
+		const einzahlung = start + rate * n;
+		const ertrag = Math.max(0, endkapital - einzahlung);
+		const ertragAnteil = endkapital > 0 ? (ertrag / endkapital) * 100 : 0;
+
+		// Vereinfachte Steuer bei Komplett-Verkauf: Abgeltungsteuer inkl. Soli auf 70 % der Erträge (Aktien-ETF-Teilfreistellung)
+		const steuer = ertrag * 0.7 * 0.26375;
+		const netto = endkapital - steuer;
+
+		document.getElementById('res-jahre')!.textContent = String(jahre);
+		document.getElementById('res-endkapital')!.textContent = fmt(endkapital) + ' €';
+		document.getElementById('res-params')!.textContent =
+			fmt(rate) + ' €/Monat · ' + Number(renditeRange.value).toLocaleString('de-DE') + ' % p.a.' + (start > 0 ? ' · ' + fmt(start) + ' € Start' : '');
+		document.getElementById('res-einzahlung')!.textContent = fmt(einzahlung) + ' €';
+		document.getElementById('res-ertrag')!.textContent = fmt(ertrag) + ' €';
+		document.getElementById('res-ertrag-anteil')!.textContent =
+			ertragAnteil.toLocaleString('de-DE', { maximumFractionDigits: 0 }) + ' % deines Endkapitals sind Erträge';
+		document.getElementById('res-steuer')!.textContent = '−' + fmt(steuer) + ' €';
+		document.getElementById('res-netto')!.textContent = fmt(netto) + ' €';
+
+		stepInput.classList.add('hidden');
+		stepResult.classList.remove('hidden');
+		stepResult.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+
+	resetBtn.addEventListener('click', () => {
+		stepResult.classList.add('hidden');
+		stepInput.classList.remove('hidden');
+		stepInput.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+</script>
+
+<style>
+	main {
+		max-width: 720px;
+		margin: 0 auto;
+		padding: 3em 1.5em 5em;
+	}
+
+	.page-header {
+		text-align: center;
+		margin-bottom: 2.5em;
+	}
+
+	.label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.6em;
+	}
+
+	h1 {
+		font-size: 2.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.subtitle {
+		font-size: 1.05em;
+		color: rgb(var(--gray));
+		max-width: 520px;
+		margin: 0 auto;
+		line-height: 1.6;
+	}
+
+	.card {
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 16px;
+		padding: 2.5em 2.5em;
+		box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+	}
+
+	.card h2 {
+		font-size: 1.25em;
+		margin: 0 0 1.75em;
+		color: rgb(var(--black));
+	}
+
+	.hidden { display: none !important; }
+
+	.field {
+		margin-bottom: 2em;
+	}
+
+	.field label {
+		display: block;
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin-bottom: 0.4em;
+	}
+
+	.field-hint {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0.2em 0 0.6em;
+	}
+
+	.input-row {
+		display: flex;
+		align-items: center;
+		gap: 1em;
+	}
+
+	input[type="range"] {
+		flex: 1;
+		accent-color: var(--accent);
+		height: 4px;
+		cursor: pointer;
+	}
+
+	.input-display {
+		font-size: 1em;
+		font-weight: 700;
+		color: var(--accent);
+		min-width: 120px;
+		text-align: right;
+		white-space: nowrap;
+	}
+
+	.result-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1em;
+		margin-bottom: 1.5em;
+	}
+
+	.result-box {
+		background: rgb(var(--gray-light));
+		border-radius: 10px;
+		padding: 1.2em 1.4em;
+	}
+
+	.result-box.highlight {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.result-label {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0 0 0.4em;
+		font-weight: 500;
+	}
+
+	.result-value {
+		font-size: 1.4em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		margin: 0 0 0.3em;
+	}
+
+	.result-box.highlight .result-value {
+		color: var(--accent-dark);
+	}
+
+	.result-note {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+
+	.sparrate-box {
+		background: var(--accent);
+		border-radius: 12px;
+		padding: 1.5em 2em;
+		text-align: center;
+		margin-bottom: 1.5em;
+	}
+
+	.sparrate-label {
+		font-size: 0.85em;
+		color: rgba(255,255,255,0.8);
+		margin: 0 0 0.3em;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+
+	.sparrate-value {
+		font-size: 2em;
+		font-weight: 700;
+		color: white;
+		margin: 0 0 0.3em;
+	}
+
+	.sparrate-note {
+		font-size: 0.78em;
+		color: rgba(255,255,255,0.7);
+		margin: 0;
+	}
+
+	.disclaimer-calc {
+		font-size: 0.78em;
+		color: rgb(var(--gray));
+		background: rgb(var(--gray-light));
+		border-radius: 8px;
+		padding: 0.8em 1em;
+		margin-bottom: 2em;
+		line-height: 1.5;
+	}
+
+	.cta-box {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+		border-radius: 12px;
+		padding: 2em;
+		margin-bottom: 1.5em;
+		text-align: center;
+	}
+
+	.cta-label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.5em;
+	}
+
+	.cta-box h3 {
+		font-size: 1.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.cta-sub {
+		font-size: 0.9em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+		line-height: 1.6;
+	}
+
+	.cta-form {
+		display: flex;
+		gap: 0.6em;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-bottom: 0.6em;
+	}
+
+	.cta-form input[type="email"] {
+		flex: 1 1 220px;
+		padding: 0.75em 1em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 8px;
+		font-size: 0.95em;
+		font-family: inherit;
+		outline: none;
+		background: white;
+	}
+
+	.cta-form input[type="email"]:focus {
+		border-color: var(--accent);
+	}
+
+	.cta-privacy {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+	}
+
+	.or-divider {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin-bottom: 0.8em;
+	}
+
+	.call-cta {
+		margin-top: 1.75em;
+		padding-top: 1.5em;
+		border-top: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.call-cta-text {
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin: 0 0 0.9em;
+	}
+
+	.btn-primary {
+		display: inline-block;
+		background: var(--accent);
+		color: white;
+		padding: 0.75em 1.75em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.95em;
+		font-family: inherit;
+		border: none;
+		cursor: pointer;
+		text-decoration: none;
+		transition: background 0.15s;
+		white-space: nowrap;
+	}
+
+	.btn-primary:hover { background: var(--accent-dark); }
+
+	.btn-secondary {
+		display: inline-block;
+		color: var(--accent);
+		padding: 0.6em 1.4em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.9em;
+		border: 2px solid var(--accent);
+		text-decoration: none;
+		transition: background 0.15s;
+	}
+
+	.btn-secondary:hover { background: var(--accent-light); }
+
+	.btn-ghost {
+		background: none;
+		border: none;
+		color: rgb(var(--gray));
+		font-size: 0.875em;
+		font-family: inherit;
+		cursor: pointer;
+		padding: 0;
+		text-decoration: underline;
+	}
+
+	.btn-ghost:hover { color: rgb(var(--black)); }
+
+	/* SEO-Sektion */
+	.seo-section {
+		margin-top: 3.5em;
+	}
+
+	.seo-section h2 {
+		font-size: 1.25em;
+		color: rgb(var(--black));
+		margin: 0 0 0.75em;
+	}
+
+	.seo-section p {
+		font-size: 0.95em;
+		color: rgb(var(--gray-dark, var(--gray)));
+		line-height: 1.7;
+		margin: 0 0 1.25em;
+	}
+
+	.seo-section details {
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 10px;
+		padding: 0.9em 1.2em;
+		margin-bottom: 0.75em;
+		background: white;
+	}
+
+	.seo-section summary {
+		font-weight: 600;
+		font-size: 0.95em;
+		cursor: pointer;
+		color: rgb(var(--black));
+	}
+
+	.seo-section details p {
+		margin: 0.75em 0 0;
+		font-size: 0.9em;
+	}
+
+	.weitere-rechner {
+		margin-top: 2em;
+		font-size: 0.9em;
+	}
+
+	@media (max-width: 600px) {
+		.card { padding: 1.5em 1.2em; }
+		.result-grid { grid-template-columns: 1fr; }
+		h1 { font-size: 1.75em; }
+		.input-display { min-width: 90px; font-size: 0.9em; }
+		.cta-form input[type="email"],
+		.cta-form .btn-primary { flex: 1 1 100%; width: 100%; }
+	}
+</style>

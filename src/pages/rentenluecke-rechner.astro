@@ -132,6 +132,8 @@ import Header from '../components/Header.astro';
 
 				<button id="reset-btn" class="btn-ghost">← Neu berechnen</button>
 			</div>
+
+			<p class="weitere-rechner">Weitere Rechner: <a href="/rentensteuer-rechner/">Steuerrechner für Rentner</a> · <a href="/sparplan-rechner/">Sparplan-Rechner</a></p>
 		</main>
 		<Footer />
 	</body>
@@ -504,6 +506,13 @@ import Header from '../components/Header.astro';
 	}
 
 	.btn-ghost:hover { color: rgb(var(--black)); }
+
+	.weitere-rechner {
+		margin-top: 2em;
+		font-size: 0.9em;
+		text-align: center;
+		color: rgb(var(--gray));
+	}
 
 	@media (max-width: 600px) {
 		.card { padding: 1.5em 1.2em; }

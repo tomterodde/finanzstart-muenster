@@ -1,0 +1,630 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead
+			title="Steuerrechner für Rentner — Wie viel Steuern auf die Rente? (kostenlos)"
+			description="Kostenloser Steuerrechner für Rentner: Berechne in 60 Sekunden Besteuerungsanteil, Rentenfreibetrag und deine Einkommensteuer auf die Rente — Tarif 2025."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<p class="label">Kostenlos & anonym</p>
+				<h1>Steuerrechner für Rentner</h1>
+				<p class="subtitle">
+					In 60 Sekunden erfährst du, wie viel Einkommensteuer auf deine Rente anfällt — mit Besteuerungsanteil nach Renteneintrittsjahr, Rentenfreibetrag und Steuertarif 2025.
+				</p>
+			</div>
+
+			<!-- Step 1: Input -->
+			<div id="step-input" class="card">
+				<h2>Deine Angaben</h2>
+
+				<div class="field">
+					<label for="eintritt-range">Jahr des Renteneintritts</label>
+					<p class="field-hint">Bestimmt den Besteuerungsanteil deiner Rente (2005: 50 % … 2058: 100 %)</p>
+					<div class="input-row">
+						<input type="range" id="eintritt-range" min="2005" max="2058" value="2026" />
+						<span class="input-display"><span id="eintritt-val">2026</span></span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label for="rente-range">Monatliche Bruttorente</label>
+					<p class="field-hint">Gesetzliche Rente vor Abzügen (steht im Rentenbescheid)</p>
+					<div class="input-row">
+						<input type="range" id="rente-range" min="500" max="4000" step="50" value="1600" />
+						<span class="input-display"><span id="rente-val">1.600</span> €/Monat</span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label for="weitere-range">Weitere steuerpflichtige Einkünfte pro Jahr</label>
+					<p class="field-hint">z. B. Mieteinnahmen, Betriebsrente, Minijob zählt nicht</p>
+					<div class="input-row">
+						<input type="range" id="weitere-range" min="0" max="24000" step="500" value="0" />
+						<span class="input-display"><span id="weitere-val">0</span> €/Jahr</span>
+					</div>
+				</div>
+
+				<div class="field">
+					<label class="checkbox-label">
+						<input type="checkbox" id="splitting-check" />
+						Verheiratet (Zusammenveranlagung / Splittingtarif)
+					</label>
+					<p class="field-hint">Dann bitte Rente und Einkünfte beider Partner zusammen eingeben</p>
+				</div>
+
+				<button id="calc-btn" class="btn-primary">Steuer auf die Rente berechnen</button>
+			</div>
+
+			<!-- Step 2: Results -->
+			<div id="step-result" class="card hidden">
+				<h2>Dein Ergebnis</h2>
+
+				<div class="result-grid">
+					<div class="result-box">
+						<p class="result-label">Besteuerungsanteil deiner Rente</p>
+						<p class="result-value" id="res-anteil">–</p>
+						<p class="result-note">Abhängig vom Renteneintrittsjahr</p>
+					</div>
+					<div class="result-box">
+						<p class="result-label">Rentenfreibetrag (lebenslang fix)</p>
+						<p class="result-value" id="res-freibetrag">–</p>
+						<p class="result-note">Dieser Teil der Jahresrente bleibt dauerhaft steuerfrei</p>
+					</div>
+					<div class="result-box">
+						<p class="result-label">Zu versteuerndes Einkommen</p>
+						<p class="result-value" id="res-zve">–</p>
+						<p class="result-note">Nach Pauschalen und Vorsorgeaufwendungen (vereinfacht)</p>
+					</div>
+					<div class="result-box highlight">
+						<p class="result-label">Einkommensteuer pro Jahr</p>
+						<p class="result-value" id="res-steuer">–</p>
+						<p class="result-note" id="res-steuer-monat">–</p>
+					</div>
+				</div>
+
+				<div class="sparrate-box">
+					<p class="sparrate-label">Effektive Steuerquote auf deine Rente</p>
+					<p class="sparrate-value" id="res-quote">–</p>
+					<p class="sparrate-note" id="res-erklaerung">–</p>
+				</div>
+
+				<div class="disclaimer-calc">
+					Diese Berechnung ist eine vereinfachte Schätzung nach Einkommensteuertarif 2025 (§ 32a EStG, Grundfreibetrag 12.096 €) — keine Steuerberatung. Kirchensteuer, Kapitalerträge, außergewöhnliche Belastungen und individuelle KV/PV-Beiträge sind pauschaliert bzw. nicht berücksichtigt. Verbindliche Auskünfte gibt dein Finanzamt oder ein Steuerberater.
+				</div>
+
+				<div class="cta-box">
+					<p class="cta-label">Nächster Schritt</p>
+					<h3>Sorge dafür, dass deine Rente später reicht</h3>
+					<p class="cta-sub">
+						Hol dir die kostenlose Finanzcheck-Checkliste — 20 Fragen zu Liquidität, Versicherungen, Steuern, Altersvorsorge und Einkommen. Auch ideal, um sie gemeinsam mit den eigenen Eltern durchzugehen.
+					</p>
+					<form
+						action="https://app.kit.com/forms/9299804/subscriptions"
+						method="post"
+						class="cta-form"
+					>
+						<input
+							type="email"
+							name="email_address"
+							placeholder="deine@email.de"
+							required
+							aria-label="E-Mail-Adresse"
+						/>
+						<input type="hidden" name="fields[quelle]" value="rentensteuer-rechner" />
+						<button type="submit" class="btn-primary">Checkliste per E-Mail erhalten</button>
+					</form>
+					<p class="cta-privacy">Kein Spam. Jederzeit abmeldbar.</p>
+
+					<div class="or-divider">oder</div>
+					<a href="/finanzcheck/" class="btn-secondary" target="_blank">Checkliste direkt öffnen →</a>
+
+					<div class="call-cta">
+						<p class="call-cta-text">Fragen zur Rente — für dich oder deine Eltern?</p>
+						<a
+							href="https://outlook.office.com/bookwithme/user/f7d184a8790c451390cda05ae8b3fb18@tecis.de/meetingtype/cdie9Hia-EulszcibmFVfQ2?bookingcode=d1927a5d-5856-470c-894c-a255316c0f36&anonymous&ismsaljsauthenabled&ep=mlink&utm_source=blog&utm_medium=rechner&utm_campaign=rentensteuer"
+							class="btn-primary"
+							target="_blank"
+							rel="noopener"
+						>15-Min-Kennenlernen buchen →</a>
+						<p class="cta-privacy">Kostenlos & unverbindlich. Du wählst den Termin.</p>
+					</div>
+				</div>
+
+				<button id="reset-btn" class="btn-ghost">← Neu berechnen</button>
+			</div>
+
+			<!-- SEO / Erklärung -->
+			<section class="seo-section">
+				<h2>So rechnet dieser Steuerrechner für Rentner</h2>
+				<p>
+					Die gesetzliche Rente ist nicht komplett steuerpflichtig: Je nach <strong>Renteneintrittsjahr</strong> gilt ein Besteuerungsanteil zwischen 50 % (Eintritt 2005) und 100 % (Eintritt ab 2058). Der steuerfreie Teil der ersten vollen Jahresrente wird als <strong>Rentenfreibetrag</strong> lebenslang festgeschrieben. Auf den steuerpflichtigen Teil — abzüglich Werbungskosten-Pauschale (102 €), Sonderausgaben-Pauschale (36 €) und pauschalierten Kranken- und Pflegeversicherungsbeiträgen — wird der normale Einkommensteuertarif angewendet.
+				</p>
+				<p>
+					Die Hintergründe im Detail: <a href="/blog/rentenbesteuerung-wie-viel-steuern-auf-rente/">Wie viel Steuern zahlt man auf die Rente?</a> · <a href="/blog/rentenfreibetrag-was-bleibt-steuerfrei/">Rentenfreibetrag erklärt</a> · <a href="/blog/rente-fruehzeitig-abschlaege/">Früher in Rente: Abschläge</a>
+				</p>
+
+				<h2>Häufige Fragen</h2>
+				<details>
+					<summary>Ab welcher Rente muss man Steuern zahlen?</summary>
+					<p>Steuern fallen an, sobald das zu versteuernde Einkommen über dem Grundfreibetrag liegt (2025: 12.096 € für Alleinstehende, 24.192 € bei Zusammenveranlagung). Wer 2025 in Rente geht, bleibt mit einer Bruttorente bis etwa 1.300 €/Monat ohne weitere Einkünfte meist steuerfrei — die genaue Grenze hängt vom Eintrittsjahr und den absetzbaren Vorsorgeaufwendungen ab.</p>
+				</details>
+				<details>
+					<summary>Muss ich als Rentner eine Steuererklärung abgeben?</summary>
+					<p>Eine Pflicht besteht, wenn das zu versteuernde Einkommen über dem Grundfreibetrag liegt. Das Finanzamt erhält die Rentenbezugsmitteilung automatisch von der Rentenversicherung — wer abgabepflichtig ist und nichts einreicht, wird in der Regel angeschrieben. Im Zweifel: Erklärung abgeben; oft ergibt sich durch absetzbare Kosten sogar eine Erstattung.</p>
+				</details>
+				<details>
+					<summary>Steigt mein Besteuerungsanteil mit jeder Rentenerhöhung?</summary>
+					<p>Der Prozentsatz bleibt fix — aber der Rentenfreibetrag ist ein fester Euro-Betrag. Jede Rentenerhöhung ist dadurch zu 100 % steuerpflichtig. Deshalb rutschen langjährige Rentner mit den jährlichen Anpassungen schrittweise in die Steuerpflicht, obwohl sich „ihr Prozentsatz" nie ändert.</p>
+				</details>
+				<details>
+					<summary>Was ist mit Kranken- und Pflegeversicherung?</summary>
+					<p>KV- und PV-Beiträge werden direkt von der Bruttorente abgezogen (rund 11–12 %), sind aber als Vorsorgeaufwendungen absetzbar — dieser Rechner berücksichtigt das pauschal. Die Beiträge selbst sind keine Steuer: Netto von der Rente bleibt Bruttorente minus KV/PV minus Einkommensteuer.</p>
+				</details>
+
+				<p class="weitere-rechner">Weitere Rechner: <a href="/rentenluecke-rechner/">Rentenlücken-Rechner</a> · <a href="/sparplan-rechner/">Sparplan-Rechner</a></p>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<script>
+	const eintrittRange = document.getElementById('eintritt-range') as HTMLInputElement;
+	const renteRange = document.getElementById('rente-range') as HTMLInputElement;
+	const weitereRange = document.getElementById('weitere-range') as HTMLInputElement;
+	const splittingCheck = document.getElementById('splitting-check') as HTMLInputElement;
+	const eintrittVal = document.getElementById('eintritt-val')!;
+	const renteVal = document.getElementById('rente-val')!;
+	const weitereVal = document.getElementById('weitere-val')!;
+	const calcBtn = document.getElementById('calc-btn')!;
+	const resetBtn = document.getElementById('reset-btn')!;
+	const stepInput = document.getElementById('step-input')!;
+	const stepResult = document.getElementById('step-result')!;
+
+	function fmt(n: number) {
+		return Math.round(n).toLocaleString('de-DE');
+	}
+
+	eintrittRange.addEventListener('input', () => { eintrittVal.textContent = eintrittRange.value; });
+	renteRange.addEventListener('input', () => { renteVal.textContent = fmt(Number(renteRange.value)); });
+	weitereRange.addEventListener('input', () => { weitereVal.textContent = fmt(Number(weitereRange.value)); });
+
+	// Besteuerungsanteil nach § 22 EStG (inkl. Wachstumschancengesetz: +0,5 %p/Jahr ab 2023, 100 % ab 2058)
+	function besteuerungsanteil(jahr: number): number {
+		if (jahr <= 2005) return 50;
+		if (jahr <= 2020) return 50 + 2 * (jahr - 2005);
+		if (jahr <= 2022) return 80 + 1 * (jahr - 2020);
+		if (jahr <= 2057) return 82 + 0.5 * (jahr - 2022);
+		return 100;
+	}
+
+	// Einkommensteuer-Grundtarif 2025 (§ 32a EStG)
+	function est2025(zvE: number): number {
+		const x = Math.floor(zvE);
+		if (x <= 12096) return 0;
+		if (x <= 17443) {
+			const y = (x - 12096) / 10000;
+			return Math.floor((932.3 * y + 1400) * y);
+		}
+		if (x <= 68480) {
+			const z = (x - 17443) / 10000;
+			return Math.floor((176.64 * z + 2397) * z + 1015.13);
+		}
+		if (x <= 277825) return Math.floor(0.42 * x - 10911.92);
+		return Math.floor(0.45 * x - 19246.67);
+	}
+
+	calcBtn.addEventListener('click', () => {
+		const eintritt = Number(eintrittRange.value);
+		const renteMonat = Number(renteRange.value);
+		const weitere = Number(weitereRange.value);
+		const splitting = splittingCheck.checked;
+
+		const jahresrente = renteMonat * 12;
+		const anteil = besteuerungsanteil(eintritt);
+		const freibetrag = Math.round(jahresrente * (1 - anteil / 100));
+		const steuerpflichtigeRente = jahresrente - freibetrag;
+
+		// Pauschalen + Vorsorgeaufwendungen (KV/PV der Rentner, vereinfacht 12 % der Bruttorente)
+		const vorsorge = Math.round(jahresrente * 0.12);
+		const zvE = Math.max(0, steuerpflichtigeRente + weitere - 102 - 36 - vorsorge);
+
+		const steuer = splitting ? 2 * est2025(zvE / 2) : est2025(zvE);
+		const quote = jahresrente > 0 ? (steuer / jahresrente) * 100 : 0;
+
+		document.getElementById('res-anteil')!.textContent = anteil.toLocaleString('de-DE') + ' %';
+		document.getElementById('res-freibetrag')!.textContent = fmt(freibetrag) + ' €/Jahr';
+		document.getElementById('res-zve')!.textContent = fmt(zvE) + ' €';
+		document.getElementById('res-steuer')!.textContent = steuer > 0 ? fmt(steuer) + ' €' : '0 € 🎉';
+		document.getElementById('res-steuer-monat')!.textContent = steuer > 0
+			? 'entspricht ' + fmt(steuer / 12) + ' €/Monat'
+			: 'Dein Einkommen liegt unter dem Grundfreibetrag';
+		document.getElementById('res-quote')!.textContent = quote.toLocaleString('de-DE', { maximumFractionDigits: 1 }) + ' %';
+		document.getElementById('res-erklaerung')!.textContent = steuer > 0
+			? 'Anteil der Einkommensteuer an deiner Brutto-Jahresrente von ' + fmt(jahresrente) + ' €'
+			: 'Auf deine Rente fällt nach dieser Schätzung keine Einkommensteuer an';
+
+		stepInput.classList.add('hidden');
+		stepResult.classList.remove('hidden');
+		stepResult.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+
+	resetBtn.addEventListener('click', () => {
+		stepResult.classList.add('hidden');
+		stepInput.classList.remove('hidden');
+		stepInput.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+</script>
+
+<style>
+	main {
+		max-width: 720px;
+		margin: 0 auto;
+		padding: 3em 1.5em 5em;
+	}
+
+	.page-header {
+		text-align: center;
+		margin-bottom: 2.5em;
+	}
+
+	.label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.6em;
+	}
+
+	h1 {
+		font-size: 2.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.subtitle {
+		font-size: 1.05em;
+		color: rgb(var(--gray));
+		max-width: 520px;
+		margin: 0 auto;
+		line-height: 1.6;
+	}
+
+	.card {
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 16px;
+		padding: 2.5em 2.5em;
+		box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+	}
+
+	.card h2 {
+		font-size: 1.25em;
+		margin: 0 0 1.75em;
+		color: rgb(var(--black));
+	}
+
+	.hidden { display: none !important; }
+
+	.field {
+		margin-bottom: 2em;
+	}
+
+	.field label {
+		display: block;
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin-bottom: 0.4em;
+	}
+
+	.checkbox-label {
+		display: flex !important;
+		align-items: center;
+		gap: 0.6em;
+		cursor: pointer;
+	}
+
+	.checkbox-label input[type="checkbox"] {
+		accent-color: var(--accent);
+		width: 1.1em;
+		height: 1.1em;
+		cursor: pointer;
+	}
+
+	.field-hint {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0.2em 0 0.6em;
+	}
+
+	.input-row {
+		display: flex;
+		align-items: center;
+		gap: 1em;
+	}
+
+	input[type="range"] {
+		flex: 1;
+		accent-color: var(--accent);
+		height: 4px;
+		cursor: pointer;
+	}
+
+	.input-display {
+		font-size: 1em;
+		font-weight: 700;
+		color: var(--accent);
+		min-width: 120px;
+		text-align: right;
+		white-space: nowrap;
+	}
+
+	.result-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1em;
+		margin-bottom: 1.5em;
+	}
+
+	.result-box {
+		background: rgb(var(--gray-light));
+		border-radius: 10px;
+		padding: 1.2em 1.4em;
+	}
+
+	.result-box.highlight {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.result-label {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0 0 0.4em;
+		font-weight: 500;
+	}
+
+	.result-value {
+		font-size: 1.4em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		margin: 0 0 0.3em;
+	}
+
+	.result-box.highlight .result-value {
+		color: var(--accent-dark);
+	}
+
+	.result-note {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+
+	.sparrate-box {
+		background: var(--accent);
+		border-radius: 12px;
+		padding: 1.5em 2em;
+		text-align: center;
+		margin-bottom: 1.5em;
+	}
+
+	.sparrate-label {
+		font-size: 0.85em;
+		color: rgba(255,255,255,0.8);
+		margin: 0 0 0.3em;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+
+	.sparrate-value {
+		font-size: 2em;
+		font-weight: 700;
+		color: white;
+		margin: 0 0 0.3em;
+	}
+
+	.sparrate-note {
+		font-size: 0.78em;
+		color: rgba(255,255,255,0.7);
+		margin: 0;
+	}
+
+	.disclaimer-calc {
+		font-size: 0.78em;
+		color: rgb(var(--gray));
+		background: rgb(var(--gray-light));
+		border-radius: 8px;
+		padding: 0.8em 1em;
+		margin-bottom: 2em;
+		line-height: 1.5;
+	}
+
+	.cta-box {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+		border-radius: 12px;
+		padding: 2em;
+		margin-bottom: 1.5em;
+		text-align: center;
+	}
+
+	.cta-label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.5em;
+	}
+
+	.cta-box h3 {
+		font-size: 1.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.cta-sub {
+		font-size: 0.9em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+		line-height: 1.6;
+	}
+
+	.cta-form {
+		display: flex;
+		gap: 0.6em;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-bottom: 0.6em;
+	}
+
+	.cta-form input[type="email"] {
+		flex: 1 1 220px;
+		padding: 0.75em 1em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 8px;
+		font-size: 0.95em;
+		font-family: inherit;
+		outline: none;
+		background: white;
+	}
+
+	.cta-form input[type="email"]:focus {
+		border-color: var(--accent);
+	}
+
+	.cta-privacy {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+	}
+
+	.or-divider {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin-bottom: 0.8em;
+	}
+
+	.call-cta {
+		margin-top: 1.75em;
+		padding-top: 1.5em;
+		border-top: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.call-cta-text {
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin: 0 0 0.9em;
+	}
+
+	.btn-primary {
+		display: inline-block;
+		background: var(--accent);
+		color: white;
+		padding: 0.75em 1.75em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.95em;
+		font-family: inherit;
+		border: none;
+		cursor: pointer;
+		text-decoration: none;
+		transition: background 0.15s;
+		white-space: nowrap;
+	}
+
+	.btn-primary:hover { background: var(--accent-dark); }
+
+	.btn-secondary {
+		display: inline-block;
+		color: var(--accent);
+		padding: 0.6em 1.4em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.9em;
+		border: 2px solid var(--accent);
+		text-decoration: none;
+		transition: background 0.15s;
+	}
+
+	.btn-secondary:hover { background: var(--accent-light); }
+
+	.btn-ghost {
+		background: none;
+		border: none;
+		color: rgb(var(--gray));
+		font-size: 0.875em;
+		font-family: inherit;
+		cursor: pointer;
+		padding: 0;
+		text-decoration: underline;
+	}
+
+	.btn-ghost:hover { color: rgb(var(--black)); }
+
+	/* SEO-Sektion */
+	.seo-section {
+		margin-top: 3.5em;
+	}
+
+	.seo-section h2 {
+		font-size: 1.25em;
+		color: rgb(var(--black));
+		margin: 0 0 0.75em;
+	}
+
+	.seo-section p {
+		font-size: 0.95em;
+		color: rgb(var(--gray-dark, var(--gray)));
+		line-height: 1.7;
+		margin: 0 0 1.25em;
+	}
+
+	.seo-section details {
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 10px;
+		padding: 0.9em 1.2em;
+		margin-bottom: 0.75em;
+		background: white;
+	}
+
+	.seo-section summary {
+		font-weight: 600;
+		font-size: 0.95em;
+		cursor: pointer;
+		color: rgb(var(--black));
+	}
+
+	.seo-section details p {
+		margin: 0.75em 0 0;
+		font-size: 0.9em;
+	}
+
+	.weitere-rechner {
+		margin-top: 2em;
+		font-size: 0.9em;
+	}
+
+	@media (max-width: 600px) {
+		.card { padding: 1.5em 1.2em; }
+		.result-grid { grid-template-columns: 1fr; }
+		h1 { font-size: 1.75em; }
+		.input-display { min-width: 90px; font-size: 0.9em; }
+		.cta-form input[type="email"],
+		.cta-form .btn-primary { flex: 1 1 100%; width: 100%; }
+	}
+</style>

@@ -34,6 +34,8 @@ Wer als Berufseinsteiger über Altersvorsorge nachdenkt, rechnet meist mit der B
 
 Seit dem Alterseinkünftegesetz 2005 wird die gesetzliche Rente schrittweise von der vor- auf die nachgelagerte Besteuerung umgestellt. Heißt: Beiträge in die Rentenkasse sind heute fast komplett steuerlich absetzbar, dafür ist die spätere Rente zu einem immer höheren Anteil steuerpflichtig. Wer 2026 in Rente geht, sieht 84 % seiner Rente als steuerpflichtiges Einkommen. Die restlichen 16 % sind der Rentenfreibetrag — und der bleibt lebenslang.
 
+> 🧮 **Deinen persönlichen Freibetrag berechnen:** Der [Steuerrechner für Rentner](/rentensteuer-rechner/) zeigt Besteuerungsanteil, Freibetrag und Steuerlast für dein Renteneintrittsjahr.
+
 ## Was ist der Rentenfreibetrag?
 
 Der Rentenfreibetrag ist der Teil der gesetzlichen Rente, der dauerhaft steuerfrei bleibt. Er wird im Jahr nach dem Renteneintritt anhand der dann gezahlten Jahresrente als fester Eurobetrag festgeschrieben.

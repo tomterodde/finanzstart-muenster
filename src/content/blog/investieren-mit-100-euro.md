@@ -27,6 +27,8 @@ sources:
 
 100 Euro im Monat — das klingt nach wenig. Zu wenig, um wirklich etwas zu erreichen. Aber die Mathematik zeigt: Wer früh anfängt und konsequent bleibt, baut damit mehr auf als viele, die mehr haben und spät anfangen.
 
+> 🧮 **Mit deinen eigenen Zahlen rechnen:** Der [Sparplan-Rechner](/sparplan-rechner/) berechnet Endkapital, Erträge und Steuern für jede Sparrate und Laufzeit.
+
 ## Was 100 Euro über Zeit werden
 
 Annahme: 7 % jährliche Rendite (historischer Durchschnitt MSCI World, vor Inflation).

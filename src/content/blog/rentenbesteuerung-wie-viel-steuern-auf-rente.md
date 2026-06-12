@@ -29,6 +29,8 @@ Viele Menschen gehen davon aus, dass die Rente steuerfrei ist. Das war früher t
 
 Die wichtigste Frage zuerst: Wie viel bleibt von welcher Bruttorente netto übrig?
 
+> 🧮 **Direkt ausrechnen statt ablesen:** Der [kostenlose Steuerrechner für Rentner](/rentensteuer-rechner/) berechnet Besteuerungsanteil, Rentenfreibetrag und deine Einkommensteuer in 60 Sekunden.
+
 ## Steuertabelle für Rentner 2025: Wie viel Steuern auf die Rente?
 
 Die folgende Tabelle zeigt für verschiedene Rentenhöhen, wie viel Einkommensteuer anfällt und was nach Steuern und Sozialabgaben netto bleibt — bei Renteneintritt 2025.

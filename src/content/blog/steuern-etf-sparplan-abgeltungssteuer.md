@@ -30,6 +30,8 @@ sources:
 
 ETF-Sparplan eingerichtet, läuft — aber was passiert steuerlich? Viele Anleger beschäftigen sich erst damit, wenn der erste Steuerbescheid kommt. Dabei ist das System gar nicht kompliziert, wenn man die drei relevanten Begriffe kennt.
 
+> 🧮 **Was bleibt nach Steuern übrig?** Der [Sparplan-Rechner](/sparplan-rechner/) schätzt Endkapital und Abgeltungsteuer für deinen Sparplan.
+
 ## Die drei steuerlichen Ereignisse
 
 **1. Abgeltungssteuer auf realisierte Gewinne**
