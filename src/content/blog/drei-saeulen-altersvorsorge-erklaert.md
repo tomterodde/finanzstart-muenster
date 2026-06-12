@@ -2,6 +2,7 @@
 title: 'Die 3 Säulen der Altersvorsorge: Was Berufstätige 2026 wissen müssen'
 description: 'Was sind die 3 Säulen der Altersvorsorge in Deutschland? Gesetzliche Rente, betriebliche und private Vorsorge — plus Unterschied zum Schichten-Modell.'
 pubDate: '2026-05-15'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Drei Säulen der Altersvorsorge — Modell und Erklärung'
 category: 'Altersvorsorge'
@@ -17,6 +18,10 @@ faq:
     answer: 'Drei Gründe machen Säule 1 für die meisten unzureichend: 1) Sinkendes Rentenniveau — laut Rentenversicherungsbericht 2024 fällt das Niveau von aktuell 48 % auf 43-45 % bis 2040. 2) Beitragsbemessungsgrenze (BBG) 8.050 €/Monat 2025 — wer mehr verdient, sammelt für das übersteigende Einkommen keine zusätzlichen Rentenpunkte, hat aber einen entsprechend höheren Lebensstandard zu finanzieren. 3) Demografische Entwicklung — immer weniger Beitragszahler tragen immer mehr Rentner. Konkrete Folge: Wer 2.500 € netto verdient, bekommt durchschnittlich 1.200-1.300 € gesetzliche Rente — eine Lücke von rund 1.200-1.300 € monatlich, die Säule 2 + 3 schließen müssen.'
   - question: 'Lohnt sich Säule 2 (bAV) immer?'
     answer: 'Nein, nur unter bestimmten Bedingungen. Lohnt sich klar: 1) Wenn Arbeitgeberzuschuss mindestens 15 % über die gesetzliche Pflicht hinausgeht (also über 30 % gesamt). 2) Wenn der Steuersatz aktuell hoch ist (Spitzensteuersatz 42 % oder 45 %) und im Rentenalter niedriger sein wird. 3) Wenn das Produkt selbst (Direktversicherung, Pensionskasse, Pensionsfonds) niedrige Verwaltungskosten hat. Lohnt sich oft nicht: 1) Geringer oder kein Arbeitgeberzuschuss — netto bleibt nach Doppelverbeitragung in der Auszahlphase wenig übrig. 2) Niedriges aktuelles Einkommen mit niedrigem Steuersatz — der Steuervorteil ist klein. 3) Häufige Jobwechsel — bAV-Verträge sind schwer mitzunehmen, beitragsfreie Stellung verschlechtert die Rendite. Bei 50 % aller bAV-Verträge ist der wirtschaftliche Effekt umstritten.'
+  - question: 'Wie werden die 3 Schichten der Altersvorsorge besteuert?'
+    answer: 'Schicht 1 (gesetzliche Rente, Rürup): Beiträge in der Ansparphase absetzbar (2025: bis 26.528 €/Jahr für Alleinstehende), Auszahlung nachgelagert steuerpflichtig — der Besteuerungsanteil steigt für Neurentner schrittweise auf 100 % (Jahr 2058). Schicht 2 (Riester, bAV): Förderung in der Ansparphase (Zulagen/Sonderausgabenabzug bzw. steuer- und SV-freie Entgeltumwandlung), Auszahlung voll steuerpflichtig; bei der bAV fallen zusätzlich KV/PV-Beiträge an (mit Freibetrag in der GKV). Schicht 3 (private Rentenversicherung, ETF): Beiträge aus dem Netto, dafür privilegierte Auszahlung — Halbeinkünfteverfahren bei fondsgebundenen Policen (ab Alter 62 und 12 Jahren Laufzeit), Ertragsanteilbesteuerung bei Verrentung, Abgeltungsteuer mit 30 % Teilfreistellung bei Aktien-ETF.'
+  - question: 'Kann ich Riester und betriebliche Altersvorsorge gleichzeitig nutzen?'
+    answer: 'Ja — Riester und bAV (z. B. Direktversicherung) sind getrennte Fördertöpfe innerhalb von Schicht 2 und voll kombinierbar. Die Riester-Förderung (Zulagen + Sonderausgabenabzug bis 2.100 €/Jahr) ist unabhängig vom bAV-Rahmen (steuerfreie Entgeltumwandlung bis 8 % der BBG, SV-frei bis 4 %). Wer beide Töpfe nutzt, maximiert die staatliche Förderung — ob das sinnvoll ist, hängt von Arbeitgeberzuschuss, Familienstand und Liquidität ab.'
   - question: 'Welche Optionen gibt es in Säule 3 (private Altersvorsorge)?'
     answer: 'Sechs zentrale Bausteine: 1) ETF-Sparplan — historisch 6-8 % Rendite p.a. real, voll vererbbar, flexibel, aber keine Steuerförderung in Einzahlphase. 2) Private Rentenversicherung — lebenslange Rente, Halbeinkünfteverfahren bei Auszahlung nach 12 Jahren, aber höhere Kosten. 3) Riester-Rente — staatliche Zulagen plus Steuervorteil, attraktiv bei Familien und niedrigeren Einkommen, kritisch bei kinderlosen Gutverdienern. 4) Rürup-Rente — für Selbstständige der einzige steuerlich geförderte Weg, aber nicht vererbbar (außer Hinterbliebenenrente). 5) Immobilien — selbstgenutzt als Schuldenfreiheit im Alter, vermietet als Cashflow-Quelle. 6) Aktien-Direktanlage — höchstes Renditepotenzial, aber Risiko. Die optimale Mischung hängt von Steuerlage, Lebenssituation und Risikobereitschaft ab.'
 sources:
@@ -112,6 +117,22 @@ Beide Modelle existieren parallel und werden oft verwechselt. Sie sind **nicht i
 **Konkretes Beispiel:** Eine **Rürup-Rente** ist in Säule 3 (privat organisiert), aber Schicht 1 (Basisvorsorge mit nachgelagerter Besteuerung). Eine **bAV** ist in Säule 2 (Arbeitgeber), aber Schicht 2 (Zusatzvorsorge).
 
 [Welche staatlichen Förderungen je Schicht greifen — Zulagen, Steuervorteile, Höchstbeträge — steht hier im Detail.](/blog/staatliche-foerderung-altersvorsorge-ueberblick)
+
+### Besteuerung im 3-Schichten-Modell: Anspar- vs. Auszahlphase
+
+Die Schichten-Logik wird greifbar, wenn man beide Phasen nebeneinanderlegt:
+
+| | Ansparphase | Auszahlphase |
+|---|---|---|
+| **Schicht 1** | Beiträge absetzbar (2025: bis 26.528 €/Jahr Alleinstehende) | nachgelagert voll steuerpflichtig — Besteuerungsanteil steigt für Neurentner bis 2058 auf 100 % |
+| **Schicht 2** | Riester: Zulagen + Sonderausgabenabzug bis 2.100 €; bAV: Entgeltumwandlung steuerfrei bis 8 % / SV-frei bis 4 % der BBG | voll steuerpflichtig; bAV zusätzlich mit KV/PV-Beiträgen (GKV-Freibetrag) |
+| **Schicht 3** | Beiträge aus versteuertem Netto — keine Förderung | privilegiert: **Halbeinkünfteverfahren** bei [fondsgebundener Rentenversicherung](/blog/fondsgebundene-rentenversicherung-erklaert) (ab 62 + 12 Jahre Laufzeit), **Ertragsanteil** bei Verrentung, **Abgeltungsteuer** mit 30 % Teilfreistellung bei Aktien-ETF |
+
+Die Grundregel: **Je früher der Staat fördert, desto stärker greift er bei der Auszahlung zu** — und umgekehrt. Deshalb ist die Mischung über die Schichten hinweg steuerlich klüger als die Konzentration auf eine.
+
+### Schicht 2 im Detail: Riester und bAV — auch gleichzeitig
+
+Die Zusatzvorsorge-Schicht wird oft als Entweder-oder missverstanden. Tatsächlich sind [Riester](/blog/riester-rente-lohnt-sich) und [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert) **getrennte Fördertöpfe und voll kombinierbar** — die Riester-Zulagen sind unabhängig vom bAV-Rahmen der Entgeltumwandlung. Wer beide nutzt, schöpft die staatliche Förderung der Schicht 2 maximal aus; ob sich das im Einzelfall rechnet, hängt an Arbeitgeberzuschuss, Kinderzahl und verfügbarer Sparrate.
 
 Die Säulen-Logik ist intuitiver — die Schichten-Logik ist präziser für Steueroptimierung. Wer steueroptimal vorsorgen will, denkt in Schichten. Wer das System grundsätzlich verstehen will, denkt in Säulen.
 
