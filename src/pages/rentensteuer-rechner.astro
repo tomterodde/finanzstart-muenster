@@ -28,10 +28,10 @@ import Header from '../components/Header.astro';
 				<h2>Deine Angaben</h2>
 
 				<div class="field">
-					<label for="eintritt-range">Jahr des Renteneintritts</label>
-					<p class="field-hint">Bestimmt den Besteuerungsanteil deiner Rente (2005: 50 % … 2058: 100 %)</p>
+					<label for="eintritt-range">Jahr des Renteneintritts (auch geplant/zukünftig)</label>
+					<p class="field-hint">Bestimmt den Besteuerungsanteil deiner Rente: 2005 = 50 %, danach steigend, ab 2058 = 100 % — wer heute jung ist, versteuert die Rente später voll</p>
 					<div class="input-row">
-						<input type="range" id="eintritt-range" min="2005" max="2058" value="2026" />
+						<input type="range" id="eintritt-range" min="2005" max="2075" value="2026" />
 						<span class="input-display"><span id="eintritt-val">2026</span></span>
 					</div>
 				</div>
