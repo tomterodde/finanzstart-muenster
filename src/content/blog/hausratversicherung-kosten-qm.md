@@ -2,6 +2,7 @@
 title: 'Hausratversicherung Kosten pro qm: Was zahlt man wirklich?'
 description: 'Wie viel kostet eine Hausratversicherung pro Quadratmeter? Realistische Preisspannen, Einflussfaktoren und wie du die Versicherungssumme berechnest.'
 pubDate: '2026-05-28'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Versicherungen'
 tldr: 'Hausratversicherungs-Prämien in Deutschland 2024 laut GDV-Statistik: Durchschnittsbeitrag 95 €/Jahr, Streuung je nach Region/Versicherungssumme 50-250 €/Jahr. Preisfaktor-Matrix: 1) Versicherungssumme (Standard 650 €/qm laut VHB 2022, Unterversicherungsverzicht-Regelung § 75 VVG). 2) Tarifzone ZÜRS (Zonierungssystem für Überschwemmung Rückstau Starkregen) + Einbruchrisikogebiet (PLZ-basiert, Stadt/Land-Differenz bis 50 %). 3) Zusatzbausteine: Fahrraddiebstahl +15-40 €, Elementar +20-80 €, Grobe Fahrlässigkeit § 81 VVG Quotelungsverzicht +10-20 €, Glasbruch +15-25 €. Münster (PLZ 48143-48167) liegt in mittlerer Einbruchzone, niedrige ZÜRS-Stufe (Aa-Gebiet). Realistisch für 60 qm Wohnung in Münster: 90-180 €/Jahr bei solider Deckung. Jahreszahlung statt monatlich spart 3-5 %, SB 150 € spart 15-20 %.'
@@ -45,7 +46,7 @@ Als grobe Faustformel für deutsche Durchschnittslagen:
 - Mittleres Niveau: ca. 90 bis 150 € pro Jahr
 - Premium: ca. 150 bis 240 € pro Jahr
 
-Für die meisten Berufseinsteiger ist das mittlere Niveau die richtige Wahl — günstig genug, um monatlich kaum spürbar zu sein, aber mit sinnvoller Abdeckung.
+Für die meisten Berufseinsteiger ist das mittlere Niveau die richtige Wahl — günstig genug, um monatlich kaum spürbar zu sein, aber mit sinnvoller Abdeckung. [Ob sich die Versicherung in deiner Situation überhaupt lohnt, klärt der Grundsatzartikel.](/blog/hausratversicherung-sinnvoll)
 
 ## Die drei Preistreiber
 
@@ -106,7 +107,11 @@ Die 650-€-pro-m²-Regel ist eine Faustformel. Sinnvoll ist, sie mit der Realit
 **Gehobene Ausstattung (hochwertige Möbel, mehrere Geräte, teures Fahrrad):**
 800 bis 1.000 € pro m² — realistisch für Young Professionals mit Büroausstattung zu Hause.
 
-Unterschätzen ist teurer als überschätzen: [Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen) führt im Schadensfall zu anteilsmäßiger Kürzung.
+Unterschätzen ist teurer als überschätzen: [Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen) führt im Schadensfall zu anteilsmäßiger Kürzung — die vollständige Berechnungsmethode inklusive Inventarliste steht im verlinkten Artikel.
+
+## Hausrat vs. Gebäudeversicherung: nicht dieselben Kosten pro qm
+
+Wer nach Versicherungskosten pro Quadratmeter sucht, landet oft bei zwei verschiedenen Produkten: Die **Hausratversicherung** (dieser Artikel) versichert den Inhalt deiner Wohnung — als Mieter brauchst du nur sie. Die **Wohngebäudeversicherung** versichert das Gebäude selbst (Dach, Wände, fest verbaute Teile) und ist Sache des Eigentümers; ihre Kosten liegen je nach Bauart und Region deutlich höher, typischerweise bei 2 bis 5 € pro m² und Jahr. Als Mieter zahlst du sie indirekt über die Nebenkosten — abschließen musst du sie nicht. [Wie sich Hausrat von anderen Policen abgrenzt, zeigt der Vergleichsartikel.](/blog/hausratversicherung-haftpflicht-unterschied)
 
 ## Was günstiger macht, ohne Leistung zu kosten
 

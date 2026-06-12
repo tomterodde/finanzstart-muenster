@@ -2,6 +2,7 @@
 title: 'Hausratversicherung sinnvoll? Ab 10.000 € Hausrat ja, sonst nein'
 description: 'Hausratversicherung lohnt sich ab 10.000 € Hausratwert — Berufseinsteiger erreichen die Schwelle bei 50–150 € Jahresprämie. Drei Stolperfallen vor dem Abschluss.'
 pubDate: '2026-04-20'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Versicherungen'
 tldr: 'Eine Hausratversicherung lohnt sich rechnerisch ab einem Hausratwert von rund 10.000 € — bei typischer Berufseinsteiger-Ausstattung ist diese Schwelle schneller erreicht als gedacht (15.000–30.000 € sind üblich). Jahresprämie liegt bei 50–150 €. Drei Stolperfallen: Unterversicherung (Faustregel 650 €/m² Wohnfläche), Zeitwert- statt Neuwertentschädigung und fehlender Fahrraddiebstahl-Einschluss (in Münster mit 5.000+ gestohlenen Fahrrädern/Jahr praktisch Pflicht). Keine Pflichtversicherung, aber für eigene Wohnung fast immer sinnvoller Grundschutz.'
@@ -30,6 +31,9 @@ sources:
   - title: 'ZÜRS-Geoportal Hochwasserzonen'
     publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
     year: 2024
+  - title: 'Hausratversicherung Schadenstatistik — Durchschnittsschäden Einbruch und Leitungswasser'
+    publisher: 'Gesamtverband der Deutschen Versicherungswirtschaft (GDV)'
+    year: 2024
 ---
 
 "Hausratversicherung — brauche ich das überhaupt?" Die Frage taucht bei fast jedem auf, der zum ersten Mal eine eigene Wohnung einrichtet. Die Antworten im Internet sind selten ehrlich: Entweder wird sie pauschal als unverzichtbar verkauft, oder als überflüssiger Luxus abgetan.
@@ -44,11 +48,15 @@ Die Faustregel: **Ab einem Hausratwert von 10.000 Euro wird die Versicherung rat
 
 Der Haken: Die meisten unterschätzen ihren Hausratwert massiv. Rechne selbst nach — Laptop, Smartphone, Monitor, Fahrrad, Sofa, Bett, Kleidung, Küchengeräte. Du bist schneller bei 15.000 bis 30.000 Euro, als du denkst. Die Jahresprämie von 50 bis 150 Euro ist dann eine klare Rechnung.
 
+Die Schadenseite untermauert das: Laut GDV liegt der durchschnittliche Einbruchschaden bei rund 3.200 €, der durchschnittliche Leitungswasserschaden bei rund 3.800 € — ein einziger mittlerer Schadenfall entspricht also 20 bis 60 Jahresprämien. [Was die Versicherung konkret pro Quadratmeter kostet, ist hier durchgerechnet.](/blog/hausratversicherung-kosten-qm)
+
+Aus eigener aktueller Erfahrung: Ich bin selbst vor Kurzem in eine neue Wohnung in Münster gezogen, und die Hausratversicherung steht bei mir als nächster Absicherungsbaustein auf der Liste — nach genau der Rechnung, die hier steht. Wer seine Einrichtung einmal ehrlich addiert hat, diskutiert nicht mehr über das Ob, sondern über die richtige Versicherungssumme.
+
 ## Wann ist sie nicht sinnvoll?
 
 Es gibt Situationen, in denen du getrost darauf verzichten kannst:
 
-- **WG-Zimmer mit Ikea-Grundausstattung** — Gebrauchte Möbel, kein Highend-Laptop, wenig Kleidung. Hausratwert unter 5.000 Euro.
+- **WG-Zimmer mit Ikea-Grundausstattung** — Gebrauchte Möbel, kein Highend-Laptop, wenig Kleidung. Hausratwert unter 5.000 Euro. [Die WG-Sonderfälle im Detail stehen hier.](/blog/hausratversicherung-mieter-wg)
 - **Zwischenlösung auf wenige Monate** — Du ziehst bald wieder um, ins Ausland oder in eine möblierte Wohnung.
 - **Eltern-Versicherung greift noch** — Studenten sind oft bis zum Ende des Erststudiums in der Hausratversicherung der Eltern mitversichert, solange sie den Wohnsitz dort behalten. Prüf das, bevor du doppelt zahlst.
 
@@ -56,7 +64,7 @@ In diesen Fällen: Geld sparen, Notgroschen aufbauen. Der ist ohnehin die erste 
 
 ## Die drei Stolperfallen beim Abschluss
 
-**1. Unterversicherung** — Die gefährlichste Falle. Setzt du die Versicherungssumme zu niedrig an, bekommst du bei einem Totalschaden nur anteilig Geld zurück. Die Faustregel: 650 Euro pro Quadratmeter Wohnfläche. Bei 50 m² also 32.500 Euro. Viele Anbieter versichern automatisch zum "Unterversicherungsverzicht", wenn du diese Summe ansetzt.
+**1. Unterversicherung** — Die gefährlichste Falle. Setzt du die Versicherungssumme zu niedrig an, bekommst du bei einem Totalschaden nur anteilig Geld zurück. Die Faustregel: 650 Euro pro Quadratmeter Wohnfläche. Bei 50 m² also 32.500 Euro. Viele Anbieter versichern automatisch zum "Unterversicherungsverzicht", wenn du diese Summe ansetzt. [Wie du die Versicherungssumme exakt berechnest — und wann die Faustformel danebenliegt, steht hier.](/blog/hausratversicherung-versicherungssumme-berechnen)
 
 **2. Zeitwert statt Neuwert** — Billige Tarife ersetzen dir den Zeitwert. Dein 3 Jahre altes MacBook hat dann keinen Kaufpreis, sondern Restwert. Ein Tarif mit Neuwertentschädigung ist meistens nur 10 bis 20 Euro teurer pro Jahr — und macht im Schadensfall den entscheidenden Unterschied.
 
@@ -66,7 +74,7 @@ In diesen Fällen: Geld sparen, Notgroschen aufbauen. Der ist ohnehin die erste 
 
 **Grobe Fahrlässigkeit:** Hast du die Kerze nicht ausgepustet, das Bügeleisen angelassen, die Wohnungstür offen gelassen? Günstige Tarife kürzen dann drastisch. Der Zusatz "Verzicht auf Einrede der groben Fahrlässigkeit" ist für wenige Euro jährlich buchbar und schützt vor dem häufigsten Streitfall.
 
-**Elementarschäden:** Überschwemmung durch Starkregen, Rückstau, Erdrutsch — alles nicht in der Grunddeckung. In Münster weniger relevant als in Hochwassergebieten, aber Starkregen gibt es auch hier. Prüf die Postleitzahl deiner Wohnung im ZÜRS-Geoportal.
+**Elementarschäden:** Überschwemmung durch Starkregen, Rückstau, Erdrutsch — alles nicht in der Grunddeckung. In Münster weniger relevant als in Hochwassergebieten, aber Starkregen gibt es auch hier. Prüf die Postleitzahl deiner Wohnung im ZÜRS-Geoportal. [Was die Hausratversicherung beim häufigsten Schadenfall — Wasserschaden — wirklich zahlt, liest du hier.](/blog/hausratversicherung-wasserschaden)
 
 **Selbstbeteiligung:** Eine Selbstbeteiligung von 150 bis 300 Euro senkt die Prämie spürbar. Für Berufseinsteiger mit Notgroschen meistens die bessere Wahl als ein Tarif ohne SB.
 

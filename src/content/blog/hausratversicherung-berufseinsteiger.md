@@ -2,6 +2,7 @@
 title: 'Hausratversicherung erste eigene Wohnung: Was Berufseinsteiger brauchen'
 description: 'Erste eigene Wohnung, neuer Job — diese Hausratversicherung-Punkte solltest du als Berufseinsteiger kennen: Versicherungssumme, Fahrrad, Eltern-Police.'
 pubDate: '2026-04-08'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Versicherungen'
 tldr: 'Hausratversicherung nach VHB (Verbundene Hausratversicherungsbedingungen) deckt Hausrat gegen Einbruchdiebstahl, Feuer, Leitungswasser, Sturm/Hagel (ab Windstärke 8, Beaufort), Überspannung durch Blitzschlag. Versicherungssumme 650 €/m² üblich — bei 60 m² rund 39.000 €. Jahresprämie 50-150 € je nach Lage/Wohnfläche/Zuschlägen. Ausschlüsse: einfacher Diebstahl außer Haus (Fahrraddiebstahl als Zusatzbaustein 15-30 €/Jahr), Elementarschäden (Überschwemmung, Starkregen, Erdrutsch — Erweiterung um 20-80 €/Jahr), Glasbruch (Zusatz 15-30 €/Jahr). Unterversicherungsverzicht nach § 75 VVG möglich bei 650-700 €/m² Mindestsumme — bei Unterversicherung wird Schaden nur anteilig erstattet. Laut GDV 2024: Durchschnittsprämie Hausrat 2024 rund 85 €/Jahr, Schadenquote rund 73 %, durchschnittliche Schadenhöhe Einbruch 3.200 €, Leitungswasser 3.800 €.'
@@ -46,15 +47,13 @@ Was typischerweise **nicht** enthalten ist: einfacher Diebstahl (Fahrrad auf der
 
 ## Wann lohnt sie sich wirklich?
 
-Für Berufseinsteiger mit wenig Hausrat — WG-Zimmer, Studentenmöbel, gebrauchte Geräte — ist die Frage berechtigt. Bei einem überschaubaren Hausrat unter 5.000 Euro ist die Abwägung legitim.
+Kurzfassung für die erste eigene Wohnung: Ab einem Hausratwert von rund 10.000 € wird die Versicherung rational sinnvoll — und die Schwelle ist mit Laptop, Möbeln, Kleidung und Fahrrad schneller erreicht als gedacht. Die Prämie liegt je nach Wohnfläche und Lage bei 50 bis 150 Euro im Jahr.
 
-Aber: Sobald du einen eigenen Haushalt führst, ein teures Fahrrad hast oder teure Elektronik nutzt, ändert sich die Rechnung. Schon ein einziger Wasserschaden durch eine defekte Waschmaschine kann Schäden in vierstelliger Höhe verursachen — an Möbeln, Böden, Geräten.
-
-Die Prämie für eine Hausratversicherung liegt je nach Wohnfläche und Lage bei 50 bis 150 Euro im Jahr. Das entspricht dem Selbstbehalt bei einem kleinen Schaden.
+[Die vollständige Lohnt-sich-Rechnung mit allen Wann-ja-wann-nein-Fällen steht im Grundsatzartikel.](/blog/hausratversicherung-sinnvoll) Hier geht es im Folgenden um das, was beim **ersten eigenen Abschluss** konkret zu tun ist.
 
 ## Worauf du beim Abschluss achten solltest
 
-**Versicherungssumme richtig berechnen:** Die übliche Faustregel lautet 650 Euro pro Quadratmeter Wohnfläche. Bei 60 m² also 39.000 Euro. Zu niedrig angesetzte Summen führen zur sogenannten Unterversicherung — du bekommst bei einem Totalschaden nur einen Teil erstattet.
+**Versicherungssumme richtig berechnen:** Die übliche Faustregel lautet 650 Euro pro Quadratmeter Wohnfläche. Bei 60 m² also 39.000 Euro. Zu niedrig angesetzte Summen führen zur sogenannten Unterversicherung — du bekommst bei einem Totalschaden nur einen Teil erstattet. [Die genaue Berechnungsmethode steht hier](/blog/hausratversicherung-versicherungssumme-berechnen), [was die Versicherung pro Quadratmeter kostet, hier](/blog/hausratversicherung-kosten-qm).
 
 **Fahrrad einschließen:** Fahrraddiebstahl ist in vielen Tarifen optional. In Münster, wo Fahrräder massenhaft gestohlen werden, ist das kein Luxus.
 
@@ -66,9 +65,9 @@ Die Prämie für eine Hausratversicherung liegt je nach Wohnfläche und Lage bei
 
 ## Hausratversicherung vs. Haftpflichtversicherung
 
-Häufige Verwechslung: Die Hausratversicherung schützt deinen Hausrat bei Schäden, die dir passieren. Die private Haftpflichtversicherung schützt dich, wenn du anderen Schäden zufügst.
+Kurz gesagt: Die Hausratversicherung schützt **deine Sachen**, die Haftpflicht schützt dich, wenn **du anderen** schadest — beides unabhängig voneinander, beides sinnvoll. [Die ausführliche Abgrenzung mit typischen Schadenfällen steht hier](/blog/hausratversicherung-haftpflicht-unterschied), [die Haftpflicht-Grundlagen hier](/blog/private-haftpflichtversicherung-berufseinsteiger).
 
-Beides ist unabhängig voneinander — und für die meisten Haushalte lohnen sich beide. [Was die Haftpflichtversicherung abdeckt und warum sie unverzichtbar ist, erklärt dieser Artikel.](/blog/private-haftpflichtversicherung-berufseinsteiger)
+Wohnst du zur Miete oder in einer WG, gelten ein paar Besonderheiten — [die Mieter- und WG-Fälle sind hier erklärt](/blog/hausratversicherung-mieter-wg).
 
 ## Fazit
 

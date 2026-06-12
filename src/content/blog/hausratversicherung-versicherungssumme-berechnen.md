@@ -2,6 +2,7 @@
 title: 'Versicherungssumme Hausrat berechnen: Die Faustregel und ihre Grenzen'
 description: 'Wie berechnest du die richtige Versicherungssumme für deine Hausratversicherung? Faustformel, realistische Werte und wie du Unterversicherung vermeidest.'
 pubDate: '2026-05-29'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Versicherungen'
 tldr: 'Versicherungssumme Hausrat: Standardpauschale 650 €/qm Wohnfläche laut VHB 2022 (Verband Deutscher Sachversicherer) mit Unterversicherungsverzicht-Klausel. Gesetzliche Grundlage Unterversicherung § 75 VVG: bei tatsächlichem Wert höher als Versicherungssumme Quotelung im Schadensfall (VS/Ist-Wert × Schaden). Unterversicherungsverzicht als Sondervereinbarung: Versicherer garantiert volle Entschädigung bei Einhaltung pauschaler 650 €/qm unabhängig von tatsächlichem Wert. Neuwertentschädigung § 74 VVG Standard seit 2012 (Wiederbeschaffungswert gleichwertiger Neuware), Zeitwertentschädigung nur bei expliziter Vereinbarung oder altersbedingter Vollabschreibung. Dynamik-Anpassung: jährliche Erhöhung 2-5 % gegen schleichende Unterversicherung. Wertsachen-Deckungsgrenzen § 13 VHB: typisch 20 % der VS, Einzelwertgrenze pro Gegenstand 2.500-5.000 € — für Schmuck/Kunst über 25.000 € separate Wertsachenpolice sinnvoll.'
@@ -118,7 +119,7 @@ Das ist in den meisten Fällen sinnvoll. Ohne Dynamik rutschst du im Laufe von 5
 
 Die Versicherungssumme ist die wichtigste Zahl im Hausrat-Vertrag — und gleichzeitig die am häufigsten falsch eingestellte. Die 650-€-Faustformel ist ein guter Startpunkt, ersetzt aber keinen Blick auf deinen tatsächlichen Hausrat.
 
-Wer einmal eine grobe Inventarliste erstellt und die Summe danach setzt, hat die häufigste Ursache für Streit mit der Versicherung ausgeschlossen. [Wie die Kosten für verschiedene Versicherungssummen variieren, ist in diesem Artikel erklärt](/blog/hausratversicherung-kosten-qm). Bei welcher Deckung und welchen Zusatzbausteinen es für deine Situation am sinnvollsten bleibt, lässt sich im Beratungsgespräch klarer einordnen als am Vergleichsrechner.
+Wer einmal eine grobe Inventarliste erstellt und die Summe danach setzt, hat die häufigste Ursache für Streit mit der Versicherung ausgeschlossen. [Wie die Kosten für verschiedene Versicherungssummen variieren, ist in diesem Artikel erklärt](/blog/hausratversicherung-kosten-qm), [ob sich die Hausratversicherung für dich grundsätzlich lohnt, hier](/blog/hausratversicherung-sinnvoll) — und [was Hausrat von der Haftpflicht unterscheidet, im Vergleichsartikel](/blog/hausratversicherung-haftpflicht-unterschied). Bei welcher Deckung und welchen Zusatzbausteinen es für deine Situation am sinnvollsten bleibt, lässt sich im Beratungsgespräch klarer einordnen als am Vergleichsrechner.
 
 ---
 

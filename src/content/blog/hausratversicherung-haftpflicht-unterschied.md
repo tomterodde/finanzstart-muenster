@@ -2,6 +2,7 @@
 title: 'Hausratversicherung und Haftpflichtversicherung: Der Unterschied einfach erklärt'
 description: 'Hausrat oder Haftpflicht — was deckt welche Versicherung ab? Die klaren Unterschiede, typische Schadenfälle und warum du meistens beides brauchst.'
 pubDate: '2026-05-31'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Versicherungen'
 tldr: 'Zwei grundsätzlich unterschiedliche Versicherungsarten: Hausratversicherung (§§ 1-20 VHB-Bedingungen) deckt eigene bewegliche Sachen gegen benannte Gefahren (Feuer, Leitungswasser, Sturm/Hagel, Einbruch) — First-Party-Versicherung. Private Haftpflichtversicherung (§ 823 BGB i.V.m. VVG) deckt Schadenersatzansprüche Dritter wegen Personen-/Sach-/Vermögensschäden — Third-Party-Versicherung. Kein Überlappungsbereich: Eigene Möbel durch Wasserrohrbruch → Hausrat. Nachbar-Wohnung durch eigenen Waschmaschinenschaden → Haftpflicht. Kombikosten typisch 80-150 €/Jahr gesamt. Haftpflicht für jeden Erwachsenen essenziell wegen unbegrenzter Haftung bei Personenschäden (§ 823 Abs. 1 BGB: Schadensersatzpflicht für Körper-/Gesundheitsverletzung, Durchschnittsschaden bei schweren Personenschäden 1-5 Mio. € laut GDV). Deckungssumme mindestens 10 Mio. € pauschal für Personen-/Sach-/Vermögensschäden. Hausrat fakultativ ab Hausratwert 10.000 €.'
@@ -14,6 +15,10 @@ faq:
     answer: 'Hausratversicherung wirtschaftlich sinnvoll ab Hausratwert ca. 10.000 €. Berechnung Hausratwert: typisch 650-800 €/qm (Finanztest 03/2024) — 40 qm Wohnung = 26.000-32.000 €. Bereits Standard-Mieterhaushalt deutlich über 10.000 €. Rationale Abwägung: Beitrag 60-120 €/Jahr × 40 Jahre = 2.400-4.800 €. Totalschaden Hausrat (Wohnungsbrand) im Durchschnitt 25.000 €. Bei 1-2 % Schadensereignis-Wahrscheinlichkeit pro Jahrzehnt bereits break-even. Ausnahmen, bei denen Hausrat weglegbar: möblierte WG (Eigentum vermieterseits), minimaler Hausrat unter 5.000 €, befristete Zwischenlösungen (Studierendenwohnheim). In allen anderen Fällen Hausratversicherung rational. Versicherungssumme richtig ermitteln: Unterversicherungsverzicht bei 650-700 €/qm wirkt als Versicherer-Garantie vollständiger Ersatzleistung ohne Quotelung (§ 75 VVG).'
   - question: 'Wann zahlt Hausrat vs. Haftpflicht bei Wasserschaden?'
     answer: 'Wasserschadenmatrix nach Schadensursache und Schadensort: 1) Eigener Wasserschaden in eigener Wohnung (Rohrbruch, Waschmaschinen-Auslaufen, überlaufende Badewanne) auf eigenen Hausrat → Hausratversicherung zahlt bis Versicherungssumme. 2) Eigener Wasserschaden schädigt Nachbarn unten → Privathaftpflicht des Verursachers zahlt den Nachbarn direkt (oder dessen Hausratversicherung regressiert). 3) Wasserschaden am Gebäude (Wände, Parkett als wesentlicher Gebäudebestandteil) → Gebäudeversicherung des Vermieters/Eigentümers. 4) Wasserschaden durch Naturereignis (Hochwasser, Starkregen) → nur bei Elementarschadenversicherung (Zusatzbaustein Hausrat). Leitungswasser-Regulierungsstandard § 11 VVG: Versicherer hat 30 Tage zur Deckungsentscheidung ab Schadensanzeige. Grob fahrlässiges Herbeiführen (laufende Badewanne unbeaufsichtigt lassen) § 81 VVG: Quotelung oder Leistungsfreiheit — seit 2008-Reform typisch 50-70 % Quotelung statt vollständige Leistungsablehnung.'
+  - question: 'Wer ist in der Hausratversicherung mitversichert?'
+    answer: 'Versichert ist der Hausrat des gesamten Haushalts des Versicherungsnehmers — also auch Ehe-/Lebenspartner und Kinder, die im selben Haushalt leben. Nicht automatisch mitversichert: WG-Mitbewohner (eigene Haushalte → jeder braucht eine eigene Police) und Kinder mit eigenem Hausstand. Bei Studenten gilt oft die Außenversicherung der Eltern-Police bis zum Ende der Erstausbildung, solange der Hauptwohnsitz bei den Eltern bleibt.'
+  - question: 'Was bedeutet "verbundene Hausratversicherung" (VHB)?'
+    answer: 'Der Standardaufbau praktisch jeder modernen Hausratpolice: Mehrere Gefahren (Feuer, Leitungswasser, Sturm/Hagel, Einbruchdiebstahl/Raub) sind in einem Vertrag "verbunden" — daher VHB, Verbundene Hausratversicherungsbedingungen. Historisch gab es getrennte Feuer- oder Einbruchpolicen. Wer heute eine Hausratversicherung abschließt, schließt automatisch eine verbundene ab; die VHB-Fassung (z. B. VHB 2022) bestimmt den Bedingungsstandard.'
   - question: 'Lohnt sich Kombi-Tarif Hausrat + Haftpflicht?'
     answer: 'Kombi-Tarif spart typisch 5-15 % (ca. 10-20 €/Jahr) gegenüber Einzelverträgen. Beispiel: Hausrat 80 € + Haftpflicht 60 € einzeln = 140 €. Kombi 125 €. Ersparnis 15 €/Jahr = 11 %. Vorteile: ein Ansprechpartner, oft identische Deckungserweiterungen (z. B. grobe Fahrlässigkeit bis 10 Mio. beide Bausteine), einfachere Schadensbearbeitung bei kombinierten Fällen. Nachteile: Konditionskompromisse — beste Haftpflicht (z. B. Baloise, Haftpflichtkasse) hat selten beste Hausrat (z. B. Ammerländer, VHV). Kündigung eines Bausteins führt oft zu Kündigung des anderen. Empfehlung: Bei Berufseinsteigern mit Standardrisiko (Mietwohnung, keine Wertsachen, keine Hunde) Kombi ausreichend und pragmatisch. Bei Sonderrisiken (z. B. Schmuck über 20.000 €, Drohne, Hundehalter) Einzelverträge mit spezialisierten Anbietern. Vergleich über Check24, Finanztip Haftpflicht-Empfehlung oder spezialisierte Makler.'
 sources:
@@ -108,6 +113,17 @@ Für die meisten Berufseinsteiger ist der Kombi-Tarif bequem und leicht 10 bis 2
 **Unfallversicherung:** Zahlt bei Invalidität nach Unfällen, die du selbst erleidest. Gehört nicht in die Hausrat-Haftpflicht-Kategorie.
 
 Eine häufige Frage: "Brauche ich noch eine Glasversicherung?" — Oft als Zusatz in der Hausrat, nur sinnvoll bei teuren Glasflächen.
+
+## Hausratversicherung im Detail: Wegweiser durch die wichtigsten Fragen
+
+Wenn die Grundsatzfrage geklärt ist, hängt der Rest an deiner konkreten Situation — für jede gibt es einen eigenen Vertiefungsartikel:
+
+- **Lohnt sie sich für mich überhaupt?** → [Hausratversicherung sinnvoll? Die 10.000-€-Regel](/blog/hausratversicherung-sinnvoll)
+- **Was kostet sie realistisch?** → [Kosten pro Quadratmeter mit Preisspannen](/blog/hausratversicherung-kosten-qm)
+- **Wie hoch muss die Versicherungssumme sein?** → [Versicherungssumme berechnen ohne Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen)
+- **Erste eigene Wohnung nach dem Berufsstart?** → [Der Einsteiger-Leitfaden](/blog/hausratversicherung-berufseinsteiger)
+- **Mietwohnung oder WG?** → [Die Mieter- und WG-Sonderfälle](/blog/hausratversicherung-mieter-wg)
+- **Schadenfall Nummer 1:** → [Was die Hausratversicherung bei Wasserschaden zahlt](/blog/hausratversicherung-wasserschaden)
 
 ## Fazit
 
