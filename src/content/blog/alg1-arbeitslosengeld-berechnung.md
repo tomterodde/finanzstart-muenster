@@ -1,7 +1,8 @@
 ---
-title: 'ALG 1 berechnen: Wie viel Arbeitslosengeld du 2025 bekommst'
-description: 'ALG 1 beträgt 60 % vom pauschalierten Netto (67 % mit Kind) — durchschnittlich 1.286 € pro Monat 2024. Berechnung, Bezugsdauer und Sperrzeit-Fallen im Überblick.'
+title: 'Arbeitslosengeld 1: Anspruch, Höhe, Dauer und Sperrzeiten im Überblick'
+description: 'Arbeitslosengeld 1 erklärt: Wer hat Anspruch, wie hoch fällt es aus (60/67 % vom Netto), wie lange wird gezahlt — und welche Sperrzeit-Fallen du vermeiden musst.'
 pubDate: '2026-04-11'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'
 tldr: 'ALG I ist eine Versicherungsleistung aus der Arbeitslosenversicherung (Beitragssatz 2,6 % brutto, paritätisch, § 341 SGB III), nicht Bürgergeld. Anspruch nach § 142 SGB III: 12 Monate versicherungspflichtig in den letzten 30 Monaten (Anwartschaftszeit). Höhe (§ 149 SGB III): 60 % des pauschalierten Nettoentgelts ohne Kinder, 67 % mit Kind. Bezugsdauer (§ 147 SGB III): 6 Monate bei 12 Monaten Beschäftigung, gestaffelt bis 24 Monate bei 30+ Monaten ab 50 Jahren. Sperrzeit bis 12 Wochen (§ 159 SGB III) bei Eigenkündigung oder fehlender Meldung 3 Monate vor Vertragsende (§ 38 SGB III). Durchschnittliches ALG I 2024 laut Bundesagentur für Arbeit: 1.286 €/Monat.'
@@ -12,8 +13,10 @@ faq:
     answer: 'Berechnung nach § 149 SGB III: Bruttogehalt abzüglich pauschaler Lohnsteuer, Soli und Sozialabgaben ergibt "pauschaliertes Nettoentgelt" (bei 3.000 € brutto ca. 1.900 €). Davon 60 % ohne Kinder = rund 1.140 €/Monat, 67 % mit mindestens einem Kind = rund 1.273 €/Monat. Beitragsbemessungsgrenze 2025 West: 8.050 €/Monat (Bundesbehörde). Darüber hinaus kein höheres ALG I.'
   - question: 'Wann droht eine Sperrzeit und wie lange?'
     answer: 'Sperrzeit nach § 159 SGB III: bei Eigenkündigung ohne wichtigen Grund 12 Wochen, bei Pflichtverletzungen (Ablehnung zumutbarer Jobs) 3–12 Wochen, bei verspäteter Meldung (§ 38 SGB III: spätestens 3 Monate vor Vertragsende oder unverzüglich bei kurzfristiger Kündigung) 1 Woche. Während Sperrzeit kein ALG I, außerdem Kürzung der Gesamtbezugsdauer um die Sperrzeit. Krankenversicherung entfällt ebenfalls.'
-  - question: 'Wie lange bekomme ich ALG I?'
-    answer: 'Bezugsdauer nach § 147 SGB III hängt von Versicherungszeit und Alter ab: 12 Monate Beschäftigung = 6 Monate ALG I, 16 Monate = 8 Monate, 20 Monate = 10, 24 Monate = 12. Ab 50 Jahren Staffelung auf bis zu 15 Monate, ab 55 bis 18, ab 58 bis zu 24 Monate (nur bei mindestens 48 Monaten Versicherungspflicht). Für Berufseinsteiger unter 50 maximal 12 Monate.'
+  - question: 'Ab wann kann man Arbeitslosengeld beantragen?'
+    answer: 'Zwei Meldungen sind nötig: Arbeitssuchend-Meldung spätestens 3 Monate vor Vertragsende (bei kurzfristiger Kündigung binnen 3 Tagen nach Kenntnis, § 38 SGB III) und Arbeitslos-Meldung spätestens am ersten Tag der Arbeitslosigkeit — beides geht online über die Bundesagentur für Arbeit. Der Anspruch beginnt mit dem ersten Tag der Arbeitslosigkeit, sofern die Anwartschaftszeit erfüllt ist; ausgezahlt wird rückwirkend zum Monatsende. Verspätete Meldung kostet eine Sperrzeit von einer Woche.'
+  - question: 'Ist ALG 1 eine Sozialleistung?'
+    answer: 'ALG 1 ist formal eine Sozialleistung nach dem Sozialgesetzbuch (SGB III) — aber eine beitragsfinanzierte Versicherungsleistung, keine bedürftigkeitsgeprüfte Fürsorgeleistung wie das Bürgergeld. Praktische Folge: Eigenes Vermögen und Partnereinkommen spielen beim ALG 1 keine Rolle, die Höhe richtet sich allein nach dem vorherigen Verdienst.'
   - question: 'Was passiert mit BU-Versicherung und Krankenkasse bei ALG I?'
     answer: 'Private BU-Versicherung läuft weiter — Beiträge musst du selbst zahlen, ALG I deckt das nicht. Gesetzliche Krankenversicherung: ALG-I-Bezieher sind automatisch pflichtversichert (§ 5 Abs. 1 Nr. 2 SGB V), Beiträge zahlt die Bundesagentur für Arbeit. Altersvorsorge: Pflichtbeiträge zur DRV werden für ALG-I-Zeit auf Basis von 80 % des letzten Bruttos abgeführt (§ 166 SGB VI) — die Rentenanwartschaft bleibt also teilweise erhalten.'
   - question: 'Habe ich Anspruch auf ALG 1 nach Eigenkündigung?'
@@ -36,7 +39,7 @@ Job verloren. Was jetzt? Die meisten wissen ungefähr, dass es "Arbeitslosengeld
 
 ## Was ist ALG I?
 
-Arbeitslosengeld I (ALG I) ist eine Versicherungsleistung — keine staatliche Sozialhilfe. Du hast Anspruch darauf, weil du Beiträge in die Arbeitslosenversicherung (1,3 % deines Bruttos, je zur Hälfte mit dem Arbeitgeber) eingezahlt hast.
+Arbeitslosengeld I (ALG I) ist eine Versicherungsleistung — keine staatliche Fürsorge. Du hast Anspruch darauf, weil du Beiträge in die Arbeitslosenversicherung eingezahlt hast (Beitragssatz 2,6 % des Bruttos, je zur Hälfte von dir und deinem Arbeitgeber getragen — also je 1,3 %).
 
 Das unterscheidet ALG I fundamental vom Bürgergeld (ALG II / früher Hartz IV): Das Bürgergeld ist eine bedürftigkeitsabhängige Grundsicherung. ALG I ist dein erarbeiteter Anspruch.
 
@@ -57,23 +60,15 @@ Die Höhe richtet sich nach deinem durchschnittlichen Bruttogehalt der letzten 1
 - **Ohne Kinder:** 60 % des pauschalierten Nettoentgelts
 - **Mit mindestens einem Kind:** 67 %
 
-Beispiel: 3.000 Euro brutto → pauschaliertes Netto ca. 1.900 Euro → ALG I ca. **1.140 Euro/Monat** (ohne Kinder).
+Beispiel: 3.000 Euro brutto → pauschaliertes Netto ca. 1.900 Euro → ALG I ca. **1.140 Euro/Monat** (ohne Kinder). Als Faustformel landen die meisten bei 40 bis 50 % ihres Bruttogehalts.
 
-Das klingt nach wenig — weil es wenig ist. ALG I ist eine Überbrückung, kein Ersatz für dein Gehalt.
+Das klingt nach wenig — weil es wenig ist. ALG I ist eine Überbrückung, kein Ersatz für dein Gehalt. [Die vollständige ALG1-Tabelle nach Bruttogehalt und Steuerklasse — inklusive der Stellschrauben Steuerklasse und Kinderfreibetrag — steht im Rechner-Artikel.](/blog/alg1-rechner-wie-viel-arbeitslosengeld)
 
 ## Wie lange wird ALG I gezahlt?
 
-Die Bezugsdauer hängt davon ab, wie lange du in den letzten 5 Jahren versicherungspflichtig beschäftigt warst:
+Kurzfassung: zwischen **6 und 24 Monaten**, abhängig von Versicherungszeit und Alter. Unter 50 Jahren sind maximal 12 Monate drin (ab 24 Monaten Beschäftigung in den letzten 5 Jahren); die verlängerten Ansprüche ab 50/55/58 setzen entsprechend längere Versicherungszeiten voraus.
 
-| Beschäftigung (Monate) | Bezugsdauer ALG I |
-|---|---|
-| 12 | 6 Monate |
-| 16 | 8 Monate |
-| 20 | 10 Monate |
-| 24 | 12 Monate |
-| 30+ (ab 50 Jahre) | bis 24 Monate |
-
-Für die meisten Berufseinsteiger mit wenigen Berufsjahren gilt: maximal 6–12 Monate ALG I. Das ist die Lücke, für die du vorsorgen solltest.
+Für die meisten Berufseinsteiger mit wenigen Berufsjahren gilt: maximal 6–12 Monate ALG I. Das ist die Lücke, für die du vorsorgen solltest. [Die vollständige Bezugsdauer-Tabelle nach Alter und Versicherungszeit — inklusive Sonderregeln und Restanspruch — steht hier.](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit)
 
 ## Sperrzeiten: Was du vermeiden musst
 
@@ -88,7 +83,9 @@ ALG I schützt dich vor dem sofortigen freien Fall — aber es deckt keine:
 - Altersvorsorge-Beiträge
 - größeren Fixkosten bei längerem Leerlauf
 
-Ein Notgroschen von 3 Monatsgehältern bleibt unverzichtbar — als Puffer für die Zeit bis ALG I ausgezahlt wird und für Kosten, die das ALG I nicht deckt.
+Ein [Notgroschen von 3 Monatsgehältern](/blog/notgroschen-wo-parken-tagesgeld) bleibt unverzichtbar — als Puffer für die Zeit bis ALG I ausgezahlt wird und für Kosten, die das ALG I nicht deckt.
+
+Verwandte Situationen, die eigene Regeln haben: [Kurzarbeit und Kurzarbeitergeld](/blog/kurzarbeit-kurzarbeitergeld-erklaert) (Job bleibt, Einkommen sinkt) und [Insolvenz des Arbeitgebers](/blog/insolvenz-arbeitgeber-was-passiert-gehalt) (Insolvenzgeld vor dem ALG I).
 
 ## Fazit
 

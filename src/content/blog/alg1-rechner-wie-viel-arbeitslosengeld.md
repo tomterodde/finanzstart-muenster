@@ -2,6 +2,7 @@
 title: 'ALG1-Rechner 2026: Wie viel Arbeitslosengeld bekomme ich?'
 description: 'Wie wird das Arbeitslosengeld 1 berechnet? Formel, Beispielrechnungen, ALG1-Tabelle 2026 nach Brutto und Steuerklasse — mit und ohne Kind.'
 pubDate: '2026-05-31'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Arbeitslosengeld 1 beträgt 60 % des pauschalierten Nettoentgelts (67 % mit Kind). Faustformel: rund 40 bis 45 % vom Bruttogehalt ohne Kind, 45 bis 50 % mit Kind. Das maximale ALG1 liegt 2026 bei rund 2.400 € im Monat (West, ohne Kind), der Anspruch ist durch die Beitragsbemessungsgrenze gedeckelt.'
@@ -14,6 +15,8 @@ faq:
     answer: 'Steuerklasse 3 führt zum höchsten Nettoentgelt und damit zum höchsten ALG1. Verheiratete sollten vor der Antragstellung prüfen, ob ein Steuerklassenwechsel sinnvoll ist — er muss aber zum 1. Januar des Jahres vor der Arbeitslosigkeit erfolgen, sonst greift die Bundesagentur für Arbeit auf die zum 1.1. eingetragene Klasse zurück.'
   - question: 'Gibt es eine ALG1-Obergrenze?'
     answer: 'Ja. Das Bemessungsentgelt ist auf die Beitragsbemessungsgrenze der Arbeitslosenversicherung gedeckelt — 2026 voraussichtlich 8.050 € im Monat in den alten Bundesländern. Daraus ergibt sich ein maximales ALG1 von rund 2.400 € (West, ohne Kind) bzw. 2.700 € (West, mit Kind).'
+  - question: 'Gibt es einen ALG1-Mindestsatz?'
+    answer: 'Nein. Das ALG1 hat keinen Mindestbetrag — es richtet sich strikt nach dem vorherigen Verdienst (60 bzw. 67 % des pauschalierten Nettoentgelts). Wer aus einem niedrigen Einkommen kommt, erhält entsprechend wenig. Reicht das ALG1 nicht zum Leben, kann ergänzend aufstockendes Bürgergeld beantragt werden — dieses ist allerdings bedarfsgeprüft.'
   - question: 'Wirkt sich eine Abfindung auf das ALG1 aus?'
     answer: 'Auf die Höhe in der Regel nicht — das ALG1 wird aus dem Bemessungsentgelt der letzten 12 Monate berechnet, nicht aus der Abfindung. Aber: Wird eine Kündigungsfrist durch Aufhebungsvertrag verkürzt, kann das ALG1 für mehrere Monate ruhen (Ruhenstatbestand nach § 158 SGB III).'
 sources:
@@ -87,7 +90,7 @@ Das ALG1 ersetzt das Brutto nicht. Es ersetzt das pauschalierte Netto — und au
 - **Laufende Verträge:** Versicherungen, Streamingdienste, Fitnessstudio
 - **Sparpläne:** Altersvorsorge und Vermögensaufbau pausieren oft, was Rendite kostet
 
-Die Liquiditätsreserve sollte deshalb so dimensioniert sein, dass sie auch nach einem Sprung von Brutto auf ALG1 noch mindestens drei Monate trägt. Mehr dazu im Artikel zur [Liquiditätsreserve](/blog/liquiditaet-einfach-erklaert/) und zur [Bezugsdauer und Berechnungsgrundlage des ALG1](/blog/alg1-arbeitslosengeld-berechnung/).
+Die Liquiditätsreserve sollte deshalb so dimensioniert sein, dass sie auch nach einem Sprung von Brutto auf ALG1 noch mindestens drei Monate trägt. Mehr dazu im Artikel zur [Liquiditätsreserve](/blog/liquiditaet-einfach-erklaert/). [Wie lange das ALG1 gezahlt wird, zeigt die Bezugsdauer-Tabelle nach Alter und Versicherungszeit](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit) — [Anspruchsvoraussetzungen und Sperrzeit-Fallen stehen im Überblicksartikel](/blog/alg1-arbeitslosengeld-berechnung/).
 
 ## Fazit
 

@@ -2,6 +2,7 @@
 title: 'Wie lange ALG1? Bezugsdauer-Tabelle nach Alter und Versicherungszeit'
 description: 'Wie lange wird Arbeitslosengeld 1 gezahlt? Vollständige Tabelle nach Versicherungszeit und Alter — von 6 bis 24 Monaten, plus Sonderregelungen ab 50, 55 und 58.'
 pubDate: '2026-06-01'
+updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die Bezugsdauer des Arbeitslosengeldes 1 hängt von der Versicherungspflichtzeit der letzten 5 Jahre und dem Alter ab. Sie reicht von 6 Monaten (bei 12 Monaten Versicherungszeit) bis 24 Monaten (ab Alter 58 mit 48 Monaten Versicherungszeit). Die Anwartschaft entsteht durch 12 Monate Versicherungspflicht innerhalb der letzten 30 Monate.'
@@ -97,7 +98,7 @@ Wer nach Ende der ALG1-Bezugsdauer immer noch arbeitslos ist, kann Bürgergeld n
 - Die Regelleistung liegt deutlich unter dem ALG1 (Stand 2025: 563 € für Alleinstehende, dazu Kosten der Unterkunft)
 - Geschütztes Vermögen ist begrenzt (15.000 € pro Person plus Schonvermögen je nach Alter)
 
-Wer nicht in den Bezug von Bürgergeld fallen will, muss vorsorgen — entweder durch eine ausreichende Liquiditätsreserve oder durch ergänzende Absicherungen wie Berufsunfähigkeit oder Erwerbsminderung. Wie groß die [Lücke zwischen Brutto und ALG1](/blog/alg1-arbeitslosengeld-berechnung/) konkret ist und ob das Bezugsende erreicht werden könnte, hängt von Berufsfeld, Alter und persönlicher Reserve ab.
+Wer nicht in den Bezug von Bürgergeld fallen will, muss vorsorgen — entweder durch eine ausreichende Liquiditätsreserve oder durch ergänzende Absicherungen wie Berufsunfähigkeit oder Erwerbsminderung. Wie groß die [Lücke zwischen Brutto und ALG1 konkret ist, zeigt die ALG1-Tabelle nach Gehalt und Steuerklasse](/blog/alg1-rechner-wie-viel-arbeitslosengeld) — [Anspruchsvoraussetzungen und Sperrzeiten stehen im Überblicksartikel](/blog/alg1-arbeitslosengeld-berechnung/).
 
 ## Praktische Konsequenzen für die Finanzplanung
 
