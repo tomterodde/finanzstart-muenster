@@ -2,7 +2,7 @@
 title: 'Strukturvertrieb: Was steckt dahinter — und wie erkenne ich seriöse Anbieter?'
 description: 'Strukturvertrieb hat einen schlechten Ruf — aber warum eigentlich? Was das Modell bedeutet, wie Karrierestufen und Einkommen funktionieren und woran man seriöse Anbieter erkennt.'
 pubDate: '2026-04-21'
-updatedDate: '2026-06-11'
+updatedDate: '2026-06-17'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Strukturvertrieb ist ein Vertriebsmodell, in dem selbstständige Vermittler nicht nur Produkte verkaufen, sondern auch eigene Vertriebsteams aufbauen und an deren Umsätzen anteilig verdienen. In der Finanzbranche typisch bei Versicherungs- und Anlagevermittlern (DVAG, OVB, MLP, tecis, Swiss Life Select). Seriöse Strukturvertriebe haben BaFin-Lizenz (§ 34d/§ 34f GewO), bieten Produkte mehrerer Anbieter (Mehrfachagent), keine Eintrittsgebühren, klare Provisionsoffenlegung und transparente Karrierepfade. Schwarze Schafe: Pyramidensysteme ohne echte Produkte, Eintrittsgelder, Druck zum Eigenkauf — diese sind nach § 16 UWG bzw. § 16 SchwarzArbG verboten.'
@@ -66,7 +66,7 @@ Was meine Skepsis nach einigen Monaten Innenansicht entkräftet hat:
 - **Ich bin selbst zuerst Kunde geworden.** Berufsunfähigkeitsversicherung, Privathaftpflicht, Riester, fondsgebundene Privatrente — ich habe meine eigene Vorsorge nach demselben Beratungsprozess aufgebaut, den ich bei Kunden anwende. Wer dir Produkte empfiehlt, die er selbst nicht bespart, ist das eigentliche Warnsignal.
 - **Kein Eintrittsgeld, kein Eigenkauf-Zwang.** Mein Startkapital war eine Gewerbeanmeldung für unter 60 Euro.
 
-Was ich genauso ehrlich sage: Die ersten Monate sind eine Investitionsphase mit wenig Einkommen, das Modell verlangt Eigenverantwortung, und es gibt Vertriebe, bei denen ich nicht unterschrieben hätte. Wie du die auseinanderhältst, zeigen die nächsten Abschnitte.
+Was ich genauso ehrlich sage: Die ersten Monate sind eine Investitionsphase mit wenig Einkommen, das Modell verlangt Eigenverantwortung, und es gibt Vertriebe, bei denen ich nicht unterschrieben hätte. Wie du die auseinanderhältst, zeigen die nächsten Abschnitte. [Meine ungeschönten Erfahrungen nach vier Monaten als Trainee habe ich hier ausführlich aufgeschrieben.](/blog/strukturvertrieb-erfahrungen-trainee)
 
 ## Was reguliert seriöse Finanzvertriebe
 
@@ -103,7 +103,7 @@ Zwei Mechanismen sorgen in seriösen Modellen dafür, dass niemand allein durch 
 
 Dazu kommen Qualitätshürden: Beförderungen setzen üblicherweise eine niedrige Stornoquote voraus. Wer Verträge "drückt", die nach einem Jahr platzen, steigt nicht auf — das Modell bestraft schlechte Beratung wirtschaftlich.
 
-Realistische Einordnung: [Was Finanzberater im Anstellungsverhältnis und in der Selbstständigkeit verdienen, habe ich hier aufgeschlüsselt](/blog/finanzberater-beruf-was-verdient-man) — und [wie Provisionsmodelle im Detail funktionieren, erklärt dieser Artikel](/blog/provisionsmodell-einkommen-erklaert). Die ersten 6–12 Monate sind in jedem Fall eine Aufbauphase: Wer dir vom ersten Monat an ein Vollzeitgehalt verspricht, verkauft dir ein Märchen.
+Realistische Einordnung: [Was Finanzberater im Anstellungsverhältnis und in der Selbstständigkeit verdienen, habe ich hier aufgeschlüsselt](/blog/finanzberater-beruf-was-verdient-man) — und [wie Provisionsmodelle im Detail funktionieren, erklärt dieser Artikel](/blog/provisionsmodell-einkommen-erklaert). [Konkrete Zahlen für Jahr 1, 3 und 5 im Strukturvertrieb findest du in dieser Gehaltsanalyse.](/blog/strukturvertrieb-gehalt-verdienst) Die ersten 6–12 Monate sind in jedem Fall eine Aufbauphase: Wer dir vom ersten Monat an ein Vollzeitgehalt verspricht, verkauft dir ein Märchen.
 
 ## Kritik ernst genommen: Drückerkolonne, Pyramide, schlechte Beratung
 
@@ -131,6 +131,8 @@ Die drei häufigsten Vorwürfe gegen Strukturvertriebe verdienen ehrliche Antwor
 - Einnahmen primär aus Rekrutierung, nicht aus Kundengeschäft
 - Übertriebene Einkommensversprechen ohne realistische Einordnung
 - Keine schriftliche Beratungsdokumentation
+
+[Diese 10-Punkte-Checkliste zum seriösen Strukturvertrieb fasst alle Prüfkriterien zum Mitnehmen zusammen.](/blog/strukturvertrieb-serioes-checkliste)
 
 ## Ist Strukturvertrieb ein gutes Karrieremodell?
 
