@@ -1,15 +1,16 @@
 ---
 title: 'Rürup vs. ETF-Sparplan: Die Steuerrechnung im Vergleich'
-description: 'Lohnt sich Rürup wirklich gegenüber einem flexiblen ETF-Sparplan? Konkrete Steuerrechnung über 30 Jahre — Eigenaufwand, Endkapital und Rente nach Steuern im Vergleich.'
+description: 'Rürup oder ETF-Sparplan? Steuerrechnung über 30 Jahre — und warum die beiden unterschiedliche Aufgaben erfüllen und ein reiner Renditevergleich zu kurz greift.'
 pubDate: '2026-05-08'
+updatedDate: '2026-06-17'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
-tldr: 'Rürup-Beiträge sind 2025 bis 29.344 € (Single) als Sonderausgaben absetzbar (§ 10 Abs. 1 Nr. 2 EStG) — bei Grenzsteuersatz 42 % bedeutet das 0,42 € Steuerersparnis pro 1 € Beitrag. ETF-Sparplan dagegen aus Netto, dafür flexibel und kapitalfähig. Über 30 Jahre bei 5 % p. a. Rendite und Grenzsteuersatz heute 42 % / im Alter 30 %: Rürup-Police mit 1,5 % Kosten erreicht ca. 580.000 € Endkapital (entspricht ~2.000 € lebenslange Bruttorente, ~1.400 € netto), ETF-Sparplan mit 0,2 % Kosten ca. 750.000 € (Auszahlung flexibel, nur Kapitalerträge mit 25 % Abgeltungsteuer + Teilfreistellung 30 % belastet). Rürup gewinnt nur bei Grenzsteuersatz dauerhaft 42 %+, sehr niedrigen Produktkosten unter 1 % und sicherer Pflichtversicherung über § 851c ZPO. Für die meisten Sparer: ETF-Sparplan überlegen.'
+tldr: 'Rürup und ETF-Sparplan lösen unterschiedliche Aufgaben: Der ETF-Sparplan ist flexibler, kostengünstiger Vermögensaufbau (Erträge mit ~18,5 % belastet, jederzeit verfügbar, vererbbar). Die Rürup-Rente ist ein Verrentungsinstrument mit lebenslanger Rentengarantie, hoher Absetzbarkeit (2025 bis 29.344 € Single, § 10 EStG) und Pfändungsschutz (§ 851c ZPO). Ein reiner Rendite- oder Endkapitalvergleich greift zu kurz, weil er die lebenslange Absicherung des Langlebigkeitsrisikos ausblendet — ein ETF-Topf kann sich erschöpfen, die Rürup-Rente nie. Welche Gewichtung oder Kombination passt, hängt von Steuersatz, Produktkosten, Liquiditätsbedarf und Sicherheitsbedürfnis ab und gehört in eine individuelle Beratung.'
 faq:
   - question: 'Wie hoch ist der Steuervorteil bei Rürup pro 1.000 € Beitrag?'
     answer: 'Reine Steuerersparnis im Einzahlungsjahr: 1.000 € × persönlicher Grenzsteuersatz. Bei Grenzsteuersatz 42 % (Single über 68.480 € zvE 2025) sind das 420 €. Bei 33 % (mittleres Einkommen 40.000–55.000 € zvE) 330 €. Bei 25 % (junge Berufseinsteiger) nur 250 €. Wichtig: Der Effektiv-Vorteil sinkt durch nachgelagerte Besteuerung in der Rentenphase. Bei Rentenbeginn 2025 sind 83,5 % der Rürup-Rente steuerpflichtig (§ 22 Nr. 1 Buchst. a EStG), ab 2058 100 %. Wenn der Grenzsteuersatz im Alter 30 % beträgt, werden 25 % der Auszahlung nachversteuert — Netto-Steuervorteil über die Lebenszeit nur etwa 17 Prozentpunkte (42 % − 25 %), nicht volle 42 %.'
   - question: 'Was ist der größte Nachteil von Rürup gegenüber ETF?'
-    answer: 'Inflexibilität. Rürup-Vermögen ist gesetzlich gebunden: keine Kapitalauszahlung, kein Zugriff vor 62, nicht beleihbar, nicht übertragbar (§ 10 Abs. 1 Nr. 2 EStG, § 851c ZPO). Wer in 10 Jahren eine Immobilie kaufen will, ein Sabbatical plant oder die Selbstständigkeit aufgibt — kommt nicht ans Geld. Der ETF-Sparplan ist jederzeit verfügbar (T+2 Settlement), beleihbar als Sicherheit für Lombardkredite, vererbbar an beliebige Personen, übertragbar zwischen Depots. Die scheinbar höhere Steuerbelastung des ETF (25 % Abgeltungsteuer + 5,5 % Soli, mit 30 % Teilfreistellung effektiv 18,46 % auf Aktien-ETF-Erträge) ist der Preis für volle Liquidität — für die meisten Sparer ein guter Tausch.'
+    answer: 'Inflexibilität. Rürup-Vermögen ist gesetzlich gebunden: keine Kapitalauszahlung, kein Zugriff vor 62, nicht beleihbar, nicht frei vererbbar (§ 10 Abs. 1 Nr. 2 EStG, § 851c ZPO). Wer in 10 Jahren eine Immobilie kaufen will oder ein Sabbatical plant, kommt nicht ans Geld — der ETF-Sparplan ist hier jederzeit verfügbar und vererbbar. Diese Flexibilität ist der zentrale Vorteil des ETF. Umgekehrt ist genau die Bindung der Preis für Rürups Stärken: lebenslange Rentengarantie, Pfändungsschutz und der hohe Steuervorteil in der Ansparphase. Es ist also kein Nachteil im Sinne von "schlechter", sondern ein anderer Zweck.'
   - question: 'Wie viel kostet eine Rürup-Police pro Jahr?'
     answer: 'Klassische Fondsgebundene Rürup-Police: Abschlusskosten 2,5–4 % der Beitragssumme (verteilt auf 5 Jahre), Verwaltungskosten 1,5–3 % p. a. auf den Fondswert, Fondskosten 0,5–2 % p. a. (TER der enthaltenen Fonds). Gesamtkostenquote häufig 2,5–4 % p. a. Vergleich: ETF-Sparplan bei Direktbank kostet 0,1–0,3 % TER + 0–1,50 € Ausführungsgebühr. Auf 30 Jahre macht der Kostenunterschied bei 5 % Bruttorendite ca. 25–35 % weniger Endkapital aus. Bei Rürup-Banksparplan oder Rürup-Honorartarif (Nettotarif ohne Provision) sinken die Kosten auf 0,5–1 % — diese Varianten sind selten und nur bei Honorarberatern erhältlich.'
   - question: 'Wann gewinnt Rürup im Steuervergleich gegen ETF?'
@@ -25,7 +26,9 @@ sources:
     url: 'https://www.verbraucherzentrale.de/wissen/geld-versicherungen/altersvorsorge/ruerup-rente-basisrente-die-grundlagen-13209'
 ---
 
-Rürup oder ETF-Sparplan? Die Frage stellt sich jeder Selbstständige und jeder Gutverdiener mit ausgereizter Riester-Förderung. Die ehrliche Antwort hängt von drei Stellschrauben ab — Steuersatz heute, Steuersatz im Alter, Produktkosten. Hier die Rechnung im Vergleich.
+Rürup oder ETF-Sparplan? Die Frage stellt sich jeder Selbstständige und jeder Gutverdiener mit ausgereizter Riester-Förderung. Wichtig vorweg: Die beiden sind keine austauschbaren Konkurrenten, sondern Werkzeuge für unterschiedliche Aufgaben. Der ETF-Sparplan ist flexibler Vermögensaufbau, die Rürup-Rente ein steuerbegünstigtes Instrument für eine garantierte lebenslange Rente.
+
+Ein reiner Renditevergleich greift deshalb zu kurz. Trotzdem lohnt die konkrete Rechnung — denn an ihr siehst du, welche Stellschrauben den Ausschlag geben: Steuersatz heute, Steuersatz im Alter, Produktkosten und der Wert der lebenslangen Absicherung. Hier die Zahlen.
 
 Wer die [grundsätzliche Funktion und Zielgruppe der Rürup-Rente](/blog/ruerup-rente-selbststaendige) sucht, findet sie im Hauptartikel. Hier geht es um den direkten Steuer- und Renditevergleich.
 
@@ -82,28 +85,31 @@ Zwei Wege werden verglichen:
 | Vererbbar | nein | ja |
 | Pfändungsschutz | ja (§ 851c ZPO) | nein |
 
-Nach 25 Jahren ist die Rürup-Rente weiter da, der ETF-Topf leer. Bei einem Lebensalter von 90 sind die Auszahlungssummen vergleichbar (Rürup ca. 154.000 Euro netto über 25 Jahre, ETF ca. 284.000 Euro). Bei 95 hat die Rürup-Rente ihren Hebel: weitere 30.800 Euro netto.
+Nach 25 Jahren ist die Rürup-Rente weiter da, der ETF-Topf leer. Bei einem Lebensalter von 90 liegt die ETF-Gesamtsumme höher (ETF ca. 284.000 Euro netto, Rürup ca. 154.000 Euro über 25 Jahre), ab 95 dreht der Hebel zugunsten der Rürup-Rente.
+
+Genau hier zeigt sich, warum der reine Summenvergleich in die Irre führt: Die Rürup-Rente ist keine Geldanlage, sondern eine Versicherung gegen das Risiko, sehr alt zu werden und das Ersparte aufzubrauchen. Ihr Wert liegt nicht in der erwarteten Gesamtsumme, sondern in der Garantie — sie zahlt, egal wie alt du wirst. Ein ETF-Depot trägt dieses Risiko nicht ab.
 
 ## Was die Rechnung zeigt
 
-**Rürup gewinnt bei sehr langem Leben** (95+) und niedrigen Produktkosten. Bei mittlerer Lebenserwartung liegt der ETF-Sparplan in der Gesamtsumme deutlich vorne — und die Flexibilität ist real wertvoll.
+**Die beiden messen unterschiedliche Dinge.** In der reinen ausgezahlten Gesamtsumme liegt der ETF-Sparplan bei mittlerer Lebenserwartung vorne, und seine Flexibilität ist real wertvoll. Die Rürup-Rente liefert dafür eine lebenslange, planbare Garantie und Pfändungsschutz, die der ETF nicht bietet. Was höher zählt, hängt von deinem Sicherheitsbedürfnis ab — eine reine Renditebetrachtung beantwortet die Frage nicht.
 
-**Mit höheren Rürup-Kosten dreht der Vergleich klar.** Bei 2,5 % Gesamtkosten (typische Fondspolice) erreicht Rürup nur ca. 215.000 Euro Endkapital. Die Rente liegt unter 5.100 Euro netto/Jahr — dann schlägt der ETF in jedem Szenario.
+**Die Produktkosten sind der entscheidende Hebel.** Bei 2,5 % Gesamtkosten (typische Fondspolice) erreicht Rürup nur ca. 215.000 Euro Endkapital — die Rente fällt unter 5.100 Euro netto/Jahr. Eine günstige Police (Honorar-/Nettotarif) unter 1 % p. a. ist deshalb fast Voraussetzung dafür, dass Rürup seine Stärken ausspielt.
 
-**Der Steuersatz im Alter ist der zweite Hebel.** Liegt er nicht bei 30 %, sondern bei 35 %, schmilzt der Rürup-Vorteil zusätzlich.
+**Der Steuersatz-Unterschied ist der zweite Hebel.** Je größer die Differenz zwischen Grenzsteuersatz heute und im Alter, desto stärker wirkt die Förderung. Liegt der Satz im Alter höher als angenommen, schmilzt der Vorteil.
 
-## Wann Rürup trotzdem Sinn ergibt
+## Für wen Rürup besonders passt
 
-Trotz dieser Rechnung kann Rürup im Einzelfall richtig sein:
-- Selbstständiger mit Haftungsrisiko (§ 851c ZPO Pfändungsschutz)
-- Sehr disziplinierter Sparer, der ohne den Zwang der Rürup-Bindung das Geld anders ausgeben würde
+Rürup spielt seine Stärken in diesen Situationen aus:
+- Selbstständige mit Haftungsrisiko, die den Pfändungsschutz nach § 851c ZPO schätzen
+- Gutverdiener mit hohem, dauerhaftem Grenzsteuersatz und bereits ausgeschöpfter Riester-/bAV-Förderung
+- Wer eine garantierte, lebenslange Sockel-Rente als Fundament will — unabhängig von der Marktentwicklung
 - Topverdiener kurz vor Rente (5–10 Jahre Steuerstundung mit hohem Hebel)
 
-In allen anderen Fällen ist der ETF-Sparplan in der Ansparphase die bessere Wahl — siehe auch [ETF-Sparplan für Berufseinsteiger](/blog/etf-sparplan-einsteiger-muenster).
+Der ETF-Sparplan ist umgekehrt die natürliche Wahl für flexiblen Vermögensaufbau, mittelfristige Ziele und alles, wofür du Zugriff auf dein Geld brauchst — siehe [ETF-Sparplan für Berufseinsteiger](/blog/etf-sparplan-einsteiger-muenster). In vielen Fällen ist nicht „entweder/oder", sondern eine Kombination beider Bausteine die sinnvollste Antwort.
 
 ## Fazit
 
-Die Rürup-Steuerersparnis ist real, aber kein Selbstläufer. Mit Produktkosten unter 1,5 % p. a. und einem persistenten Steuersatzunterschied von 12 Prozentpunkten zwischen Berufsleben und Rente kann Rürup gewinnen — sonst nicht. Die genaue Rechnung mit eigenen Steuersätzen, Produktkosten und Lebensplan macht der Finanzberater. Eine pauschale Empfehlung gibt es nicht.
+Rürup und ETF-Sparplan gegeneinander auszuspielen führt in die Irre — sie erfüllen unterschiedliche Aufgaben. Der ETF punktet mit Flexibilität und niedrigen Kosten, die Rürup-Rente mit Steuervorteil, Pfändungsschutz und einer lebenslangen Garantie, die kein Depot bietet. Ob die eine, die andere oder eine Kombination passt, entscheiden dein Steuersatz, die Produktkosten, dein Liquiditätsbedarf und dein Sicherheitsbedürfnis. Diese Rechnung mit deinen echten Zahlen macht ein Finanzberater — eine pauschale Empfehlung gibt es nicht.
 
 ---
 
