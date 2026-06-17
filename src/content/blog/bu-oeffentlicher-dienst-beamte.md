@@ -1,7 +1,8 @@
 ---
 title: 'BU im öffentlichen Dienst: Brauchen Beamte eine Berufsunfähigkeitsversicherung?'
-description: 'Beamte haben Dienstunfähigkeitsschutz vom Staat — aber reicht das? Was öffentlicher Dienst und Beamte zur BU wissen müssen.'
+description: 'Brauchen Beamte eine Dienstunfähigkeitsversicherung? Was der staatliche Schutz abdeckt, wo die Lücken sind und wie die BU mit echter DU-Klausel funktioniert.'
 pubDate: '2026-04-24'
+updatedDate: '2026-06-17'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Beamte auf Lebenszeit genießen Dienstunfähigkeitsschutz nach § 44 BBG/Beamtenversorgungsgesetz (BeamtVG) § 14: volle Versorgung erst nach 5 Dienstjahren (Wartezeit § 4 BeamtVG), sonst nur Mindestversorgung rund 35 % des letzten Grundgehalts (§ 14 Abs. 4 BeamtVG). Beamte auf Probe/Widerruf (Referendare) haben bei Dienstunfähigkeit nur Unfallfürsorge bei Dienstunfällen — bei Krankheit meist keine Versorgung. Angestellte im öffentlichen Dienst (TVöD/TV-L) ohne Beamtenstatus: volle BU-Absicherung nötig wie Privatwirtschaft. Lösung für Beamte: BU-Tarif mit echter Dienstunfähigkeitsklausel (DU-Klausel) — BU-Leistung bei Feststellung der Dienstunfähigkeit durch Dienstherren ohne separate BU-Prüfung. Laut GDV 2024 haben nur rund 35 % der Beamten eine private BU — Versorgungslücke bei jungen Beamten 1.500-2.500 €/Monat.'
@@ -50,11 +51,33 @@ Wer als Beamter dauerhaft dienstunfähig wird, bekommt Ruhegehalt — eine Art s
 
 **Gehaltsverlust:** Das Ruhegehalt bei Dienstunfähigkeit ist fast immer geringer als das aktive Gehalt. Besonders in den ersten Berufsjahren mit niedriger Besoldungsgruppe kann die Lücke erheblich sein.
 
-## Die BU-Alternative für Beamte: Dienstunfähigkeitsklausel
+## Die Dienstunfähigkeitsversicherung für Beamte: die DU-Klausel
 
-Für Beamte gibt es spezialisierte BU-Tarife mit einer **Dienstunfähigkeitsklausel**. Sie zahlt, wenn der Dienstherr die Dienstunfähigkeit feststellt — ohne dass du zusätzlich nachweisen musst, für keinen anderen Beruf geeignet zu sein.
+Was viele suchen, wenn sie „Dienstunfähigkeitsversicherung" googeln, ist streng genommen kein eigenes Produkt: Es ist eine **Berufsunfähigkeitsversicherung mit Dienstunfähigkeitsklausel (DU-Klausel)**. Sie zahlt, wenn der Dienstherr die Dienstunfähigkeit feststellt — ohne dass du zusätzlich nachweisen musst, für keinen anderen Beruf geeignet zu sein.
 
-Das ist wichtig, weil: Eine normale BU-Versicherung würde bei einem Beamten prüfen, ob er nicht irgendeinen anderen Beruf ausüben könnte. Mit der DU-Klausel greift der Schutz schon bei der Feststellung der Dienstunfähigkeit durch den Dienstherren.
+Das ist entscheidend: Eine normale BU würde bei einem Beamten prüfen, ob er nicht irgendeinen anderen Beruf ausüben könnte. Mit echter DU-Klausel greift der Schutz schon bei der Zurruhesetzung durch den Dienstherren.
+
+Am Markt gibt es drei Varianten — nur eine davon taugt für Beamte:
+
+| Variante | Wie sie leistet | Eignung für Beamte |
+|---|---|---|
+| **Echte DU-Klausel** | BU-Leistung automatisch bei Feststellung der Dienstunfähigkeit durch den Dienstherrn — kein separater Nachweis | ✅ Beste Option (Mehrkosten 10–20 %) |
+| **Unechte DU-Klausel** | Versicherer prüft zusätzlich BU nach eigenen Maßstäben | ⚠️ Risiko Leistungsstreit |
+| **Standard-BU ohne DU-Klausel** | Prüft Verweisbarkeit auf andere Berufe | ❌ Ungeeignet |
+
+Beim Tarif achten auf: keine Verweisbarkeit auf eine andere Verwendung im öffentlichen Dienst und die Zurruhesetzung als ausdrücklichen Leistungsfall.
+
+## Was kostet eine Dienstunfähigkeitsversicherung für Beamte?
+
+Die Beiträge hängen stark von der Risiko-Einstufung des Dienstes ab. Richtwerte für 2.000 € BU-Rente mit DU-Klausel bis Alter 67, Nichtraucher, Eintrittsalter 25–30:
+
+| Beamten-Profil | Beitrag/Monat |
+|---|---|
+| Studienreferendar, Lehramt Gymnasium | ~55–75 € |
+| Steuerbeamter, mittlerer Dienst | ~50–70 € |
+| Polizeibeamter, Streifendienst | ~120–170 € |
+
+Der Aufschlag für die DU-Klausel liegt bei rund 10–20 % gegenüber einer Standard-BU. Ein Vergleich über 5 bis 7 Anbieter lohnt sich — bei identischer Leistung sind Preisunterschiede bis 50 % üblich. Studierende vor der Verbeamtung sichern sich mit Berufsstarter-Tarifen früh günstige Konditionen. Die Beiträge sind als Sonderausgabe nach § 10 Abs. 1 Nr. 3a EStG begrenzt absetzbar.
 
 ## Wer als Beamter eine BU braucht
 
