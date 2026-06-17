@@ -2,7 +2,7 @@
 title: 'Hausratversicherung und Haftpflichtversicherung: Der Unterschied einfach erklärt'
 description: 'Hausrat oder Haftpflicht — was deckt welche Versicherung ab? Die klaren Unterschiede, typische Schadenfälle und warum du meistens beides brauchst.'
 pubDate: '2026-05-31'
-updatedDate: '2026-06-11'
+updatedDate: '2026-06-17'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Versicherungen'
 tldr: 'Zwei grundsätzlich unterschiedliche Versicherungsarten: Hausratversicherung (§§ 1-20 VHB-Bedingungen) deckt eigene bewegliche Sachen gegen benannte Gefahren (Feuer, Leitungswasser, Sturm/Hagel, Einbruch) — First-Party-Versicherung. Private Haftpflichtversicherung (§ 823 BGB i.V.m. VVG) deckt Schadenersatzansprüche Dritter wegen Personen-/Sach-/Vermögensschäden — Third-Party-Versicherung. Kein Überlappungsbereich: Eigene Möbel durch Wasserrohrbruch → Hausrat. Nachbar-Wohnung durch eigenen Waschmaschinenschaden → Haftpflicht. Kombikosten typisch 80-150 €/Jahr gesamt. Haftpflicht für jeden Erwachsenen essenziell wegen unbegrenzter Haftung bei Personenschäden (§ 823 Abs. 1 BGB: Schadensersatzpflicht für Körper-/Gesundheitsverletzung, Durchschnittsschaden bei schweren Personenschäden 1-5 Mio. € laut GDV). Deckungssumme mindestens 10 Mio. € pauschal für Personen-/Sach-/Vermögensschäden. Hausrat fakultativ ab Hausratwert 10.000 €.'
@@ -94,15 +94,30 @@ Die beiden Versicherungen ergänzen sich, überschneiden sich aber nicht. Das be
 
 **Die Hausratversicherung ist situationsabhängig.** Bei Berufseinsteigern mit eigenem Haushalt und Hausratwerten über 10.000 € wird sie rational sinnvoll — siehe [Hausratversicherung sinnvoll?](/blog/hausratversicherung-sinnvoll). Bei minimalem Hausrat (WG-Zimmer, möblierte Wohnung) kann man sie bewusst weglassen.
 
-## Kombi-Tarife: Oft sinnvoll, manchmal nicht
+## Hausrat und Haftpflichtversicherung kombinieren: Wann sich ein Kombi-Tarif lohnt
 
-Viele Versicherer bieten Kombi-Tarife aus Hausrat + Haftpflicht. Der Vorteil: Preisnachlass (oft 5–10 %) und nur ein Ansprechpartner.
+Hausrat und Haftpflichtversicherung lassen sich bei vielen Anbietern in einem gemeinsamen Vertrag bündeln. Zusammen kosten beide Policen typischerweise 80 bis 150 € im Jahr — als Kombi-Tarif oft 5 bis 15 % weniger als zwei getrennte Verträge.
 
-Nachteile:
-- **Abhängigkeit:** Kündigst du eine, musst du oft auch die andere neu abschließen.
-- **Konditionen können auseinandergehen.** Die beste Haftpflicht und die beste Hausrat sind selten beim selben Anbieter.
+**Die Vorteile eines Kombi-Tarifs:**
+- **Bündelrabatt:** Der Paketnachlass liegt meist zwischen 5 und 15 % auf den Gesamtbeitrag.
+- **Ein Vertrag, ein Ansprechpartner:** Eine Beitragszahlung, ein Kundenkonto, eine Schadenmeldung.
+- **Aufeinander abgestimmt:** Überschneidungen und Lücken zwischen den beiden Policen fallen seltener auf.
 
-Für die meisten Berufseinsteiger ist der Kombi-Tarif bequem und leicht 10 bis 20 € günstiger. Wer auf beste Einzelkonditionen Wert legt, trennt die Verträge.
+**Die Nachteile:**
+- **Kündigungskopplung:** Kündigst du eine der beiden Sparten, musst du je nach Tarif den ganzen Vertrag neu ordnen.
+- **Selten die beste Einzelkondition:** Die stärkste Haftpflicht und die stärkste Hausrat sind fast nie beim selben Versicherer.
+- **Wechsel erschwert:** Wer später nur die Hausrat wechseln will, ist im Kombi-Vertrag unflexibler.
+
+**Wann Kombi, wann getrennt?**
+
+| Deine Situation | Empfehlung |
+|---|---|
+| Berufseinsteiger, erste eigene Wohnung, Bequemlichkeit zählt | Kombi-Tarif — günstig und unkompliziert |
+| Du legst Wert auf maximale Deckung in jeder Sparte | Getrennte Verträge beim jeweils besten Anbieter |
+| Häufige Wohnungs-/Lebenssituationswechsel absehbar | Getrennt — flexibler bei Anpassungen |
+| Minimaler Hausrat (WG, möbliert) | Nur Haftpflicht einzeln, Hausrat (vorerst) weglassen |
+
+Für die meisten Berufseinsteiger ist der Kombi-Tarif die pragmatische Wahl: bequem und in Summe 10 bis 20 € günstiger pro Jahr. Wer dagegen auf beste Einzelkonditionen oder maximale Flexibilität Wert legt, schließt Hausrat und Haftpflicht getrennt ab. Welche Variante in deinem Fall günstiger ist, hängt von Anbieter, Hausratwert und Deckungswünschen ab — ein kurzer Vergleich vor dem Abschluss lohnt sich.
 
 ## Abgrenzung zu anderen Versicherungen
 
