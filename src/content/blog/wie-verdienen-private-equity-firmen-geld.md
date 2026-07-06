@@ -2,6 +2,7 @@
 title: 'Wie verdienen Private-Equity-Firmen Geld? Das 2/20-Modell erklärt'
 description: 'Wie verdienen PE-Firmen wirklich Geld? Management Fees, Carried Interest, Multiple Arbitrage und Add-on-Strategien — die vier Ertragsquellen einfach erklärt.'
 pubDate: '2026-05-29'
+updatedDate: '2026-07-06'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Wie Private-Equity-Firmen Geld verdienen — Geschäftsmodell und Mechanik'
 category: 'Private Equity'
@@ -86,7 +87,7 @@ Der **Carried Interest** ("Carry") ist die **Erfolgsbeteiligung der PE-Firma** a
 - PE-Firma erhält 20 % der Gewinne
 - Investoren erhalten 80 %
 
-Aber: Der Carry beginnt erst, **nachdem die Investoren eine Mindestrendite erreicht haben** — die sogenannte **Hurdle Rate** (typisch 8 % p.a.).
+Aber: Der Carry beginnt erst, **nachdem die Investoren eine Mindestrendite erreicht haben** — die sogenannte **Hurdle Rate** (typisch 8 % p.a.). Die vollständige Mechanik mit Distribution Waterfall, Catch-up-Phase und deutscher Besteuerung nach § 18 EStG steht im Deep-Dive [Carried Interest einfach erklärt](/blog/carried-interest-einfach-erklaert).
 
 ### Konkrete Rechnung
 

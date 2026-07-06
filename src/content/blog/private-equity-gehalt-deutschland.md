@@ -2,6 +2,7 @@
 title: 'Private Equity Gehalt: Was Analyst, Associate und Partner verdienen'
 description: 'Private Equity Gehalt in Deutschland: Spannen vom Praktikum bis zum Partner, wie Bonus und Carried Interest funktionieren und warum London anders zahlt.'
 pubDate: '2026-06-22'
+updatedDate: '2026-07-06'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Private Equity'
 tldr: 'Das Private-Equity-Gehalt steigt steil mit der Stufe: Einsteiger (Analyst/Associate) kommen in Deutschland inklusive Bonus auf grob 100.000 bis 250.000 €, Senior-Stufen (VP/Principal) auf 250.000 bis 400.000 € plus erste Carry-Beteiligung. Der eigentliche Vermögenshebel ist nicht das Grundgehalt, sondern der Carried Interest auf Partnerebene — dort entstehen die sieben- bis achtstelligen Summen. Die Zahlen sind Marktspannen und variieren stark nach Fondsgröße und Standort.'
@@ -54,7 +55,7 @@ Die folgenden Spannen sind Marktschätzungen für Deutschland (Gesamtvergütung 
 
 Carried Interest ist die Gewinnbeteiligung der PE-Manager am Fonds — branchenüblich 20 % der erzielten Überrendite oberhalb einer Mindestverzinsung (der „Hurdle Rate"). Dieses Modell ist Teil der klassischen „2 und 20"-Struktur, [die im Detail erklärt, wie PE-Firmen überhaupt Geld verdienen](/blog/wie-verdienen-private-equity-firmen-geld).
 
-Der Hebel ist enorm: Verwaltet ein Fonds eine Milliarde Euro und erzielt eine starke Rendite, fließen aus den 20 % Gewinnbeteiligung dreistellige Millionenbeträge an das Partnerteam — verteilt über die Laufzeit. Deshalb sind die echten PE-Vermögen kein Gehalt im klassischen Sinn, sondern unternehmerische Beteiligung.
+Der Hebel ist enorm: Verwaltet ein Fonds eine Milliarde Euro und erzielt eine starke Rendite, fließen aus den 20 % Gewinnbeteiligung dreistellige Millionenbeträge an das Partnerteam — verteilt über die Laufzeit. Wie Hurdle Rate, Catch-up und Waterfall dabei genau zusammenspielen, zeigt der Deep-Dive [Carried Interest einfach erklärt](/blog/carried-interest-einfach-erklaert). Deshalb sind die echten PE-Vermögen kein Gehalt im klassischen Sinn, sondern unternehmerische Beteiligung.
 
 Genau das ist auch der Grund, warum die Branche so selektiv ist: Die Carry-Töpfe werden auf wenige Schultern verteilt.
 
@@ -68,7 +69,7 @@ Für Berufseinsteiger heißt das: Der Standort entscheidet mit über das Gehalt 
 
 ## Was das für deinen Einstieg bedeutet
 
-Die hohen Zahlen haben einen Preis: Private Equity ist eines der am schwersten zugänglichen Felder überhaupt. Der klassische Weg führt über ein Wirtschaftsstudium, einschlägige Praktika und meist einige Jahre Investment Banking. [Wie der Einstieg als BWL-Student konkret funktioniert, zeigt dieser Leitfaden](/blog/private-equity-karriere-bwl-einstieg).
+Die hohen Zahlen haben einen Preis: Private Equity ist eines der am schwersten zugänglichen Felder überhaupt. Der klassische Weg führt über ein Wirtschaftsstudium, einschlägige Praktika und meist einige Jahre [Investment Banking](/blog/investment-banking-einstieg-gehalt). [Wie der Einstieg als BWL-Student konkret funktioniert, zeigt dieser Leitfaden](/blog/private-equity-karriere-bwl-einstieg).
 
 Realistisch einordnen solltest du auch die Kehrseite: extrem lange Arbeitszeiten, hoher Druck und ein enger Flaschenhals nach oben. [Was Private Equity sonst noch verdienen lässt — und wer besser die Finger davon lässt](/blog/private-equity-nachteile-schattenseite).
 

@@ -2,6 +2,7 @@
 title: 'Private Equity einfach erklärt: Was hinter PE-Firmen steckt'
 description: 'Was Private Equity macht, wie der typische Buyout-Deal funktioniert und warum PE-Firmen wie Blackstone die Wirtschaft prägen — Grundlagen für BWL-Studenten und Berufseinsteiger.'
 pubDate: '2026-06-03'
+updatedDate: '2026-07-06'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Private Equity Grundlagen — Symbolbild Finanzwelt'
 category: 'Private Equity'
@@ -43,12 +44,12 @@ Klassische PE-Firmen: Blackstone, KKR, Carlyle, Apollo, Permira, EQT. In Deutsch
 
 1. **Fundraising** — die PE-Firma sammelt 1–25 Mrd. € Kapital für einen neuen Fonds.
 2. **Sourcing** — Deal-Teams suchen Übernahmeziele (Mid-Cap- oder Großunternehmen mit Optimierungspotenzial).
-3. **Due Diligence** — wochenlange Analyse: Finanzen, Markt, Management, rechtliche Risiken.
+3. **Due Diligence** — wochenlange Analyse: Finanzen, Markt, Management, rechtliche Risiken. Wie diese Prüfung im Detail abläuft, zeigt der [Due-Diligence-Ablauf](/blog/due-diligence-private-equity-ablauf).
 4. **Buyout** — Kauf des Zielunternehmens. Häufig als **Leveraged Buyout (LBO)**: ein Drittel Eigenkapital aus dem Fonds, zwei Drittel Bankkredite (die das Zielunternehmen trägt).
 5. **Value Creation** — die PE-Firma optimiert das Unternehmen: neue Strategie, Kostensenkung, Add-on-Akquisitionen, neues Management.
 6. **Exit** — nach 4–7 Jahren Verkauf: an einen strategischen Käufer, an eine andere PE-Firma (Secondary Buyout) oder via IPO an die Börse.
 
-Die Renditeziele: Mindestens **2x Money Multiple** und **20 % IRR** (Internal Rate of Return) auf das eingesetzte Eigenkapital.
+Die Renditeziele: Mindestens **2x Money Multiple** und **20 % [IRR](/blog/irr-internal-rate-of-return-einfach-erklaert)** (Internal Rate of Return) auf das eingesetzte Eigenkapital.
 
 ## Warum der Hebel so mächtig ist
 
@@ -104,6 +105,8 @@ Für **Privatanleger**: Direkter Zugang zu PE-Fonds ist klassisch institutionell
 - [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld) — Management Fee, Carried Interest, Wertschöpfungs-Hebel.
 - [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Sechs reale Nachteile inkl. Warren-Buffett-Kritik.
 - [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — DPE, Auctus, Equistone und die internationalen Player.
+- [Management-Buyout (MBO) einfach erklärt](/blog/management-buyout-mbo-einfach-erklaert) — Wenn das eigene Management übernimmt: Sonderform des Buyouts und Nachfolgemodell im Mittelstand.
+- [IRR — Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert) — Die Rendite-Kennzahl der PE-Welt und ihr Unterschied zum Money Multiple.
 
 ## Fazit
 
