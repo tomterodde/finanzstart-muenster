@@ -76,6 +76,13 @@ Finanzberatung ist einer der wenigen regulierten Berufe, in den du ohne Studium 
 
 Wenn du den Weg prüfst: Schau dir das Ausbildungsprogramm und die Vergütungslogik potenzieller Partner genau an, sprich mit Beratern, die den Quereinstieg selbst gegangen sind — und rechne dein persönliches finanzielles Polster ehrlich durch, bevor du kündigst.
 
+<aside class="career-cta" style="background: var(--accent-light); border: 1px solid rgba(26, 107, 60, 0.2); border-left: 4px solid var(--accent); border-radius: 10px; padding: 1.5em 1.75em; margin: 2.5em 0;">
+  <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Fragen aus erster Hand?</p>
+  <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du überlegst, als Quereinsteiger in die Finanzberatung zu wechseln?</h3>
+  <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich bin den Einstieg selbst gegangen — neben einem laufenden Job. In 30 Minuten erzähle ich dir ungeschönt, wie Ausbildung, erste Kunden und die Einkommens-Anlaufphase wirklich aussehen. Kein Pitch, kein Abschlussdruck.</p>
+  <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
+</aside>
+
 ---
 
 *Dieser Artikel dient der allgemeinen Finanzbildung und stellt keine individuelle 
