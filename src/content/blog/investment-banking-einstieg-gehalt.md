@@ -2,6 +2,7 @@
 title: 'Investment Banking: Einstieg, Gehalt und der Weg dorthin'
 description: 'Was verdient man im Investment Banking, wie läuft der Einstieg und welche Exit-Optionen gibt es? Realistische Einordnung von Gehalt, Arbeitszeiten und Karrierewegen für Berufseinsteiger.'
 pubDate: '2026-07-04'
+updatedDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Investment-Banking-Analysten in Deutschland starten bei rund 70.000–90.000 € Grundgehalt plus Bonus, in London deutlich höher. Der Preis sind 60–80-Stunden-Wochen. Das IB gilt als Sprungbrett — viele wechseln nach zwei bis drei Jahren in Private Equity oder ins Unternehmertum.'
@@ -27,7 +28,7 @@ Dieser Artikel ordnet ein: Gehalt, Einstieg, Arbeitszeiten und Exit-Optionen, oh
 
 ## Was macht ein Investmentbanker?
 
-Investment Banking bedeutet im Kern: Unternehmen bei großen Finanztransaktionen beraten. Die zwei wichtigsten Felder sind **M&A** (Fusionen und Übernahmen) und **Capital Markets** (Börsengänge, Anleihen, Kapitalerhöhungen).
+Investment Banking bedeutet im Kern: Unternehmen bei großen Finanztransaktionen beraten. Die zwei wichtigsten Felder sind **M&A** ([Fusionen und Übernahmen](/blog/mergers-acquisitions-einfach-erklaert)) und **Capital Markets** (Börsengänge, Anleihen, Kapitalerhöhungen).
 
 Analysten — die Einstiegsstufe — bauen Finanzmodelle, erstellen Präsentationen für Kunden und analysieren Unternehmensbewertungen. Es ist detailgetriebene, anspruchsvolle Arbeit unter hohem Zeitdruck.
 
@@ -73,7 +74,7 @@ Die im IB erworbene Analysefähigkeit ist überall gefragt. Genau diese Übertra
 
 Investment Banking lohnt sich finanziell, verlangt aber einen hohen Preis an Lebenszeit in den ersten Jahren. Es passt zu Menschen, die belastbar sind, schnell lernen und ein klares Ziel vor Augen haben — sei es Private Equity, eine eigene Gründung oder finanzielle Unabhängigkeit.
 
-Es ist nicht der einzige Weg zu hohem Einkommen. Wer unternehmerisch denkt, aber die 80-Stunden-Wochen scheut, findet in [Wege zu einem zweiten Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) alternative Modelle, die sich schrittweise aufbauen lassen.
+Es ist nicht der einzige Weg zu hohem Einkommen. Die naheliegendste Alternative mit ähnlichem Profil ist die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg) — etwas weniger Gehalt, dafür breitere Branchen-Exposure und humanere Arbeitszeiten. Wer unternehmerisch denkt, aber die 80-Stunden-Wochen scheut, findet in [Wege zu einem zweiten Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) alternative Modelle, die sich schrittweise aufbauen lassen.
 
 ## Fazit
 

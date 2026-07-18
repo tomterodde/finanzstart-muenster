@@ -2,7 +2,7 @@
 title: 'Private Equity einfach erklärt: Was hinter PE-Firmen steckt'
 description: 'Was Private Equity macht, wie der typische Buyout-Deal funktioniert und warum PE-Firmen wie Blackstone die Wirtschaft prägen — Grundlagen für BWL-Studenten und Berufseinsteiger.'
 pubDate: '2026-06-03'
-updatedDate: '2026-07-06'
+updatedDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Private Equity Grundlagen — Symbolbild Finanzwelt'
 category: 'Private Equity'
@@ -36,7 +36,7 @@ Dieser Artikel erklärt die Mechanik in Klartext — ohne Buzzwords, ohne Mythen
 
 **Private Equity** = Eigenkapital an nicht-börsennotierten Unternehmen. Kein Aktienhandel an der Börse, keine täglich verfügbare Kursinformation, kein Kleinanleger.
 
-Stattdessen: Geschlossene Fonds, in die institutionelle Investoren — Pensionskassen, Versicherer, Stiftungen, Family Offices — Kapital für 10 Jahre einzahlen. Eine PE-Firma (das **General Partner**, GP) verwaltet den Fonds und entscheidet, welche Unternehmen gekauft werden. Die Geldgeber heißen **Limited Partner** (LP).
+Stattdessen: Geschlossene Fonds, in die institutionelle Investoren — Pensionskassen, Versicherer, Stiftungen, Family Offices — Kapital für 10 Jahre einzahlen. Eine PE-Firma (das **General Partner**, GP) verwaltet den Fonds und entscheidet, welche Unternehmen gekauft werden. Die Geldgeber heißen **Limited Partner** (LP). Wie dieses Vehikel im Detail aufgebaut ist — Capital Calls, J-Curve, 10-Jahres-Laufzeit — erklärt [Wie funktioniert ein Private-Equity-Fonds?](/blog/private-equity-fonds-funktionsweise)
 
 Klassische PE-Firmen: Blackstone, KKR, Carlyle, Apollo, Permira, EQT. In Deutschland: Triton, Ardian, Deutsche Beteiligungs AG.
 
@@ -107,6 +107,7 @@ Für **Privatanleger**: Direkter Zugang zu PE-Fonds ist klassisch institutionell
 - [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — DPE, Auctus, Equistone und die internationalen Player.
 - [Management-Buyout (MBO) einfach erklärt](/blog/management-buyout-mbo-einfach-erklaert) — Wenn das eigene Management übernimmt: Sonderform des Buyouts und Nachfolgemodell im Mittelstand.
 - [IRR — Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert) — Die Rendite-Kennzahl der PE-Welt und ihr Unterschied zum Money Multiple.
+- [Hedgefonds einfach erklärt](/blog/hedgefonds-einfach-erklaert) — Die Abgrenzung: was Hedgefonds anders machen als PE — liquide Strategien, 2/20 mit High-Water-Mark.
 
 ## Fazit
 

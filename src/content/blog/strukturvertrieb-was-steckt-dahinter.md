@@ -2,7 +2,7 @@
 title: 'Strukturvertrieb: Was steckt dahinter — und wie erkenne ich seriöse Anbieter?'
 description: 'Strukturvertrieb hat einen schlechten Ruf — aber warum eigentlich? Was das Modell bedeutet, wie Karrierestufen und Einkommen funktionieren und woran man seriöse Anbieter erkennt.'
 pubDate: '2026-04-21'
-updatedDate: '2026-06-17'
+updatedDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Strukturvertrieb ist ein Vertriebsmodell, in dem selbstständige Vermittler nicht nur Produkte verkaufen, sondern auch eigene Vertriebsteams aufbauen und an deren Umsätzen anteilig verdienen. In der Finanzbranche typisch bei Versicherungs- und Anlagevermittlern (DVAG, OVB, MLP, tecis, Swiss Life Select). Seriöse Strukturvertriebe haben BaFin-Lizenz (§ 34d/§ 34f GewO), bieten Produkte mehrerer Anbieter (Mehrfachagent), keine Eintrittsgebühren, klare Provisionsoffenlegung und transparente Karrierepfade. Schwarze Schafe: Pyramidensysteme ohne echte Produkte, Eintrittsgelder, Druck zum Eigenkauf — diese sind nach § 16 UWG bzw. § 16 SchwarzArbG verboten.'
@@ -149,7 +149,7 @@ Was es bietet:
 - Unabhängigkeit vom Arbeitgeber
 - Bestandsprovision als passives Einkommenspolster
 
-Der Einstieg funktioniert für die meisten [nebenberuflich als zweites Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) — formal als [Gewerbe, nicht als freier Beruf](/blog/freiberuflich-vs-gewerbe-rechtsform), mit überschaubaren Startkosten. [Wie der nebenberufliche Einstieg in die Selbstständigkeit generell abläuft, liest du hier.](/blog/selbststaendig-nebenberuflich-einstieg)
+Der Einstieg funktioniert für die meisten [nebenberuflich als zweites Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) — formal als [Gewerbe, nicht als freier Beruf](/blog/freiberuflich-vs-gewerbe-rechtsform), mit überschaubaren Startkosten. [Wie der nebenberufliche Einstieg in die Selbstständigkeit generell abläuft, liest du hier.](/blog/selbststaendig-nebenberuflich-einstieg) Und Vorerfahrung aus der Finanzbranche brauchst du nicht: [Wie der Quereinstieg als Finanzberater über die §34d-Sachkundeprüfung funktioniert, steht in diesem Leitfaden.](/blog/quereinsteiger-finanzberater-werden)
 
 <aside class="career-cta" style="background: var(--accent-light); border: 1px solid rgba(26, 107, 60, 0.2); border-left: 4px solid var(--accent); border-radius: 10px; padding: 1.5em 1.75em; margin: 2.5em 0;">
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Selbst ausprobieren?</p>

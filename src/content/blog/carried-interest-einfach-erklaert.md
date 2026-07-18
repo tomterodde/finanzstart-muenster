@@ -2,6 +2,7 @@
 title: 'Carried Interest einfach erklärt: Wie PE-Profis wirklich reich werden'
 description: 'Carried Interest ist der eigentliche Vermögenshebel im Private Equity. Wie Carry funktioniert, was Hurdle Rate, Catch-up und Waterfall bedeuten — verständlich erklärt.'
 pubDate: '2026-06-28'
+updatedDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Private Equity'
 tldr: 'Carried Interest ist der Gewinnanteil, den Private-Equity-Manager am Fondsgewinn erhalten — klassisch 20 %, aber erst nach einer Hurdle Rate von meist 8 %. Carry ist der eigentliche Vermögenshebel der Branche, nicht das Grundgehalt.'
@@ -29,7 +30,7 @@ Dieser Artikel erklärt, wie Carry funktioniert, warum die Hurdle Rate so wichti
 
 Carried Interest ist der Anteil am Fondsgewinn, den die Fondsmanager als Erfolgsbeteiligung erhalten — klassisch **20 %**.
 
-Das Besondere: Dieser Anteil ist von der eigenen Kapitaleinlage entkoppelt. Die Manager (der General Partner) legen oft nur 1–2 % des Fondsvolumens selbst ein, kassieren aber 20 % des Gewinns. Den Rest des Kapitals stellen die Investoren (Limited Partner) wie Pensionskassen und Versicherer.
+Das Besondere: Dieser Anteil ist von der eigenen Kapitaleinlage entkoppelt. Die Manager (der General Partner) legen oft nur 1–2 % des Fondsvolumens selbst ein, kassieren aber 20 % des Gewinns. Den Rest des Kapitals stellen die Investoren (Limited Partner) wie Pensionskassen und Versicherer. Wie dieses Zusammenspiel aus GP, LP und Capital Calls insgesamt funktioniert, erklärt [Wie funktioniert ein Private-Equity-Fonds?](/blog/private-equity-fonds-funktionsweise)
 
 Carry ist damit eine Hebelvergütung auf fremdes Kapital. Wie genau PE-Firmen darüber hinaus Geld verdienen, steht im Detail in [Wie verdienen Private-Equity-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld).
 

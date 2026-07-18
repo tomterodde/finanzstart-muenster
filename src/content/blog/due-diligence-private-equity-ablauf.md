@@ -2,6 +2,7 @@
 title: 'Due Diligence im Private Equity: Wie ein Deal wirklich geprüft wird'
 description: 'Due Diligence ist die systematische Prüfung eines Unternehmens vor dem Kauf. Welche Arten es gibt, wie der Ablauf aussieht und warum die Phase über Erfolg oder Scheitern eines PE-Deals entscheidet.'
 pubDate: '2026-07-06'
+updatedDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Private Equity'
 tldr: 'Die Due Diligence ist die intensive Prüfung eines Zielunternehmens, bevor ein Private-Equity-Fonds es kauft. Sie deckt Finanzen, Recht, Markt, Steuern und operative Risiken ab. Ziel: versteckte Risiken finden und den Kaufpreis absichern, bevor das Kapital fließt.'
@@ -56,6 +57,8 @@ Die Due Diligence folgt einem eingespielten Drehbuch:
 5. **Bewertung anpassen:** Die Ergebnisse fließen in Kaufpreis und Vertragsklauseln ein.
 
 Bei einem mittelgroßen Deal dauert dieser Prozess typischerweise **vier bis zwölf Wochen** — abhängig von Größe, Komplexität und der Qualität der bereitgestellten Daten.
+
+Wo die Due Diligence im großen Ganzen sitzt — zwischen erster Ansprache, Kaufvertrag (SPA) und Closing — zeigt der Überblick [M&A einfach erklärt](/blog/mergers-acquisitions-einfach-erklaert).
 
 ## Warum die Due Diligence über den Preis entscheidet
 
