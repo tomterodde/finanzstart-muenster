@@ -2,6 +2,7 @@
 title: 'Unfallversicherung sinnvoll? Nur 8 % der BU-Fälle sind Unfälle'
 description: 'Eine Unfallversicherung deckt nur 8 % aller Berufsunfähigkeitsfälle ab — Krankheiten machen 92 %. Wann sie trotzdem sinnvoll ist (Kinder, BU-Ergänzung) und für wen nicht.'
 pubDate: '2026-04-08'
+updatedDate: '2026-07-22'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die private Unfallversicherung leistet eine einmalige Invaliditätssumme bei dauerhaften unfallbedingten Beeinträchtigungen — ausgezahlt anhand der Gliedertaxe (z. B. Verlust eines Arms = 70 % der Versicherungssumme). Sie deckt nur Unfälle (rund 8 % aller Invaliditätsursachen), nicht Krankheiten — die machen aber rund 92 % aller dauerhaften Erwerbsminderungen aus. Daher ist sie kein Ersatz für eine Berufsunfähigkeitsversicherung. Sinnvoll für: Kinder (BU oft nicht möglich), Berufstätige mit hohem Unfallrisiko, Hausfrauen/-männer ohne Erwerbseinkommen. Faustregel Versicherungssumme: 5–6-faches Bruttojahresgehalt mit 350–500 % Progression.'
@@ -16,6 +17,8 @@ faq:
     answer: 'Faustregel: 5–6-fache Bruttojahresgehalt mit 350–500 % Progression. Bei einem Bruttojahresgehalt von 50.000 € entspricht das einer Grundsumme von 250.000–300.000 € mit 500 %-Progression — d. h. bei 100 % Invalidität Auszahlung von 1,25–1,5 Mio. €. Wichtig: Die Versicherungssumme muss zur tatsächlich notwendigen Lebensanpassung passen (Umbau Haus, Hilfsmittel, lebenslange Pflege).'
   - question: 'Welche Kosten sind realistisch?'
     answer: 'Erwachsene mit 250.000 € Versicherungssumme und 350 %-Progression: rund 100–250 €/Jahr je nach Beruf und Anbieter. Gefahrengruppen unterscheiden A (Bürojobs, niedrigere Beiträge) und B (handwerklich, höhere Beiträge). Kinder: 60–120 €/Jahr für 200.000 €. Wichtig: Genau auf Ausschlüsse achten (z. B. Bewusstseinsstörungen, manche Risikosportarten), Bauchspeicheldrüsen-Klauseln und Mitwirkungsanteile (häufiger Streitpunkt).'
+  - question: 'Bin ich nicht schon über die gesetzliche Unfallversicherung geschützt?'
+    answer: 'Nur teilweise. Die gesetzliche Unfallversicherung (Berufsgenossenschaft) zahlt ausschließlich bei Arbeitsunfällen und auf dem direkten Arbeitsweg — nicht bei Unfällen in Freizeit, Sport, Haushalt oder im Urlaub. Genau dieser private Bereich, in dem der überwiegende Teil aller Unfälle passiert (Destatis-Unfallstatistik), ist nur über eine private Unfallversicherung abgedeckt. Wer nur auf den gesetzlichen Schutz vertraut, ist außerhalb der Arbeit ungeschützt.'
   - question: 'Brauche ich eine Unfallversicherung wenn ich eine BU habe?'
     answer: 'In der Regel nicht zwingend — die BU deckt sowohl Krankheits- als auch Unfallfolgen ab und ist damit der umfassendere Schutz. Eine Unfallversicherung kann aber als günstige Ergänzung sinnvoll sein, wenn ein Unfall zwar zu dauerhafter Invalidität führt, aber nicht zur Berufsunfähigkeit (z. B. Verlust eines Fingers bei einem Bürojob, der weiter ausgeübt werden kann). Praxisbeispiel: Programmierer verliert nach Unfall einen Daumen — kann weiter arbeiten, BU zahlt nicht, Unfallversicherung zahlt 20 % der Versicherungssumme aus der Gliedertaxe für Behandlungskosten und Lebensanpassung. Zweite Sinn-Frage: Wenn die BU eine Einmalleistung bei Unfalltod oder Schwerstinvalidität nicht enthält, kann die Unfallversicherung diese Lücke schließen. Pauschal: erst BU, dann ggf. UV als Ergänzung — niemals umgekehrt.'
   - question: 'Unfallversicherung ja oder nein — was sagt die Statistik?'
@@ -23,6 +26,9 @@ faq:
 sources:
   - title: 'GDV — Private Unfallversicherung'
     url: 'https://www.gdv.de/gdv/themen/sach-und-haftpflichtversicherung/unfallversicherung'
+  - title: 'Statistisches Bundesamt — Unfallstatistik (Verteilung nach Unfallort: Arbeit, Freizeit, Haushalt, Verkehr)'
+    publisher: 'Destatis'
+    url: 'https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/_inhalt.html'
   - title: 'Stiftung Warentest — Private Unfallversicherung im Test'
     url: 'https://www.test.de/Private-Unfallversicherung-Wann-sich-eine-Police-lohnt-5008055-0/'
   - title: 'Verbraucherzentrale — Unfallversicherung'
@@ -45,6 +51,12 @@ Beispiel aus der Gliedertaxe:
 Wenn du eine Versicherungssumme von 100.000 € vereinbart hast und bei einem Unfall einen Daumen verlierst (20% laut Gliedertaxe), bekommst du 20.000 €.
 
 Die Versicherung zahlt in der Regel als **Einmalzahlung** — nicht als monatliche Rente.
+
+## Warum reicht die gesetzliche Unfallversicherung nicht?
+
+Ein verbreiteter Irrtum: "Ich bin doch über die Berufsgenossenschaft unfallversichert." Stimmt — aber nur für **Arbeitsunfälle und den direkten Arbeitsweg**. Ein Sturz beim Sport, auf der Treppe zu Hause oder beim Skifahren im Urlaub fällt nicht darunter.
+
+Der überwiegende Teil aller Unfälle in Deutschland passiert im privaten Umfeld — Freizeit und Haushalt, nicht am Arbeitsplatz (Statistisches Bundesamt, Unfallstatistik). Genau für diesen deutlich größeren Bereich springt die gesetzliche Unfallversicherung nicht ein — hier setzt die **private Unfallversicherung** an, rund um die Uhr, weltweit und unabhängig vom Unfallort.
 
 ## Was die Unfallversicherung nicht leistet
 

@@ -2,6 +2,7 @@
 title: 'Pflegeversicherung: Was der Staat zahlt — und warum es nicht reicht'
 description: 'Gesetzliche Pflegeversicherung: Was sie leistet, wo die Lücke liegt und warum private Vorsorge für Berufseinsteiger bereits jetzt relevant ist.'
 pubDate: '2026-04-10'
+updatedDate: '2026-07-22'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die soziale Pflegeversicherung (SPV) ist seit 1995 die fünfte Säule der Sozialversicherung (SGB XI). Beitragssatz 2025: 3,6 % vom Bruttogehalt für Versicherte mit einem Kind, bis 4,2 % für Kinderlose, gedeckelt durch die Beitragsbemessungsgrenze von 5.512,50 €/Monat (BBG 2025). Leistungen sind nach 5 Pflegegraden gestaffelt (§ 15 SGB XI). Stationäre Leistungen 2025: PG 2: 805 €, PG 3: 1.319 €, PG 4: 1.855 €, PG 5: 2.096 €/Monat. Heimplatz kostet 3.800–5.000 € monatlich → Lücke (Eigenanteil) 1.700–2.900 €. Elternunterhalt erst ab 100.000 € Bruttojahreseinkommen des Kindes (§ 94 SGB XII, Angehörigen-Entlastungsgesetz 2020). Private Pflegezusatz für Berufseinsteiger ab ca. 20–60 €/Monat sinnvoll: Prämie steigt überproportional mit Eintrittsalter, Gesundheitsprüfung wird mit den Jahren strenger.'
@@ -31,26 +32,29 @@ Die gesetzliche Pflegeversicherung gibt es seit 1995. Sie ist verpflichtend, jed
 
 ## Was ist die gesetzliche Pflegeversicherung?
 
-Die soziale Pflegeversicherung (SPV) ist neben Kranken-, Renten-, Arbeitslosen- und Unfallversicherung die fünfte Säule der Sozialversicherung. Der Beitragssatz beträgt 2025 je nach Kinderanzahl zwischen 3,4 % und 4,0 % des Bruttogehalts — je zur Hälfte von Arbeitnehmer und Arbeitgeber.
+Die soziale Pflegeversicherung (SPV) ist neben Kranken-, Renten-, Arbeitslosen- und Unfallversicherung die fünfte Säule der Sozialversicherung. Der Beitragssatz wurde zum 1. Januar 2025 auf 3,6 % des Bruttogehalts angehoben (§ 55 SGB XI) — je zur Hälfte von Arbeitnehmer und Arbeitgeber, gestaffelt nach Kinderanzahl.
 
-Kinderlose zahlen seit 2023 einen Zuschlag: insgesamt 4,0 % statt 3,4 %.
+Kinderlose ab 23 Jahren zahlen einen Zuschlag von 0,6 % — insgesamt also 4,2 % statt 3,6 %.
 
-## Die fünf Pflegegrade
+## Pflegegeld-Tabelle 2025: Diese Beträge zahlt die Pflegekasse
 
-Die Leistungen richten sich nach dem Pflegegrad (1–5), der den Grad der Beeinträchtigung beschreibt. Ab Pflegegrad 2 greift die Pflegeversicherung mit nennenswerten Leistungen.
+Die Leistungen richten sich nach dem Pflegegrad (1–5), der den Grad der Beeinträchtigung beschreibt. Ab Pflegegrad 2 greift die Pflegeversicherung mit nennenswerten Beträgen — und zwar in drei unterschiedlichen Formen, die oft durcheinandergeworfen werden.
 
-| Pflegegrad | Ambulante Sachleistung/Monat | Stationäres Pflegegeld/Monat |
-|---|---|---|
-| 2 | bis 761 € | 770 € |
-| 3 | bis 1.432 € | 1.262 € |
-| 4 | bis 1.778 € | 1.775 € |
-| 5 | bis 2.200 € | 2.005 € |
+**Pflegegeld** bekommt der Pflegebedürftige selbst ausgezahlt (steuerfrei) und kann es an pflegende Angehörige weitergeben — klassischer Fall: häusliche Pflege durch die Familie. **Pflegesachleistung** rechnet ein ambulanter Pflegedienst direkt mit der Kasse ab. Die **vollstationäre Pflege** greift bei einem Heimplatz.
 
-*(Werte 2025, gerundet)*
+| Pflegegrad | Pflegegeld (ambulant)/Monat | Pflegesachleistung (ambulant)/Monat | Vollstationäre Pflege/Monat |
+|---|---|---|---|
+| 1 | — (nur Entlastungsbetrag 131 €) | — | — |
+| 2 | 347 € | 796 € | 805 € |
+| 3 | 599 € | 1.497 € | 1.319 € |
+| 4 | 800 € | 1.859 € | 1.855 € |
+| 5 | 990 € | 2.299 € | 2.096 € |
+
+*(Werte 2025, § 37/§ 43 SGB XI. Pflegegeld und Pflegesachleistung können anteilig kombiniert werden — Kombinationsleistung.)*
 
 ## Wo liegt die Lücke?
 
-Ein Heimplatz kostet in Deutschland im Schnitt 3.000–5.000 Euro pro Monat — je nach Bundesland und Einrichtung. Die Pflegeversicherung übernimmt davon ca. 770–2.005 Euro. Die Differenz — der sogenannte Eigenanteil — liegt in vielen Fällen bei 1.500–3.000 Euro monatlich.
+Ein Heimplatz kostet in Deutschland im Schnitt 3.000–5.000 Euro pro Monat — je nach Bundesland und Einrichtung. Die Pflegeversicherung übernimmt davon laut obiger Tabelle ca. 805–2.096 Euro. Die Differenz — der sogenannte Eigenanteil — liegt in vielen Fällen bei 1.700–2.900 Euro monatlich.
 
 Wer diesen Betrag nicht selbst aufbringen kann, muss Vermögen auflösen — oder Kinder werden zur Zahlung herangezogen (Unterhaltspflicht, gedeckelt seit 2020 auf Einkommen über 100.000 Euro/Jahr).
 

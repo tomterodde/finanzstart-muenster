@@ -2,6 +2,7 @@
 title: 'Erwerbsminderungsrente: Was zahlt der Staat wirklich?'
 description: 'Erwerbsminderungsrente einfach erklärt: Höhe, Berechnung und Voraussetzungen — und warum die gesetzliche Absicherung für die meisten nicht reicht.'
 pubDate: '2026-04-08'
+updatedDate: '2026-07-22'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Die gesetzliche Erwerbsminderungsrente (EMR) greift nur, wenn du wegen Krankheit gar nicht mehr oder nur noch eingeschränkt in IRGENDEINEM Beruf arbeiten kannst (abstrakte Verweisung). Der Durchschnitt der vollen EMR liegt 2024 bei rund 1.012 € brutto pro Monat, die teilweise EMR bei rund 566 € (Quelle: DRV Bund). Voraussetzung: 5 Jahre Wartezeit und 3 Jahre Pflichtbeiträge in den letzten 5 Jahren vor Leistungsfall. Eine private Berufsunfähigkeitsversicherung schließt die Lücke und stellt auf deinen konkreten Beruf ab.'
@@ -18,6 +19,8 @@ faq:
     answer: 'Drei Gründe: die abstrakte Verweisung (du wirst auf jeden theoretisch möglichen Beruf verwiesen), die geringe Höhe (im Schnitt rund 1.012 €) und die Wartezeit von 5 Jahren, die viele Berufseinsteiger nicht erfüllen. Private BU-Verträge verzichten meist auf die abstrakte Verweisung und zahlen schon bei Berufsunfähigkeit im eigenen Beruf.'
   - question: 'Wie sichere ich die Lücke zwischen EMR und Einkommen ab?'
     answer: 'Am häufigsten über eine private Berufsunfähigkeitsversicherung (BU), die eine vertraglich vereinbarte Monatsrente zahlt, wenn du deinen bisherigen Beruf zu mindestens 50 % nicht mehr ausüben kannst. Für Berufe mit erschwerter BU-Versicherung gibt es Alternativen wie Grundfähigkeits- oder Erwerbsunfähigkeitsversicherung.'
+  - question: 'Wird die Erwerbsminderungsrente mit 57 anders berechnet als in jüngeren Jahren?'
+    answer: 'Der Rentenabschlag ist seit der Reform 2001 bei maximal 10,8 % gedeckelt (§ 77 Abs. 3 SGB VI, 0,3 % pro Monat vorzeitigen Bezugs vor dem 63. Lebensjahr, max. 36 Monate) — unabhängig davon, ob die EMR mit 30 oder mit 57 beginnt. Mit 57 rückt aber die Frage näher, ob ab 63 Jahren mit 35 Versicherungsjahren stattdessen eine Altersrente für langjährig Versicherte oder bei Schwerbehinderung eine abschlagsfreie Variante günstiger ist. Beim Erreichen der Regelaltersgrenze wandelt sich die EMR ohnehin automatisch in eine Regelaltersrente um.'
 sources:
   - title: '§ 43 SGB VI (Rente wegen Erwerbsminderung)'
     publisher: 'Bundesministerium der Justiz'
@@ -57,6 +60,18 @@ Die individuelle Höhe hängt von deinen gesammelten **Entgeltpunkten** ab — a
 Damit junge Erwerbsgeminderte nicht leer ausgehen, rechnet die DRV eine **Zurechnungszeit** an: Es wird so getan, als hättest du mit deinem bisherigen Durchschnitt bis kurz vor die Regelaltersgrenze weitergearbeitet.
 
 **Beispielrechnung:** Eine 35-jährige Person hat 12 Jahre durchschnittlich verdient (ca. 12 Entgeltpunkte). Ohne Zurechnungszeit ergäbe das nur rund **420 € brutto**. Mit Zurechnungszeit kommen fiktive Punkte hinzu — die volle EMR liegt dann bei rund **1.200 € brutto**. Die Zurechnungszeit verdreifacht die Rente fast, reicht aber für 3.000 € Vorher-Einkommen trotzdem nicht.
+
+## Erwerbsminderungsrente mit 57: Was ändert sich in der Nähe zum Rentenalter?
+
+Viele fragen sich, ob eine Erwerbsminderung mit 57 anders bewertet wird als mit 30 oder 45. Die Antwort überrascht: **kaum**.
+
+Seit der EM-Rentenreform 2001 ist der Rentenabschlag bei der Erwerbsminderungsrente gedeckelt — maximal **10,8 %** (§ 77 Abs. 3 SGB VI), unabhängig davon, wie viele Jahre vor der Regelaltersgrenze die Rente beginnt. Der Abschlag beträgt 0,3 % pro Monat vorzeitigen Bezugs, gerechnet ab dem 63. Lebensjahr, gedeckelt bei 36 Monaten. Wer mit 57 erwerbsgemindert wird, zahlt damit denselben Höchstabschlag wie jemand mit 30.
+
+Was sich mit 57 tatsächlich ändert: Die Zurechnungszeit — die fiktive Weiterarbeit bis zur Regelaltersgrenze — wird kürzer, weil weniger Jahre bis zur Rente fehlen. Auf die Rentenhöhe wirkt sich das kaum spürbar aus, da bereits reale Beitragsjahre entsprechend viele Entgeltpunkte gesammelt haben.
+
+Relevanter ist eine andere Weiche: Ab 63 Jahren mit mindestens 35 Versicherungsjahren kann statt der EM-Rente ggf. die Altersrente für langjährig Versicherte infrage kommen — bei anerkannter Schwerbehinderung sogar die abschlagsfreie oder abschlagsreduzierte Altersrente für schwerbehinderte Menschen. Welche Variante günstiger ist, hängt von Entgeltpunkten, Schwerbehindertengrad und Beitragsjahren ab und lässt sich nur im Einzelfall bei der Deutschen Rentenversicherung klären.
+
+Beim Erreichen der Regelaltersgrenze (aktuell 65 Jahre, schrittweise steigend auf 67) wandelt sich die EM-Rente automatisch in eine Regelaltersrente um — ohne neuen Antrag und ohne dass sich die Höhe verschlechtert.
 
 ## Erwerbsunfähigkeitsrente oder Erwerbsminderungsrente?
 
