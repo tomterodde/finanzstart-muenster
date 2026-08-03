@@ -2,7 +2,7 @@
 title: 'Private Equity einfach erklärt: Was hinter PE-Firmen steckt'
 description: 'Was Private Equity macht, wie der typische Buyout-Deal funktioniert und warum PE-Firmen wie Blackstone die Wirtschaft prägen — Grundlagen für BWL-Studenten und Berufseinsteiger.'
 pubDate: '2026-06-03'
-updatedDate: '2026-07-18'
+updatedDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Private Equity Grundlagen — Symbolbild Finanzwelt'
 category: 'Private Equity'
@@ -42,7 +42,7 @@ Klassische PE-Firmen: Blackstone, KKR, Carlyle, Apollo, Permira, EQT. In Deutsch
 
 ## Wie ein typischer PE-Deal funktioniert
 
-1. **Fundraising** — die PE-Firma sammelt 1–25 Mrd. € Kapital für einen neuen Fonds.
+1. **Fundraising** — die PE-Firma sammelt 1–25 Mrd. € Kapital für einen neuen Fonds. Das Geld kommt von institutionellen Investoren: Pensionskassen, Versicherern, Stiftungen, Staatsfonds — und von [Family Offices](/blog/family-office-einfach-erklaert), den Vermögensverwaltungen sehr vermögender Familien, die als besonders geduldige Kapitalgeber gelten.
 2. **Sourcing** — Deal-Teams suchen Übernahmeziele (Mid-Cap- oder Großunternehmen mit Optimierungspotenzial).
 3. **Due Diligence** — wochenlange Analyse: Finanzen, Markt, Management, rechtliche Risiken. Wie diese Prüfung im Detail abläuft, zeigt der [Due-Diligence-Ablauf](/blog/due-diligence-private-equity-ablauf).
 4. **Buyout** — Kauf des Zielunternehmens. Häufig als **Leveraged Buyout (LBO)**: ein Drittel Eigenkapital aus dem Fonds, zwei Drittel Bankkredite (die das Zielunternehmen trägt).

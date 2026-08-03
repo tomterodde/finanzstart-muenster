@@ -2,7 +2,7 @@
 title: 'ALG1-Rechner 2026: Wie viel Arbeitslosengeld bekomme ich?'
 description: 'Wie wird das Arbeitslosengeld 1 berechnet? Formel, Beispielrechnungen, ALG1-Tabelle 2026 nach Brutto und Steuerklasse — mit und ohne Kind.'
 pubDate: '2026-05-31'
-updatedDate: '2026-06-11'
+updatedDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Arbeitslosengeld 1 beträgt 60 % des pauschalierten Nettoentgelts (67 % mit Kind). Faustformel: rund 40 bis 45 % vom Bruttogehalt ohne Kind, 45 bis 50 % mit Kind. Das maximale ALG1 liegt 2026 bei rund 2.400 € im Monat (West, ohne Kind), der Anspruch ist durch die Beitragsbemessungsgrenze gedeckelt.'
@@ -66,7 +66,7 @@ Werte sind Näherungen auf Basis der voraussichtlichen Rechengrößen 2026. Die 
 
 ## Was beeinflusst die ALG1-Höhe?
 
-**Steuerklasse:** Hauptverdiener-Ehegatten sollten prüfen, ob ein Wechsel zu Steuerklasse 3 das ALG1 deutlich erhöhen würde. Wichtig: Die Bundesagentur stützt sich auf die zum 1. Januar des Vorjahres der Arbeitslosigkeit eingetragene Steuerklasse. Ein kurzfristiger Wechsel kurz vor der Arbeitslosigkeit wirkt nicht mehr.
+**Steuerklasse:** Hauptverdiener-Ehegatten sollten prüfen, ob ein Wechsel zu Steuerklasse 3 das ALG1 deutlich erhöhen würde. Wichtig: Die Bundesagentur stützt sich auf die zum 1. Januar des Vorjahres der Arbeitslosigkeit eingetragene Steuerklasse. Ein kurzfristiger Wechsel kurz vor der Arbeitslosigkeit wirkt nicht mehr. Welche Klasse für welche Konstellation überhaupt in Frage kommt und was der Wechsel netto bewirkt, steht in der [Steuerklassen-Tabelle](/blog/steuerklassen-tabelle-erklaert).
 
 **Kindergeldberechtigung:** Wer mindestens ein kindergeldberechtigtes Kind hat (auch über Ehepartner), bekommt 67 % statt 60 %. Der Eintrag der "halben Kinderfreibeträge" auf der Lohnsteuerkarte ist Voraussetzung.
 

@@ -2,6 +2,7 @@
 title: 'Elterngeld: Wie es berechnet wird — und was die meisten nicht wissen'
 description: 'Wie wird Elterngeld berechnet? Was ist ElterngeldPlus, was Partnerschaftsbonus? Die wichtigsten Fakten für werdende Eltern unter 35.'
 pubDate: '2026-05-04'
+updatedDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Das Elterngeld nach BEEG beträgt 65–67 % des durchschnittlichen Nettoeinkommens der letzten 12 Monate vor Geburt (§ 2 BEEG) — mindestens 300 €, maximal 1.800 € monatlich. Bezugsdauer: 12 Monate, verlängert auf 14 durch zwei Partnermonate (§ 4 BEEG). ElterngeldPlus halbiert die Monatsrate bei doppelter Bezugsdauer und eignet sich für Teilzeitrückkehrer. Partnerschaftsbonus: Vier zusätzliche Monate, wenn beide Elternteile parallel 24–32 Stunden arbeiten. Einkommensgrenze seit 2024: Kein Elterngeld bei zu versteuerndem Jahreseinkommen über 200.000 € (ab 2025: 175.000 €, § 1 Abs. 8 BEEG).'
@@ -66,6 +67,8 @@ Wenn beide Elternteile gleichzeitig zwischen 24 und 32 Stunden/Woche arbeiten, g
 ## Was viele zu spät beachten: Bemessungszeitraum steuern
 
 Wer vor der Schwangerschaft hohe Einnahmen durch Überstunden oder Prämien hat, sollte den Bemessungszeitraum im Blick behalten. Manche verschieben den Geburtstermin nicht (geht natürlich nicht), aber sie achten darauf, dass Sonderzahlungen außerhalb des Bemessungsjahres liegen — das ist erlaubt.
+
+**Der zweite Hebel: die Steuerklasse.** Weil das Elterngeld am *Netto* der letzten 12 Monate hängt, wirkt die Steuerklasse direkt auf die Höhe. Wechselt der Elternteil, der später das Elterngeld bezieht, rechtzeitig in eine günstigere Klasse, steigt das Nettoeinkommen im Bemessungszeitraum — und damit die Leistung. Entscheidend ist der Vorlauf: Der Wechsel muss vor Beginn des Bemessungszeitraums wirksam sein, nicht erst kurz vor der Geburt. Welche Klasse in welcher Konstellation greift, zeigt die [Steuerklassen-Tabelle](/blog/steuerklassen-tabelle-erklaert).
 
 **Was zählt nicht:** Kurzarbeitergeld, Arbeitslosengeld, Elterngeld für frühere Kinder. Diese Monate werden aus dem Bemessungszeitraum herausgenommen — eine wichtige Schutzregel für Familien mit mehreren Kindern.
 

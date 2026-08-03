@@ -2,7 +2,7 @@
 title: 'Investment Banking: Einstieg, Gehalt und der Weg dorthin'
 description: 'Was verdient man im Investment Banking, wie läuft der Einstieg und welche Exit-Optionen gibt es? Realistische Einordnung von Gehalt, Arbeitszeiten und Karrierewegen für Berufseinsteiger.'
 pubDate: '2026-07-04'
-updatedDate: '2026-07-18'
+updatedDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Investment-Banking-Analysten in Deutschland starten bei rund 70.000–90.000 € Grundgehalt plus Bonus, in London deutlich höher. Der Preis sind 60–80-Stunden-Wochen. Das IB gilt als Sprungbrett — viele wechseln nach zwei bis drei Jahren in Private Equity oder ins Unternehmertum.'
@@ -74,7 +74,9 @@ Die im IB erworbene Analysefähigkeit ist überall gefragt. Genau diese Übertra
 
 Investment Banking lohnt sich finanziell, verlangt aber einen hohen Preis an Lebenszeit in den ersten Jahren. Es passt zu Menschen, die belastbar sind, schnell lernen und ein klares Ziel vor Augen haben — sei es Private Equity, eine eigene Gründung oder finanzielle Unabhängigkeit.
 
-Es ist nicht der einzige Weg zu hohem Einkommen. Die naheliegendste Alternative mit ähnlichem Profil ist die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg) — etwas weniger Gehalt, dafür breitere Branchen-Exposure und humanere Arbeitszeiten. Wer unternehmerisch denkt, aber die 80-Stunden-Wochen scheut, findet in [Wege zu einem zweiten Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) alternative Modelle, die sich schrittweise aufbauen lassen.
+Es ist nicht der einzige Weg zu hohem Einkommen. Die naheliegendste Alternative mit ähnlichem Profil ist die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg) — etwas weniger Gehalt, dafür breitere Branchen-Exposure und humanere Arbeitszeiten.
+
+Wer das Einkommensniveau anstrebt, aber nicht die Volatilität des Deal-Geschäfts, findet in den Kammerberufen den planbareren Weg: [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg) und [Steuerberater](/blog/steuerberater-gehalt-einstieg) starten niedriger, kommen aber über ein Examen zu einem geschützten Titel — und damit zu einer Selbstständigkeitsperspektive, die im Investment Banking schlicht nicht existiert. Wer unternehmerisch denkt, aber die 80-Stunden-Wochen scheut, findet in [Wege zu einem zweiten Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) alternative Modelle, die sich schrittweise aufbauen lassen.
 
 ## Fazit
 

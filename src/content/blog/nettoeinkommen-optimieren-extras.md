@@ -2,6 +2,7 @@
 title: 'Nettoeinkommen optimieren: Steuerfreie Extras vom Arbeitgeber'
 description: 'Viele Arbeitgeber bieten steuerfreie oder -begünstigte Zusatzleistungen an — die meisten Arbeitnehmer wissen davon nichts. Was es gibt und was es bringt.'
 pubDate: '2026-05-16'
+updatedDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Steuerfreie Arbeitgeberleistungen § 3, § 8 EStG: 1) Sachbezugsfreigrenze § 8 Abs. 2 S. 11 EStG: 50 €/Monat netto, Tankgutschein/Einkaufsgutschein/Mitarbeiterkarte. 2) Essenszuschuss § 40 Abs. 2 Nr. 1 EStG (Lohnsteuerpauschalierung): 7,23 €/Tag (2026) × 15 Arbeitstage = 108 €/Monat. 3) Gesundheitsförderung § 3 Nr. 34 EStG: 600 €/Jahr für zertifizierte Präventionskurse nach § 20 SGB V. 4) Kinderbetreuungszuschuss § 3 Nr. 33 EStG: unbegrenzt für nicht schulpflichtige Kinder. 5) Jobticket/Deutschlandticket § 3 Nr. 15 EStG: 100 % steuerfrei. 6) Dienstrad § 3 Nr. 37 EStG: zusätzlich zum Lohn steuerfrei (sonst 0,25 % UVP/Monat). 7) Internetkostenzuschuss § 40 Abs. 2 Nr. 5 EStG: 50 €/Monat (Lohnsteuerpauschalierung 25 %). 8) Erholungsbeihilfe § 40 Abs. 2 Nr. 3 EStG: 156 €/Jahr. 9) Inflationsausgleichsprämie 3.000 € steuerfrei (lief 31.12.2024 aus). Gesamtpotenzial 2026 ohne IAP: ca. 350 €/Monat netto = 4.200 €/Jahr ohne Steuer/SV. Wichtig: Zusätzlichkeitserfordernis § 8 Abs. 4 EStG seit 01.01.2020 für die meisten Begünstigungen — keine Gehaltsumwandlung.'
@@ -49,6 +50,8 @@ Bestimmte Leistungen des Arbeitgebers sind entweder steuerfrei oder werden mit g
 **Kinderbetreuungszuschuss:** Arbeitgeber können Kitakosten steuerfrei bezuschussen — unbegrenzt, wenn das Kind noch nicht schulfähig ist.
 
 **Sachbezüge:** Bis **50 Euro/Monat** als Gutschein oder Sachleistung steuerfrei (Tankgutschein, Amazon-Gutschein, Einkaufsgutschein). Achtung: Muss echte Sachleistung sein, kein Bargeld.
+
+**Vermögenswirksame Leistungen:** Der Sonderfall in dieser Liste — VL sind **nicht** steuerfrei, sondern voll steuer- und sozialabgabenpflichtig. Trotzdem gehören sie hierher: Der Arbeitgeber zahlt bis zu 40 Euro monatlich zusätzlich zum Gehalt, und je nach Anlageform und Einkommen kommt die staatliche Arbeitnehmersparzulage obendrauf. Wer den Anspruch nicht abruft, verschenkt schlicht Arbeitgebergeld. Details zu Anlageformen und Einkommensgrenzen stehen in der [Übersicht zu vermögenswirksamen Leistungen](/blog/vermoegenswirksame-leistungen-erklaert).
 
 ## Gesamtpotenzial
 

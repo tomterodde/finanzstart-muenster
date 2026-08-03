@@ -2,6 +2,7 @@
 title: 'Steuerberater: Gehalt, Examen und der Weg in die eigene Kanzlei'
 description: 'Steuerberater-Gehalt 2026: Was Steuerassistenten, angestellte Steuerberater und Kanzleiinhaber verdienen, wie schwer das Examen ist und warum der Nachwuchsmangel eine Chance ist.'
 pubDate: '2026-07-24'
+updatedDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Steuerassistenten steigen mit rund 45.000–55.000 € ein, nach dem bestandenen Steuerberaterexamen sind 60.000–85.000 € üblich, erfahrene angestellte Steuerberater erreichen sechsstellig. Der eigentliche Einkommenshebel ist die Selbstständigkeit: Kanzleiinhaber liegen im Schnitt deutlich über 150.000 €. Das Examen ist mit Durchfallquoten um 50 % eine der härtesten Berufsprüfungen — dafür herrscht massiver Nachwuchsmangel.'
@@ -63,6 +64,8 @@ Die Branche altert schneller, als sie Nachwuchs findet. Ein erheblicher Teil der
 ## Steuerberater im Karriere-Vergleich
 
 In der Reihe der Finance-Karrieren positioniert sich der Steuerberater eigenständig: Das [Investment Banking](/blog/investment-banking-einstieg-gehalt) zahlt beim Einstieg deutlich mehr, verlangt aber 70-Stunden-Wochen und bietet kaum regionale Flexibilität. Die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg) bietet die steilere Lernkurve, aber das Reise-Leben.
+
+Am nächsten liegt der [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg): ebenfalls ein geschützter Titel hinter einem harten Examen, ebenfalls mit Partnerperspektive — aber mit höherem Gehaltsdeckel, stärkerer Konzernausrichtung und deutlich weniger Mittelstandsnähe. Viele legen beide Examen ab; die Reihenfolge Steuerberater zuerst ist der übliche Weg.
 
 Der Steuerberater tauscht Anfangs-Glamour gegen etwas anderes: **planbare Selbstständigkeit mit wiederkehrenden Erlösen.** Mandate laufen über Jahre, die Umsätze sind stabil — ein Geschäftsmodell, das dem [Aufbau eines eigenen Standbeins](/blog/zweites-standbein-nebenberuflich-aufbauen) näherkommt als jedem Konzernjob.
 
