@@ -2,6 +2,7 @@
 title: 'Altersvorsorgedepot ab 2027: Das neue geförderte ETF-Depot — alle Details'
 description: 'Der Bundestag hat die Riester-Nachfolge beschlossen: Das Altersvorsorgedepot kommt 2027. Was es ist, was der Staat dazugibt — und für wen es sich lohnt.'
 pubDate: '2026-04-15'
+updatedDate: '2026-08-09'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
 tldr: 'Das Altersvorsorgedepot ersetzt die Riester-Rente für Neuverträge ab 1.1.2027 (Bundestagsbeschluss 27.3.2026, pAV-Reformgesetz). Kernneuerungen: 1) Keine Beitragsgarantie mehr — volle ETF-Investition möglich; 2) Gestaffelte Zulage — 50 Cent pro Euro bis 360 €/Jahr, 25 Cent pro Euro von 361-1.800 €, maximal 540 € Grundzulage (vs. 175 € bisher Riester); 3) Kinderzulage 300 €/Kind ab 25 €/Monat Beitrag (bisher 4 % des Vorjahresbruttos nötig); 4) Öffnung für Selbstständige und Freiberufler; 5) Kostendeckel 1,0 % p.a. beim Standardprodukt (vs. 1,5-3 % Riester-Bestand); 6) Flexiblere Auszahlungsphase mit Zeitrenten. Bei 150 €/Monat Einzahlung, 35 Jahren Laufzeit, 7 % Rendite: rund 320.000 € Endvermögen gegenüber 190-220.000 € bei klassischem Riester-Fondssparplan.'
@@ -16,6 +17,8 @@ faq:
     answer: 'Ja, das ist eine der wichtigsten Neuerungen. Riester war für Selbstständige faktisch geschlossen — nur mittelbar förderberechtigt über einen riesterfähigen Ehepartner. Das Altersvorsorgedepot öffnet staatliche Zulagen-Förderung erstmals auch für Selbstständige, Freiberufler und Gewerbetreibende, unabhängig von Pflichtversicherung in der GRV. Damit wird das Altersvorsorgedepot ein universelles Instrument — neben der weiter bestehenden Rürup-Rente mit Sonderausgabenabzug (§ 10 EStG) für Hochverdiener.'
   - question: 'Was passiert mit bestehenden Riester-Verträgen?'
     answer: 'Bestandsschutz: Alle vor dem 31.12.2026 abgeschlossenen Riester-Verträge laufen unverändert weiter — Zulagen, Steuervorteile, Produktmerkmale (Beitragsgarantie, Rentenpflicht) bleiben gemäß AltZertG bestehen. Kein Zwang zum Wechsel. Optional: Wechselmöglichkeit ins neue Altersvorsorgedepot ab 2027 geplant — Detailregelung noch offen (Stand Bundestagsbeschluss März 2026). Sinnvoll wäre Wechsel bei stark kostenbelasteten Riester-Versicherungen, weniger sinnvoll bei schon angesparten Fondssparplänen mit niedrigen Kosten.'
+  - question: 'Ist die Reform schon final beschlossen oder kann sich noch etwas ändern?'
+    answer: 'Stand August 2026: Der Bundestag hat das pAV-Reformgesetz am 27.3.2026 beschlossen, die Zustimmung des Bundesrats steht noch aus. Bis zum endgültigen Abschluss des Gesetzgebungsverfahrens können sich Details — insbesondere bei der Wechseloption für bestehende Riester-Verträge — noch ändern. Der geplante Starttermin 1.1.2027 gilt nach aktuellem Stand unverändert.'
 sources:
   - title: 'Bundestagsbeschluss pAV-Reformgesetz 27.3.2026'
     publisher: 'Deutscher Bundestag'
@@ -79,6 +82,10 @@ Bisher musste Riester-Kapital zu mindestens 70 % als lebenslange Rente ausgezahl
 Über 35 Jahre bei 7 % Rendite (ETF, keine Garantiebremse): ca. **320.000 Euro** Endvermögen.
 
 Zum Vergleich: Bei einem klassischen Riester-Fondsparplan mit 1,5 % Kostenquote und Garantiebremse (Aktienanteil limitiert): ca. 190.000–220.000 Euro.
+
+## Aktueller Stand des Gesetzgebungsverfahrens (Update August 2026)
+
+Der Bundestag hat das pAV-Reformgesetz am 27. März 2026 beschlossen. Für das endgültige Inkrafttreten fehlt noch die **Zustimmung des Bundesrats** — der geplante Starttermin 1. Januar 2027 gilt nach aktuellem Stand unverändert, einzelne Detailregelungen (etwa die genaue Ausgestaltung der Wechseloption für bestehende Riester-Verträge) sind aber noch nicht final festgezurrt. Dieser Artikel wird bei relevanten Gesetzgebungsschritten aktualisiert.
 
 ## Wann kommt es — was man jetzt tun sollte
 
