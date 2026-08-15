@@ -1,10 +1,11 @@
 ---
-title: 'Rente versteuern: Steuertabelle für Rentner 2025 — wie viel Steuern zahlst du?'
-description: 'Wie viel Steuern zahlst du auf die Rente? Steuertabelle für Rentner 2025 nach Rentenhöhe, der steuerpflichtige Anteil, KV/PV-Abzüge und wie du deine Nettorente berechnest.'
+title: 'Rente versteuern: Steuertabelle für Rentner 2026 — wie viel Steuern zahlst du?'
+description: 'Wie viel Steuern zahlst du auf die Rente? Steuertabelle für Rentner 2026 nach Rentenhöhe, der steuerpflichtige Anteil, KV/PV-Abzüge und wie du deine Nettorente berechnest.'
 pubDate: '2026-04-20'
+updatedDate: '2026-08-15'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
-tldr: 'Seit dem Alterseinkünftegesetz 2005 wird die gesetzliche Rente nachgelagert besteuert (§ 22 Nr. 1 Buchst. a EStG). Der steuerpflichtige Anteil hängt vom Renteneintrittsjahr ab und wurde durch das Wachstumschancengesetz (2024) verlangsamt: 2025 = 83,5 %, 2030 = 88 %, 2040 = 96 %, ab 2058 = 100 %. Der nicht-versteuerte Anteil wird beim Renteneintritt einmalig als fester Euro-Betrag fixiert und bleibt lebenslang steuerfrei (Renten-Freibetrag § 22 Nr. 1 Satz 3 EStG). Grundfreibetrag 2025: 12.096 € Single. Reine GRV-Renten unter ca. 1.300 €/Monat liegen 2025 noch unter dem Grundfreibetrag und sind damit steuerfrei. Zusätzliche Abzüge: KV/PV-Beiträge ca. 12,6 % der Bruttorente. Kirchensteuer 8 % oder 9 % der Einkommensteuer (Bayern/Baden-Württemberg 8 %, Rest 9 %). Reale Nettorente liegt bei ca. 75–87 % der Bruttorente.'
+tldr: 'Seit dem Alterseinkünftegesetz 2005 wird die gesetzliche Rente nachgelagert besteuert (§ 22 Nr. 1 Buchst. a EStG). Der steuerpflichtige Anteil hängt vom Renteneintrittsjahr ab und wurde durch das Wachstumschancengesetz (2024) verlangsamt: 2024 = 83 %, 2025 = 83,5 %, 2026 = 84 %, 2030 = 88 %, 2040 = 96 %, ab 2058 = 100 %. Der nicht-versteuerte Anteil wird beim Renteneintritt einmalig als fester Euro-Betrag fixiert und bleibt lebenslang steuerfrei (Renten-Freibetrag § 22 Nr. 1 Satz 3 EStG). Grundfreibetrag 2026: 12.348 € Single (24.696 € bei Zusammenveranlagung). Reine GRV-Renten unter ca. 1.300 €/Monat liegen auch 2026 meist noch unter dem Grundfreibetrag und sind damit steuerfrei. Zusätzliche Abzüge: KV/PV-Beiträge ca. 12,6 % der Bruttorente. Kirchensteuer 8 % oder 9 % der Einkommensteuer (Bayern/Baden-Württemberg 8 %, Rest 9 %). Reale Nettorente liegt bei ca. 75–87 % der Bruttorente.'
 faq:
   - question: 'Wie wird der Renten-Freibetrag berechnet?'
     answer: 'Im Jahr des erstmaligen Vollrentenbezugs wird der nicht-steuerpflichtige Anteil einmalig festgesetzt und gilt lebenslang als fester Euro-Betrag (§ 22 Nr. 1 Satz 3 EStG). Beispiel: Renteneintritt 2025 mit Bruttorente 1.500 €/Monat = 18.000 €/Jahr. Steuerpflichtiger Anteil 83,5 % = 15.030 €. Steuerfreier Anteil 16,5 % = 2.970 €/Jahr. Dieser Betrag (2.970 €) bleibt für die gesamte Rentenphase steuerfrei — auch wenn die Rente durch jährliche Anpassungen (durchschnittlich +2,4 % p.a.) auf 22.000 €/Jahr steigt, bleiben die ersten 2.970 € steuerfrei. Wichtig: Der Freibetrag wird im Jahr nach dem Renteneintritt aus dem ersten vollen Rentenjahr berechnet — bei unterjährigem Renteneintritt deshalb das Folgejahr maßgeblich. Ehepaare: jeder Partner hat eigenen Freibetrag basierend auf eigenem Rentenbeginn-Jahr. Bei späterer Mütterrente (zusätzliche Punkte aus Kindererziehung) wird der Freibetrag NICHT neu berechnet — diese Erhöhung ist voll steuerpflichtig.'
@@ -31,9 +32,9 @@ Die wichtigste Frage zuerst: Wie viel bleibt von welcher Bruttorente netto übri
 
 > 🧮 **Direkt ausrechnen statt ablesen:** Der [kostenlose Steuerrechner für Rentner](/rentensteuer-rechner/) berechnet Besteuerungsanteil, Rentenfreibetrag und deine Einkommensteuer in 60 Sekunden.
 
-## Steuertabelle für Rentner 2025: Wie viel Steuern auf die Rente?
+## Steuertabelle für Rentner 2026: Wie viel Steuern auf die Rente?
 
-Die folgende Tabelle zeigt für verschiedene Rentenhöhen, wie viel Einkommensteuer anfällt und was nach Steuern und Sozialabgaben netto bleibt — bei Renteneintritt 2025.
+Die folgende Tabelle zeigt für verschiedene Rentenhöhen, wie viel Einkommensteuer anfällt und was nach Steuern und Sozialabgaben netto bleibt — bei Renteneintritt 2025. Für Renteneintritt 2026 gilt: Der steuerpflichtige Anteil steigt um einen halben Punkt auf 84 % (statt 83,5 %) — die Beträge in der Tabelle liegen dann minimal höher, die grobe Größenordnung bleibt gleich.
 
 | Bruttorente (mtl.) | Steuerpflichtig (Jahr) | Einkommensteuer (Jahr) | KV + PV (mtl.) | ≈ Nettorente (mtl.) |
 |---|---|---|---|---|
@@ -63,18 +64,20 @@ Wer 2005 in Rente ging, musste nur 50 % seiner Rente versteuern. Seitdem steigt 
 |---|---|
 | 2005 | 50 % |
 | 2020 | 80 % |
+| 2024 | 83 % |
 | 2025 | 83,5 % |
+| 2026 | 84 % |
 | 2030 | 88 % |
 | 2040 | 96 % |
 | ab 2058 | 100 % |
 
-Wer 2025 in Rente geht, versteuert 83,5 % der Rente. Der restliche Anteil (16,5 %) bleibt dauerhaft steuerfrei — und zwar als **fester Euro-Betrag**, der im Jahr nach dem Renteneintritt fixiert wird und lebenslang gilt. Spätere Rentenerhöhungen sind voll steuerpflichtig. Wie dieser Freibetrag genau berechnet wird und welche Bruttorente komplett steuerfrei bleibt, steht im Detail unter [Rentenfreibetrag: Was bleibt von der Rente steuerfrei?](/blog/rentenfreibetrag-was-bleibt-steuerfrei/).
+Wer 2026 in Rente geht, versteuert 84 % der Rente. Der restliche Anteil (16 %) bleibt dauerhaft steuerfrei — und zwar als **fester Euro-Betrag**, der im Jahr nach dem Renteneintritt fixiert wird und lebenslang gilt. Spätere Rentenerhöhungen sind voll steuerpflichtig. Wie dieser Freibetrag genau berechnet wird und welche Bruttorente komplett steuerfrei bleibt, steht im Detail unter [Rentenfreibetrag: Was bleibt von der Rente steuerfrei?](/blog/rentenfreibetrag-was-bleibt-steuerfrei/).
 
 ## Ab welcher Rente musst du Steuern zahlen?
 
-Steuern fallen erst an, wenn dein **zu versteuerndes Einkommen** den Grundfreibetrag übersteigt — 2025 sind das **12.096 €** (Alleinstehende) bzw. 24.192 € (Verheiratete, Zusammenveranlagung).
+Steuern fallen erst an, wenn dein **zu versteuerndes Einkommen** den Grundfreibetrag übersteigt — 2026 sind das **12.348 €** (Alleinstehende) bzw. 24.696 € (Verheiratete, Zusammenveranlagung).
 
-Entscheidend ist: Nicht die Bruttorente zählt, sondern nur der steuerpflichtige Anteil — und davon gehen noch Pauschalen und deine KV/PV-Beiträge ab. Faustregel 2025: Reine GRV-Bezieher unter **rund 1.300 € Bruttorente/Monat** bleiben meist steuerfrei, über 1.500 € entsteht fast immer eine Steuerpflicht.
+Entscheidend ist: Nicht die Bruttorente zählt, sondern nur der steuerpflichtige Anteil — und davon gehen noch Pauschalen und deine KV/PV-Beiträge ab. Faustregel: Reine GRV-Bezieher unter **rund 1.300 € Bruttorente/Monat** bleiben auch 2026 meist steuerfrei, über 1.500 € entsteht fast immer eine Steuerpflicht.
 
 Der Haken: Sobald **weitere Einkünfte** dazukommen — Betriebsrente, private Rente, Mieteinnahmen oder Kapitalerträge — rutschst du schnell über den Grundfreibetrag, und dann wird auch die gesetzliche Rente anteilig steuerwirksam.
 
