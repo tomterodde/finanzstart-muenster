@@ -75,4 +75,4 @@ Für Selbstständige ist das Altersvorsorgedepot mehr als ein neues Produkt — 
 
 ---
 
-*Dieser Artikel dient der allgemeinen Finanzbildung und stellt keine individuelle Anlage- oder Finanzberatung dar. Er basiert auf dem Bundestagsbeschluss zum pAV-Reformgesetz vom 27. März 2026; das Gesetz benötigt noch die Zustimmung des Bundesrats, die finale Ausgestaltung kann sich noch ändern. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*
+*Dieser Artikel dient der allgemeinen Finanzbildung und stellt keine individuelle Anlage- oder Finanzberatung dar. Er basiert auf dem final verabschiedeten pAV-Reformgesetz (Bundestag 27. März 2026, Bundesrat 8. Mai 2026). Angaben ohne Gewähr. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*

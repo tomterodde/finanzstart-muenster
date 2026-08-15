@@ -13,7 +13,7 @@ faq:
   - question: 'Wie hoch ist die staatliche Förderung?'
     answer: 'Grundzulage 175 €/Jahr (§ 84 EStG), Kinderzulage 300 €/Jahr pro Kind (Geburt ab 2008) bzw. 185 € (Geburt vor 2008, § 85 EStG), Berufseinsteigerbonus 200 € einmalig (unter 25 Jahren). Maximaler Sonderausgabenabzug 2.100 €/Jahr (§ 10a EStG). Voraussetzung: Mindesteigenbeitrag von 4 % des sozialversicherungspflichtigen Vorjahreseinkommens (mindestens 60 €) abzüglich der Zulagen.'
   - question: 'Welche Nachteile hat Riester gegenüber dem neuen Altersvorsorgedepot?'
-    answer: 'Höhere Kosten (klassische Verträge oft 2-4 % Effektivkosten, Banksparpläne kaum noch verfügbar), 100-%-Beitragsgarantie zwingt zu sicherheitsorientierter Anlage mit niedriger Rendite, lebenslange Verrentungspflicht (Rückkauf nur mit Förderrückzahlung), max. 30 % Kapitalauszahlung zu Rentenbeginn, eingeschränkte Vererbbarkeit. Das neue Altersvorsorgedepot ab 2027 wird voraussichtlich freie ETF-Wahl, höhere Renditen, mehr Flexibilität bieten — aber Details stehen noch nicht final fest.'
+    answer: 'Höhere Kosten (klassische Verträge oft 2-4 % Effektivkosten, Banksparpläne kaum noch verfügbar), 100-%-Beitragsgarantie zwingt zu sicherheitsorientierter Anlage mit niedriger Rendite, lebenslange Verrentungspflicht (Rückkauf nur mit Förderrückzahlung), max. 30 % Kapitalauszahlung zu Rentenbeginn, eingeschränkte Vererbbarkeit. Das neue Altersvorsorgedepot ab 2027 bietet freie ETF-Wahl, höhere Zulagen und mehr Flexibilität — das pAV-Reformgesetz ist seit 8.5.2026 final verabschiedet.'
   - question: 'Was passiert, wenn ich Riester später kündige?'
     answer: 'Bei einer schädlichen Verwendung (vorzeitige Kündigung, Auszahlung außerhalb der Rentenphase) müssen alle erhaltenen Zulagen und Steuervorteile zurückgezahlt werden (§ 93 EStG). Außerdem fallen Stornogebühren des Anbieters an. Bei klassischen Versicherungs-Riester-Verträgen bleibt nach Stornoabzügen oft nur ein Bruchteil der eingezahlten Beiträge übrig. Beitragsfreistellung ist die schonendere Alternative — der Vertrag ruht, die bisherigen Zulagen bleiben erhalten.'
 sources:
@@ -92,4 +92,4 @@ Die Entscheidung hängt stark von der individuellen Situation ab — Einkommen, 
 
 ---
 
-*Dieser Artikel basiert auf dem Bundestagsbeschluss vom 27. März 2026. Das Gesetz benötigt noch die Zustimmung des Bundesrats. Angaben ohne Gewähr — die finale Ausgestaltung kann sich noch ändern. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*
+*Dieser Artikel basiert auf dem final verabschiedeten pAV-Reformgesetz (Bundestag 27. März 2026, Bundesrat 8. Mai 2026). Angaben ohne Gewähr. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*
