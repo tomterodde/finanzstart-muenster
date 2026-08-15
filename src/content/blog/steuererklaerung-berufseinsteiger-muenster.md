@@ -93,15 +93,15 @@ Wer verpflichtet ist, die Erklärung abzugeben, hat bis zum **31. Juli des Folge
 
 ## Verwandte Münster-Themen
 
-- [Nebenjob und Freelance in Münster: Steuern verstehen](/blog/steuern-muenster-nebenjob-freelancer)
-- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Nebenjob und Freelance in Münster: Steuern verstehen](/blog/steuern-muenster-nebenjob-freelancer/)
+- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 
 Die Steuererklärung ist für die meisten Berufseinsteiger kein Pflichttermin — aber ein lohnenswerter. Im Schnitt 1.000 € zurückbekommen, die man sonst einfach liegen lässt, ist kein triviales Ergebnis.
 
-Wer noch beim Thema Finanzen am Anfang steht, findet im Artikel zu den [häufigsten Finanzfehlern beim Berufsstart](/blog/finanzfehler-berufsstart-muenster) einen guten Überblick über weitere blinde Flecken.
+Wer noch beim Thema Finanzen am Anfang steht, findet im Artikel zu den [häufigsten Finanzfehlern beim Berufsstart](/blog/finanzfehler-berufsstart-muenster/) einen guten Überblick über weitere blinde Flecken.
 
 Fang am besten mit einem einfachen Tool an, mach es einmal durch — und entscheide dann, ob du es selbst machen oder delegieren willst.
 

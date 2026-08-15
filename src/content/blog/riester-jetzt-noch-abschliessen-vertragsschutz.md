@@ -70,7 +70,7 @@ Wer heute jung ist und einen Riester-Rentenversicherungsvertrag mit gutem Renten
 
 **Wer auf volle Flexibilität setzt:** Riester bleibt unflexibel (kein freier Kapitalzugriff, eingeschränkte Kapitalauszahlung). Das neue Depot wird flexibler sein.
 
-**Wer unsicher ist, ob er riesterberechtigt bleibt:** Selbstständige ohne Rentenversicherungspflicht sind grundsätzlich nicht riesterberechtigt. [Das neue Altersvorsorgedepot öffnet die Förderung für alle.](/blog/altersvorsorgedepot-2027-neue-foerderung)
+**Wer unsicher ist, ob er riesterberechtigt bleibt:** Selbstständige ohne Rentenversicherungspflicht sind grundsätzlich nicht riesterberechtigt. [Das neue Altersvorsorgedepot öffnet die Förderung für alle.](/blog/altersvorsorgedepot-2027-neue-foerderung/)
 
 ## Das konkrete Zeitfenster
 

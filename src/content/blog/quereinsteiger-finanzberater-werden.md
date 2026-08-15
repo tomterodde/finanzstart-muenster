@@ -37,7 +37,7 @@ Die gute Nachricht zuerst: Ein Studium ist keine Voraussetzung. Der Gesetzgeber 
 
 Dazu kommen der Eintrag ins **Vermittlerregister**, eine Vermögensschadenhaftpflicht und seit 2018 eine gesetzliche **Weiterbildungspflicht von 15 Stunden pro Jahr**. Der Beruf ist damit deutlich stärker reguliert, als sein Ruf vermuten lässt.
 
-Die Prüfungsvorbereitung dauert je nach Lerntempo 3 bis 9 Monate und läuft oft berufsbegleitend — der Quereinstieg funktioniert also auch aus einem bestehenden Job heraus, wie beim [nebenberuflichen Einstieg in die Finanzberatung](/blog/einkommenspotenzial-finanzberatung-nebenberuflich) beschrieben.
+Die Prüfungsvorbereitung dauert je nach Lerntempo 3 bis 9 Monate und läuft oft berufsbegleitend — der Quereinstieg funktioniert also auch aus einem bestehenden Job heraus, wie beim [nebenberuflichen Einstieg in die Finanzberatung](/blog/einkommenspotenzial-finanzberatung-nebenberuflich/) beschrieben.
 
 ## Die Einstiegswege im Vergleich
 
@@ -50,15 +50,15 @@ Quereinsteiger landen selten allein am Markt — fast immer startet man in einer
 | Vertriebsgesellschaft / Strukturvertrieb | Selbstständig, breite Produktpalette | Häufigster Quereinsteiger-Weg: strukturierte Ausbildung, Mentoring |
 | Eigenes Maklerbüro | Selbstständig, unabhängig | Realistisch erst mit Erfahrung und Bestand |
 
-Für die meisten Quereinsteiger führt der Weg über eine Vertriebsorganisation, weil dort Ausbildung, Fachbegleitung und Bestandssysteme vorhanden sind. Was hinter dem Modell steckt und woran du seriöse Häuser erkennst, haben wir im Artikel [Strukturvertrieb: Was steckt dahinter?](/blog/strukturvertrieb-was-steckt-dahinter) und in der [Seriositäts-Checkliste](/blog/strukturvertrieb-serioes-checkliste) aufgeschlüsselt.
+Für die meisten Quereinsteiger führt der Weg über eine Vertriebsorganisation, weil dort Ausbildung, Fachbegleitung und Bestandssysteme vorhanden sind. Was hinter dem Modell steckt und woran du seriöse Häuser erkennst, haben wir im Artikel [Strukturvertrieb: Was steckt dahinter?](/blog/strukturvertrieb-was-steckt-dahinter/) und in der [Seriositäts-Checkliste](/blog/strukturvertrieb-serioes-checkliste/) aufgeschlüsselt.
 
 ## Verdienst: Die ehrliche Rechnung
 
-Die Vergütung läuft in der Regel über Provisionen — wie das System funktioniert, erklärt der Artikel zum [Provisionsmodell](/blog/provisionsmodell-einkommen-erklaert). Für die Einkommensplanung heißt das:
+Die Vergütung läuft in der Regel über Provisionen — wie das System funktioniert, erklärt der Artikel zum [Provisionsmodell](/blog/provisionsmodell-einkommen-erklaert/). Für die Einkommensplanung heißt das:
 
 **Jahr 1 ist Aufbauarbeit.** Kundenstamm, Vertrauen und Empfehlungen entstehen nicht per Stellenantritt. Wer aus einem Angestelltenverhältnis wechselt, sollte Rücklagen für 6–12 Monate einplanen oder nebenberuflich starten.
 
-**Ab Jahr 2–3 dreht die Kurve.** Mit wachsendem Bestand kommen Folgeprovisionen und Empfehlungen dazu — das Einkommen wird planbarer und liegt bei etablierten Beratern häufig über dem, was vergleichbare Angestelltenpositionen zahlen. Die Spannbreite ist groß; konkrete Zahlen und Einflussfaktoren stehen im Artikel [Was verdient ein Finanzberater?](/blog/finanzberater-beruf-was-verdient-man)
+**Ab Jahr 2–3 dreht die Kurve.** Mit wachsendem Bestand kommen Folgeprovisionen und Empfehlungen dazu — das Einkommen wird planbarer und liegt bei etablierten Beratern häufig über dem, was vergleichbare Angestelltenpositionen zahlen. Die Spannbreite ist groß; konkrete Zahlen und Einflussfaktoren stehen im Artikel [Was verdient ein Finanzberater?](/blog/finanzberater-beruf-was-verdient-man/)
 
 Der entscheidende Unterschied zum Angestelltenjob: Das Einkommen skaliert mit Aktivität und Netzwerk, nicht mit Betriebszugehörigkeit. Das ist Chance und Risiko zugleich.
 

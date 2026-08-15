@@ -51,7 +51,7 @@ Bestimmte Leistungen des Arbeitgebers sind entweder steuerfrei oder werden mit g
 
 **Sachbezüge:** Bis **50 Euro/Monat** als Gutschein oder Sachleistung steuerfrei (Tankgutschein, Amazon-Gutschein, Einkaufsgutschein). Achtung: Muss echte Sachleistung sein, kein Bargeld.
 
-**Vermögenswirksame Leistungen:** Der Sonderfall in dieser Liste — VL sind **nicht** steuerfrei, sondern voll steuer- und sozialabgabenpflichtig. Trotzdem gehören sie hierher: Der Arbeitgeber zahlt bis zu 40 Euro monatlich zusätzlich zum Gehalt, und je nach Anlageform und Einkommen kommt die staatliche Arbeitnehmersparzulage obendrauf. Wer den Anspruch nicht abruft, verschenkt schlicht Arbeitgebergeld. Details zu Anlageformen und Einkommensgrenzen stehen in der [Übersicht zu vermögenswirksamen Leistungen](/blog/vermoegenswirksame-leistungen-erklaert).
+**Vermögenswirksame Leistungen:** Der Sonderfall in dieser Liste — VL sind **nicht** steuerfrei, sondern voll steuer- und sozialabgabenpflichtig. Trotzdem gehören sie hierher: Der Arbeitgeber zahlt bis zu 40 Euro monatlich zusätzlich zum Gehalt, und je nach Anlageform und Einkommen kommt die staatliche Arbeitnehmersparzulage obendrauf. Wer den Anspruch nicht abruft, verschenkt schlicht Arbeitgebergeld. Details zu Anlageformen und Einkommensgrenzen stehen in der [Übersicht zu vermögenswirksamen Leistungen](/blog/vermoegenswirksame-leistungen-erklaert/).
 
 ## Gesamtpotenzial
 

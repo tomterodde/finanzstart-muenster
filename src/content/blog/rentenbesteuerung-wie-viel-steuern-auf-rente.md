@@ -68,7 +68,7 @@ Wer 2005 in Rente ging, musste nur 50 % seiner Rente versteuern. Seitdem steigt 
 | 2040 | 96 % |
 | ab 2058 | 100 % |
 
-Wer 2025 in Rente geht, versteuert 83,5 % der Rente. Der restliche Anteil (16,5 %) bleibt dauerhaft steuerfrei — und zwar als **fester Euro-Betrag**, der im Jahr nach dem Renteneintritt fixiert wird und lebenslang gilt. Spätere Rentenerhöhungen sind voll steuerpflichtig. Wie dieser Freibetrag genau berechnet wird und welche Bruttorente komplett steuerfrei bleibt, steht im Detail unter [Rentenfreibetrag: Was bleibt von der Rente steuerfrei?](/blog/rentenfreibetrag-was-bleibt-steuerfrei).
+Wer 2025 in Rente geht, versteuert 83,5 % der Rente. Der restliche Anteil (16,5 %) bleibt dauerhaft steuerfrei — und zwar als **fester Euro-Betrag**, der im Jahr nach dem Renteneintritt fixiert wird und lebenslang gilt. Spätere Rentenerhöhungen sind voll steuerpflichtig. Wie dieser Freibetrag genau berechnet wird und welche Bruttorente komplett steuerfrei bleibt, steht im Detail unter [Rentenfreibetrag: Was bleibt von der Rente steuerfrei?](/blog/rentenfreibetrag-was-bleibt-steuerfrei/).
 
 ## Ab welcher Rente musst du Steuern zahlen?
 
@@ -106,9 +106,9 @@ Dazu kann **Kirchensteuer** kommen: 8 % der Einkommensteuer (Bayern, Baden-Würt
 
 Die gesetzliche Rente ist nur ein Baustein. Andere Vorsorgeformen folgen eigenen Regeln:
 
-- **Klassische/fondsgebundene private Rentenversicherung:** günstige Ertragsanteilsbesteuerung — bei Rentenbeginn mit 67 sind nur 17 % der Rente steuerpflichtig. Details: [Fondsgebundene Rentenversicherung & Steuern](/blog/fondsgebundene-rentenversicherung-steuern-versteuerung).
+- **Klassische/fondsgebundene private Rentenversicherung:** günstige Ertragsanteilsbesteuerung — bei Rentenbeginn mit 67 sind nur 17 % der Rente steuerpflichtig. Details: [Fondsgebundene Rentenversicherung & Steuern](/blog/fondsgebundene-rentenversicherung-steuern-versteuerung/).
 - **Riester-Rente:** voll nachgelagert (100 % steuerpflichtig) — als Gegenstück zur vollen Förderung in der Ansparphase.
-- **Betriebliche Altersvorsorge (bAV):** in der Auszahlung voll steuer- **und** KV/PV-pflichtig. Das ist in der Planung einzukalkulieren — heißt aber nicht, dass sich bAV nicht lohnt: Bei gutem Arbeitgeberzuschuss und Steuerersparnis in der Ansparphase kann die Gesamtbilanz trotzdem positiv sein. Welche Auszahlungsform sinnvoll ist, zeigt [Betriebsrente: Einmalzahlung oder monatliche Rente?](/blog/betriebsrente-auszahlung-optionen).
+- **Betriebliche Altersvorsorge (bAV):** in der Auszahlung voll steuer- **und** KV/PV-pflichtig. Das ist in der Planung einzukalkulieren — heißt aber nicht, dass sich bAV nicht lohnt: Bei gutem Arbeitgeberzuschuss und Steuerersparnis in der Ansparphase kann die Gesamtbilanz trotzdem positiv sein. Welche Auszahlungsform sinnvoll ist, zeigt [Betriebsrente: Einmalzahlung oder monatliche Rente?](/blog/betriebsrente-auszahlung-optionen/).
 
 Die Mischung verschiedener Vorsorgeformen ist also nicht nur eine Rendite-, sondern auch eine Steuerfrage — und die optimale Kombination ist individuell sehr verschieden.
 
@@ -116,7 +116,7 @@ Die Mischung verschiedener Vorsorgeformen ist also nicht nur eine Rendite-, sond
 
 Wer seine Rentenlücke berechnet, sollte nie mit der Bruttorente rechnen, sondern mit der **Nettorente nach Steuern und Sozialabgaben**. Wie die Steuertabelle oben zeigt, sind das je nach Rentenhöhe nur **75–92 %** der Bruttorente — die Lücke ist also oft größer als gedacht.
 
-[Wie du deine Rentenlücke selbst berechnest — Formel, Tabelle nach Bruttogehalt und kostenloser Rechner.](/blog/rentenluecke-berechnen-schliessen) Und wie die Rente überhaupt zustande kommt, erklärt [Rentenpunkte: Wie die gesetzliche Rente berechnet wird](/blog/rentenpunkte-gesetzliche-rente-erklaert).
+[Wie du deine Rentenlücke selbst berechnest — Formel, Tabelle nach Bruttogehalt und kostenloser Rechner.](/blog/rentenluecke-berechnen-schliessen/) Und wie die Rente überhaupt zustande kommt, erklärt [Rentenpunkte: Wie die gesetzliche Rente berechnet wird](/blog/rentenpunkte-gesetzliche-rente-erklaert/).
 
 ## Fazit
 

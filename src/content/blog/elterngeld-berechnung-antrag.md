@@ -68,7 +68,7 @@ Wenn beide Elternteile gleichzeitig zwischen 24 und 32 Stunden/Woche arbeiten, g
 
 Wer vor der Schwangerschaft hohe Einnahmen durch Überstunden oder Prämien hat, sollte den Bemessungszeitraum im Blick behalten. Manche verschieben den Geburtstermin nicht (geht natürlich nicht), aber sie achten darauf, dass Sonderzahlungen außerhalb des Bemessungsjahres liegen — das ist erlaubt.
 
-**Der zweite Hebel: die Steuerklasse.** Weil das Elterngeld am *Netto* der letzten 12 Monate hängt, wirkt die Steuerklasse direkt auf die Höhe. Wechselt der Elternteil, der später das Elterngeld bezieht, rechtzeitig in eine günstigere Klasse, steigt das Nettoeinkommen im Bemessungszeitraum — und damit die Leistung. Entscheidend ist der Vorlauf: Der Wechsel muss vor Beginn des Bemessungszeitraums wirksam sein, nicht erst kurz vor der Geburt. Welche Klasse in welcher Konstellation greift, zeigt die [Steuerklassen-Tabelle](/blog/steuerklassen-tabelle-erklaert).
+**Der zweite Hebel: die Steuerklasse.** Weil das Elterngeld am *Netto* der letzten 12 Monate hängt, wirkt die Steuerklasse direkt auf die Höhe. Wechselt der Elternteil, der später das Elterngeld bezieht, rechtzeitig in eine günstigere Klasse, steigt das Nettoeinkommen im Bemessungszeitraum — und damit die Leistung. Entscheidend ist der Vorlauf: Der Wechsel muss vor Beginn des Bemessungszeitraums wirksam sein, nicht erst kurz vor der Geburt. Welche Klasse in welcher Konstellation greift, zeigt die [Steuerklassen-Tabelle](/blog/steuerklassen-tabelle-erklaert/).
 
 **Was zählt nicht:** Kurzarbeitergeld, Arbeitslosengeld, Elterngeld für frühere Kinder. Diese Monate werden aus dem Bemessungszeitraum herausgenommen — eine wichtige Schutzregel für Familien mit mehreren Kindern.
 

@@ -62,13 +62,13 @@ Die Höhe richtet sich nach deinem durchschnittlichen Bruttogehalt der letzten 1
 
 Beispiel: 3.000 Euro brutto → pauschaliertes Netto ca. 1.900 Euro → ALG I ca. **1.140 Euro/Monat** (ohne Kinder). Als Faustformel landen die meisten bei 40 bis 50 % ihres Bruttogehalts.
 
-Das klingt nach wenig — weil es wenig ist. ALG I ist eine Überbrückung, kein Ersatz für dein Gehalt. [Die vollständige ALG1-Tabelle nach Bruttogehalt und Steuerklasse — inklusive der Stellschrauben Steuerklasse und Kinderfreibetrag — steht im Rechner-Artikel.](/blog/alg1-rechner-wie-viel-arbeitslosengeld)
+Das klingt nach wenig — weil es wenig ist. ALG I ist eine Überbrückung, kein Ersatz für dein Gehalt. [Die vollständige ALG1-Tabelle nach Bruttogehalt und Steuerklasse — inklusive der Stellschrauben Steuerklasse und Kinderfreibetrag — steht im Rechner-Artikel.](/blog/alg1-rechner-wie-viel-arbeitslosengeld/)
 
 ## Wie lange wird ALG I gezahlt?
 
 Kurzfassung: zwischen **6 und 24 Monaten**, abhängig von Versicherungszeit und Alter. Unter 50 Jahren sind maximal 12 Monate drin (ab 24 Monaten Beschäftigung in den letzten 5 Jahren); die verlängerten Ansprüche ab 50/55/58 setzen entsprechend längere Versicherungszeiten voraus.
 
-Für die meisten Berufseinsteiger mit wenigen Berufsjahren gilt: maximal 6–12 Monate ALG I. Das ist die Lücke, für die du vorsorgen solltest. [Die vollständige Bezugsdauer-Tabelle nach Alter und Versicherungszeit — inklusive Sonderregeln und Restanspruch — steht hier.](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit)
+Für die meisten Berufseinsteiger mit wenigen Berufsjahren gilt: maximal 6–12 Monate ALG I. Das ist die Lücke, für die du vorsorgen solltest. [Die vollständige Bezugsdauer-Tabelle nach Alter und Versicherungszeit — inklusive Sonderregeln und Restanspruch — steht hier.](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit/)
 
 ## Sperrzeiten: Was du vermeiden musst
 
@@ -83,9 +83,9 @@ ALG I schützt dich vor dem sofortigen freien Fall — aber es deckt keine:
 - Altersvorsorge-Beiträge
 - größeren Fixkosten bei längerem Leerlauf
 
-Ein [Notgroschen von 3 Monatsgehältern](/blog/notgroschen-wo-parken-tagesgeld) bleibt unverzichtbar — als Puffer für die Zeit bis ALG I ausgezahlt wird und für Kosten, die das ALG I nicht deckt.
+Ein [Notgroschen von 3 Monatsgehältern](/blog/notgroschen-wo-parken-tagesgeld/) bleibt unverzichtbar — als Puffer für die Zeit bis ALG I ausgezahlt wird und für Kosten, die das ALG I nicht deckt.
 
-Verwandte Situationen, die eigene Regeln haben: [Kurzarbeit und Kurzarbeitergeld](/blog/kurzarbeit-kurzarbeitergeld-erklaert) (Job bleibt, Einkommen sinkt) und [Insolvenz des Arbeitgebers](/blog/insolvenz-arbeitgeber-was-passiert-gehalt) (Insolvenzgeld vor dem ALG I).
+Verwandte Situationen, die eigene Regeln haben: [Kurzarbeit und Kurzarbeitergeld](/blog/kurzarbeit-kurzarbeitergeld-erklaert/) (Job bleibt, Einkommen sinkt) und [Insolvenz des Arbeitgebers](/blog/insolvenz-arbeitgeber-was-passiert-gehalt/) (Insolvenzgeld vor dem ALG I).
 
 ## Fazit
 

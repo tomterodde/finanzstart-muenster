@@ -31,7 +31,7 @@ Dieser Artikel zeigt, was der Beruf konkret bedeutet, wie der Einstieg gelingt u
 
 Private Banking und Wealth Management betreuen **vermögende Privatkunden** — üblich ist eine Schwelle ab rund 500.000 € liquidem Vermögen, bei manchen Häusern deutlich höher. Im Zentrum steht eine ganzheitliche Beratung: Anlagestrategie, Portfoliostrukturierung, Steueroptimierung, Nachfolge- und Vermögensplanung über Generationen hinweg.
 
-Der Unterschied zum Massengeschäft liegt in der Beratungstiefe und im Produktzugang: Private-Banking-Kunden erhalten oft Zugang zu Anlageklassen, die im Retail-Geschäft nicht angeboten werden — etwa strukturierte Produkte, [Private-Equity-Zugänge](/blog/private-equity-privatanleger-eltif) oder [Private-Debt-Fonds](/blog/private-debt-direct-lending-erklaert) über spezialisierte Fondsstrukturen.
+Der Unterschied zum Massengeschäft liegt in der Beratungstiefe und im Produktzugang: Private-Banking-Kunden erhalten oft Zugang zu Anlageklassen, die im Retail-Geschäft nicht angeboten werden — etwa strukturierte Produkte, [Private-Equity-Zugänge](/blog/private-equity-privatanleger-eltif/) oder [Private-Debt-Fonds](/blog/private-debt-direct-lending-erklaert/) über spezialisierte Fondsstrukturen.
 
 ## Einstieg ins Private Banking
 
@@ -48,17 +48,17 @@ In beiden Fällen folgt meist eine Zusatzzertifizierung — etwa **Certified Fin
 | Senior Private Banker / Team Head | 130.000–200.000 € |
 | Marktleiter / Direktor Private Banking | 200.000 €+ |
 
-Der Bonus ist meist an das **verwaltete Vermögen (Assets under Management, AUM)** und den Nettoneugeld-Zufluss gekoppelt — wer neue vermögende Kunden gewinnt und hält, verdient überproportional mehr. Zur Einordnung gegenüber anderen Finance-Karrierewegen: Das Gehaltsniveau bewegt sich ähnlich wie bei [Fondsmanagern](/blog/fondsmanager-gehalt-einstieg), mit dem Unterschied, dass hier Kundenbeziehung statt reiner Portfoliosteuerung im Zentrum steht.
+Der Bonus ist meist an das **verwaltete Vermögen (Assets under Management, AUM)** und den Nettoneugeld-Zufluss gekoppelt — wer neue vermögende Kunden gewinnt und hält, verdient überproportional mehr. Zur Einordnung gegenüber anderen Finance-Karrierewegen: Das Gehaltsniveau bewegt sich ähnlich wie bei [Fondsmanagern](/blog/fondsmanager-gehalt-einstieg/), mit dem Unterschied, dass hier Kundenbeziehung statt reiner Portfoliosteuerung im Zentrum steht.
 
 ## Private Banking vs. klassische Finanzberatung
 
-Ein häufiges Missverständnis: Private Banking sei automatisch der „bessere" oder „seriösere" Weg gegenüber provisionsbasierter Finanzberatung, etwa im [Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter). Tatsächlich sind das zwei unterschiedliche Geschäftsmodelle mit unterschiedlichen Zielgruppen — beide reguliert, beide mit eigener Berechtigung.
+Ein häufiges Missverständnis: Private Banking sei automatisch der „bessere" oder „seriösere" Weg gegenüber provisionsbasierter Finanzberatung, etwa im [Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter/). Tatsächlich sind das zwei unterschiedliche Geschäftsmodelle mit unterschiedlichen Zielgruppen — beide reguliert, beide mit eigener Berechtigung.
 
 Private Banking ist meist bankangestellt (Fixgehalt plus AUM-Bonus) und richtet sich an eine enge, vermögende Zielgruppe mit hohem Mindestanlagevolumen. Klassische Finanzberatung deckt eine breitere Zielgruppe ab — von Berufseinsteigern über Familien bis zu vermögenden Kunden — und wird häufig über Provisionen vergütet, die direkt an den vermittelten Vertrag gekoppelt sind. Welches Modell zu einer Karriere passt, hängt von der bevorzugten Zielgruppe, der gewünschten Produktpalette und der persönlichen Präferenz beim Vergütungsmodell ab.
 
 ## Exit-Optionen und Karrierepfade
 
-Erfahrene Private Banker mit belastbarem Kundenstamm haben mehrere Wechseloptionen: in ein **Family Office**, in die unabhängige Vermögensverwaltung eines Asset Managers, oder in die eigene Selbstständigkeit als honorarbasierter Berater. Der aufgebaute Vertrauensvorschuss bei vermögenden Kunden ist dabei das entscheidende Kapital für den nächsten Schritt — vergleichbar mit dem Netzwerk, das sich [Finanzberater im regulierten Vertrieb](/blog/finanzberater-beruf-was-verdient-man) über Jahre aufbauen.
+Erfahrene Private Banker mit belastbarem Kundenstamm haben mehrere Wechseloptionen: in ein **Family Office**, in die unabhängige Vermögensverwaltung eines Asset Managers, oder in die eigene Selbstständigkeit als honorarbasierter Berater. Der aufgebaute Vertrauensvorschuss bei vermögenden Kunden ist dabei das entscheidende Kapital für den nächsten Schritt — vergleichbar mit dem Netzwerk, das sich [Finanzberater im regulierten Vertrieb](/blog/finanzberater-beruf-was-verdient-man/) über Jahre aufbauen.
 
 ## Fazit
 

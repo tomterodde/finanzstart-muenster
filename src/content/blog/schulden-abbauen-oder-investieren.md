@@ -55,7 +55,7 @@ Wer 12 % Dispo zahlt und gleichzeitig in einen ETF investiert, verliert systemat
 
 Bei niedrig verzinsten Schulden (unter ca. 4–5 %) ist der Unterschied gering oder dreht sich sogar um. Gleichzeitig gilt: Spargewohnheiten aufbauen hat einen psychologischen Wert, der in der Mathematik nicht vorkommt.
 
-Wer mit 25 Jahren wartet, bis alle Schulden abgebaut sind — vielleicht bis 30 — verliert wertvolle Zinseszins-Jahre. [Was das kostet, zeigt dieser Artikel.](/blog/altersvorsorge-wann-anfangen-beispielrechnung)
+Wer mit 25 Jahren wartet, bis alle Schulden abgebaut sind — vielleicht bis 30 — verliert wertvolle Zinseszins-Jahre. [Was das kostet, zeigt dieser Artikel.](/blog/altersvorsorge-wann-anfangen-beispielrechnung/)
 
 Ein pragmatischer Mittelweg: **Schulden mit über 5 % Zinsen zuerst tilgen** — aber gleichzeitig einen kleinen Sparplan (50–100 Euro/Monat) starten, um die Gewohnheit zu etablieren.
 

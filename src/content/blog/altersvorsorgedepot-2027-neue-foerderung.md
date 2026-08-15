@@ -93,7 +93,7 @@ Der Bundestag hat das pAV-Reformgesetz am 27. März 2026 beschlossen. Für das e
 
 1. **Warten** bis 2027 und dann direkt ins neue System einsteigen
 2. **Bestehenden Riester-Vertrag weiterführen** — der läuft unverändert weiter
-3. **Riester jetzt noch abschließen** — [warum das in bestimmten Konstellationen sinnvoll sein kann, erklärt der nächste Artikel](/blog/riester-jetzt-noch-abschliessen-vertragsschutz)
+3. **Riester jetzt noch abschließen** — [warum das in bestimmten Konstellationen sinnvoll sein kann, erklärt der nächste Artikel](/blog/riester-jetzt-noch-abschliessen-vertragsschutz/)
 
 ## Fazit
 

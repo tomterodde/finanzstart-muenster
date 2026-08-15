@@ -64,7 +64,7 @@ Das ist kein Randproblem: Rund 5 Millionen Menschen in Deutschland sind aktuell 
 
 Zwei Gründe:
 
-**1. Eigene Absicherung:** Pflege trifft nicht nur Senioren. Ein Unfall, eine Erkrankung — und du bist selbst auf Pflege angewiesen. Wer jung ist und eine schwere BU hat, kann gleichzeitig pflegebedürftig sein. [Was die BU abdeckt und warum sie unverzichtbar ist, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+**1. Eigene Absicherung:** Pflege trifft nicht nur Senioren. Ein Unfall, eine Erkrankung — und du bist selbst auf Pflege angewiesen. Wer jung ist und eine schwere BU hat, kann gleichzeitig pflegebedürftig sein. [Was die BU abdeckt und warum sie unverzichtbar ist, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 **2. Elterngeneration:** Viele Berufseinsteiger werden in den nächsten 20–30 Jahren mit der Pflegebedürftigkeit ihrer Eltern konfrontiert — finanziell und organisatorisch.
 

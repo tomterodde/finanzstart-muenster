@@ -101,7 +101,7 @@ Die typische Verteilung folgt dem **"2/20-Modell"**:
 - **2 % Management Fee** — die PE-Firma erhält jährlich rund 2 % auf das verwaltete Kapital für Personal und Verwaltung
 - **20 % Carried Interest** — vom Gewinn (über einer Mindestrendite, typisch 8 % "Hurdle Rate") erhält die PE-Firma 20 %, die Investoren 80 %
 
-[Detaillierte Mechanik wie PE-Firmen Geld verdienen, steht hier.](/blog/wie-verdienen-private-equity-firmen-geld)
+[Detaillierte Mechanik wie PE-Firmen Geld verdienen, steht hier.](/blog/wie-verdienen-private-equity-firmen-geld/)
 
 ## Konkrete Beispiele aus Deutschland
 
@@ -124,7 +124,7 @@ Die typische Verteilung folgt dem **"2/20-Modell"**:
 - **2013–2020:** Restrukturierung, Übernahmen
 - **2020:** Geplanter IPO (mehrfach verschoben wegen Marktbedingungen)
 
-[Die größten globalen PE-Firmen — Blackstone, KKR und Co. — sind hier vorgestellt.](/blog/groesste-private-equity-firmen-blackstone-kkr) [Die wichtigsten deutschen PE-Häuser stehen hier.](/blog/top-private-equity-firmen-deutschland)
+[Die größten globalen PE-Firmen — Blackstone, KKR und Co. — sind hier vorgestellt.](/blog/groesste-private-equity-firmen-blackstone-kkr/) [Die wichtigsten deutschen PE-Häuser stehen hier.](/blog/top-private-equity-firmen-deutschland/)
 
 ## Wer kann in Private Equity investieren?
 
@@ -135,7 +135,7 @@ Die typische Verteilung folgt dem **"2/20-Modell"**:
 - **Vereinfachter Vertrieb** — über strukturierte Beratungen und teilweise auch online-Plattformen
 - **Vermögensgrenze entfallen** — auch unter 500.000 € Nettovermögen ohne Einschränkung möglich
 
-[Wie Privatanleger konkret in PE investieren können — Vehikel, Mindestanlagen, Risiken — steht hier.](/blog/private-equity-privatanleger-eltif) [Konkrete Wege im Vergleich: Trade Republic, PE-ETF, klassische Fonds und ELTIFs.](/blog/private-equity-investieren-fonds-etf-trade-republic)
+[Wie Privatanleger konkret in PE investieren können — Vehikel, Mindestanlagen, Risiken — steht hier.](/blog/private-equity-privatanleger-eltif/) [Konkrete Wege im Vergleich: Trade Republic, PE-ETF, klassische Fonds und ELTIFs.](/blog/private-equity-investieren-fonds-etf-trade-republic/)
 
 ## Was sind die Risiken?
 
@@ -148,7 +148,7 @@ PE ist **keine sichere Geldanlage**. Sechs zentrale Risiken:
 5. **Manager-Risiko** — die Performance hängt stark von der Fondsführung ab
 6. **Konjunkturabhängigkeit** — in Rezessionsphasen sinken die Verkaufspreise
 
-[Detaillierte Analyse der PE-Nachteile und Risiken steht hier.](/blog/private-equity-nachteile-schattenseite)
+[Detaillierte Analyse der PE-Nachteile und Risiken steht hier.](/blog/private-equity-nachteile-schattenseite/)
 
 ## Was unterscheidet PE von Venture Capital?
 
@@ -163,7 +163,7 @@ Häufige Verwechslung. Beide gehören zur Kategorie "alternative Investments", f
 | Beteiligungsdauer | 4–7 Jahre | 5–10 Jahre |
 | Typische Fondsgröße | 1–25 Mrd. € | 100 Mio.–2 Mrd. € |
 
-[Vollständiger Vergleich PE vs. VC mit Beispielen steht hier.](/blog/private-equity-vs-venture-capital)
+[Vollständiger Vergleich PE vs. VC mit Beispielen steht hier.](/blog/private-equity-vs-venture-capital/)
 
 ## Was bedeutet das für dich?
 
@@ -187,7 +187,7 @@ Private Equity bedeutet: Investmentgesellschaften kaufen nicht-börsennotierte U
 2. **Die Mechanik ist einfach** — kaufen, verbessern, verkaufen. Die Kunst liegt in der Manager-Auswahl.
 3. **Renditestreuung ist erheblich.** Top-Fonds bringen 18+ %, Bottom-Fonds liegen unter Aktienmarkt. Pauschal "in PE investieren" reicht nicht.
 
-[Wer die Karrierewege in Private Equity verstehen will, findet sie hier.](/blog/private-equity-karriere-bwl-einstieg) [Wer prüfen will, ob PE als Privatanleger sinnvoll ist, findet die Antwort hier.](/blog/private-equity-privatanleger-eltif)
+[Wer die Karrierewege in Private Equity verstehen will, findet sie hier.](/blog/private-equity-karriere-bwl-einstieg/) [Wer prüfen will, ob PE als Privatanleger sinnvoll ist, findet die Antwort hier.](/blog/private-equity-privatanleger-eltif/)
 
 ---
 

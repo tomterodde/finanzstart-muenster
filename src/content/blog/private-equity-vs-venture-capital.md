@@ -81,7 +81,7 @@ VC outperformt PE im Top-Quartil deutlich — verlangt aber, dass du in einem **
 - Branchen-Wissen (oft generalistisch)
 - Operative Verbesserungs-Erfahrung (Consulting-Background hilfreich)
 
-Typischer Pfad: 2–3 Jahre Investment Banking → PE-Associate. [Wie der Karriereweg ins PE konkret aussieht, ist hier ausführlich beschrieben.](/blog/private-equity-karriere-bwl-einstieg)
+Typischer Pfad: 2–3 Jahre Investment Banking → PE-Associate. [Wie der Karriereweg ins PE konkret aussieht, ist hier ausführlich beschrieben.](/blog/private-equity-karriere-bwl-einstieg/)
 
 **VC-Karrieren** sind anders strukturiert. Skill-Set:
 
@@ -100,7 +100,7 @@ Typische VC-Pfade: **Tech-Gründer mit Exit** → VC-Partner. **Top-Operator** (
 
 **Wenn du eigentlich Gründer werden willst, aber erst mal "lernen" möchtest** → Beide haben eine spezifische Optik. PE lehrt operative Optimierung und Finanzdisziplin. VC lehrt Markt-Timing und Geschäftsmodell-Bewertung.
 
-[Wenn du noch beim Grundlagenverständnis bist, lies erst den Einstiegsartikel zu Private Equity.](/blog/private-equity-erklaert-grundlagen)
+[Wenn du noch beim Grundlagenverständnis bist, lies erst den Einstiegsartikel zu Private Equity.](/blog/private-equity-erklaert-grundlagen/)
 
 ## Was das für dich als Anleger bedeutet
 
@@ -110,9 +110,9 @@ Für die meisten Privatanleger ist das kein Ersatz für ein **breit gestreutes E
 
 ## Vertiefung
 
-- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Grundlagen und Definition.
-- [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld) — Gebührenstruktur und Wertschöpfungs-Hebel.
-- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Sechs reale Nachteile von PE.
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert/) — Grundlagen und Definition.
+- [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld/) — Gebührenstruktur und Wertschöpfungs-Hebel.
+- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite/) — Sechs reale Nachteile von PE.
 
 ## Fazit
 

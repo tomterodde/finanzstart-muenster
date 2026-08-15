@@ -72,15 +72,15 @@ Wenn das Grundgehalt nicht verhandelbar ist: Einmalzahlung, frühere erste Gehal
 
 ## Was viele vergessen: Altersvorsorge und Gehalt hängen zusammen
 
-Höheres Bruttogehalt bedeutet mehr Rentenpunkte — denn die gesetzliche Rente basiert auf dem Verhältnis deines Gehalts zum Durchschnitt. [Wie Rentenpunkte berechnet werden, erklärt dieser Artikel.](/blog/rentenpunkte-bei-welchem-gehalt-tabelle)
+Höheres Bruttogehalt bedeutet mehr Rentenpunkte — denn die gesetzliche Rente basiert auf dem Verhältnis deines Gehalts zum Durchschnitt. [Wie Rentenpunkte berechnet werden, erklärt dieser Artikel.](/blog/rentenpunkte-bei-welchem-gehalt-tabelle/)
 
 Außerdem: Wer mehr verdient, kann mehr in bAV, ETF oder private Altersvorsorge investieren. Der Zinseszinseffekt beginnt beim Einstiegsgehalt.
 
 ## Verwandte Münster-Themen
 
-- [Gehaltsverhandlung beim Berufseinstieg in Münster — Schritt-für-Schritt](/blog/gehaltsverhandlung-berufseinstieg-muenster)
-- [Die 7 häufigsten Finanzfehler beim Berufsstart in Münster](/blog/finanzfehler-berufsstart-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Gehaltsverhandlung beim Berufseinstieg in Münster — Schritt-für-Schritt](/blog/gehaltsverhandlung-berufseinstieg-muenster/)
+- [Die 7 häufigsten Finanzfehler beim Berufsstart in Münster](/blog/finanzfehler-berufsstart-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

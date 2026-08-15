@@ -71,7 +71,7 @@ Eingeschränktere Vergütungen für Ärzte — als Patient merkst du das nicht d
 
 ## Was das für deine Finanzplanung bedeutet
 
-**Kassenwechsel prüfen:** Die Reform könnte die Zusatzbeiträge einzelner Kassen stark verändern — Gewinner und Verlierer durch Effizienzgewinne oder -verluste. [Wann sich ein Kassenwechsel lohnt und wie er funktioniert, erklärt dieser Artikel.](/blog/wechsel-gesetzliche-krankenversicherung)
+**Kassenwechsel prüfen:** Die Reform könnte die Zusatzbeiträge einzelner Kassen stark verändern — Gewinner und Verlierer durch Effizienzgewinne oder -verluste. [Wann sich ein Kassenwechsel lohnt und wie er funktioniert, erklärt dieser Artikel.](/blog/wechsel-gesetzliche-krankenversicherung/)
 
 **Rücklagen für Zuzahlungen:** Wer bisher kaum Zuzahlungen hatte, sollte für die Zukunft einen kleinen Puffer einkalkulieren — besonders bei Familien mit Kindern oder Vorerkrankungen.
 

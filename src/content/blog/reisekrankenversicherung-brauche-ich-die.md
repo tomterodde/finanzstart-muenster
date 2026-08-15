@@ -71,7 +71,7 @@ Für alles andere — jede Fernreise, jeden längeren Europatrip, jeden Urlaub a
 
 Die Reisekrankenversicherung ist kein Luxus und kein Overkill. Sie kostet weniger als ein Restaurantessen und schützt vor Kosten, die ohne sie existenzbedrohend werden können. Wer regelmäßig verreist, sollte sie als festen Bestandteil seiner Basisabsicherung sehen — neben Haftpflicht und Krankenversicherung.
 
-[Was bei der Wahl der richtigen gesetzlichen Krankenkasse zu beachten ist, erklärt dieser Artikel.](/blog/krankenkasse-wechseln-berufseinsteiger)
+[Was bei der Wahl der richtigen gesetzlichen Krankenkasse zu beachten ist, erklärt dieser Artikel.](/blog/krankenkasse-wechseln-berufseinsteiger/)
 
 ---
 

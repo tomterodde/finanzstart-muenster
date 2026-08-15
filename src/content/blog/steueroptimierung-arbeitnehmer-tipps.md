@@ -76,7 +76,7 @@ Wichtig: Nur Lohnkosten, nicht Material. Und: Nur mit Rechnung und Überweisung 
 
 Eine grobe Schätzung: Wer im ersten Berufsjahr 6 Monate gearbeitet hat, hat wahrscheinlich zu viel Lohnsteuer gezahlt — weil das Finanzamt mit einem Jahreslohn gerechnet hat, der tatsächlich halb so hoch war. Erstattung im ersten Jahr: oft 500–2.000 Euro.
 
-[Wie die Steuererklärung für Berufseinsteiger konkret funktioniert, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster)
+[Wie die Steuererklärung für Berufseinsteiger konkret funktioniert, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster/)
 
 ## Fazit
 

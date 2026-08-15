@@ -87,7 +87,7 @@ Nicht jeder bekommt automatisch EMR. Voraussetzungen nach § 43 SGB VI:
 - In den letzten 5 Jahren vor dem Leistungsfall hast du mindestens **3 Jahre** Pflichtbeiträge gezahlt
 - Du bist im gesetzlichen Sinne **erwerbsgemindert**
 
-Wer frisch ins Berufsleben eingestiegen ist und die Wartezeit noch nicht erfüllt hat, hat im schlimmsten Fall **gar keinen Anspruch** — egal wie schwer die Erkrankung ist. Wie der Antrag abläuft und was bei Ablehnung zu tun ist, erklärt der Artikel [Erwerbsminderungsrente beantragen](/blog/erwerbsminderungsrente-antrag-voraussetzungen).
+Wer frisch ins Berufsleben eingestiegen ist und die Wartezeit noch nicht erfüllt hat, hat im schlimmsten Fall **gar keinen Anspruch** — egal wie schwer die Erkrankung ist. Wie der Antrag abläuft und was bei Ablehnung zu tun ist, erklärt der Artikel [Erwerbsminderungsrente beantragen](/blog/erwerbsminderungsrente-antrag-voraussetzungen/).
 
 ## Das größte Problem: die abstrakte Verweisung
 
@@ -95,13 +95,13 @@ Hier liegt der Kern, warum die EMR so oft enttäuscht. Die gesetzliche Rente pr�
 
 Ein Beispiel: Eine Pflegekraft kann wegen eines Bandscheibenleidens nicht mehr heben und nicht mehr im Schichtdienst arbeiten. Theoretisch könnte sie aber 6 Stunden täglich an einer Telefonzentrale sitzen — also: keine EM-Rente. Für qualifizierte Fach- und Akademikerberufe ist diese Logik existenzbedrohend.
 
-Eine private [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide) macht genau das nicht: Gute Verträge verzichten auf die abstrakte Verweisung und zahlen, sobald du deinen *zuletzt ausgeübten* Beruf zu 50 % nicht mehr schaffst.
+Eine private [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide/) macht genau das nicht: Gute Verträge verzichten auf die abstrakte Verweisung und zahlen, sobald du deinen *zuletzt ausgeübten* Beruf zu 50 % nicht mehr schaffst.
 
 ## Erwerbsminderung bei psychischen Erkrankungen
 
 Psychische Erkrankungen sind mit rund **43 %** die häufigste Ursache für eine EM-Rente (DRV 2024) — noch vor Erkrankungen des Skeletts und Krebs. Depression, Angststörungen und Burnout treffen dabei oft Menschen mitten im Berufsleben.
 
-Das Problem: Genau bei psychischen Diagnosen ist das verbliebene Leistungsvermögen schwer zu messen und damit besonders strittig. Viele Erstanträge werden abgelehnt, obwohl Betroffene faktisch nicht mehr arbeiten können. Wie eine BU psychische Erkrankungen behandelt, vertieft der Artikel [BU bei psychischen Erkrankungen](/blog/bu-psychische-erkrankungen).
+Das Problem: Genau bei psychischen Diagnosen ist das verbliebene Leistungsvermögen schwer zu messen und damit besonders strittig. Viele Erstanträge werden abgelehnt, obwohl Betroffene faktisch nicht mehr arbeiten können. Wie eine BU psychische Erkrankungen behandelt, vertieft der Artikel [BU bei psychischen Erkrankungen](/blog/bu-psychische-erkrankungen/).
 
 ## Der Unterschied zur Berufsunfähigkeitsversicherung
 
@@ -116,9 +116,9 @@ Die EMR ist ein Sicherheitsnetz — aber eines mit großen Löchern. Sie schütz
 
 ## Wie schließt du die Lücke?
 
-Vor der EMR steht ohnehin erst das [Krankengeld, das nach maximal 78 Wochen ausläuft](/blog/krankentagegeld-krankengeld-luecke) — danach klafft die Lücke, die die EMR nur teilweise füllt.
+Vor der EMR steht ohnehin erst das [Krankengeld, das nach maximal 78 Wochen ausläuft](/blog/krankentagegeld-krankengeld-luecke/) — danach klafft die Lücke, die die EMR nur teilweise füllt.
 
-Den verlässlichsten Schutz bietet eine private BU. Sie zahlt früher, höher und ohne den Umweg über staatliche Bürokratie. Was eine BU realistisch kostet, zeigt die [BU-Kosten-Tabelle](/blog/was-kostet-bu-im-monat-tabelle). Für Berufe mit erschwertem BU-Zugang oder Vorerkrankungen ist die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu) eine Alternative.
+Den verlässlichsten Schutz bietet eine private BU. Sie zahlt früher, höher und ohne den Umweg über staatliche Bürokratie. Was eine BU realistisch kostet, zeigt die [BU-Kosten-Tabelle](/blog/was-kostet-bu-im-monat-tabelle/). Für Berufe mit erschwertem BU-Zugang oder Vorerkrankungen ist die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu/) eine Alternative.
 
 ## Fazit
 

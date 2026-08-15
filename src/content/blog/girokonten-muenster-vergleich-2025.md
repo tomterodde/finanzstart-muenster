@@ -83,9 +83,9 @@ Zwei Konten klingt nach mehr Aufwand — aber es trennt Ausgaben (Girokonto) von
 
 ## Verwandte Münster-Themen
 
-- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
-- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster/)
+- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

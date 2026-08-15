@@ -47,11 +47,11 @@ sources:
 
 „Du hast eine Rentenlücke." Diesen Satz hört fast jeder Berufseinsteiger irgendwann — meistens in einem Beratungsgespräch. Was er **konkret bedeutet** und **wie groß deine persönliche Lücke wirklich ist**, bleibt aber oft vage. Dabei ist die Rentenlücke der wichtigste Ausgangspunkt für jede Altersvorsorge-Entscheidung. Ohne diese Zahl planst du im Blindflug.
 
-In diesem Artikel zeigst du dir Schritt für Schritt, **wie du deine Rentenlücke selbst berechnest** — mit Formel, aktuellen Zahlen (Stand 2025/2026) und Beispieltabellen für verschiedene Einkommen. Wenn du es schnell willst: Nutze den [kostenlosen Rentenlücken-Rechner](/rentenluecke-rechner) — er liefert dir das Ergebnis in 60 Sekunden.
+In diesem Artikel zeigst du dir Schritt für Schritt, **wie du deine Rentenlücke selbst berechnest** — mit Formel, aktuellen Zahlen (Stand 2025/2026) und Beispieltabellen für verschiedene Einkommen. Wenn du es schnell willst: Nutze den [kostenlosen Rentenlücken-Rechner](/rentenluecke-rechner/) — er liefert dir das Ergebnis in 60 Sekunden.
 
 ## Schnellzugang: Rechner statt Rechnen
 
-Du willst keine Formel pauken? Verständlich. Der [Rentenlücken-Rechner](/rentenluecke-rechner) auf finanzstart-muenster.de fragt drei Werte ab (Alter, Bruttogehalt, gewünschtes Nettoeinkommen im Alter) und gibt dir sofort:
+Du willst keine Formel pauken? Verständlich. Der [Rentenlücken-Rechner](/rentenluecke-rechner/) auf finanzstart-muenster.de fragt drei Werte ab (Alter, Bruttogehalt, gewünschtes Nettoeinkommen im Alter) und gibt dir sofort:
 
 - deine erwartete **gesetzliche Nettorente** mit 67,
 - deine **monatliche Rentenlücke**,
@@ -69,7 +69,7 @@ Die Rentenlücke ist die **Differenz zwischen deinem gewünschten Lebensstandard
 
 Klingt einfach. Die Schwierigkeit: Beide Seiten der Gleichung sind unsicher, beide enthalten versteckte Stolperfallen — und genau dort entstehen die meisten Fehlkalkulationen.
 
-> **Warum die gesetzliche Rente nicht reicht:** Das Rentenniveau (Verhältnis Standardrente zu Durchschnittslohn) ist seit 1980 von 57 % auf rund 48 % gesunken und soll bis 2031 stabilisiert werden. Wer heute einzahlt, bekommt anteilig weniger raus als seine Eltern. [Details zum sinkenden Rentenniveau →](/blog/gesetzliche-rente-reicht-nicht-warum)
+> **Warum die gesetzliche Rente nicht reicht:** Das Rentenniveau (Verhältnis Standardrente zu Durchschnittslohn) ist seit 1980 von 57 % auf rund 48 % gesunken und soll bis 2031 stabilisiert werden. Wer heute einzahlt, bekommt anteilig weniger raus als seine Eltern. [Details zum sinkenden Rentenniveau →](/blog/gesetzliche-rente-reicht-nicht-warum/)
 
 ## So berechnest du deine Rentenlücke in 4 Schritten
 
@@ -93,7 +93,7 @@ Sie zeigt dir drei zentrale Werte:
 2. **Hochrechnung bei unverändertem Verlauf** bis 67 — wenn du wie bisher weiter verdienst.
 3. **Bei jährlichen Steigerungen von 1 % bzw. 2 %** — Szenarien mit Lohnsteigerung.
 
-> **Wichtig:** Diese Zahlen sind **Bruttorente in heutigen Euro** — vor Inflation, Steuer und KV/PV-Beiträgen. Die tatsächliche Nettorente liegt deutlich darunter. [So liest du die Renteninformation richtig →](/blog/rentenbescheid-verstehen-rentenpunkte)
+> **Wichtig:** Diese Zahlen sind **Bruttorente in heutigen Euro** — vor Inflation, Steuer und KV/PV-Beiträgen. Die tatsächliche Nettorente liegt deutlich darunter. [So liest du die Renteninformation richtig →](/blog/rentenbescheid-verstehen-rentenpunkte/)
 
 **Selbst rechnen mit Entgeltpunkten:**
 
@@ -117,7 +117,7 @@ Von der Bruttorente gehen ab:
 
 **Beispiel weiter:** 1.530 € brutto × 0,76 = **1.160 € Nettorente/Monat**.
 
-Mehr Details: [Wie wird die Rente besteuert? →](/blog/rentenbesteuerung-wie-viel-steuern-auf-rente)
+Mehr Details: [Wie wird die Rente besteuert? →](/blog/rentenbesteuerung-wie-viel-steuern-auf-rente/)
 
 ### Schritt 4: Lücke berechnen
 
@@ -141,7 +141,7 @@ Damit du dich einordnen kannst, hier die typische Rentenlücke für verschiedene
 
 **Erkenntnis:** Wer überdurchschnittlich verdient, hat **überproportional größere Rentenlücke**, weil die GRV oben gedeckelt ist. Genau hier liegt der wichtigste Hebel privater Vorsorge.
 
-→ Vertiefung: [Bei welchem Gehalt bekomme ich wie viele Rentenpunkte? →](/blog/rentenpunkte-bei-welchem-gehalt-tabelle)
+→ Vertiefung: [Bei welchem Gehalt bekomme ich wie viele Rentenpunkte? →](/blog/rentenpunkte-bei-welchem-gehalt-tabelle/)
 
 ## Wie viel Kapital brauchst du, um die Lücke zu schließen?
 
@@ -172,7 +172,7 @@ Das hängt von **Startalter, Renditeerwartung und Ansparzeit** ab. Beispiel-Tabe
 
 **Erkenntnis:** Ein 25-Jähriger braucht **8× weniger Sparrate** als ein 50-Jähriger für dasselbe Ziel. Das ist der Hebel des Zinseszinses — und der Grund, warum Berufseinsteiger den größten Vorteil ihrer Karriere haben, ohne es zu wissen.
 
-→ Vertiefung: [Wann mit Altersvorsorge anfangen? Beispielrechnung →](/blog/altersvorsorge-wann-anfangen-beispielrechnung) · [Wie viel monatlich für Altersvorsorge sparen? →](/blog/wie-viel-monatlich-altersvorsorge-sparen)
+→ Vertiefung: [Wann mit Altersvorsorge anfangen? Beispielrechnung →](/blog/altersvorsorge-wann-anfangen-beispielrechnung/) · [Wie viel monatlich für Altersvorsorge sparen? →](/blog/wie-viel-monatlich-altersvorsorge-sparen/)
 
 ## Wie schließt du die Rentenlücke konkret?
 
@@ -182,18 +182,18 @@ Die ehrliche Antwort: Mit einer **Kombination** aus mehreren Bausteinen — nich
 Verbindet **Renditechance aus Fonds** mit **lebenslanger Rentengarantie**, garantiertem Rentenfaktor und steuerbegünstigter Auszahlung (Halbeinkünfteverfahren ab 62 Jahren bei mindestens 12 Jahren Vertragslaufzeit). Pfändungsschutz inklusive, Verbindlichkeit beim Sparen — ein wesentlicher Vorteil gegenüber dem freiwilligen ETF-Sparplan. Für nahezu jede Altersvorsorge-Strategie ein Standard-Baustein, weil **nur eine Rentenversicherung das Langlebigkeitsrisiko absichert**.
 
 ### 2. Riester-Rente
-Sehr stark unterschätzt. Vorteile: **Grund- und Kinderzulagen** (175 € bzw. 300 € pro Kind ab Geburtsjahr 2008), **Sonderausgaben-Abzug bis 2.100 €/Jahr**, **100 % Beitragsgarantie**, **Pfändungsschutz**, **Hartz-IV-Schutz**. Für nahezu alle sozialversicherungspflichtig Beschäftigten ein lohnender Baustein — Ausnahmen sind individuell zu prüfen. [Was Riester heute leistet →](/blog/riester-jetzt-noch-abschliessen-vertragsschutz)
+Sehr stark unterschätzt. Vorteile: **Grund- und Kinderzulagen** (175 € bzw. 300 € pro Kind ab Geburtsjahr 2008), **Sonderausgaben-Abzug bis 2.100 €/Jahr**, **100 % Beitragsgarantie**, **Pfändungsschutz**, **Hartz-IV-Schutz**. Für nahezu alle sozialversicherungspflichtig Beschäftigten ein lohnender Baustein — Ausnahmen sind individuell zu prüfen. [Was Riester heute leistet →](/blog/riester-jetzt-noch-abschliessen-vertragsschutz/)
 
 ### 3. Betriebliche Altersvorsorge (bAV)
-Steuer- und sozialversicherungsfrei in der Ansparphase. Lohnt sich besonders bei **adäquatem Arbeitgeberzuschuss**. [Lohnt sich die bAV mit Arbeitgeberzuschuss? →](/blog/bav-lohnt-sich-arbeitgeberzuschuss) · [Wann lohnt sich die bAV NICHT? →](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht)
+Steuer- und sozialversicherungsfrei in der Ansparphase. Lohnt sich besonders bei **adäquatem Arbeitgeberzuschuss**. [Lohnt sich die bAV mit Arbeitgeberzuschuss? →](/blog/bav-lohnt-sich-arbeitgeberzuschuss/) · [Wann lohnt sich die bAV NICHT? →](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht/)
 
 ### 4. Rürup-Rente / Basisrente
-Vor allem für **Selbstständige** (die keinen Zugang zu Riester haben) und **Spitzenverdiener** interessant — bis zu 27.566 € (2025) jährlich steuerlich absetzbar. [Rürup-Rente: Für wen lohnt sie sich? →](/blog/privatrente-rurup-fuer-wen)
+Vor allem für **Selbstständige** (die keinen Zugang zu Riester haben) und **Spitzenverdiener** interessant — bis zu 27.566 € (2025) jährlich steuerlich absetzbar. [Rürup-Rente: Für wen lohnt sie sich? →](/blog/privatrente-rurup-fuer-wen/)
 
 ### 5. ETF-Sparplan
-Maximale Flexibilität und niedrige Kosten — aber **ein Anlageinstrument, keine Altersvorsorgelösung mit Rentengarantie**. Eignet sich gut **als Ergänzung** zur rentenversicherungsbasierten Grundstruktur, nicht als Ersatz. Der häufige Renditevergleich „ETF vs. Privatrente" ist methodisch unfair, weil er Verrentungsoption, Garantien und Steuervorteile ausblendet. [Private Rentenversicherung vs. ETF — sauberer Vergleich →](/blog/private-rentenversicherung-vs-etf)
+Maximale Flexibilität und niedrige Kosten — aber **ein Anlageinstrument, keine Altersvorsorgelösung mit Rentengarantie**. Eignet sich gut **als Ergänzung** zur rentenversicherungsbasierten Grundstruktur, nicht als Ersatz. Der häufige Renditevergleich „ETF vs. Privatrente" ist methodisch unfair, weil er Verrentungsoption, Garantien und Steuervorteile ausblendet. [Private Rentenversicherung vs. ETF — sauberer Vergleich →](/blog/private-rentenversicherung-vs-etf/)
 
-→ Großer Vergleich: [Welche Altersvorsorge lohnt sich 2026 wirklich? →](/blog/beste-altersvorsorge-vergleich-2026) · Konzeptuelle Grundlage: [Die 3 Säulen der Altersvorsorge →](/blog/drei-saeulen-altersvorsorge-erklaert)
+→ Großer Vergleich: [Welche Altersvorsorge lohnt sich 2026 wirklich? →](/blog/beste-altersvorsorge-vergleich-2026/) · Konzeptuelle Grundlage: [Die 3 Säulen der Altersvorsorge →](/blog/drei-saeulen-altersvorsorge-erklaert/)
 
 > **Wichtig:** Welche Kombination dieser Bausteine in welcher Höhe sinnvoll ist, lässt sich nicht aus einem Blogartikel ableiten. Es hängt von Steuerklasse, Familienstand, Erwerbsstatus, Karriereperspektive und persönlichem Sicherheitsbedürfnis ab. **Genau dafür gibt es Beratung.**
 
@@ -201,33 +201,33 @@ Maximale Flexibilität und niedrige Kosten — aber **ein Anlageinstrument, kein
 
 1. **Bruttorente mit Nettobedarf vergleichen** — der häufigste Anfängerfehler. Die Renteninformation zeigt Brutto, dein Lebensbedarf ist Netto. Allein dieser Fehler unterschätzt die Lücke um 20–25 %.
 2. **Inflation ignorieren** — 850 € Lücke heute sind in 35 Jahren bei 2 % Inflation nominal rund 1.700 €. Plane real (in heutigen Euro) und investiere in renditestarke Sachwerte.
-3. **Auf Standardrente vertrauen** — die Standardrente (45 Jahre Durchschnittsverdienst) erreichen die wenigsten. [Teilzeitphasen kosten massiv Rentenpunkte →](/blog/rente-teilzeit-auswirkungen) · [Frauen besonders betroffen: Gender Pension Gap →](/blog/gender-pension-gap-frauen-altersvorsorge)
+3. **Auf Standardrente vertrauen** — die Standardrente (45 Jahre Durchschnittsverdienst) erreichen die wenigsten. [Teilzeitphasen kosten massiv Rentenpunkte →](/blog/rente-teilzeit-auswirkungen/) · [Frauen besonders betroffen: Gender Pension Gap →](/blog/gender-pension-gap-frauen-altersvorsorge/)
 4. **Nur die GRV rechnen, bAV/Riester vergessen** — bestehende Verträge mindern deine Lücke. Hol dir bei deinem Versorgungswerk / bAV-Träger ebenfalls eine Hochrechnung.
 5. **Erbschaften und Immobilien einplanen** — beides ist unsicher. Plane konservativ ohne, nimm sie als Bonus mit.
-6. **Vor Renteneintritt abschlagsfrei rechnen** — wer früher in Rente geht, zahlt **0,3 % Abschlag pro Monat**. [Frühzeitig in Rente — was kostet das? →](/blog/rente-fruehzeitig-abschlaege)
+6. **Vor Renteneintritt abschlagsfrei rechnen** — wer früher in Rente geht, zahlt **0,3 % Abschlag pro Monat**. [Frühzeitig in Rente — was kostet das? →](/blog/rente-fruehzeitig-abschlaege/)
 
 ## Was die Berechnung nicht leistet
 
 Die Überschlagsformeln in diesem Artikel zeigen dir die **Größenordnung** — nicht die exakte Zahl. Nicht berücksichtigt sind:
 
 - Deine individuelle Steuersituation im Alter (Splitting, weitere Einkünfte, Werbungskosten)
-- Staatliche Förderungen (Riester-Zulagen, bAV-Steuervorteile, Rürup-Absetzbarkeit) — [Überblick staatlicher Förderung →](/blog/staatliche-foerderung-altersvorsorge-ueberblick)
+- Staatliche Förderungen (Riester-Zulagen, bAV-Steuervorteile, Rürup-Absetzbarkeit) — [Überblick staatlicher Förderung →](/blog/staatliche-foerderung-altersvorsorge-ueberblick/)
 - Immobilien (mietfreies Wohnen reduziert Bedarf um 25–35 %)
-- Rentenwertanpassungen durch zukünftige Rentenreformen — [Was ändert sich 2025? →](/blog/rentenreform-2025-was-aendert-sich)
+- Rentenwertanpassungen durch zukünftige Rentenreformen — [Was ändert sich 2025? →](/blog/rentenreform-2025-was-aendert-sich/)
 - Hinterbliebenenrente und Versorgungsausgleich
 
 Welche **Kombination aus gesetzlicher Rente, betrieblicher Vorsorge und privater Anlage** für dich optimal ist, lässt sich pauschal nicht sagen — das hängt von zu vielen individuellen Faktoren ab. Wenn du die Größenordnung kennst und konkret loslegen willst, hilft ein **Beratungsgespräch**, das realistisch durchzurechnen und auf deine Lebensphase abzustimmen.
 
 ## Vertiefung & nächste Schritte
 
-- [Rentenlücken-Rechner](/rentenluecke-rechner) — Berechnung in 60 Sekunden, anonym
-- [Wie viel monatlich für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Konkrete Tabelle nach Bruttogehalt mit Aufteilung der Sparrate
-- [Beste Altersvorsorge 2026 im Vergleich](/blog/beste-altersvorsorge-vergleich-2026) — Vollständiger Vergleich aller Optionen zum Lückenschluss
-- [Wann mit Altersvorsorge anfangen — Beispielrechnung](/blog/altersvorsorge-wann-anfangen-beispielrechnung) — Zinseszins in Zahlen
-- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie sich die Säulen in der Lückenrechnung kombinieren
-- [Rentenpunkte: Bei welchem Gehalt wie viele?](/blog/rentenpunkte-bei-welchem-gehalt-tabelle) — Tabelle für jede Einkommensklasse
-- [Kleine Rente — was tun?](/blog/kleine-rente-rentenlücke-was-tun) — Lösungen, wenn die Lücke besonders groß ist
-- [Erwerbsminderungsrente: Was zahlt der Staat?](/blog/erwerbsminderungsrente-was-zahlt-der-staat) — Was passiert, wenn du *nicht* bis 67 arbeiten kannst
+- [Rentenlücken-Rechner](/rentenluecke-rechner/) — Berechnung in 60 Sekunden, anonym
+- [Wie viel monatlich für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen/) — Konkrete Tabelle nach Bruttogehalt mit Aufteilung der Sparrate
+- [Beste Altersvorsorge 2026 im Vergleich](/blog/beste-altersvorsorge-vergleich-2026/) — Vollständiger Vergleich aller Optionen zum Lückenschluss
+- [Wann mit Altersvorsorge anfangen — Beispielrechnung](/blog/altersvorsorge-wann-anfangen-beispielrechnung/) — Zinseszins in Zahlen
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert/) — Wie sich die Säulen in der Lückenrechnung kombinieren
+- [Rentenpunkte: Bei welchem Gehalt wie viele?](/blog/rentenpunkte-bei-welchem-gehalt-tabelle/) — Tabelle für jede Einkommensklasse
+- [Kleine Rente — was tun?](/blog/kleine-rente-rentenlücke-was-tun/) — Lösungen, wenn die Lücke besonders groß ist
+- [Erwerbsminderungsrente: Was zahlt der Staat?](/blog/erwerbsminderungsrente-was-zahlt-der-staat/) — Was passiert, wenn du *nicht* bis 67 arbeiten kannst
 
 ## Fazit
 
@@ -236,7 +236,7 @@ Deine Rentenlücke zu kennen ist der **erste Schritt** jeder seriösen Altersvor
 **Drei konkrete nächste Schritte:**
 
 1. **Renteninformation prüfen** (Briefkasten oder DRV-Konto online)
-2. **Rentenlücke berechnen** — entweder mit der Formel oben oder im [Rechner](/rentenluecke-rechner)
+2. **Rentenlücke berechnen** — entweder mit der Formel oben oder im [Rechner](/rentenluecke-rechner/)
 3. **Sparplan starten** — auch 50 € sind besser als gar nichts, solange du mit 25 anfängst
 
 ---

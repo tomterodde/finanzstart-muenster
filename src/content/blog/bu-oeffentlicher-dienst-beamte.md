@@ -88,9 +88,9 @@ Der Aufschlag für die DU-Klausel liegt bei rund 10–20 % gegenüber einer Stan
 
 ## Vertiefung
 
-- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen) — Leistungsumfang, Voraussetzungen und Ausschlüsse.
-- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen für Beamte und andere Berufsgruppen.
-- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll) — Wann der Abschluss noch lohnt.
+- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen/) — Leistungsumfang, Voraussetzungen und Ausschlüsse.
+- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle/) — Konkrete Beitragsspannen für Beamte und andere Berufsgruppen.
+- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll/) — Wann der Abschluss noch lohnt.
 
 ## Fazit
 

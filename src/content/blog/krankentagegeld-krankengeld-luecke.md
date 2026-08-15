@@ -56,7 +56,7 @@ Das Krankengeld wird für **maximal 78 Wochen** innerhalb von 3 Jahren für dies
 
 Nach 78 Wochen Krankengeld endet der Anspruch. Wer dann immer noch nicht arbeiten kann, muss:
 
-- Einen Antrag auf Erwerbsminderungsrente stellen (sofern die Wartezeiten erfüllt sind — mehr dazu im [Artikel zur Erwerbsminderungsrente](/blog/erwerbsminderungsrente-was-zahlt-der-staat))
+- Einen Antrag auf Erwerbsminderungsrente stellen (sofern die Wartezeiten erfüllt sind — mehr dazu im [Artikel zur Erwerbsminderungsrente](/blog/erwerbsminderungsrente-was-zahlt-der-staat/))
 - Oder Bürgergeld (ehemals Hartz IV) beantragen
 
 Weder das eine noch das andere sichert auch nur annähernd das bisherige Einkommensniveau.

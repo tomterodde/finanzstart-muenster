@@ -33,7 +33,7 @@ Ein Private-Equity-Fonds ist rechtlich meist eine Kommanditgesellschaft mit zwei
 
 Die **Limited Partner (LP)** stellen das Kapital — typischerweise Pensionskassen, Versicherer, Staatsfonds, Stiftungen und vermögende Familien. Ihre Haftung ist auf die Einlage beschränkt, dafür haben sie praktisch kein Mitspracherecht bei einzelnen Deals.
 
-Der GP legt selbst meist nur 1–2 % des Fondsvolumens ein, verdient aber über Managementgebühr und Gewinnbeteiligung. Wie diese [Carried-Interest-Mechanik](/blog/carried-interest-einfach-erklaert) im Detail funktioniert, haben wir separat erklärt.
+Der GP legt selbst meist nur 1–2 % des Fondsvolumens ein, verdient aber über Managementgebühr und Gewinnbeteiligung. Wie diese [Carried-Interest-Mechanik](/blog/carried-interest-einfach-erklaert/) im Detail funktioniert, haben wir separat erklärt.
 
 ## Committed Capital: Zusagen statt Einzahlung
 
@@ -41,7 +41,7 @@ Der wichtigste Unterschied zum klassischen Investmentfonds: Beim Fondsstart flie
 
 Abgerufen wird das Geld erst, wenn der Fonds tatsächlich investiert. Diese Abrufe heißen **Capital Calls**: Kauft der Fonds ein Unternehmen für 60 Mio. €, fordert der GP anteilig Kapital von allen LPs an — meist mit 10 Werktagen Frist.
 
-Für die Investoren heißt das: Sie müssen über Jahre Liquidität für Abrufe bereithalten, deren genauer Zeitpunkt nicht planbar ist. Das ist einer der Gründe, warum die Anlageklasse lange institutionellen Anlegern vorbehalten war — was sich mit [ELTIF-Strukturen für Privatanleger](/blog/private-equity-privatanleger-eltif) gerade ändert.
+Für die Investoren heißt das: Sie müssen über Jahre Liquidität für Abrufe bereithalten, deren genauer Zeitpunkt nicht planbar ist. Das ist einer der Gründe, warum die Anlageklasse lange institutionellen Anlegern vorbehalten war — was sich mit [ELTIF-Strukturen für Privatanleger](/blog/private-equity-privatanleger-eltif/) gerade ändert.
 
 ## Der Lebenszyklus: 10 Jahre in zwei Phasen
 
@@ -62,13 +62,13 @@ Wer die Wertentwicklung eines PE-Fonds über die Laufzeit aufzeichnet, sieht den
 
 Das hat zwei Gründe. Erstens fallen Managementgebühren von Anfang an auf das zugesagte Kapital an, während die Investitionen noch keine Wertsteigerung zeigen. Zweitens werden frisch gekaufte Beteiligungen konservativ zum Einstandspreis bewertet.
 
-Erst wenn ab Jahr 4–6 die ersten Unternehmen mit Gewinn verkauft werden, dreht die Kurve steil nach oben. Für die Renditemessung über diesen unregelmäßigen Zahlungsstrom nutzt die Branche den [IRR — Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert), nicht die einfache Jahresrendite.
+Erst wenn ab Jahr 4–6 die ersten Unternehmen mit Gewinn verkauft werden, dreht die Kurve steil nach oben. Für die Renditemessung über diesen unregelmäßigen Zahlungsstrom nutzt die Branche den [IRR — Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert/), nicht die einfache Jahresrendite.
 
 ## Was vor jedem Investment steht
 
-Bevor ein Fonds überhaupt einen Capital Call auslöst, durchläuft jedes Zielunternehmen eine [Due Diligence](/blog/due-diligence-private-equity-ablauf) — die systematische Prüfung von Finanzen, Recht, Markt und Management. Laut BVK-Statistik investierten Beteiligungsfonds allein in Deutschland zuletzt einen zweistelligen Milliardenbetrag pro Jahr in mehr als 1.000 Unternehmen.
+Bevor ein Fonds überhaupt einen Capital Call auslöst, durchläuft jedes Zielunternehmen eine [Due Diligence](/blog/due-diligence-private-equity-ablauf/) — die systematische Prüfung von Finanzen, Recht, Markt und Management. Laut BVK-Statistik investierten Beteiligungsfonds allein in Deutschland zuletzt einen zweistelligen Milliardenbetrag pro Jahr in mehr als 1.000 Unternehmen.
 
-Die Auswahl ist der eigentliche Job des GP: Aus hunderten geprüften Unternehmen pro Jahr schaffen es nur eine Handvoll ins Portfolio. Wie der Fonds mit diesen Beteiligungen dann Geld verdient, zeigt [Wie verdienen Private-Equity-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld)
+Die Auswahl ist der eigentliche Job des GP: Aus hunderten geprüften Unternehmen pro Jahr schaffen es nur eine Handvoll ins Portfolio. Wie der Fonds mit diesen Beteiligungen dann Geld verdient, zeigt [Wie verdienen Private-Equity-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld/)
 
 ## Fazit
 

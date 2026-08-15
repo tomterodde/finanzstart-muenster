@@ -59,7 +59,7 @@ Eine jährliche Fixkosten-Revision (2 Stunden) deckt oft 50–150 Euro/Monat auf
 
 Nicht Haushaltsbuch führen als Pflicht, sondern einmalig 4 Wochen lang alle Ausgaben aufschreiben. Die meisten Menschen unterschätzen ihre Ausgaben erheblich.
 
-**Tools:** [Digitale Haushaltsbuch-Apps helfen dabei](/blog/haushaltsbuch-digitale-tools) — YNAB, Spendee, Finanzguru. Ziel: Muster sehen, nicht jeden Euro optimieren.
+**Tools:** [Digitale Haushaltsbuch-Apps helfen dabei](/blog/haushaltsbuch-digitale-tools/) — YNAB, Spendee, Finanzguru. Ziel: Muster sehen, nicht jeden Euro optimieren.
 
 ## Methode 5: Einmalige Windfalls direkt sparen
 

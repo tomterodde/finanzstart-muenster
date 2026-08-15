@@ -76,7 +76,7 @@ Die Faustregel: **Je höher der Arbeitgeberzuschuss, desto attraktiver.**
 
 ## Was ist mit der Rentenlücke?
 
-Die betriebliche Altersvorsorge ist eines von mehreren Instrumenten, um die [Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster) zu schließen. Sie ist kein Allheilmittel, aber ein sinnvoller Baustein — besonders wenn der Arbeitgeber substanziell mitzahlt.
+Die betriebliche Altersvorsorge ist eines von mehreren Instrumenten, um die [Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster/) zu schließen. Sie ist kein Allheilmittel, aber ein sinnvoller Baustein — besonders wenn der Arbeitgeber substanziell mitzahlt.
 
 Ein sinnvoller Einstieg für Berufseinsteiger könnte sein:
 - bAV-Konditionen beim Arbeitgeber aktiv erfragen (Zuschusshöhe, Durchführungsweg)
@@ -105,15 +105,15 @@ Die Direktversicherung ist der mit Abstand verbreitetste bAV-Weg — vor allem i
 
 Der Charme: Sie ist einfach, transparent und läuft auf deinen Namen. Die Beiträge fließen per Entgeltumwandlung steuerfrei und (bis 4 % der Beitragsbemessungsgrenze) sozialabgabenfrei ein, der Arbeitgeber-Pflichtzuschuss von 15 % gilt genauso.
 
-Beim Jobwechsel ist die Direktversicherung der portabelste Weg: Du kannst den Vertrag oft privat mit eigenen Beiträgen weiterführen oder — bei Zustimmung beider Arbeitgeber — das Kapital übertragen. Wie das konkret abläuft, steht im Artikel [bAV bei Jobwechsel](/blog/bav-jobwechsel-was-passiert).
+Beim Jobwechsel ist die Direktversicherung der portabelste Weg: Du kannst den Vertrag oft privat mit eigenen Beiträgen weiterführen oder — bei Zustimmung beider Arbeitgeber — das Kapital übertragen. Wie das konkret abläuft, steht im Artikel [bAV bei Jobwechsel](/blog/bav-jobwechsel-was-passiert/).
 
 ## Vertiefung: Häufige bAV-Fragen
 
-- [Lohnt sich die bAV bei deinem Arbeitgeberzuschuss?](/blog/bav-lohnt-sich-arbeitgeberzuschuss) — Ab welchem Zuschuss sich die Entgeltumwandlung gegenüber einem ETF-Sparplan rechnet.
-- [bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht) — Sechs zentrale Nachteile (Doppelverbeitragung, Rentenpunkt-Verlust, Inflexibilität) ehrlich aufgeschlüsselt.
-- [Betriebsrente auszahlen: Rente, Kapital oder Kombi?](/blog/betriebsrente-auszahlung-optionen) — Welche Auszahlungsform steuerlich und praktisch sinnvoll ist.
-- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — bAV im direkten Vergleich mit ETF, Riester, Rürup und Rentenversicherung.
-- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie sich bAV in das Gesamtsystem einordnet.
+- [Lohnt sich die bAV bei deinem Arbeitgeberzuschuss?](/blog/bav-lohnt-sich-arbeitgeberzuschuss/) — Ab welchem Zuschuss sich die Entgeltumwandlung gegenüber einem ETF-Sparplan rechnet.
+- [bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht/) — Sechs zentrale Nachteile (Doppelverbeitragung, Rentenpunkt-Verlust, Inflexibilität) ehrlich aufgeschlüsselt.
+- [Betriebsrente auszahlen: Rente, Kapital oder Kombi?](/blog/betriebsrente-auszahlung-optionen/) — Welche Auszahlungsform steuerlich und praktisch sinnvoll ist.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026/) — bAV im direkten Vergleich mit ETF, Riester, Rürup und Rentenversicherung.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert/) — Wie sich bAV in das Gesamtsystem einordnet.
 
 ## Fazit
 

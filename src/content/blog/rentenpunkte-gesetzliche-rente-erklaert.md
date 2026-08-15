@@ -63,7 +63,7 @@ Das klingt nach wenig. Und das ist es auch — vor allem weil:
 2. Aus dem Brutto werden noch ca. 10–12 % für Kranken- und Pflegeversicherung abgezogen.
 3. Steuern fallen je nach Renteneintrittsjahr zunehmend an.
 
-[Was Inflation mit der Kaufkraft macht und warum das bei der Rente so entscheidend ist, erklärt dieser Artikel.](/blog/inflation-kaufkraft-erklaert)
+[Was Inflation mit der Kaufkraft macht und warum das bei der Rente so entscheidend ist, erklärt dieser Artikel.](/blog/inflation-kaufkraft-erklaert/)
 
 ## Die Beitragsbemessungsgrenze als Deckel
 
@@ -71,7 +71,7 @@ Es gibt eine Obergrenze: Nur Einkommen bis zur Beitragsbemessungsgrenze (2025: 8
 
 Das bedeutet: Gutverdiener haben überproportional hohe Rentenlücken, weil sie ihren Lebensstandard nicht annähernd mit der gesetzlichen Rente halten können.
 
-[Was die Beitragsbemessungsgrenze ist und warum sie auch die Altersvorsorge beeinflusst, erklärt dieser Artikel.](/blog/beitragsbemessungsgrundlage-erklaert)
+[Was die Beitragsbemessungsgrenze ist und warum sie auch die Altersvorsorge beeinflusst, erklärt dieser Artikel.](/blog/beitragsbemessungsgrundlage-erklaert/)
 
 ## Wie viel Rente brauche ich wirklich?
 
@@ -79,7 +79,7 @@ Die gesetzliche Rente ersetzt im Durchschnitt nur ca. 48–50 % des letzten Nett
 
 Wer heute 2.500 Euro netto verdient, bekommt aus der gesetzlichen Rente im Durchschnitt ca. 1.200–1.300 Euro — sofern er 45 Beitragsjahre hat. Für viele Akademiker mit späterem Berufseinstieg sind es weniger.
 
-[Wie du deine persönliche Rentenlücke in 4 Schritten berechnest — Formel, Tabelle, Rechner.](/blog/rentenluecke-berechnen-schliessen) [Speziell für Berufseinsteiger in Münster.](/blog/rentenlücke-berufseinsteiger-münster)
+[Wie du deine persönliche Rentenlücke in 4 Schritten berechnest — Formel, Tabelle, Rechner.](/blog/rentenluecke-berechnen-schliessen/) [Speziell für Berufseinsteiger in Münster.](/blog/rentenlücke-berufseinsteiger-münster/)
 
 ## Kann ich meine Rentenpunkte einsehen?
 
@@ -91,12 +91,12 @@ Dort siehst du: gesammelte Punkte, bisherige Beitragszeiten, und eine Hochrechnu
 
 Dieser Artikel ist die Grundlage. Für die häufigsten konkreten Folgefragen gibt es vertiefende Artikel:
 
-- **[Wie viele Rentenpunkte brauche ich für 2.000 € Rente?](/blog/rentenpunkte-fuer-2000-euro-rente)** — Die zentrale Lebensplanungsfrage mit Tabelle für 1.000 €, 1.500 €, 2.000 €, 2.500 € und 3.000 € Rente.
-- **[Sind 40 Rentenpunkte viel? Vergleichswerte mit 30, 40, 50 und 60 Jahren](/blog/wie-viele-rentenpunkte-mit-40-50-60)** — Wo du im Vergleich zum Durchschnitt stehst, je nach Lebensalter.
-- **[Wie viele Rentenpunkte bei welchem Gehalt? (Brutto-Tabelle)](/blog/rentenpunkte-bei-welchem-gehalt-tabelle)** — Konkrete Punkte für 30.000 € bis zur Beitragsbemessungsgrenze.
-- **[Rentenpunkte für Kindererziehung und Pflege Angehöriger](/blog/rentenpunkte-kindererziehung-pflege)** — Mütterrente, Pflegegrade und wie viele Punkte du tatsächlich bekommst.
-- **[Rentenpunkte bei Scheidung: Wie der Versorgungsausgleich wirklich läuft](/blog/rentenpunkte-bei-scheidung-versorgungsausgleich)** — Was abgegeben werden muss und welche Strategien existieren.
-- **[Rentenpunkte kaufen: Lohnt sich die freiwillige Einzahlung?](/blog/rentenpunkte-kaufen-freiwillige-beitraege)** — Ausgleichszahlung und freiwillige Beiträge — Rendite und Steuervorteile.
+- **[Wie viele Rentenpunkte brauche ich für 2.000 € Rente?](/blog/rentenpunkte-fuer-2000-euro-rente/)** — Die zentrale Lebensplanungsfrage mit Tabelle für 1.000 €, 1.500 €, 2.000 €, 2.500 € und 3.000 € Rente.
+- **[Sind 40 Rentenpunkte viel? Vergleichswerte mit 30, 40, 50 und 60 Jahren](/blog/wie-viele-rentenpunkte-mit-40-50-60/)** — Wo du im Vergleich zum Durchschnitt stehst, je nach Lebensalter.
+- **[Wie viele Rentenpunkte bei welchem Gehalt? (Brutto-Tabelle)](/blog/rentenpunkte-bei-welchem-gehalt-tabelle/)** — Konkrete Punkte für 30.000 € bis zur Beitragsbemessungsgrenze.
+- **[Rentenpunkte für Kindererziehung und Pflege Angehöriger](/blog/rentenpunkte-kindererziehung-pflege/)** — Mütterrente, Pflegegrade und wie viele Punkte du tatsächlich bekommst.
+- **[Rentenpunkte bei Scheidung: Wie der Versorgungsausgleich wirklich läuft](/blog/rentenpunkte-bei-scheidung-versorgungsausgleich/)** — Was abgegeben werden muss und welche Strategien existieren.
+- **[Rentenpunkte kaufen: Lohnt sich die freiwillige Einzahlung?](/blog/rentenpunkte-kaufen-freiwillige-beitraege/)** — Ausgleichszahlung und freiwillige Beiträge — Rendite und Steuervorteile.
 
 ## Fazit
 

@@ -64,9 +64,9 @@ Das Freiwilligen-Zentrum Münster und das Ehrenamtsnetzwerk Münster beraten zu 
 
 ## Verwandte Münster-Themen
 
-- [Altersvorsorge für Selbstständige in Münster](/blog/altersvorsorge-selbststaendige-muenster)
-- [Altersvorsorge für IT-Berufe in Münster](/blog/muenster-it-jobs-altersvorsorge)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Altersvorsorge für Selbstständige in Münster](/blog/altersvorsorge-selbststaendige-muenster/)
+- [Altersvorsorge für IT-Berufe in Münster](/blog/muenster-it-jobs-altersvorsorge/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

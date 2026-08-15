@@ -34,7 +34,7 @@ Münster hat eine wachsende IT-Szene: Softwareunternehmen, IT-Dienstleister, Sta
 
 **Hohes Einkommen früh:** Viele IT-Berufe ermöglichen schon nach wenigen Jahren 60.000–90.000 Euro Jahresbrutto. Das ist gut — bedeutet aber auch, dass die Rentenlücke absolut größer ist (höheres Zieleinkommen im Alter).
 
-**Häufige Jobwechsel:** Kurze Arbeitgeberbindungen in der IT (2–3 Jahre sind normal) können bAV-Ansprüche komplizieren — [was beim Jobwechsel mit der bAV passiert, erklärt dieser Artikel](/blog/bav-jobwechsel-was-passiert).
+**Häufige Jobwechsel:** Kurze Arbeitgeberbindungen in der IT (2–3 Jahre sind normal) können bAV-Ansprüche komplizieren — [was beim Jobwechsel mit der bAV passiert, erklärt dieser Artikel](/blog/bav-jobwechsel-was-passiert/).
 
 **Neigung zur Selbstständigkeit:** Viele IT-Fachkräfte wechseln in die Selbstständigkeit — und verlieren damit plötzlich die automatische GRV-Absicherung.
 
@@ -50,7 +50,7 @@ Grund: "Ich sitze nur am Schreibtisch." Das stimmt — schützt aber nicht vor d
 
 ### bAV: Arbeitgeberzuschuss ausschöpfen
 
-IT-Unternehmen bieten oft überdurchschnittliche bAV-Zuschüsse (25–50 %). Das ist der stärkste Renditehebel in der Altersvorsorge. [Wann die bAV sich lohnt, erklärt dieser Artikel.](/blog/bav-lohnt-sich-arbeitgeberzuschuss)
+IT-Unternehmen bieten oft überdurchschnittliche bAV-Zuschüsse (25–50 %). Das ist der stärkste Renditehebel in der Altersvorsorge. [Wann die bAV sich lohnt, erklärt dieser Artikel.](/blog/bav-lohnt-sich-arbeitgeberzuschuss/)
 
 ### Aktienoptionen / RSUs: steuerlich komplex
 
@@ -58,7 +58,7 @@ Viele IT-Unternehmen (besonders internationale) bieten Aktienoptionen oder Restr
 
 ### Freelancing als IT-Consultant: Rentenversicherung selbst gestalten
 
-Wer als IT-Freelancer arbeitet: [Altersvorsorge für Selbstständige ist Pflichtlektüre](/blog/rente-selbststaendige-alternativen). Bei hohem Einkommen: Rürup für den steuerlichen Hebel, ETF-Depot für Flexibilität.
+Wer als IT-Freelancer arbeitet: [Altersvorsorge für Selbstständige ist Pflichtlektüre](/blog/rente-selbststaendige-alternativen/). Bei hohem Einkommen: Rürup für den steuerlichen Hebel, ETF-Depot für Flexibilität.
 
 ## Was IT-Fachkräfte in Münster konkret tun sollten
 
@@ -70,9 +70,9 @@ Wer als IT-Freelancer arbeitet: [Altersvorsorge für Selbstständige ist Pflicht
 
 ## Verwandte Münster-Themen
 
-- [Altersvorsorge für Selbstständige in Münster](/blog/altersvorsorge-selbststaendige-muenster)
-- [Soziales Engagement und Ehrenamt: Auswirkung auf die Rente](/blog/muenster-soziales-ehrenamt-rente)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Altersvorsorge für Selbstständige in Münster](/blog/altersvorsorge-selbststaendige-muenster/)
+- [Soziales Engagement und Ehrenamt: Auswirkung auf die Rente](/blog/muenster-soziales-ehrenamt-rente/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

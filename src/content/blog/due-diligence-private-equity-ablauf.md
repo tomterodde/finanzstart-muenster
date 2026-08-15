@@ -32,7 +32,7 @@ Due Diligence (deutsch: gebotene Sorgfalt) ist die gründliche Prüfung eines Un
 
 Das Prinzip ist alt: Wer eine gebrauchte Wohnung kauft, lässt sie vorher von einem Gutachter prüfen. Beim Kauf eines ganzen Unternehmens ist dieselbe Sorgfalt nur ungleich umfangreicher.
 
-Die Due Diligence ist fester Bestandteil jedes professionellen Buyouts — wie der gesamte Ablauf funktioniert, steht in [Leveraged Buyout einfach erklärt](/blog/lbo-leveraged-buyout-einfach-erklaert).
+Die Due Diligence ist fester Bestandteil jedes professionellen Buyouts — wie der gesamte Ablauf funktioniert, steht in [Leveraged Buyout einfach erklärt](/blog/lbo-leveraged-buyout-einfach-erklaert/).
 
 ## Die wichtigsten Arten der Due Diligence
 
@@ -58,7 +58,7 @@ Die Due Diligence folgt einem eingespielten Drehbuch:
 
 Bei einem mittelgroßen Deal dauert dieser Prozess typischerweise **vier bis zwölf Wochen** — abhängig von Größe, Komplexität und der Qualität der bereitgestellten Daten.
 
-Wo die Due Diligence im großen Ganzen sitzt — zwischen erster Ansprache, Kaufvertrag (SPA) und Closing — zeigt der Überblick [M&A einfach erklärt](/blog/mergers-acquisitions-einfach-erklaert).
+Wo die Due Diligence im großen Ganzen sitzt — zwischen erster Ansprache, Kaufvertrag (SPA) und Closing — zeigt der Überblick [M&A einfach erklärt](/blog/mergers-acquisitions-einfach-erklaert/).
 
 ## Warum die Due Diligence über den Preis entscheidet
 
@@ -66,13 +66,13 @@ Die Due Diligence ist kein Formalakt, sondern ein Verhandlungshebel. Jeder gefun
 
 Findet das Team etwa einen wichtigen Kundenvertrag, der bald ausläuft, sinkt der faire Wert des Unternehmens. Der Käufer kann daraufhin den Preis drücken oder Garantien vom Verkäufer verlangen.
 
-So fließen die Erkenntnisse direkt in die Renditerechnung ein — und damit in Kennzahlen wie den [Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert), nach denen PE-Fonds ihren Erfolg messen.
+So fließen die Erkenntnisse direkt in die Renditerechnung ein — und damit in Kennzahlen wie den [Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert/), nach denen PE-Fonds ihren Erfolg messen.
 
 ## Wenn die Due Diligence den Deal kippt
 
 Nicht jede Prüfung endet mit einem Kauf. Manchmal fördert die Due Diligence so gravierende Probleme zutage, dass der Käufer aussteigt — etwa verdeckte Schulden, manipulierte Zahlen oder ein einbrechender Markt.
 
-Das ist kein Scheitern, sondern der eigentliche Sinn der Übung: lieber vor dem Kauf abspringen als nach dem Kauf draufzahlen. Genau solche versteckten Risiken gehören zu den Gründen, warum Private Equity auch Schattenseiten hat — nachzulesen in [Private Equity Nachteile](/blog/private-equity-nachteile-schattenseite).
+Das ist kein Scheitern, sondern der eigentliche Sinn der Übung: lieber vor dem Kauf abspringen als nach dem Kauf draufzahlen. Genau solche versteckten Risiken gehören zu den Gründen, warum Private Equity auch Schattenseiten hat — nachzulesen in [Private Equity Nachteile](/blog/private-equity-nachteile-schattenseite/).
 
 ## Fazit
 

@@ -46,7 +46,7 @@ Als grobe Faustformel für deutsche Durchschnittslagen:
 - Mittleres Niveau: ca. 90 bis 150 € pro Jahr
 - Premium: ca. 150 bis 240 € pro Jahr
 
-Für die meisten Berufseinsteiger ist das mittlere Niveau die richtige Wahl — günstig genug, um monatlich kaum spürbar zu sein, aber mit sinnvoller Abdeckung. [Ob sich die Versicherung in deiner Situation überhaupt lohnt, klärt der Grundsatzartikel.](/blog/hausratversicherung-sinnvoll)
+Für die meisten Berufseinsteiger ist das mittlere Niveau die richtige Wahl — günstig genug, um monatlich kaum spürbar zu sein, aber mit sinnvoller Abdeckung. [Ob sich die Versicherung in deiner Situation überhaupt lohnt, klärt der Grundsatzartikel.](/blog/hausratversicherung-sinnvoll/)
 
 ## Die drei Preistreiber
 
@@ -107,11 +107,11 @@ Die 650-€-pro-m²-Regel ist eine Faustformel. Sinnvoll ist, sie mit der Realit
 **Gehobene Ausstattung (hochwertige Möbel, mehrere Geräte, teures Fahrrad):**
 800 bis 1.000 € pro m² — realistisch für Young Professionals mit Büroausstattung zu Hause.
 
-Unterschätzen ist teurer als überschätzen: [Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen) führt im Schadensfall zu anteilsmäßiger Kürzung — die vollständige Berechnungsmethode inklusive Inventarliste steht im verlinkten Artikel.
+Unterschätzen ist teurer als überschätzen: [Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen/) führt im Schadensfall zu anteilsmäßiger Kürzung — die vollständige Berechnungsmethode inklusive Inventarliste steht im verlinkten Artikel.
 
 ## Hausrat vs. Gebäudeversicherung: nicht dieselben Kosten pro qm
 
-Wer nach Versicherungskosten pro Quadratmeter sucht, landet oft bei zwei verschiedenen Produkten: Die **Hausratversicherung** (dieser Artikel) versichert den Inhalt deiner Wohnung — als Mieter brauchst du nur sie. Die **Wohngebäudeversicherung** versichert das Gebäude selbst (Dach, Wände, fest verbaute Teile) und ist Sache des Eigentümers; ihre Kosten liegen je nach Bauart und Region deutlich höher, typischerweise bei 2 bis 5 € pro m² und Jahr. Als Mieter zahlst du sie indirekt über die Nebenkosten — abschließen musst du sie nicht. [Wie sich Hausrat von anderen Policen abgrenzt, zeigt der Vergleichsartikel.](/blog/hausratversicherung-haftpflicht-unterschied)
+Wer nach Versicherungskosten pro Quadratmeter sucht, landet oft bei zwei verschiedenen Produkten: Die **Hausratversicherung** (dieser Artikel) versichert den Inhalt deiner Wohnung — als Mieter brauchst du nur sie. Die **Wohngebäudeversicherung** versichert das Gebäude selbst (Dach, Wände, fest verbaute Teile) und ist Sache des Eigentümers; ihre Kosten liegen je nach Bauart und Region deutlich höher, typischerweise bei 2 bis 5 € pro m² und Jahr. Als Mieter zahlst du sie indirekt über die Nebenkosten — abschließen musst du sie nicht. [Wie sich Hausrat von anderen Policen abgrenzt, zeigt der Vergleichsartikel.](/blog/hausratversicherung-haftpflicht-unterschied/)
 
 ## Was günstiger macht, ohne Leistung zu kosten
 
@@ -119,7 +119,7 @@ Wer nach Versicherungskosten pro Quadratmeter sucht, landet oft bei zwei verschi
 
 **Jahreszahlung statt Monatsrate:** 3 bis 5 % Rabatt auf die Gesamtprämie.
 
-**Bündel mit Haftpflicht beim gleichen Anbieter:** Oft 5 bis 10 % Kombi-Rabatt. Was die [Haftpflichtversicherung abdeckt, ist in diesem Artikel erklärt](/blog/private-haftpflichtversicherung-berufseinsteiger).
+**Bündel mit Haftpflicht beim gleichen Anbieter:** Oft 5 bis 10 % Kombi-Rabatt. Was die [Haftpflichtversicherung abdeckt, ist in diesem Artikel erklärt](/blog/private-haftpflichtversicherung-berufseinsteiger/).
 
 **Längere Vertragslaufzeit:** 3-Jahres-Verträge bieten oft Rabatte, erschweren aber den Wechsel bei schlechterer Leistung.
 

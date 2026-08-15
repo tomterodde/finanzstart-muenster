@@ -53,10 +53,10 @@ Wer mit 45 anfängt (100 €/Monat, 20 Jahre): ca. 52.400 Euro.
 ## Wie fängt man mit 100 Euro an?
 
 **Schritt 1: Depot eröffnen**
-Neobroker (Trade Republic, Scalable) oder Direktbank (ING, DKB) — kostenlose Depots, kostenlose Sparpläne. [Welches Depot passt, erklärt dieser Artikel.](/blog/depotauswahl-berufseinsteiger-vergleich)
+Neobroker (Trade Republic, Scalable) oder Direktbank (ING, DKB) — kostenlose Depots, kostenlose Sparpläne. [Welches Depot passt, erklärt dieser Artikel.](/blog/depotauswahl-berufseinsteiger-vergleich/)
 
 **Schritt 2: ETF auswählen**
-Für Einsteiger: Ein breit diversifizierter ETF reicht — MSCI World oder FTSE All-World. [Den Unterschied erklärt dieser Artikel.](/blog/msci-world-ftse-all-world-unterschied)
+Für Einsteiger: Ein breit diversifizierter ETF reicht — MSCI World oder FTSE All-World. [Den Unterschied erklärt dieser Artikel.](/blog/msci-world-ftse-all-world-unterschied/)
 
 **Schritt 3: Sparplan einrichten**
 100 Euro monatlich, automatischer Kauf. Einmal einrichten, dann vergessen.

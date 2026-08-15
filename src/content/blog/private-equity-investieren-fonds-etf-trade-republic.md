@@ -318,7 +318,7 @@ PE-Investments sind **steuerlich komplex**:
 
 **Konkreter Effekt:** Bei Spitzenverdienern oft 1–3 % zusätzliche Nettorendite durch Steueroptimierung.
 
-[Detaillierte PE-Nachteile inklusive Steuerkomplexität stehen hier.](/blog/private-equity-nachteile-schattenseite)
+[Detaillierte PE-Nachteile inklusive Steuerkomplexität stehen hier.](/blog/private-equity-nachteile-schattenseite/)
 
 ## Was du als nächstes tun solltest
 
@@ -330,7 +330,7 @@ PE-Investments sind **steuerlich komplex**:
 
 3. **Bei höherem Anlagebetrag (25.000 €+):** Beratungsgespräch mit jemandem, der **mehrere Anbieter und Strukturen** vergleichen kann — nicht nur einen Tarif verkaufen. Die Tarifqualität und Manager-Auswahl entscheiden über die Nettorendite über 10+ Jahre.
 
-[Wer die PE-Grundlagen noch braucht — was es ist, wie es funktioniert — findet sie hier.](/blog/was-ist-private-equity-einfach-erklaert) [Wer wissen will, wie die Top-PE-Häuser konkret Geld verdienen, findet die Antwort hier.](/blog/wie-verdienen-private-equity-firmen-geld)
+[Wer die PE-Grundlagen noch braucht — was es ist, wie es funktioniert — findet sie hier.](/blog/was-ist-private-equity-einfach-erklaert/) [Wer wissen will, wie die Top-PE-Häuser konkret Geld verdienen, findet die Antwort hier.](/blog/wie-verdienen-private-equity-firmen-geld/)
 
 ## Fazit
 
@@ -344,7 +344,7 @@ Privatanleger haben 2026 **fünf Wege**, in Private Equity zu investieren — vo
 
 Die richtige Wahl für deine konkrete Situation — Anlagebetrag, Liquidität, Steuern, Lebensphase — lässt sich pauschal nicht beantworten. Sie gehört in eine **persönliche Beratung mit unabhängiger Tarifauswahl**.
 
-[Wer prüfen will, welche PE-Häuser in Deutschland aktiv sind, findet die Übersicht hier.](/blog/top-private-equity-firmen-deutschland) [Wer die Nachteile von PE ehrlich verstehen will, findet sie hier.](/blog/private-equity-nachteile-schattenseite)
+[Wer prüfen will, welche PE-Häuser in Deutschland aktiv sind, findet die Übersicht hier.](/blog/top-private-equity-firmen-deutschland/) [Wer die Nachteile von PE ehrlich verstehen will, findet sie hier.](/blog/private-equity-nachteile-schattenseite/)
 
 ---
 

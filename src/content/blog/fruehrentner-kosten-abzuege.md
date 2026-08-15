@@ -70,7 +70,7 @@ Die DRV kann auf Anfrage berechnen, welche Sonderbeiträge nötig wären, um Abs
 
 Frühverrentung "rechnet sich" nie im finanziellen Sinne — wer länger arbeitet, bekommt mehr Rente und länger. Die Entscheidung hängt deshalb eher von Lebensqualität, Gesundheit und verfügbarem Privatvermögen ab.
 
-Als Faustformel: Wer neben der Rente über **ausreichend Privatvermögen** verfügt, das die niedrigere Rente ausgleicht, kann früher in Rente gehen ohne Lebensstandard einzubüßen. Wie groß dieses Polster sein muss, hängt von der Rentenlücke und dem gewünschten Alter ab. [Wie du deine Rentenlücke berechnest, erklärt dieser Artikel.](/blog/rentenluecke-berechnen-schliessen)
+Als Faustformel: Wer neben der Rente über **ausreichend Privatvermögen** verfügt, das die niedrigere Rente ausgleicht, kann früher in Rente gehen ohne Lebensstandard einzubüßen. Wie groß dieses Polster sein muss, hängt von der Rentenlücke und dem gewünschten Alter ab. [Wie du deine Rentenlücke berechnest, erklärt dieser Artikel.](/blog/rentenluecke-berechnen-schliessen/)
 
 ## Fazit
 

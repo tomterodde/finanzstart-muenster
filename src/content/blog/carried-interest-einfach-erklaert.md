@@ -30,9 +30,9 @@ Dieser Artikel erklärt, wie Carry funktioniert, warum die Hurdle Rate so wichti
 
 Carried Interest ist der Anteil am Fondsgewinn, den die Fondsmanager als Erfolgsbeteiligung erhalten — klassisch **20 %**.
 
-Das Besondere: Dieser Anteil ist von der eigenen Kapitaleinlage entkoppelt. Die Manager (der General Partner) legen oft nur 1–2 % des Fondsvolumens selbst ein, kassieren aber 20 % des Gewinns. Den Rest des Kapitals stellen die Investoren (Limited Partner) wie Pensionskassen und Versicherer. Wie dieses Zusammenspiel aus GP, LP und Capital Calls insgesamt funktioniert, erklärt [Wie funktioniert ein Private-Equity-Fonds?](/blog/private-equity-fonds-funktionsweise)
+Das Besondere: Dieser Anteil ist von der eigenen Kapitaleinlage entkoppelt. Die Manager (der General Partner) legen oft nur 1–2 % des Fondsvolumens selbst ein, kassieren aber 20 % des Gewinns. Den Rest des Kapitals stellen die Investoren (Limited Partner) wie Pensionskassen und Versicherer. Wie dieses Zusammenspiel aus GP, LP und Capital Calls insgesamt funktioniert, erklärt [Wie funktioniert ein Private-Equity-Fonds?](/blog/private-equity-fonds-funktionsweise/)
 
-Carry ist damit eine Hebelvergütung auf fremdes Kapital. Wie genau PE-Firmen darüber hinaus Geld verdienen, steht im Detail in [Wie verdienen Private-Equity-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld).
+Carry ist damit eine Hebelvergütung auf fremdes Kapital. Wie genau PE-Firmen darüber hinaus Geld verdienen, steht im Detail in [Wie verdienen Private-Equity-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld/).
 
 ## Die Hurdle Rate: Erst die Investoren, dann die Manager
 
@@ -65,7 +65,7 @@ Angenommen, ein Fonds sammelt 100 Mio. € ein und gibt am Ende 150 Mio. € zur
 | Restgewinn 80/20 verteilt | 40 Mio. € → 32 Mio. € / 8 Mio. € |
 | **Carry für die Manager gesamt** | **~10 Mio. €** |
 
-Aus einer Kapitaleinlage von vielleicht 1–2 Mio. € entsteht so ein Carry von rund 10 Mio. €. Das ist der Hebel, der die Branche antreibt — und der bei den Gehaltsspannen im [Private-Equity-Gehalt](/blog/private-equity-gehalt-deutschland) den entscheidenden Unterschied macht.
+Aus einer Kapitaleinlage von vielleicht 1–2 Mio. € entsteht so ein Carry von rund 10 Mio. €. Das ist der Hebel, der die Branche antreibt — und der bei den Gehaltsspannen im [Private-Equity-Gehalt](/blog/private-equity-gehalt-deutschland/) den entscheidenden Unterschied macht.
 
 ## Warum Carry so umstritten ist
 
@@ -73,13 +73,13 @@ Carried Interest steht steuerlich in der Kritik. In Deutschland gilt für Carry 
 
 Kritiker argumentieren, dass hier Arbeitseinkommen wie eine Kapitalanlage behandelt wird. Befürworter halten dagegen, dass die Manager echtes unternehmerisches Risiko tragen. Die Debatte ist in mehreren Ländern aktiv — eine Reform ist nicht ausgeschlossen.
 
-Wer die Schattenseiten der Anlageklasse insgesamt verstehen will, findet sie in [Private Equity Nachteile](/blog/private-equity-nachteile-schattenseite).
+Wer die Schattenseiten der Anlageklasse insgesamt verstehen will, findet sie in [Private Equity Nachteile](/blog/private-equity-nachteile-schattenseite/).
 
 ## Fazit
 
 Carried Interest ist der Grund, warum Private Equity als Karriereweg so attraktiv gilt — und warum der Weg dorthin so kompetitiv ist. Nicht das Gehalt macht reich, sondern die Beteiligung am Fondserfolg.
 
-Wer den Einstieg sucht, sollte das Vergütungsmodell verstehen, bevor er es bewertet: Ein Carry-Versprechen ist erst dann etwas wert, wenn der Fonds die Hurdle Rate übertrifft. Wie der Karriereweg dorthin aussieht, steht in [Private Equity Karriere: Wie kommt man rein?](/blog/private-equity-karriere-bwl-einstieg).
+Wer den Einstieg sucht, sollte das Vergütungsmodell verstehen, bevor er es bewertet: Ein Carry-Versprechen ist erst dann etwas wert, wenn der Fonds die Hurdle Rate übertrifft. Wie der Karriereweg dorthin aussieht, steht in [Private Equity Karriere: Wie kommt man rein?](/blog/private-equity-karriere-bwl-einstieg/).
 
 ---
 

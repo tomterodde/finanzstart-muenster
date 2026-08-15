@@ -39,7 +39,7 @@ Ein typischer LBO besteht aus zwei Finanzierungsbausteinen:
 - **Eigenkapital (Equity):** Das Geld aus dem Private-Equity-Fonds. Anteil am Kaufpreis: meist 30 bis 50 %.
 - **Fremdkapital (Debt):** Bankkredite und Anleihen, besichert durch das Zielunternehmen. Anteil: meist 50 bis 70 %.
 
-Je höher der Fremdkapitalanteil, desto stärker der Hebel — und desto größer sowohl die Renditechance als auch das Risiko. [Wie Private-Equity-Firmen mit dieser Struktur Geld verdienen, erklärt dieser Artikel im Detail](/blog/wie-verdienen-private-equity-firmen-geld).
+Je höher der Fremdkapitalanteil, desto stärker der Hebel — und desto größer sowohl die Renditechance als auch das Risiko. [Wie Private-Equity-Firmen mit dieser Struktur Geld verdienen, erklärt dieser Artikel im Detail](/blog/wie-verdienen-private-equity-firmen-geld/).
 
 ## Das Rechenbeispiel: Warum der Hebel wirkt
 
@@ -65,13 +65,13 @@ Drei Hebel sorgen in einem LBO für die Rendite:
 - **Operative Verbesserung:** Die PE-Firma steigert Umsatz und Marge — durch Effizienz, Zukäufe oder neue Strategien.
 - **Multiple-Steigerung:** Wird das Unternehmen am Ende zu einem höheren Bewertungsvielfachen verkauft als beim Einkauf, hebt das den Erlös zusätzlich.
 
-Diese drei Quellen zusammen erzeugen die Zielrenditen, mit denen Private Equity arbeitet. [Was Private Equity überhaupt ist und wie der gesamte Kreislauf funktioniert, liest du hier](/blog/was-ist-private-equity-einfach-erklaert).
+Diese drei Quellen zusammen erzeugen die Zielrenditen, mit denen Private Equity arbeitet. [Was Private Equity überhaupt ist und wie der gesamte Kreislauf funktioniert, liest du hier](/blog/was-ist-private-equity-einfach-erklaert/).
 
 ## Die Kehrseite: Das Risiko des Hebels
 
 Der Hebel verstärkt nicht nur Gewinne, sondern genauso Verluste. Ein hoch verschuldetes Unternehmen hat wenig Puffer: Bricht der Umsatz ein oder steigen die Zinsen, frisst der Schuldendienst den Cashflow auf.
 
-Im schlechten Fall kann das Unternehmen seine Kredite nicht mehr bedienen — dann droht die Restrukturierung oder Insolvenz. Genau deshalb steht Private Equity in der Kritik, Unternehmen mit Schulden zu überladen. [Welche Nachteile und Schattenseiten das Modell hat, beleuchtet dieser Artikel](/blog/private-equity-nachteile-schattenseite).
+Im schlechten Fall kann das Unternehmen seine Kredite nicht mehr bedienen — dann droht die Restrukturierung oder Insolvenz. Genau deshalb steht Private Equity in der Kritik, Unternehmen mit Schulden zu überladen. [Welche Nachteile und Schattenseiten das Modell hat, beleuchtet dieser Artikel](/blog/private-equity-nachteile-schattenseite/).
 
 Der Hebel ist also kein Zaubertrick, sondern eine Wette: Sie geht auf, wenn das Unternehmen stabil genug ist, die Schulden zu tragen — und schiefer, je fragiler es ist.
 
@@ -79,7 +79,7 @@ Der Hebel ist also kein Zaubertrick, sondern eine Wette: Sie geht auf, wenn das 
 
 Der Leveraged Buyout ist das Herzstück von Private Equity: ein Unternehmenskauf, bei dem Fremdkapital den Hebel setzt und das gekaufte Unternehmen seinen eigenen Erwerb finanziert. Richtig eingesetzt vervielfacht dieser Hebel die Eigenkapitalrendite — auf Kosten eines höheren Risikos.
 
-Wer die Logik des LBO verstanden hat, versteht die halbe Private-Equity-Branche. Wer selbst über das Feld nachdenkt — als Karriereweg oder als Anleger — sollte als Nächstes wissen, [welche realen Zugänge es für Privatanleger gibt](/blog/private-equity-privatanleger-eltif).
+Wer die Logik des LBO verstanden hat, versteht die halbe Private-Equity-Branche. Wer selbst über das Feld nachdenkt — als Karriereweg oder als Anleger — sollte als Nächstes wissen, [welche realen Zugänge es für Privatanleger gibt](/blog/private-equity-privatanleger-eltif/).
 
 ---
 

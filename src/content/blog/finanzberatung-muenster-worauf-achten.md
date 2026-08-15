@@ -69,7 +69,7 @@ Hinzu kommt: Provisionsprodukte sind seit der Reform 2015 streng reguliert. Prov
 ## Gute Fragen vor dem ersten Termin
 
 - "Welche Zulassung haben Sie — § 34c, § 34d, § 34f oder § 34h GewO?"
-- "Bei wie vielen Produktanbietern können Sie vergleichen?" (Mehr ist besser — Ein-Versicherer-Vertriebe sind eingeschränkt; [was Strukturvertrieb hier konkret bedeutet](/blog/strukturvertrieb-was-steckt-dahinter))
+- "Bei wie vielen Produktanbietern können Sie vergleichen?" (Mehr ist besser — Ein-Versicherer-Vertriebe sind eingeschränkt; [was Strukturvertrieb hier konkret bedeutet](/blog/strukturvertrieb-was-steckt-dahinter/))
 - "Erstellen Sie ein schriftliches Beratungsprotokoll nach § 18 WpHG?"
 - "Wie sieht die Folgebetreuung in fünf, zehn, zwanzig Jahren aus?"
 - "Wie ist Ihre Berufshaftpflicht abgesichert?" (Standard: 1,3 Mio. €)
@@ -87,16 +87,16 @@ Wichtig: Provisionen sind **kein** Red Flag — sie sind die normale Vergütungs
 
 ## Vertiefung
 
-- [Honorarberatung vs. Provisionsberatung im Vergleich](/blog/honorarberatung-vs-provisionsberatung-vergleich) — Marktdaten, Kostenrechnung über 30 Jahre, ehrliche Empfehlung je Profil.
-- [Was kostet ein Finanzberater wirklich?](/blog/was-kostet-ein-finanzberater) — Konkrete Preise pro Modell, Beispielrechnungen für Berufseinsteiger und Vermögende.
-- [Wie finde ich einen guten Finanzberater? 12-Punkte-Checkliste](/blog/wie-finde-ich-einen-guten-finanzberater) — Qualitätskriterien, Pflichtfragen, Red Flags.
-- [Vermittlerregister prüfen — Schritt-für-Schritt](/blog/bafin-vermittlerregister-pruefen-leitfaden) — Wie du in 2 Minuten die Zulassung deines Beraters checkst.
+- [Honorarberatung vs. Provisionsberatung im Vergleich](/blog/honorarberatung-vs-provisionsberatung-vergleich/) — Marktdaten, Kostenrechnung über 30 Jahre, ehrliche Empfehlung je Profil.
+- [Was kostet ein Finanzberater wirklich?](/blog/was-kostet-ein-finanzberater/) — Konkrete Preise pro Modell, Beispielrechnungen für Berufseinsteiger und Vermögende.
+- [Wie finde ich einen guten Finanzberater? 12-Punkte-Checkliste](/blog/wie-finde-ich-einen-guten-finanzberater/) — Qualitätskriterien, Pflichtfragen, Red Flags.
+- [Vermittlerregister prüfen — Schritt-für-Schritt](/blog/bafin-vermittlerregister-pruefen-leitfaden/) — Wie du in 2 Minuten die Zulassung deines Beraters checkst.
 
 ## Verwandte Münster-Themen
 
-- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
-- [Private Equity in Münster: Mittelstand und Karrierewege](/blog/private-equity-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster/)
+- [Private Equity in Münster: Mittelstand und Karrierewege](/blog/private-equity-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

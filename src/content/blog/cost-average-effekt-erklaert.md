@@ -60,7 +60,7 @@ Für die meisten Berufseinsteiger, die monatlich aus dem Gehalt investieren, ist
 
 Der häufigste Fehler: In Crashs pausieren, weil "der Markt gerade fällt". Genau das zerstört den Cost-Average-Effekt. Die günstigsten Kaufmomente werden verpasst — und das kostet langfristig erheblich.
 
-[Was es kostet, den Sparplan zu pausieren, erklärt dieser Artikel.](/blog/sparplan-pausieren-was-passiert)
+[Was es kostet, den Sparplan zu pausieren, erklärt dieser Artikel.](/blog/sparplan-pausieren-was-passiert/)
 
 ## Fazit
 

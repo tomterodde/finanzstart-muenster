@@ -82,7 +82,7 @@ Benötigte monatliche Sparrate: ca. **270 €**
 
 Bei 25 Jahren bis zur Rente (gleiche Annahmen): ca. **570 €**
 
-Das zeigt noch einmal deutlich: Wer früh anfängt, braucht monatlich erheblich weniger zu sparen. Der [Zinseszins-Effekt](/blog/rentenlücke-berufseinsteiger-münster) arbeitet für dich — aber nur wenn du früh beginnst.
+Das zeigt noch einmal deutlich: Wer früh anfängt, braucht monatlich erheblich weniger zu sparen. Der [Zinseszins-Effekt](/blog/rentenlücke-berufseinsteiger-münster/) arbeitet für dich — aber nur wenn du früh beginnst.
 
 ## Was die Rechnung nicht erfasst
 
@@ -92,7 +92,7 @@ Diese Berechnung ist eine Orientierung, keine Finanzplanung. Was sie vereinfacht
 
 **Pflege- und Gesundheitskosten:** Im hohen Alter können die Ausgaben deutlich steigen — Pflegeleistungen, Hilfsmittel, Wohnungsanpassungen. Wer das einplanen will, rechnet mit einem Sicherheitspuffer von 20–30% obendrauf.
 
-**Andere Einkommensquellen:** Mieteinnahmen aus einer [Kapitalanlage-Immobilie](/blog/immobilie-als-kapitalanlage), Erbschaften oder Teilzeitarbeit im Ruhestand reduzieren den Kapitalbedarf.
+**Andere Einkommensquellen:** Mieteinnahmen aus einer [Kapitalanlage-Immobilie](/blog/immobilie-als-kapitalanlage/), Erbschaften oder Teilzeitarbeit im Ruhestand reduzieren den Kapitalbedarf.
 
 ## Fazit
 

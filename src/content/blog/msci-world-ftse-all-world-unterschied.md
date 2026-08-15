@@ -67,7 +67,7 @@ Für die meisten Berufseinsteiger: **Beide sind gut.** Die Entscheidung sollte v
 
 - Welcher ist im Sparplan bei deinem Broker kostenlos?
 - Welcher hat die niedrigere TER?
-- Thesaurierend oder ausschüttend? [Unterschied erklärt hier.](/blog/thesaurierend-vs-ausschuettend-etf)
+- Thesaurierend oder ausschüttend? [Unterschied erklärt hier.](/blog/thesaurierend-vs-ausschuettend-etf/)
 
 Ein MSCI World ETF von iShares oder Xtrackers mit TER um 0,12–0,15 % ist eine solide, bewährte Wahl. Ein Vanguard FTSE All-World mit TER ~0,22 % ebenfalls.
 

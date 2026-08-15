@@ -36,13 +36,13 @@ Private Debt ist Fremdkapital, das außerhalb des regulierten Bankensystems verg
 
 Die Kreditgeber sind institutionelle Investoren (Pensionsfonds, Versicherungen, vermögende Family Offices), die über einen Fonds gebündelt in solche Kredite investieren. Der Fonds übernimmt Kreditprüfung, Strukturierung und Überwachung — Aufgaben, die klassischerweise Banken erledigen.
 
-Private Debt ist damit Fremdkapital — zu unterscheiden von [Growth Equity](/blog/growth-equity-einfach-erklaert), das Eigenkapital für wachsende Unternehmen bereitstellt. Beide Segmente wachsen aus demselben Trend: Unternehmen suchen zunehmend Finanzierungswege abseits klassischer Banken und Börsen.
+Private Debt ist damit Fremdkapital — zu unterscheiden von [Growth Equity](/blog/growth-equity-einfach-erklaert/), das Eigenkapital für wachsende Unternehmen bereitstellt. Beide Segmente wachsen aus demselben Trend: Unternehmen suchen zunehmend Finanzierungswege abseits klassischer Banken und Börsen.
 
 ## Warum ist Private Debt so stark gewachsen?
 
 Der entscheidende Treiber liegt in der Bankenregulierung. Seit der Finanzkrise 2008 müssen Banken nach den **Basel-III-Regeln** deutlich mehr Eigenkapital für risikoreichere Kredite hinterlegen. Kredite an mittelständische Unternehmen mit höherem Verschuldungsgrad — etwa im Rahmen einer Unternehmensübernahme — werden dadurch für Banken teurer und teils unattraktiv.
 
-Private-Debt-Fonds unterliegen dieser Bankenregulierung nicht in gleichem Maße und sind in genau diese Lücke gestoßen. Das Ergebnis: Ein Markt, der vor 20 Jahren praktisch nicht existierte, ist heute ein etabliertes Segment der Unternehmensfinanzierung — mit engem Bezug zur [Private-Equity-Welt](/blog/private-equity-erklaert-grundlagen), da Private-Debt-Fonds häufig Akquisitionsfinanzierungen für [Buyouts](/blog/lbo-leveraged-buyout-einfach-erklaert) bereitstellen.
+Private-Debt-Fonds unterliegen dieser Bankenregulierung nicht in gleichem Maße und sind in genau diese Lücke gestoßen. Das Ergebnis: Ein Markt, der vor 20 Jahren praktisch nicht existierte, ist heute ein etabliertes Segment der Unternehmensfinanzierung — mit engem Bezug zur [Private-Equity-Welt](/blog/private-equity-erklaert-grundlagen/), da Private-Debt-Fonds häufig Akquisitionsfinanzierungen für [Buyouts](/blog/lbo-leveraged-buyout-einfach-erklaert/) bereitstellen.
 
 ## Direct Lending vs. klassischer Bankkredit
 
@@ -64,7 +64,7 @@ Der Preis dafür ist eine begrenzte Rendite: Private-Debt-Investoren erhalten ve
 
 ## Zugang für Privatanleger
 
-Wie bei anderen PE-nahen Anlageklassen war der direkte Zugang zu Private-Debt-Fonds lange institutionellen Investoren mit hohen Mindestanlagesummen vorbehalten. Über [ELTIF-Strukturen](/blog/private-equity-privatanleger-eltif) wird das Segment inzwischen schrittweise auch für Privatanleger zugänglich — mit einem Rendite-Risiko-Profil, das sich deutlich von klassischen Anleihen oder Festgeld unterscheidet.
+Wie bei anderen PE-nahen Anlageklassen war der direkte Zugang zu Private-Debt-Fonds lange institutionellen Investoren mit hohen Mindestanlagesummen vorbehalten. Über [ELTIF-Strukturen](/blog/private-equity-privatanleger-eltif/) wird das Segment inzwischen schrittweise auch für Privatanleger zugänglich — mit einem Rendite-Risiko-Profil, das sich deutlich von klassischen Anleihen oder Festgeld unterscheidet.
 
 ## Fazit
 

@@ -30,7 +30,7 @@ Rürup oder ETF-Sparplan? Die Frage stellt sich jeder Selbstständige und jeder 
 
 Ein reiner Renditevergleich greift deshalb zu kurz. Trotzdem lohnt die konkrete Rechnung — denn an ihr siehst du, welche Stellschrauben den Ausschlag geben: Steuersatz heute, Steuersatz im Alter, Produktkosten und der Wert der lebenslangen Absicherung. Hier die Zahlen.
 
-Wer die [grundsätzliche Funktion und Zielgruppe der Rürup-Rente](/blog/ruerup-rente-selbststaendige) sucht, findet sie im Hauptartikel. Hier geht es um den direkten Steuer- und Renditevergleich.
+Wer die [grundsätzliche Funktion und Zielgruppe der Rürup-Rente](/blog/ruerup-rente-selbststaendige/) sucht, findet sie im Hauptartikel. Hier geht es um den direkten Steuer- und Renditevergleich.
 
 ## Die Ausgangsannahmen
 
@@ -105,7 +105,7 @@ Rürup spielt seine Stärken in diesen Situationen aus:
 - Wer eine garantierte, lebenslange Sockel-Rente als Fundament will — unabhängig von der Marktentwicklung
 - Topverdiener kurz vor Rente (5–10 Jahre Steuerstundung mit hohem Hebel)
 
-Der ETF-Sparplan ist umgekehrt die natürliche Wahl für flexiblen Vermögensaufbau, mittelfristige Ziele und alles, wofür du Zugriff auf dein Geld brauchst — siehe [ETF-Sparplan für Berufseinsteiger](/blog/etf-sparplan-einsteiger-muenster). In vielen Fällen ist nicht „entweder/oder", sondern eine Kombination beider Bausteine die sinnvollste Antwort.
+Der ETF-Sparplan ist umgekehrt die natürliche Wahl für flexiblen Vermögensaufbau, mittelfristige Ziele und alles, wofür du Zugriff auf dein Geld brauchst — siehe [ETF-Sparplan für Berufseinsteiger](/blog/etf-sparplan-einsteiger-muenster/). In vielen Fällen ist nicht „entweder/oder", sondern eine Kombination beider Bausteine die sinnvollste Antwort.
 
 ## Fazit
 

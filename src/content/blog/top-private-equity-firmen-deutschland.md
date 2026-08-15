@@ -141,7 +141,7 @@ Neben den heimischen Häusern sind **internationale Großhäuser** in Deutschlan
 | **Advent International** | USA | rund 100 Mrd. US-$ | Konsumgüter, Tech |
 | **TPG Capital** | USA | rund 200 Mrd. US-$ | Wachstumskapital |
 
-[Globale Top-PE-Firmen mit Detailprofilen sind hier vorgestellt.](/blog/groesste-private-equity-firmen-blackstone-kkr)
+[Globale Top-PE-Firmen mit Detailprofilen sind hier vorgestellt.](/blog/groesste-private-equity-firmen-blackstone-kkr/)
 
 ## Bekannte deutsche PE-Deals
 
@@ -200,7 +200,7 @@ Der Münsterländer und süddeutsche Mittelstand ist für PE-Käufer ein **wicht
 - Bei 30 % gelingt keine Familiennachfolge
 - PE wird zunehmend als ernste Option betrachtet
 
-[Was die PE-Welle für den Münsterländer Mittelstand bedeutet — Karriere, Anlage, Verkauf — steht hier.](/blog/private-equity-muenster)
+[Was die PE-Welle für den Münsterländer Mittelstand bedeutet — Karriere, Anlage, Verkauf — steht hier.](/blog/private-equity-muenster/)
 
 ## Wie kommt ein Verkäufer an die Top-PE-Häuser?
 
@@ -220,7 +220,7 @@ Privatanleger investieren **nicht direkt** in die hier genannten PE-Häuser (Min
 2. **ELTIF-Vehikel** seit 2024 — Multi-Manager-Strukturen, ab rund 10.000 €
 3. **Geschlossene Publikumsbeteiligungen** — meist Spezialfonds einzelner Anbieter, ab rund 10.000–50.000 €
 
-[Vollständiger Überblick zu Privatanleger-Zugängen, Mindestanlagen und Risiken steht hier.](/blog/private-equity-privatanleger-eltif)
+[Vollständiger Überblick zu Privatanleger-Zugängen, Mindestanlagen und Risiken steht hier.](/blog/private-equity-privatanleger-eltif/)
 
 ## Fazit
 
@@ -232,7 +232,7 @@ Der deutsche PE-Markt ist zweigeteilt: **Heimische Mid-Market-Spezialisten** (DP
 2. **Der DACH-Mittelstand ist Hauptzielmarkt** — vor allem für Nachfolgesituationen in Familienunternehmen.
 3. **Privatanleger investieren nicht direkt in diese Häuser** — Zugang über ELTIFs, börsennotierte PE-Manager-Aktien oder strukturierte Beratungen.
 
-[Wer die PE-Grundlagen einfach erklärt sucht, findet sie hier.](/blog/was-ist-private-equity-einfach-erklaert) [Wer wissen will, wie PE-Firmen konkret Geld verdienen, findet die Antwort hier.](/blog/wie-verdienen-private-equity-firmen-geld)
+[Wer die PE-Grundlagen einfach erklärt sucht, findet sie hier.](/blog/was-ist-private-equity-einfach-erklaert/) [Wer wissen will, wie PE-Firmen konkret Geld verdienen, findet die Antwort hier.](/blog/wie-verdienen-private-equity-firmen-geld/)
 
 ---
 

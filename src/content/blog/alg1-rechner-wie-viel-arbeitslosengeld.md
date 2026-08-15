@@ -66,7 +66,7 @@ Werte sind Näherungen auf Basis der voraussichtlichen Rechengrößen 2026. Die 
 
 ## Was beeinflusst die ALG1-Höhe?
 
-**Steuerklasse:** Hauptverdiener-Ehegatten sollten prüfen, ob ein Wechsel zu Steuerklasse 3 das ALG1 deutlich erhöhen würde. Wichtig: Die Bundesagentur stützt sich auf die zum 1. Januar des Vorjahres der Arbeitslosigkeit eingetragene Steuerklasse. Ein kurzfristiger Wechsel kurz vor der Arbeitslosigkeit wirkt nicht mehr. Welche Klasse für welche Konstellation überhaupt in Frage kommt und was der Wechsel netto bewirkt, steht in der [Steuerklassen-Tabelle](/blog/steuerklassen-tabelle-erklaert).
+**Steuerklasse:** Hauptverdiener-Ehegatten sollten prüfen, ob ein Wechsel zu Steuerklasse 3 das ALG1 deutlich erhöhen würde. Wichtig: Die Bundesagentur stützt sich auf die zum 1. Januar des Vorjahres der Arbeitslosigkeit eingetragene Steuerklasse. Ein kurzfristiger Wechsel kurz vor der Arbeitslosigkeit wirkt nicht mehr. Welche Klasse für welche Konstellation überhaupt in Frage kommt und was der Wechsel netto bewirkt, steht in der [Steuerklassen-Tabelle](/blog/steuerklassen-tabelle-erklaert/).
 
 **Kindergeldberechtigung:** Wer mindestens ein kindergeldberechtigtes Kind hat (auch über Ehepartner), bekommt 67 % statt 60 %. Der Eintrag der "halben Kinderfreibeträge" auf der Lohnsteuerkarte ist Voraussetzung.
 
@@ -90,7 +90,7 @@ Das ALG1 ersetzt das Brutto nicht. Es ersetzt das pauschalierte Netto — und au
 - **Laufende Verträge:** Versicherungen, Streamingdienste, Fitnessstudio
 - **Sparpläne:** Altersvorsorge und Vermögensaufbau pausieren oft, was Rendite kostet
 
-Die Liquiditätsreserve sollte deshalb so dimensioniert sein, dass sie auch nach einem Sprung von Brutto auf ALG1 noch mindestens drei Monate trägt. Mehr dazu im Artikel zur [Liquiditätsreserve](/blog/liquiditaet-einfach-erklaert/). [Wie lange das ALG1 gezahlt wird, zeigt die Bezugsdauer-Tabelle nach Alter und Versicherungszeit](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit) — [Anspruchsvoraussetzungen und Sperrzeit-Fallen stehen im Überblicksartikel](/blog/alg1-arbeitslosengeld-berechnung/).
+Die Liquiditätsreserve sollte deshalb so dimensioniert sein, dass sie auch nach einem Sprung von Brutto auf ALG1 noch mindestens drei Monate trägt. Mehr dazu im Artikel zur [Liquiditätsreserve](/blog/liquiditaet-einfach-erklaert/). [Wie lange das ALG1 gezahlt wird, zeigt die Bezugsdauer-Tabelle nach Alter und Versicherungszeit](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit/) — [Anspruchsvoraussetzungen und Sperrzeit-Fallen stehen im Überblicksartikel](/blog/alg1-arbeitslosengeld-berechnung/).
 
 ## Fazit
 

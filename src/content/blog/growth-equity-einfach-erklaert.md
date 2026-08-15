@@ -49,7 +49,7 @@ Die drei Formen unterscheiden sich in praktisch jeder Dimension:
 | Ausfallrisiko je Investment | Sehr hoch | Moderat | Niedriger |
 | Typische Ziel-IRR | 25–40 %+ (wenige große Erfolge) | 20–25 % | 15–25 % (leverage-getrieben) |
 
-Der zentrale Unterschied zum [Leveraged Buyout](/blog/lbo-leveraged-buyout-einfach-erklaert) ist der fehlende Fremdkapitalhebel: Growth-Equity-Renditen entstehen überwiegend durch tatsächliches Unternehmenswachstum, nicht durch Schuldenoptimierung. Der Unterschied zu [Venture Capital](/blog/venture-capital-einfach-erklaert) liegt im Risikoprofil — VC-Fonds akzeptieren, dass die Mehrheit der Investments scheitert, weil einzelne Erfolge das Portfolio tragen. Bei Growth Equity ist die Ausfallquote pro Investment deutlich geringer, weil das Geschäftsmodell bereits am Markt validiert ist.
+Der zentrale Unterschied zum [Leveraged Buyout](/blog/lbo-leveraged-buyout-einfach-erklaert/) ist der fehlende Fremdkapitalhebel: Growth-Equity-Renditen entstehen überwiegend durch tatsächliches Unternehmenswachstum, nicht durch Schuldenoptimierung. Der Unterschied zu [Venture Capital](/blog/venture-capital-einfach-erklaert/) liegt im Risikoprofil — VC-Fonds akzeptieren, dass die Mehrheit der Investments scheitert, weil einzelne Erfolge das Portfolio tragen. Bei Growth Equity ist die Ausfallquote pro Investment deutlich geringer, weil das Geschäftsmodell bereits am Markt validiert ist.
 
 ## Wie läuft eine Growth-Equity-Finanzierung ab?
 
@@ -65,7 +65,7 @@ Für Unternehmen bedeutet das: mehr Kapitalrunden vor einem möglichen Börsenga
 
 ## Zugang für Privatanleger
 
-Direkter Zugang zu Growth-Equity-Fonds ist traditionell institutionellen Investoren vorbehalten — hohe Mindestanlagesummen und lange Haltefristen schließen Privatanleger meist aus. Über [ELTIF-Strukturen](/blog/private-equity-privatanleger-eltif) öffnet sich der Zugang inzwischen schrittweise auch für Privatanleger, allerdings mit eigenen Chancen- und Risikoprofilen, die sich deutlich von einem ETF-Sparplan unterscheiden.
+Direkter Zugang zu Growth-Equity-Fonds ist traditionell institutionellen Investoren vorbehalten — hohe Mindestanlagesummen und lange Haltefristen schließen Privatanleger meist aus. Über [ELTIF-Strukturen](/blog/private-equity-privatanleger-eltif/) öffnet sich der Zugang inzwischen schrittweise auch für Privatanleger, allerdings mit eigenen Chancen- und Risikoprofilen, die sich deutlich von einem ETF-Sparplan unterscheiden.
 
 ## Fazit
 

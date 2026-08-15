@@ -78,7 +78,7 @@ Die zweite wichtige Tabelle dreht die Frage um: Welche Bruttorente ergibt ein be
 | 45 RP | rund 1.769 € |
 | 50 RP | rund 1.966 € |
 
-Das ist die **Bruttorente** — davon gehen noch Steuern sowie Kranken- und Pflegeversicherung ab. Wie viel netto übrig bleibt, zeigt [Rente versteuern: Steuertabelle für Rentner](/blog/rentenbesteuerung-wie-viel-steuern-auf-rente). Der Rentenwert wird zudem jährlich angepasst (im Schnitt rund +2,4 % p.a.), sodass die Beträge im tatsächlichen Rentenjahr höher liegen.
+Das ist die **Bruttorente** — davon gehen noch Steuern sowie Kranken- und Pflegeversicherung ab. Wie viel netto übrig bleibt, zeigt [Rente versteuern: Steuertabelle für Rentner](/blog/rentenbesteuerung-wie-viel-steuern-auf-rente/). Der Rentenwert wird zudem jährlich angepasst (im Schnitt rund +2,4 % p.a.), sodass die Beträge im tatsächlichen Rentenjahr höher liegen.
 
 ## Die Beitragsbemessungsgrenze als Deckel
 
@@ -100,7 +100,7 @@ Konkret berechnet: Was passiert mit der Rente, wenn das Brutto von 50.000 € au
 
 Über das gesamte Leben (20 Jahre Rentenbezug bei durchschnittlicher Lebenserwartung): rund **41.500 € zusätzliche Lebensrente** allein durch die +10.000 € Brutto-Anhebung.
 
-[Wie viele Rentenpunkte konkret für 1.000 €, 2.000 € oder 3.000 € Wunschrente nötig sind, steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente)
+[Wie viele Rentenpunkte konkret für 1.000 €, 2.000 € oder 3.000 € Wunschrente nötig sind, steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente/)
 
 ## Spezialfälle: Minijob, Teilzeit, Selbstständigkeit
 
@@ -127,7 +127,7 @@ Teilzeit reduziert die Rentenpunkte proportional. Beispielrechnung Vollzeit-Akad
 
 Über 10 Jahre 50 %-Teilzeit statt Vollzeit verlorene Rentenansprüche: 5,5 RP = rund 216 € weniger Bruttorente monatlich.
 
-**Wichtige Ausnahmen:** Während Elternzeit (Kindererziehungszeit) werden 3 RP pro Kind ab Geburtsjahr 1992 zusätzlich angerechnet. Bei Pflege Angehöriger (Pflegegrad 2+, mindestens 10 Std./Woche) entstehen Pflege-Rentenpunkte parallel zum eventuellen Teilzeitgehalt. [Details zu Kindererziehungs- und Pflegezeiten stehen hier.](/blog/rentenpunkte-kindererziehung-pflege)
+**Wichtige Ausnahmen:** Während Elternzeit (Kindererziehungszeit) werden 3 RP pro Kind ab Geburtsjahr 1992 zusätzlich angerechnet. Bei Pflege Angehöriger (Pflegegrad 2+, mindestens 10 Std./Woche) entstehen Pflege-Rentenpunkte parallel zum eventuellen Teilzeitgehalt. [Details zu Kindererziehungs- und Pflegezeiten stehen hier.](/blog/rentenpunkte-kindererziehung-pflege/)
 
 ### Selbstständigkeit
 
@@ -138,7 +138,7 @@ Wer als Selbstständiger Rentenpunkte sammeln will, hat zwei Wege:
 1. **Freiwillige Beiträge nach § 7 SGB VI:** monatlich zwischen 100 € (Mindestbeitrag) und 1.497 € (Höchstbeitrag, an BBG-Niveau)
 2. **Pflichtversicherung auf Antrag** (binnen 5 Jahren nach Selbstständigkeitsbeginn) — danach 18,6 % auf das tatsächliche Brutto, mind. Mindestbemessung
 
-Welche Variante sinnvoll ist, hängt von Einkommen, Anlagealternativen und Steuerlage ab. [Detaillierter Vergleich Rentenpunkte kaufen vs. private Vorsorge steht hier.](/blog/rentenpunkte-kaufen-freiwillige-beitraege)
+Welche Variante sinnvoll ist, hängt von Einkommen, Anlagealternativen und Steuerlage ab. [Detaillierter Vergleich Rentenpunkte kaufen vs. private Vorsorge steht hier.](/blog/rentenpunkte-kaufen-freiwillige-beitraege/)
 
 ## Realität vs. Tabelle: Lebenslange Schwankungen
 
@@ -150,7 +150,7 @@ Die Tabelle oben rechnet mit konstantem Bruttoeinkommen über 40 Jahre. **In der
 
 Der **reale Lebens-Mittelwert** liegt für Vollzeitkräfte typischerweise zwischen 0,9 und 1,3 RP/Jahr. Wer 50 RP zum Renteneintritt erreicht, hatte ein durchschnittliches RP-Aufbautempo von 1,1–1,2 RP/Jahr über 42–45 Beitragsjahre.
 
-[Welcher RP-Stand zu welchem Lebensalter passt — Soll-Werte mit 30, 40, 50, 60 — steht hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60)
+[Welcher RP-Stand zu welchem Lebensalter passt — Soll-Werte mit 30, 40, 50, 60 — steht hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60/)
 
 ## Fazit
 
@@ -164,7 +164,7 @@ Die Formel ist linear: Brutto durch Durchschnittsentgelt = Rentenpunkte pro Jahr
 
 Wie eine konkrete Korrektur-Strategie aussieht — also Rentenpunkte aufstocken, bAV maximal ausschöpfen, private Vorsorge — hängt stark von Einkommen, Steuersituation und Restbeitragszeit ab. Das ist die typische Beratungsfrage, in der ein Gespräch mit einem Finanzberater konkret weiterhilft.
 
-[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 ---
 

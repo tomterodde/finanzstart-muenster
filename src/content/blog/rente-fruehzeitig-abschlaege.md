@@ -74,7 +74,7 @@ Das kann steuerlich attraktiv sein, weil diese Einzahlungen als Sonderausgaben a
 
 Mit 25 oder 30 ist der Renteneintritt weit weg. Aber die Entscheidung, früh privat vorzusorgen, bestimmt, ob du dir den frühen Ausstieg später leisten kannst — ohne auf einen wesentlichen Teil deiner Rente zu verzichten.
 
-Wer neben der gesetzlichen Rente ein ausreichend großes Privatvermögen aufgebaut hat, kann die Abschläge kompensieren oder ganz auf sie verzichten. [Warum früh anfangen so entscheidend ist, zeigt dieser Artikel.](/blog/altersvorsorge-wann-anfangen-beispielrechnung)
+Wer neben der gesetzlichen Rente ein ausreichend großes Privatvermögen aufgebaut hat, kann die Abschläge kompensieren oder ganz auf sie verzichten. [Warum früh anfangen so entscheidend ist, zeigt dieser Artikel.](/blog/altersvorsorge-wann-anfangen-beispielrechnung/)
 
 ## Fazit
 

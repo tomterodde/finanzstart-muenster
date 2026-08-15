@@ -90,7 +90,7 @@ Auch hier gibt es Schutzmechanismen: die **Protektor Lebensversicherungs-AG** ü
 
 Sondervermögen ist einer der großen Pluspunkte von Investmentfonds und ETFs gegenüber anderen Anlageformen. Es bedeutet, dass dein Geld rechtlich geschützt ist, selbst wenn die Fondsgesellschaft oder die Depotbank pleitegeht.
 
-Was das Sondervermögen nicht schützt, ist das normale Marktrisiko — dass Kurse fallen können. Genau dieses Risiko ist der Grund, warum du überhaupt eine Rendite bekommst. Wer das verinnerlicht, hat einen entscheidenden Punkt der Geldanlage verstanden: [Rendite ist der Preis für Risiko](/blog/capm-einfach-erklaert), nicht für Glück oder clevere Auswahl.
+Was das Sondervermögen nicht schützt, ist das normale Marktrisiko — dass Kurse fallen können. Genau dieses Risiko ist der Grund, warum du überhaupt eine Rendite bekommst. Wer das verinnerlicht, hat einen entscheidenden Punkt der Geldanlage verstanden: [Rendite ist der Preis für Risiko](/blog/capm-einfach-erklaert/), nicht für Glück oder clevere Auswahl.
 
 ---
 

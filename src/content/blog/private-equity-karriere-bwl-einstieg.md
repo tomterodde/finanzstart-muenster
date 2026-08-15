@@ -71,7 +71,7 @@ Es gibt einen zweiten Weg, der weit weniger besprochen wird — und in mancher H
 
 **Was es bietet:** Direkten Quereinstieg ohne anglo-amerikanisches IB-Pedigree. Aufbau einer eigenen Kundenstruktur. Spezialwissen, das in einer alternden Vermögensgesellschaft (große Erbgenerationen mit illiquidem Mittelstandskapital) zunehmend nachgefragt ist.
 
-[Wie der Beruf des Finanzberaters generell funktioniert, wer wie viel verdient und wo die echten Hebel sind, ist hier ausführlich beschrieben.](/blog/finanzberater-beruf-was-verdient-man)
+[Wie der Beruf des Finanzberaters generell funktioniert, wer wie viel verdient und wo die echten Hebel sind, ist hier ausführlich beschrieben.](/blog/finanzberater-beruf-was-verdient-man/)
 
 ## Recruiting im Detail: So läuft On-Cycle
 
@@ -91,13 +91,13 @@ Das ganze kann in **2–3 Wochen** durch sein. Wer das nicht kennt, verliert den
 
 **Wenn du im Master bist und Finance willst:** Mache mindestens ein Praktikum bei einer M&A-Boutique oder Big-4 Deal Advisory. Knüpfe LinkedIn-Kontakte zu Münsteraner Alumni in Frankfurt und London.
 
-**Wenn du in den Beraterpfad willst:** Suche dir eine strukturierte Finanzberatung, die mit institutionellen Asset-Managern arbeitet, baue dort PE-Spezialwissen auf, und nutze die ersten Jahre für Kundenakquise und Weiterbildung. [Was du beim Berufseinstieg in Münster generell beachten solltest, ist hier erklärt.](/blog/berufsstart-muenster-gehalt-verhandlung)
+**Wenn du in den Beraterpfad willst:** Suche dir eine strukturierte Finanzberatung, die mit institutionellen Asset-Managern arbeitet, baue dort PE-Spezialwissen auf, und nutze die ersten Jahre für Kundenakquise und Weiterbildung. [Was du beim Berufseinstieg in Münster generell beachten solltest, ist hier erklärt.](/blog/berufsstart-muenster-gehalt-verhandlung/)
 
 ## Vertiefung
 
-- [Was verdienen PE-Manager? Gehaltsstruktur und Carry](/blog/wie-verdienen-private-equity-firmen-geld) — 70.000 € Einstieg bis 10 Mio. € Senior-Partner-Vergütung.
-- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Wo bewerben sich Berufseinsteiger lokal.
-- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Grundlagen für Career Switcher.
+- [Was verdienen PE-Manager? Gehaltsstruktur und Carry](/blog/wie-verdienen-private-equity-firmen-geld/) — 70.000 € Einstieg bis 10 Mio. € Senior-Partner-Vergütung.
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland/) — Wo bewerben sich Berufseinsteiger lokal.
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert/) — Grundlagen für Career Switcher.
 
 ## Fazit
 

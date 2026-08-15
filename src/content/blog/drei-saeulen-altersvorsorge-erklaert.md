@@ -61,7 +61,7 @@ Das Säulen-Modell ordnet die Altersvorsorge **nach Träger** — also danach, *
 
 **Erwartete Rente:** Das **Rentenniveau** liegt aktuell bei rund 48 % des letzten Durchschnittsnettos. Bis 2040 sinkt es laut Rentenversicherungsbericht 2024 auf 43-45 %.
 
-**Konkret:** Wer heute 2.500 € netto verdient, bekommt im Schnitt rund 1.200-1.300 € gesetzliche Bruttorente. Nach Abzug von KV/PV (rund 11 %) und Steuern bleiben 950-1.050 € Nettorente. [Wie viele Rentenpunkte du dafür brauchst, erklärt dieser Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+**Konkret:** Wer heute 2.500 € netto verdient, bekommt im Schnitt rund 1.200-1.300 € gesetzliche Bruttorente. Nach Abzug von KV/PV (rund 11 %) und Steuern bleiben 950-1.050 € Nettorente. [Wie viele Rentenpunkte du dafür brauchst, erklärt dieser Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 **Wichtige Einschränkung:** Selbstständige sind grundsätzlich nicht pflichtversichert (Ausnahmen: Künstler, Publizisten, Handwerker, Lehrer, Pflegekräfte). Beamte haben eigene Versorgungswerke.
 
@@ -80,7 +80,7 @@ Das Säulen-Modell ordnet die Altersvorsorge **nach Träger** — also danach, *
 4. Direktzusage (Pensionszusage)
 5. Unterstützungskasse
 
-**Wann sich bAV lohnt:** Klare Antwort nicht pauschal möglich — hängt von Arbeitgeberzuschuss, Steuersatz, geplanter Karrierelaufzeit beim aktuellen Arbeitgeber und Produktwahl ab. [Detaillierte Lohnrechnung mit Arbeitgeberzuschuss steht hier.](/blog/bav-lohnt-sich-arbeitgeberzuschuss)
+**Wann sich bAV lohnt:** Klare Antwort nicht pauschal möglich — hängt von Arbeitgeberzuschuss, Steuersatz, geplanter Karrierelaufzeit beim aktuellen Arbeitgeber und Produktwahl ab. [Detaillierte Lohnrechnung mit Arbeitgeberzuschuss steht hier.](/blog/bav-lohnt-sich-arbeitgeberzuschuss/)
 
 ### Säule 3: Private Altersvorsorge
 
@@ -95,7 +95,7 @@ Hier sammeln sich alle Vorsorgeformen, die du selbst organisierst. Sechs zentral
 | **Immobilie (selbstgenutzt)** | Schuldenfreiheit im Alter | Klumpenrisiko, Standort-abhängig |
 | **Aktien-Direktanlage** | Höchstes Renditepotenzial | Höchstes Risiko |
 
-[Welche Mischung sich für dich lohnt — Vergleich aller Optionen — steht hier.](/blog/beste-altersvorsorge-vergleich-2026)
+[Welche Mischung sich für dich lohnt — Vergleich aller Optionen — steht hier.](/blog/beste-altersvorsorge-vergleich-2026/)
 
 ## 3 Säulen vs. 3 Schichten — was ist der Unterschied?
 
@@ -116,7 +116,7 @@ Beide Modelle existieren parallel und werden oft verwechselt. Sie sind **nicht i
 
 **Konkretes Beispiel:** Eine **Rürup-Rente** ist in Säule 3 (privat organisiert), aber Schicht 1 (Basisvorsorge mit nachgelagerter Besteuerung). Eine **bAV** ist in Säule 2 (Arbeitgeber), aber Schicht 2 (Zusatzvorsorge).
 
-[Welche staatlichen Förderungen je Schicht greifen — Zulagen, Steuervorteile, Höchstbeträge — steht hier im Detail.](/blog/staatliche-foerderung-altersvorsorge-ueberblick)
+[Welche staatlichen Förderungen je Schicht greifen — Zulagen, Steuervorteile, Höchstbeträge — steht hier im Detail.](/blog/staatliche-foerderung-altersvorsorge-ueberblick/)
 
 ### Besteuerung im 3-Schichten-Modell: Anspar- vs. Auszahlphase
 
@@ -126,13 +126,13 @@ Die Schichten-Logik wird greifbar, wenn man beide Phasen nebeneinanderlegt:
 |---|---|---|
 | **Schicht 1** | Beiträge absetzbar (2025: bis 26.528 €/Jahr Alleinstehende) | nachgelagert voll steuerpflichtig — Besteuerungsanteil steigt für Neurentner bis 2058 auf 100 % |
 | **Schicht 2** | Riester: Zulagen + Sonderausgabenabzug bis 2.100 €; bAV: Entgeltumwandlung steuerfrei bis 8 % / SV-frei bis 4 % der BBG | voll steuerpflichtig; bAV zusätzlich mit KV/PV-Beiträgen (GKV-Freibetrag) |
-| **Schicht 3** | Beiträge aus versteuertem Netto — keine Förderung | privilegiert: **Halbeinkünfteverfahren** bei [fondsgebundener Rentenversicherung](/blog/fondsgebundene-rentenversicherung-erklaert) (ab 62 + 12 Jahre Laufzeit), **Ertragsanteil** bei Verrentung, **Abgeltungsteuer** mit 30 % Teilfreistellung bei Aktien-ETF |
+| **Schicht 3** | Beiträge aus versteuertem Netto — keine Förderung | privilegiert: **Halbeinkünfteverfahren** bei [fondsgebundener Rentenversicherung](/blog/fondsgebundene-rentenversicherung-erklaert/) (ab 62 + 12 Jahre Laufzeit), **Ertragsanteil** bei Verrentung, **Abgeltungsteuer** mit 30 % Teilfreistellung bei Aktien-ETF |
 
 Die Grundregel: **Je früher der Staat fördert, desto stärker greift er bei der Auszahlung zu** — und umgekehrt. Deshalb ist die Mischung über die Schichten hinweg steuerlich klüger als die Konzentration auf eine.
 
 ### Schicht 2 im Detail: Riester und bAV — auch gleichzeitig
 
-Die Zusatzvorsorge-Schicht wird oft als Entweder-oder missverstanden. Tatsächlich sind [Riester](/blog/riester-rente-lohnt-sich) und [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert) **getrennte Fördertöpfe und voll kombinierbar** — die Riester-Zulagen sind unabhängig vom bAV-Rahmen der Entgeltumwandlung. Wer beide nutzt, schöpft die staatliche Förderung der Schicht 2 maximal aus; ob sich das im Einzelfall rechnet, hängt an Arbeitgeberzuschuss, Kinderzahl und verfügbarer Sparrate.
+Die Zusatzvorsorge-Schicht wird oft als Entweder-oder missverstanden. Tatsächlich sind [Riester](/blog/riester-rente-lohnt-sich/) und [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert/) **getrennte Fördertöpfe und voll kombinierbar** — die Riester-Zulagen sind unabhängig vom bAV-Rahmen der Entgeltumwandlung. Wer beide nutzt, schöpft die staatliche Förderung der Schicht 2 maximal aus; ob sich das im Einzelfall rechnet, hängt an Arbeitgeberzuschuss, Kinderzahl und verfügbarer Sparrate.
 
 Die Säulen-Logik ist intuitiver — die Schichten-Logik ist präziser für Steueroptimierung. Wer steueroptimal vorsorgen will, denkt in Schichten. Wer das System grundsätzlich verstehen will, denkt in Säulen.
 
@@ -151,19 +151,19 @@ Beispielrechnung Akademiker, 67 Jahre alt, Renteneintritt:
 
 **Ohne Säule 3 entsteht eine Versorgungslücke von 25-40 %** im Vergleich zum letzten Nettoeinkommen — gerade bei Akademikern mit überdurchschnittlichem Aktiveinkommen.
 
-[Wie groß deine konkrete Rentenlücke ist und wie du sie schließt, steht hier.](/blog/rentenluecke-berechnen-schliessen)
+[Wie groß deine konkrete Rentenlücke ist und wie du sie schließt, steht hier.](/blog/rentenluecke-berechnen-schliessen/)
 
 ## Was bedeutet das für dich?
 
 **Drei klare Empfehlungen:**
 
-1. **Säule 1 nicht ignorieren, aber realistisch einschätzen.** Die gesetzliche Rente bleibt das Fundament — nicht das Dach. [Wie Rentenpunkte konkret in Bruttorente umgerechnet werden, steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente)
+1. **Säule 1 nicht ignorieren, aber realistisch einschätzen.** Die gesetzliche Rente bleibt das Fundament — nicht das Dach. [Wie Rentenpunkte konkret in Bruttorente umgerechnet werden, steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente/)
 
-2. **Säule 2 nur bei attraktivem Arbeitgeberzuschuss.** Ohne mindestens 15 % Pflichtzuschuss plus idealerweise weiteren Zuschuss-Komponenten ist bAV oft schwächer als ETF-Sparplan. [Wann sich bAV lohnt und wann nicht — Detailrechnung hier.](/blog/bav-lohnt-sich-arbeitgeberzuschuss)
+2. **Säule 2 nur bei attraktivem Arbeitgeberzuschuss.** Ohne mindestens 15 % Pflichtzuschuss plus idealerweise weiteren Zuschuss-Komponenten ist bAV oft schwächer als ETF-Sparplan. [Wann sich bAV lohnt und wann nicht — Detailrechnung hier.](/blog/bav-lohnt-sich-arbeitgeberzuschuss/)
 
 3. **Säule 3 als Hauptpfeiler verstehen.** ETF-Sparplan, Riester (für bestimmte Profile), Rürup (für Selbstständige), private Rentenversicherung — die optimale Mischung muss zur Steuerlage und Lebenssituation passen.
 
-**Wieviel solltest du monatlich für Altersvorsorge sparen?** [Konkrete Rechnung mit Beispielen für verschiedene Einkommensklassen steht hier.](/blog/wie-viel-monatlich-altersvorsorge-sparen)
+**Wieviel solltest du monatlich für Altersvorsorge sparen?** [Konkrete Rechnung mit Beispielen für verschiedene Einkommensklassen steht hier.](/blog/wie-viel-monatlich-altersvorsorge-sparen/)
 
 ## Fazit
 

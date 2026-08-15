@@ -78,7 +78,7 @@ Die ehrliche Antwort braucht eine nüchterne Rechnung — und Marktdaten. Dieser
 
 **Verhältnis:** Honorarberatung kostet rund das **2,6-fache** der kalkulierten Provisionsvergütung — und zwar **direkt aus dem Nettoeinkommen**, nicht aus den Produkten.
 
-[Detaillierte Kostenaufschlüsselung mit Tabellen je Beratungsbedarf steht hier.](/blog/was-kostet-ein-finanzberater)
+[Detaillierte Kostenaufschlüsselung mit Tabellen je Beratungsbedarf steht hier.](/blog/was-kostet-ein-finanzberater/)
 
 ## Der Marktanteil spricht eine deutliche Sprache
 
@@ -176,7 +176,7 @@ Wer **bewusst** nur ETF und Tagesgeld nutzt und keine Versicherungs- oder Renten
 | Erbschaft/Unternehmensverkauf | Strukturentscheidung | Honorarberatung punktuell |
 | Vermögensverwaltung 1 Mio.+ | Family Office | Honorar / spezialisierte Mandate |
 
-[Was du als Berufseinsteiger in Münster bei der Beraterwahl beachten solltest, steht hier.](/blog/finanzberatung-muenster-worauf-achten)
+[Was du als Berufseinsteiger in Münster bei der Beraterwahl beachten solltest, steht hier.](/blog/finanzberatung-muenster-worauf-achten/)
 
 ## Was wirklich zählt — unabhängig vom Vergütungsmodell
 
@@ -186,7 +186,7 @@ Die richtige Frage ist nicht "Honorar oder Provision?", sondern: **"Ist dieser B
 
 - **Mindestens 3–5 Versicherer** im Portfolio
 - **Mehrere Fondsgesellschaften** für Investments
-- **Nicht** Ein-Versicherer-Vertrieb ([Strukturvertriebe einzelner Konzerne](/blog/strukturvertrieb-was-steckt-dahinter))
+- **Nicht** Ein-Versicherer-Vertrieb ([Strukturvertriebe einzelner Konzerne](/blog/strukturvertrieb-was-steckt-dahinter/))
 
 ### Indikator 2: Regulatorischer Status
 
@@ -202,9 +202,9 @@ Die richtige Frage ist nicht "Honorar oder Provision?", sondern: **"Ist dieser B
 - **Mehrere Termine** für Erstkonzept, nicht alles in einer Sitzung
 - **Bedenkzeit** angeboten (14 Tage Widerrufsrecht § 152 VVG für Versicherungen)
 
-[Wie man konkret prüft, ob ein Finanzberater seriös ist, steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater)
+[Wie man konkret prüft, ob ein Finanzberater seriös ist, steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater/)
 
-[Wie man die GewO-Zulassung kostenlos im BaFin-Vermittlerregister prüft, steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden)
+[Wie man die GewO-Zulassung kostenlos im BaFin-Vermittlerregister prüft, steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden/)
 
 ## Fazit
 
@@ -220,7 +220,7 @@ Honorarberatung und Provisionsberatung sind **nicht "besser" oder "schlechter"**
 
 Welcher Weg für deine konkrete Lebenssituation passt — Einkommen, Vermögen, Vorsorgebedarf, Familienstand — lässt sich pauschal nicht beantworten. Aber die Wahrscheinlichkeit ist hoch: Wenn du Berufseinsteiger oder Familie mit normalem Einkommen bist, ist Provisionsberatung die wirtschaftliche Wahl.
 
-[Wer prüfen will, was ein Finanzberater konkret kostet, findet die Kostentabelle hier.](/blog/was-kostet-ein-finanzberater) [Wer wissen will, wie man einen guten Berater erkennt, findet die Checkliste hier.](/blog/wie-finde-ich-einen-guten-finanzberater)
+[Wer prüfen will, was ein Finanzberater konkret kostet, findet die Kostentabelle hier.](/blog/was-kostet-ein-finanzberater/) [Wer wissen will, wie man einen guten Berater erkennt, findet die Checkliste hier.](/blog/wie-finde-ich-einen-guten-finanzberater/)
 
 ---
 

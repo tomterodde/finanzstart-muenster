@@ -74,7 +74,7 @@ Wer 5 Jahre für 2 Kinder Vollzeit aussetzt, gewinnt aus Erziehungszeit 6 RP (3 
 
 Bei längerer Erwerbsunterbrechung (8 Jahre statt 5) wird der Verlust deutlicher: 6 RP Erziehungszeit gegenüber 8,8 RP entgangenem Gehaltseinkommen — **Verlust von 2,8 RP**, entspricht rund 110 € weniger Bruttorente monatlich.
 
-[Wie sich Rentenpunkte konkret in Bruttorente umrechnen, steht hier mit Tabelle.](/blog/rentenpunkte-fuer-2000-euro-rente)
+[Wie sich Rentenpunkte konkret in Bruttorente umrechnen, steht hier mit Tabelle.](/blog/rentenpunkte-fuer-2000-euro-rente/)
 
 ## Rentenpunkte für Pflege Angehöriger
 
@@ -135,7 +135,7 @@ Pflege im EU-/EWR-Ausland wird ebenfalls anerkannt, sofern Pflegegrad nach deuts
 
 **Klassischer Fehler:** Pflegezeiten wurden zwar angefangen, aber nie offiziell gemeldet, weil die Pflegeperson dachte, die Pflegekasse hätte das automatisch übernommen. **Tatsächlich:** Die Pflegekasse meldet erst, sobald die Pflegeperson sich ausdrücklich als pflegend zu erkennen gibt — Antrag beim Pflegebedürftigen oder eigene Selbstauskunft notwendig.
 
-**Wichtig bei Scheidung:** Während der Ehe gesammelte Erziehungs- und Pflegerentenpunkte fließen in den Versorgungsausgleich ein und werden zwischen den Ex-Partnern aufgeteilt — das wird oft übersehen. [Wie der Versorgungsausgleich Rentenpunkte umverteilt und welche Strategien existieren, steht hier.](/blog/rentenpunkte-bei-scheidung-versorgungsausgleich)
+**Wichtig bei Scheidung:** Während der Ehe gesammelte Erziehungs- und Pflegerentenpunkte fließen in den Versorgungsausgleich ein und werden zwischen den Ex-Partnern aufgeteilt — das wird oft übersehen. [Wie der Versorgungsausgleich Rentenpunkte umverteilt und welche Strategien existieren, steht hier.](/blog/rentenpunkte-bei-scheidung-versorgungsausgleich/)
 
 ## Realistische Einordnung
 
@@ -149,7 +149,7 @@ Kindererziehungszeiten und Pflegerentenpunkte sind **wichtig**, aber sie schlie�
 
 Das liegt **genau im Frauen-Durchschnitt** (33,2 RP) — die Anerkennungssysteme reichen also gerade aus, um den strukturellen Karrierenachteil teilweise zu kompensieren.
 
-[Wo dein konkreter Rentenpunktstand im Vergleich zu deinem Lebensalter steht, findest du hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60)
+[Wo dein konkreter Rentenpunktstand im Vergleich zu deinem Lebensalter steht, findest du hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60/)
 
 ## Fazit
 
@@ -163,7 +163,7 @@ Drei nüchterne Regeln:
 
 Welche zusätzlichen Korrekturen für die individuelle Versorgungslücke sinnvoll sind — Rentenpunkte kaufen, bAV, Rürup, ETF — gehört in die persönliche Beratung.
 
-[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 ---
 

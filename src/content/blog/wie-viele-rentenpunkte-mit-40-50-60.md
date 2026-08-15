@@ -106,14 +106,14 @@ Die Lücke von 14,6 RP (entspricht rund 575 € Bruttorente) entsteht durch:
 2. **Niedrigere Brutto-Gehälter** in Pflege, Erziehung, Verwaltung — den klassisch frauen-dominierten Branchen
 3. **Mütterrente (2,5 oder 3 RP pro Kind)** gleicht nur einen Bruchteil aus
 
-[Wie viele Rentenpunkte du konkret durch Kindererziehung und Pflege Angehöriger sammelst, steht hier.](/blog/rentenpunkte-kindererziehung-pflege)
+[Wie viele Rentenpunkte du konkret durch Kindererziehung und Pflege Angehöriger sammelst, steht hier.](/blog/rentenpunkte-kindererziehung-pflege/)
 
 ## Was tun, wenn der Soll-Wert nicht erreicht wird?
 
 **Bis 40 Jahre:** Wer noch 25+ Jahre Beitragszeit vor sich hat, kann durch Karriereentwicklung und Gehaltssteigerungen viel kompensieren. Fokus: solider Karrierepfad, ETF-Sparplan parallel.
 
 **Mit 45–55 Jahren:** Korrekturhebel werden kürzer. Drei Optionen:
-- **Rentenpunkte kaufen** (über Ausgleichszahlung oder freiwillige Beiträge — [Details und Renditerechnung hier](/blog/rentenpunkte-kaufen-freiwillige-beitraege))
+- **Rentenpunkte kaufen** (über Ausgleichszahlung oder freiwillige Beiträge — [Details und Renditerechnung hier](/blog/rentenpunkte-kaufen-freiwillige-beitraege/))
 - **Betriebliche Altersvorsorge** maximal ausschöpfen (steuerlich gefördert)
 - **Private Vorsorge** intensivieren (Steuersituation und Anlagehorizont prüfen)
 
@@ -123,7 +123,7 @@ Die Lücke von 14,6 RP (entspricht rund 575 € Bruttorente) entsteht durch:
 
 Die ehrlichste Methode: Renteninformation zur Hand nehmen, Punkte ablesen, mit deinem Alter abgleichen. **Wenn du in der grünen Bandbreite liegst** (Tabelle oben): alles im Soll, weiter so. **Wenn du knapp darunter liegst** (5–10 % weniger): Karriereentwicklung und Brutto-Steigerung priorisieren. **Wenn du deutlich darunter liegst** (20+ % unter Soll): Beratungsgespräch, was gezielt repariert werden kann — Rentenpunkte-Kauf, bAV-Optimierung, private Vorsorge.
 
-[Wie viel Rente du bei welchem konkreten Punkt-Stand bekommst — und wie viele Punkte für 2.000 € Rente nötig sind — steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente)
+[Wie viel Rente du bei welchem konkreten Punkt-Stand bekommst — und wie viele Punkte für 2.000 € Rente nötig sind — steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente/)
 
 ## Fazit
 
@@ -131,7 +131,7 @@ Die ehrlichste Methode: Renteninformation zur Hand nehmen, Punkte ablesen, mit d
 
 Wer früh checkt und realistisch korrigiert, hat mehr Optionen als jemand, der erst mit 60 Jahren feststellt, dass die Rente nicht reicht. Welche Korrekturen für deine Situation am meisten Hebel haben — Rentenpunkte-Kauf, bAV, private Vorsorge — lässt sich nur individuell beantworten.
 
-[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 ---
 

@@ -49,7 +49,7 @@ Die Branche fächert sich in Strategiefamilien auf, deren Risikoprofile sich sta
 | Arbitrage / Relative Value | Winzige Preisunterschiede ähnlicher Papiere ausnutzen, stark gehebelt |
 | Quant / Systematic | Computermodelle handeln regelbasiert, oft in Millisekunden |
 
-Ein Beispiel für Event-Driven ist die Merger-Arbitrage: Nach einer Übernahme-Ankündigung notiert die Zielaktie meist knapp unter dem Angebotspreis — der Fonds kassiert die Differenz, trägt aber das Risiko, dass der Deal platzt. Wie solche Transaktionen ablaufen, erklärt unser Artikel zu [M&A — Fusionen und Übernahmen](/blog/mergers-acquisitions-einfach-erklaert).
+Ein Beispiel für Event-Driven ist die Merger-Arbitrage: Nach einer Übernahme-Ankündigung notiert die Zielaktie meist knapp unter dem Angebotspreis — der Fonds kassiert die Differenz, trägt aber das Risiko, dass der Deal platzt. Wie solche Transaktionen ablaufen, erklärt unser Artikel zu [M&A — Fusionen und Übernahmen](/blog/mergers-acquisitions-einfach-erklaert/).
 
 ## Kosten: Das „2 and 20"-Modell
 
@@ -57,7 +57,7 @@ Hedgefonds nutzen dieselbe Vergütungslogik wie Private Equity: **2 % Management
 
 Eine Besonderheit ist die **High-Water-Mark**: Die Erfolgsgebühr fällt nur an, wenn der Fonds seinen bisherigen Höchststand übertrifft. Nach einem Verlustjahr muss der Manager erst das Minus aufholen, bevor er wieder mitverdient.
 
-Durch Konkurrenzdruck sind die realen Sätze zuletzt gesunken — viele Fonds liegen heute eher bei 1,5 % und 15–18 %. Wie die Gewinnbeteiligung bei PE-Fonds im Detail funktioniert, zeigt der Artikel zum [Carried Interest](/blog/carried-interest-einfach-erklaert).
+Durch Konkurrenzdruck sind die realen Sätze zuletzt gesunken — viele Fonds liegen heute eher bei 1,5 % und 15–18 %. Wie die Gewinnbeteiligung bei PE-Fonds im Detail funktioniert, zeigt der Artikel zum [Carried Interest](/blog/carried-interest-einfach-erklaert/).
 
 ## Hedgefonds vs. Private Equity: Der direkte Vergleich
 
@@ -71,7 +71,7 @@ Beide gelten als „alternative Investments" und werben um dieselben institution
 | Wertschöpfung | Marktbewegungen, Fehlbewertungen | Operative Verbesserung, Hebel, Verkauf |
 | Bewertung | Täglich/laufend (Marktpreise) | Quartalsweise geschätzt |
 
-Kurz: Der Hedgefonds ist Händler, der PE-Fonds Eigentümer. Wie die [Funktionsweise eines Private-Equity-Fonds](/blog/private-equity-fonds-funktionsweise) mit Capital Calls und J-Curve aussieht, haben wir separat aufgeschlüsselt — die Grundlagen der Anlageklasse stehen in [Private Equity erklärt](/blog/private-equity-erklaert-grundlagen).
+Kurz: Der Hedgefonds ist Händler, der PE-Fonds Eigentümer. Wie die [Funktionsweise eines Private-Equity-Fonds](/blog/private-equity-fonds-funktionsweise/) mit Capital Calls und J-Curve aussieht, haben wir separat aufgeschlüsselt — die Grundlagen der Anlageklasse stehen in [Private Equity erklärt](/blog/private-equity-erklaert-grundlagen/).
 
 ## Zugang und Kritik
 

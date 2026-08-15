@@ -89,9 +89,9 @@ Das ist kein Argument gegen Kaufen — es ist ein Argument gegen das pauschale V
 
 ## Verwandte Münster-Themen
 
-- [Wohnkosten und Nebenkosten in Münster im Überblick](/blog/wohnen-muenster-kosten-nebenkosten)
-- [Netto-Gehalt vs. Lebenshaltungskosten in Münster](/blog/netto-gehalt-lebenshaltungskosten-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Wohnkosten und Nebenkosten in Münster im Überblick](/blog/wohnen-muenster-kosten-nebenkosten/)
+- [Netto-Gehalt vs. Lebenshaltungskosten in Münster](/blog/netto-gehalt-lebenshaltungskosten-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit: Keine universelle Antwort
 
@@ -99,7 +99,7 @@ Die Frage "Mieten oder Kaufen?" lässt sich nicht allgemein beantworten — sie 
 
 Was du vermeiden solltest: Die Entscheidung aus gesellschaftlichem Druck treffen. "Wohneigentum ist Altersvorsorge" ist ein Narrativ, kein Naturgesetz. Eine schlecht finanzierte Immobilie kann genauso zur Belastung werden wie ein Leben lang falsches Mieten.
 
-Mehr zu den Grundlagen der [Altersvorsorge für Berufseinsteiger](/blog/rentenlücke-berufseinsteiger-münster) findest du in einem separaten Artikel.
+Mehr zu den Grundlagen der [Altersvorsorge für Berufseinsteiger](/blog/rentenlücke-berufseinsteiger-münster/) findest du in einem separaten Artikel.
 
 Rechne durch. Vergleiche. Und entscheide dann. Bei einer Entscheidung in dieser Größenordnung — ob Kauf oder die Alternative dazu — lohnt es sich, vorher ein strukturiertes Gespräch mit einem Finanzberater zu führen, der die Gesamtsituation kennt.
 

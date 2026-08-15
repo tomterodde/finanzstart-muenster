@@ -91,15 +91,15 @@ Aus den Statistiken der Deutschen Rentenversicherung 2024:
 
 Der Median liegt bei rund 40 Punkten. **Wer am Lebensende über 50 Punkte hat, gehört zum oberen Drittel.** 60+ Punkte sind ein Spitzenverdiener-Profil.
 
-[Wo du im Vergleich zum Durchschnitt stehst, je nach Lebensalter — die konkreten Zielwerte mit 30, 40, 50 und 60 Jahren stehen hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60)
+[Wo du im Vergleich zum Durchschnitt stehst, je nach Lebensalter — die konkreten Zielwerte mit 30, 40, 50 und 60 Jahren stehen hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60/)
 
 ## Was tun, wenn die Lücke offensichtlich wird?
 
 Wer ehrlich rechnet und merkt: Die gesetzliche Rente reicht nicht für 2.000 € heutige Kaufkraft im Alter — der hat drei Hebel:
 
-**1. Mehr Rentenpunkte sammeln.** Bei höherem Bruttogehalt steigen die Punkte automatisch (bis zur Beitragsbemessungsgrenze von 8.050 €/Monat 2025). [Eine konkrete Tabelle zu Rentenpunkten je nach Bruttogehalt steht hier.](/blog/rentenpunkte-bei-welchem-gehalt-tabelle)
+**1. Mehr Rentenpunkte sammeln.** Bei höherem Bruttogehalt steigen die Punkte automatisch (bis zur Beitragsbemessungsgrenze von 8.050 €/Monat 2025). [Eine konkrete Tabelle zu Rentenpunkten je nach Bruttogehalt steht hier.](/blog/rentenpunkte-bei-welchem-gehalt-tabelle/)
 
-**2. Rentenpunkte kaufen.** Über freiwillige Beiträge oder Ausgleichszahlung (§ 187a SGB VI) lassen sich Punkte zukaufen — mit Steuervorteil (Sonderausgaben). [Wann sich das lohnt und wie hoch die Rendite ist, erklärt dieser Artikel.](/blog/rentenpunkte-kaufen-freiwillige-beitraege)
+**2. Rentenpunkte kaufen.** Über freiwillige Beiträge oder Ausgleichszahlung (§ 187a SGB VI) lassen sich Punkte zukaufen — mit Steuervorteil (Sonderausgaben). [Wann sich das lohnt und wie hoch die Rendite ist, erklärt dieser Artikel.](/blog/rentenpunkte-kaufen-freiwillige-beitraege/)
 
 **3. Zusätzliche Säulen aufbauen.** Betriebliche Altersvorsorge, ETF-Sparplan, Riester (für bestimmte Zielgruppen), Rürup (für Selbstständige), private Rentenversicherung. Welche Mischung optimal ist, hängt stark von Steuersituation, Einkommen und Risikobereitschaft ab.
 
@@ -109,7 +109,7 @@ Wer ehrlich rechnet und merkt: Die gesetzliche Rente reicht nicht für 2.000 €
 
 Wer früh ehrlich rechnet, hat noch Spielraum. Welche Kombination aus zusätzlichen Säulen für deine Situation optimal ist — Steuerlage, Familienstand, Risikobereitschaft, Zeithorizont — lässt sich pauschal nicht beantworten. Das ist genau die Situation, in der ein Beratungsgespräch konkret weiterhilft.
 
-[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 ---
 

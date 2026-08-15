@@ -70,7 +70,7 @@ Die Grunderwerbsteuer ist nur ein Teil der Rechnung. Für eine 400.000-€-Eigen
 | Maklerprovision (Käuferanteil) | 3,57 % | 14.280 € |
 | **Nebenkosten gesamt** | **ca. 12,1 %** | **48.280 €** |
 
-Der kritische Punkt für die Finanzierung: Banken beleihen den Immobilienwert — **die Nebenkosten musst du fast immer komplett aus Eigenkapital zahlen**. Wer die 48.000 € nicht angespart hat, bekommt entweder keine Finanzierung oder deutlich schlechtere Zinsen. Genau deshalb ist [systematisches Ansparen von Eigenkapital](/blog/eigenkapital-immobilienkauf-ansparen) der erste Schritt jedes Immobilienprojekts — lange vor der Objektsuche.
+Der kritische Punkt für die Finanzierung: Banken beleihen den Immobilienwert — **die Nebenkosten musst du fast immer komplett aus Eigenkapital zahlen**. Wer die 48.000 € nicht angespart hat, bekommt entweder keine Finanzierung oder deutlich schlechtere Zinsen. Genau deshalb ist [systematisches Ansparen von Eigenkapital](/blog/eigenkapital-immobilienkauf-ansparen/) der erste Schritt jedes Immobilienprojekts — lange vor der Objektsuche.
 
 ## Wo sich legal sparen lässt
 
@@ -84,7 +84,7 @@ Realistische Einordnung: Bei einer Bestandswohnung reden wir über wenige hunder
 
 ## Was das für deine Planung bedeutet
 
-Für Mieter mit Kaufabsicht ist die Grunderwerbsteuer ein Planungsfaktor, kein Detail: Sie verschiebt die Eigenkapitalschwelle nach oben und gehört in jede [Mieten-oder-Kaufen-Rechnung](/blog/mieten-oder-kaufen-muenster). Auch bei einer [Immobilie als Kapitalanlage](/blog/immobilie-als-kapitalanlage) drückt sie die Anfangsrendite — 12 % Nebenkosten müssen erst einmal wieder verdient werden, bevor das Investment im Plus ist.
+Für Mieter mit Kaufabsicht ist die Grunderwerbsteuer ein Planungsfaktor, kein Detail: Sie verschiebt die Eigenkapitalschwelle nach oben und gehört in jede [Mieten-oder-Kaufen-Rechnung](/blog/mieten-oder-kaufen-muenster/). Auch bei einer [Immobilie als Kapitalanlage](/blog/immobilie-als-kapitalanlage/) drückt sie die Anfangsrendite — 12 % Nebenkosten müssen erst einmal wieder verdient werden, bevor das Investment im Plus ist.
 
 Wie viel Eigenkapital für dein Kaufziel realistisch nötig ist und in welcher Reihenfolge du es aufbaust, hängt von Einkommen, Zeithorizont und Standort ab — ein klassischer Fall für eine strukturierte Finanzplanung.
 

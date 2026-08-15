@@ -73,7 +73,7 @@ Renteninformation anfordern (ab 27 automatisch), verstehen, wo man steht. Wer se
 **2. Früh mit privater Vorsorge anfangen**
 Eigene Altersvorsorge aufbauen — unabhängig vom Partner, unabhängig vom Arbeitgeber. Welches Instrument am besten passt (ETF-Depot, Riester, private Rentenversicherung, bAV), hängt von der individuellen Situation ab: Einkommen, Kinder, Familienstand, Arbeitgeber. Gerade für Frauen mit Kindern kann Riester durch Kinderzulagen besonders attraktiv sein — das ist aber individuell zu prüfen.
 
-**3. Eigene [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert) nutzen**
+**3. Eigene [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert/) nutzen**
 Auch bei Teilzeit kann die bAV beibehalten oder aufgebaut werden. Arbeitgeberzuschüsse mitnehmen.
 
 **4. Minijob-Falle vermeiden**

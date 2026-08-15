@@ -73,15 +73,15 @@ Grobe Übersicht für Münster:
 | Werkstudent 15h | 900 € | ~810 € | nur RV |
 | Werkstudent 20h | 1.200 € | ~1.090 € | nur RV |
 
-Bei niedrigem Jahreseinkommen: Steuererklärung lohnt sich fast immer. [Wie das funktioniert, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster)
+Bei niedrigem Jahreseinkommen: Steuererklärung lohnt sich fast immer. [Wie das funktioniert, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster/)
 
-**Übergang zum ersten Job:** Wer nach dem Werkstudent-Job in den ersten regulären Job startet, sollte sich frühzeitig mit Gehaltsverhandlung beschäftigen — das erste Brutto entscheidet über die Karriere-Einkommensbasis. [Marktdaten und Verhandlungsstrategie für Berufseinsteiger in Münster stehen hier.](/blog/berufsstart-muenster-gehalt-verhandlung)
+**Übergang zum ersten Job:** Wer nach dem Werkstudent-Job in den ersten regulären Job startet, sollte sich frühzeitig mit Gehaltsverhandlung beschäftigen — das erste Brutto entscheidet über die Karriere-Einkommensbasis. [Marktdaten und Verhandlungsstrategie für Berufseinsteiger in Münster stehen hier.](/blog/berufsstart-muenster-gehalt-verhandlung/)
 
 ## Verwandte Münster-Themen
 
-- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster)
-- [Krankenkasse als Azubi in Münster — was du wissen musst](/blog/krankenkasse-azubi-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster/)
+- [Krankenkasse als Azubi in Münster — was du wissen musst](/blog/krankenkasse-azubi-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

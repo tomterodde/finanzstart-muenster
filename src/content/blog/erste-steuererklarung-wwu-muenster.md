@@ -48,7 +48,7 @@ Das ist komplex — aber für viele WWU-Masterabsolventen relevant. Steuerberate
 
 ## Was ist im ersten Berufsjahr absetzbar?
 
-[Die wichtigsten Werbungskosten und Sonderausgaben erklärt dieser Artikel ausführlich.](/blog/steueroptimierung-arbeitnehmer-tipps)
+[Die wichtigsten Werbungskosten und Sonderausgaben erklärt dieser Artikel ausführlich.](/blog/steueroptimierung-arbeitnehmer-tipps/)
 
 Besonders relevant für Berufseinsteiger in Münster:
 
@@ -72,9 +72,9 @@ Münsters Finanzämter: Finanzamt Münster-Innenstadt (für Stadtmitte, Südvier
 
 ## Verwandte Münster-Themen
 
-- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster)
-- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster/)
+- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

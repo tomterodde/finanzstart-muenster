@@ -71,9 +71,9 @@ Für Münsteraner, deren Arbeitgeber das anbietet: Unbedingt nutzen.
 
 ## Verwandte Münster-Themen
 
-- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster)
-- [Wohnkosten und Nebenkosten in Münster](/blog/wohnen-muenster-kosten-nebenkosten)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster/)
+- [Wohnkosten und Nebenkosten in Münster](/blog/wohnen-muenster-kosten-nebenkosten/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

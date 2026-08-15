@@ -37,13 +37,13 @@ Parallel läuft die Ausbildung Richtung **IHK-Sachkundeprüfung nach § 34d GewO
 
 ## Was am Klischee stimmt — und was nicht
 
-**Stimmt: Das Einkommen ist anfangs mager.** Die ersten Monate sind eine Investitionsphase. Provisionen fließen erst, wenn Verträge vermittelt und policiert sind — und als Trainee liegt der eigene Provisionssatz am unteren Ende der Karriereleiter. Ohne zweites Standbein oder Rücklagen wird es eng. [Wie sich nebenberufliches Einkommen aufbauen lässt, habe ich hier beschrieben.](/blog/zweites-standbein-nebenberuflich-aufbauen)
+**Stimmt: Das Einkommen ist anfangs mager.** Die ersten Monate sind eine Investitionsphase. Provisionen fließen erst, wenn Verträge vermittelt und policiert sind — und als Trainee liegt der eigene Provisionssatz am unteren Ende der Karriereleiter. Ohne zweites Standbein oder Rücklagen wird es eng. [Wie sich nebenberufliches Einkommen aufbauen lässt, habe ich hier beschrieben.](/blog/zweites-standbein-nebenberuflich-aufbauen/)
 
-**Stimmt: Das Netzwerk entscheidet.** Die ersten Gespräche führst du mit Menschen, die du kennst. Das fühlt sich zunächst seltsam an — bis man versteht, dass der seriöse Weg über echte Beratungsleistung läuft: Wer nach einem Termin ein sauberes Finanzkonzept in der Hand hält, empfiehlt weiter. [Systematischer Netzwerkaufbau](/blog/netzwerk-aufbauen-karriere-muenster) ist die eigentliche Kernkompetenz des Berufs.
+**Stimmt: Das Netzwerk entscheidet.** Die ersten Gespräche führst du mit Menschen, die du kennst. Das fühlt sich zunächst seltsam an — bis man versteht, dass der seriöse Weg über echte Beratungsleistung läuft: Wer nach einem Termin ein sauberes Finanzkonzept in der Hand hält, empfiehlt weiter. [Systematischer Netzwerkaufbau](/blog/netzwerk-aufbauen-karriere-muenster/) ist die eigentliche Kernkompetenz des Berufs.
 
 **Stimmt nicht (bei seriösen Anbietern): der Abschlussdruck.** Ich habe in 4 Monaten keinen Termin erlebt, in dem ein Kunde zum Abschluss gedrängt wurde. Der Grund ist ökonomisch: Stornierte Verträge kosten den Vermittler die Provision zurück (Stornohaftung), und schlechte Bestandsqualität blockiert Beförderungen. Das Modell bestraft Drückermethoden wirtschaftlich.
 
-**Stimmt nicht: "Du verdienst am Anwerben."** Geld fließt ausschließlich, wenn echte Kunden echte Produkte abschließen. Wer neue Berater gewinnt, verdient an deren späterer Kundenproduktion anteilig mit — nicht an der Unterschrift unter dem Partnervertrag. [Den Unterschied zum Pyramidensystem erklärt der Hub-Artikel im Detail.](/blog/strukturvertrieb-was-steckt-dahinter)
+**Stimmt nicht: "Du verdienst am Anwerben."** Geld fließt ausschließlich, wenn echte Kunden echte Produkte abschließen. Wer neue Berater gewinnt, verdient an deren späterer Kundenproduktion anteilig mit — nicht an der Unterschrift unter dem Partnervertrag. [Den Unterschied zum Pyramidensystem erklärt der Hub-Artikel im Detail.](/blog/strukturvertrieb-was-steckt-dahinter/)
 
 ## Die drei Dinge, die mich am meisten überrascht haben
 
@@ -55,9 +55,9 @@ Parallel läuft die Ausbildung Richtung **IHK-Sachkundeprüfung nach § 34d GewO
 
 ## Mein Zwischenfazit nach 4 Monaten
 
-Würde ich wieder einsteigen? Ja — aber mit denselben zwei Bedingungen, die ich damals hatte: eine zweite Einkommensquelle für die Aufbauphase und ein Anbieter, der die Seriositäts-Checkliste besteht (Registernummer, keine Eintrittsgebühren, echte IHK-Ausbildung, transparente Vergütung). [Woran du seriöse Anbieter konkret erkennst, steht im Hub-Artikel.](/blog/strukturvertrieb-was-steckt-dahinter)
+Würde ich wieder einsteigen? Ja — aber mit denselben zwei Bedingungen, die ich damals hatte: eine zweite Einkommensquelle für die Aufbauphase und ein Anbieter, der die Seriositäts-Checkliste besteht (Registernummer, keine Eintrittsgebühren, echte IHK-Ausbildung, transparente Vergütung). [Woran du seriöse Anbieter konkret erkennst, steht im Hub-Artikel.](/blog/strukturvertrieb-was-steckt-dahinter/)
 
-Was ich jedem rate, der überlegt: Sprich mit aktiven Beratern **und** mit Aussteigern, rechne deine private Durststrecke ehrlich durch und prüfe den Anbieter im [DIHK-Vermittlerregister](/blog/bafin-vermittlerregister-pruefen-leitfaden). Das Modell funktioniert — aber nur für Menschen, die es als das nehmen, was es ist: eine Selbstständigkeit mit Aufbauphase, nicht ein Job mit Gehaltsgarantie.
+Was ich jedem rate, der überlegt: Sprich mit aktiven Beratern **und** mit Aussteigern, rechne deine private Durststrecke ehrlich durch und prüfe den Anbieter im [DIHK-Vermittlerregister](/blog/bafin-vermittlerregister-pruefen-leitfaden/). Das Modell funktioniert — aber nur für Menschen, die es als das nehmen, was es ist: eine Selbstständigkeit mit Aufbauphase, nicht ein Job mit Gehaltsgarantie.
 
 <aside class="career-cta" style="background: var(--accent-light); border: 1px solid rgba(26, 107, 60, 0.2); border-left: 4px solid var(--accent); border-radius: 10px; padding: 1.5em 1.75em; margin: 2.5em 0;">
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Fragen aus erster Hand?</p>

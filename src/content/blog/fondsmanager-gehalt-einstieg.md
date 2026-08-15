@@ -25,7 +25,7 @@ sources:
 
 Über 4 Billionen Euro verwaltet die deutsche Fondsbranche laut BVI — und irgendjemand muss entscheiden, wohin dieses Geld fließt. Genau das ist der Job des Fondsmanagers: einer der prestigeträchtigsten und zugleich am härtesten umkämpften Berufe der Finanzwelt.
 
-Nach [Investment Banking](/blog/investment-banking-einstieg-gehalt), [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg), Steuerberater und Wirtschaftsprüfer komplettiert dieser Artikel die Karriere-Gehalt-Serie: Was verdient ein Fondsmanager, wie kommt man rein — und für wen lohnt sich der Weg?
+Nach [Investment Banking](/blog/investment-banking-einstieg-gehalt/), [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg/), Steuerberater und Wirtschaftsprüfer komplettiert dieser Artikel die Karriere-Gehalt-Serie: Was verdient ein Fondsmanager, wie kommt man rein — und für wen lohnt sich der Weg?
 
 ## Was macht ein Fondsmanager?
 
@@ -33,7 +33,7 @@ Ein Fondsmanager verantwortet ein Portfolio — einen Publikumsfonds, einen Spez
 
 Der Alltag ist weniger glamourös als das Klischee: Unternehmensanalysen lesen und schreiben, Management-Calls führen, Bewertungsmodelle pflegen, Risikokennzahlen überwachen — und die eigenen Entscheidungen gegenüber Anlageausschüssen und Kunden begründen. Gemessen wird gnadenlos transparent: an der Performance gegen die Benchmark, Tag für Tag.
 
-Dass aktiv gemanagte Fonds ihre Benchmark häufig verfehlen, ist dabei der Dauerkonflikt der Branche — [die Debatte aktive Fonds gegen ETF](/blog/aktien-vs-etf-unterschied) prägt auch die Berufsperspektive: Das passive Geschäft wächst, die Zahl klassischer Stockpicker-Stellen eher nicht.
+Dass aktiv gemanagte Fonds ihre Benchmark häufig verfehlen, ist dabei der Dauerkonflikt der Branche — [die Debatte aktive Fonds gegen ETF](/blog/aktien-vs-etf-unterschied/) prägt auch die Berufsperspektive: Das passive Geschäft wächst, die Zahl klassischer Stockpicker-Stellen eher nicht.
 
 ## Gehalt: Die Spannen im Asset Management
 
@@ -46,7 +46,7 @@ Fondsmanagement zahlt sehr gut, aber anders als Investment Banking: weniger Extr
 | Portfoliomanager | 5–10 Jahre | 90.000–150.000 € | 30–80 % |
 | Senior PM / Head | 10+ Jahre | 150.000–300.000 € | 50–100 %+ |
 
-Die Spannen hängen stark vom Haus ab: Große Gesellschaften wie DWS, Union Investment, Deka oder Allianz Global Investors zahlen strukturiert nach Gehaltsbändern; unabhängige Boutiquen wie Flossbach von Storch oder ACATIS zahlen bei Erfolg deutlich darüber — mit direkter Beteiligung an den Fondserträgen. Bei Hedgefonds liegt das Vergütungsmodell noch einmal eine Liga höher, [wie hier beschrieben](/blog/hedgefonds-einfach-erklaert).
+Die Spannen hängen stark vom Haus ab: Große Gesellschaften wie DWS, Union Investment, Deka oder Allianz Global Investors zahlen strukturiert nach Gehaltsbändern; unabhängige Boutiquen wie Flossbach von Storch oder ACATIS zahlen bei Erfolg deutlich darüber — mit direkter Beteiligung an den Fondserträgen. Bei Hedgefonds liegt das Vergütungsmodell noch einmal eine Liga höher, [wie hier beschrieben](/blog/hedgefonds-einfach-erklaert/).
 
 Standorte: Frankfurt dominiert, dazu München, Köln (Fondsstandort) und Hamburg.
 
@@ -63,7 +63,7 @@ Der typische Weg zur ersten eigenen Fondsverantwortung führt über 3–7 Jahre 
 
 ## Exit-Optionen und Nachbarpfade
 
-Wer Asset-Management-Erfahrung hat, dem stehen mehrere Türen offen: Hedgefonds und Family Offices (mehr Freiheit, mehr Risiko), [Private Equity](/blog/private-equity-gehalt-deutschland) für die, die Unternehmen lieber besitzen als handeln, Risikomanagement und CIO-Rollen bei Versicherern und Pensionskassen — oder die Selbstständigkeit mit eigener Vermögensverwaltung.
+Wer Asset-Management-Erfahrung hat, dem stehen mehrere Türen offen: Hedgefonds und Family Offices (mehr Freiheit, mehr Risiko), [Private Equity](/blog/private-equity-gehalt-deutschland/) für die, die Unternehmen lieber besitzen als handeln, Risikomanagement und CIO-Rollen bei Versicherern und Pensionskassen — oder die Selbstständigkeit mit eigener Vermögensverwaltung.
 
 Der Skill-Kern ist universell: Kapitalmärkte verstehen, Risiken bewerten, Entscheidungen unter Unsicherheit treffen und sie klar begründen.
 

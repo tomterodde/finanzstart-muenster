@@ -59,7 +59,7 @@ Zwei Versicherungen sind für Berufseinsteiger fast immer sinnvoll:
 
 1. **Private Haftpflichtversicherung** — günstiger geht es kaum (ca. 50–80 € im Jahr), Schutz ist aber enorm. Wer aus Versehen jemanden verletzt oder Sachschaden verursacht, haftet im schlimmsten Fall mit dem gesamten Vermögen — lebenslang.
 
-2. **Berufsunfähigkeitsversicherung** — je früher, desto besser und günstiger. [Mehr dazu in diesem Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+2. **Berufsunfähigkeitsversicherung** — je früher, desto besser und günstiger. [Mehr dazu in diesem Artikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 Alles andere: Erst prüfen, ob es wirklich gebraucht wird.
 
@@ -91,15 +91,15 @@ In Münster mit 1.800 € Netto wären das ca. **5.400 €**. Das klingt viel, w
 
 Das ist der teuerste Satz, den ein Berufseinsteiger sagen kann.
 
-Wir haben es im [Artikel über die Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster) bereits durchgerechnet: Wer mit 25 statt mit 35 anfängt, hat am Ende doppelt so viel Kapital — bei identischer monatlicher Einzahlung. Das ist der Zinseszins-Effekt, und er funktioniert nur, wenn man früh anfängt.
+Wir haben es im [Artikel über die Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster/) bereits durchgerechnet: Wer mit 25 statt mit 35 anfängt, hat am Ende doppelt so viel Kapital — bei identischer monatlicher Einzahlung. Das ist der Zinseszins-Effekt, und er funktioniert nur, wenn man früh anfängt.
 
 100 € im Monat ab 25 sind langfristig mehr wert als 300 € ab 35. Das klingt kontraintuitiv — ist aber Mathematik.
 
 ## Verwandte Münster-Themen
 
-- [Gehaltsverhandlung beim Berufseinstieg: Was in Münster realistisch ist](/blog/gehaltsverhandlung-berufseinstieg-muenster)
-- [Berufsstart in Münster: Gehaltsspannen und Marktwert](/blog/berufsstart-muenster-gehalt-verhandlung)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Gehaltsverhandlung beim Berufseinstieg: Was in Münster realistisch ist](/blog/gehaltsverhandlung-berufseinstieg-muenster/)
+- [Berufsstart in Münster: Gehaltsspannen und Marktwert](/blog/berufsstart-muenster-gehalt-verhandlung/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

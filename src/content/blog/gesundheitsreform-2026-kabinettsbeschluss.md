@@ -28,7 +28,7 @@ sources:
     year: 2025
 ---
 
-Das Bundeskabinett hat am 29. April 2026 das Sparpaket von Gesundheitsministerin Nina Warken (CDU) beschlossen. Bundeskanzler Friedrich Merz sprach von einer "historischen" Reform. Was vor zwei Wochen noch [angekündigt war](/blog/krankenkasse-reform-2026-beitragsstabilitaet), ist jetzt offizieller Gesetzentwurf — mit konkreten Zahlen und Konsequenzen für jeden gesetzlich Versicherten.
+Das Bundeskabinett hat am 29. April 2026 das Sparpaket von Gesundheitsministerin Nina Warken (CDU) beschlossen. Bundeskanzler Friedrich Merz sprach von einer "historischen" Reform. Was vor zwei Wochen noch [angekündigt war](/blog/krankenkasse-reform-2026-beitragsstabilitaet/), ist jetzt offizieller Gesetzentwurf — mit konkreten Zahlen und Konsequenzen für jeden gesetzlich Versicherten.
 
 Verabschiedet werden soll das Gesetz noch **vor der Sommerpause** im Bundestag. Merz machte deutlich: Spielraum für weitere Korrekturen nach unten gibt es nicht.
 
@@ -46,7 +46,7 @@ Der Koalitionspartner SPD sieht eine "Unwucht" zu Lasten der Versicherten. SPD-C
 
 **Eingeschränkte Familienmitversicherung.** Bisher konnten Ehepartner und Kinder unter bestimmten Voraussetzungen kostenlos mitversichert werden. Die Reform schränkt das ein — Details zur konkreten Ausgestaltung folgen mit dem Gesetzestext.
 
-**Höhere Beiträge für Besserverdiener.** Die Beitragsbemessungsgrenze steigt — mehr Einkommen wird beitragspflichtig. [Wie die Beitragsbemessungsgrundlage funktioniert, erklärt dieser Artikel.](/blog/beitragsbemessungsgrundlage-erklaert)
+**Höhere Beiträge für Besserverdiener.** Die Beitragsbemessungsgrenze steigt — mehr Einkommen wird beitragspflichtig. [Wie die Beitragsbemessungsgrundlage funktioniert, erklärt dieser Artikel.](/blog/beitragsbemessungsgrundlage-erklaert/)
 
 **Gestrichene Leistungen.** Zwei konkrete Streichungen sind beschlossen:
 
@@ -61,7 +61,7 @@ Politisch besonders heikel ist die geplante außerordentliche Anhebung der **Ver
 
 Wird diese Grenze deutlich angehoben, verlieren Tausende Berufseinsteiger und Aufsteiger faktisch die Möglichkeit, jemals in die PKV zu wechseln. Der PKV-Verband spricht von einer "faktischen Bürgerversicherung für Angestellte" — Wahlfreiheit und Wettbewerb zwischen den Systemen würden ausgehöhlt.
 
-Für junge Berufstätige in Münster und anderswo heißt das konkret: Wer perspektivisch über die alte Grenze (2026: 73.800 €) kommt und einen PKV-Wechsel erwägt, sollte die finalen Werte sehr genau verfolgen. [Was ein PKV-Wechsel im Detail bedeutet, ist hier erklärt.](/blog/wechsel-gesetzliche-krankenversicherung) Einmal in der GKV gefangen, bleibt der Wechsel oft für Jahre verschlossen.
+Für junge Berufstätige in Münster und anderswo heißt das konkret: Wer perspektivisch über die alte Grenze (2026: 73.800 €) kommt und einen PKV-Wechsel erwägt, sollte die finalen Werte sehr genau verfolgen. [Was ein PKV-Wechsel im Detail bedeutet, ist hier erklärt.](/blog/wechsel-gesetzliche-krankenversicherung/) Einmal in der GKV gefangen, bleibt der Wechsel oft für Jahre verschlossen.
 
 ## Vergütungsdeckel für Ärzte, Kliniken, Pharma
 
@@ -77,7 +77,7 @@ Die einzige nennenswerte neue Einnahmequelle für die Kassen: Eine Abgabe auf st
 
 **Zusatzversicherung neu prüfen.** Wenn Leistungen wegfallen oder Wartezeiten steigen, gewinnt private Zusatzversicherung an Bedeutung. Zahnzusatz, stationäre Tarife und Heilpraktiker-Bausteine kosten zusammen 40–80 € im Monat. Welche Bausteine in deiner Situation sinnvoll sind — und welche dazugekauften Leistungen du eher nicht brauchst — gehört in ein persönliches Beratungsgespräch. Pauschale Empfehlungen taugen hier nichts.
 
-**Kassenwechsel beobachten.** Die Reform wird Gewinner- und Verliererkassen produzieren. [Wie ein Kassenwechsel als Berufseinsteiger funktioniert.](/blog/krankenkasse-wechseln-berufseinsteiger)
+**Kassenwechsel beobachten.** Die Reform wird Gewinner- und Verliererkassen produzieren. [Wie ein Kassenwechsel als Berufseinsteiger funktioniert.](/blog/krankenkasse-wechseln-berufseinsteiger/)
 
 **PKV-Entscheidung nicht unter Druck treffen.** Auch wenn die Versicherungspflichtgrenze steigt — ein PKV-Wechsel ist eine lebenslange Entscheidung. Steuersituation, Familienplanung, langfristige Gesundheit, Beitragsentwicklung im Alter: All das spielt mit hinein. Bevor du wechselst, sprich mit einem unabhängigen Finanzberater, der deine Gesamtsituation kennt.
 

@@ -50,7 +50,7 @@ Die Lösung: Ein privates Krankentagegeld, das ab einem selbst gewählten Tag (z
 
 ## Priorität 2: Berufsunfähigkeitsversicherung
 
-Die [Berufsunfähigkeitsversicherung (BU)](/blog/berufsunfaehigkeitsversicherung-guide) ist für Selbstständige genauso wichtig wie für Angestellte — vielleicht noch wichtiger.
+Die [Berufsunfähigkeitsversicherung (BU)](/blog/berufsunfaehigkeitsversicherung-guide/) ist für Selbstständige genauso wichtig wie für Angestellte — vielleicht noch wichtiger.
 
 Bei Angestellten greift im schlimmsten Fall die Erwerbsminderungsrente als Notfallnetz. Für Selbstständige, die nicht in die gesetzliche Rentenversicherung einzahlen, gibt es dieses Netz oft gar nicht. Wer dauerhaft berufsunfähig wird und keine private BU hat, hat im Ernstfall keinerlei Einkommensersatz.
 
@@ -58,7 +58,7 @@ Zusätzliche Herausforderung: Als Selbstständiger ist die Definition der BU bes
 
 ## Priorität 3: Private Haftpflichtversicherung
 
-Die [private Haftpflichtversicherung](/blog/private-haftpflichtversicherung-berufseinsteiger) ist auch für Selbstständige unverzichtbar — privat wie beruflich.
+Die [private Haftpflichtversicherung](/blog/private-haftpflichtversicherung-berufseinsteiger/) ist auch für Selbstständige unverzichtbar — privat wie beruflich.
 
 **Achtung:** Die private Haftpflicht deckt nur private Schäden ab. Wer als Selbstständiger Schäden im Rahmen seiner beruflichen Tätigkeit verursacht (z.B. falscher Rat, beschädigte Kundensachen), braucht eine **Betriebshaftpflicht** oder **Berufshaftpflicht** — je nach Branche.
 
@@ -68,7 +68,7 @@ Für bestimmte Berufsgruppen (Steuerberater, Ärzte, Architekten, Rechtsanwälte
 
 Wer nicht in die gesetzliche Rentenversicherung einzahlt, hat im Alter nur das, was er selbst aufgebaut hat.
 
-Für Selbstständige kommen verschiedene Wege in Betracht: die [Rürup-Rente](/blog/ruerup-rente-selbststaendige) mit Steuervorteil, ein Wertpapierdepot für Flexibilität, Immobilien oder eine Kombination daraus. Welcher Weg der richtige ist, hängt stark vom Einkommen, der Steuersituation und der Planbarkeit der Einnahmen ab.
+Für Selbstständige kommen verschiedene Wege in Betracht: die [Rürup-Rente](/blog/ruerup-rente-selbststaendige/) mit Steuervorteil, ein Wertpapierdepot für Flexibilität, Immobilien oder eine Kombination daraus. Welcher Weg der richtige ist, hängt stark vom Einkommen, der Steuersituation und der Planbarkeit der Einnahmen ab.
 
 ## Was Selbstständige oft unterschätzen: Die Reihenfolge
 

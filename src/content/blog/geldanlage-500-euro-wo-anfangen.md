@@ -36,7 +36,7 @@ Bevor du 500 Euro investierst, eine Gegenfrage: Hast du bereits 3 Monatsgehälte
 
 Falls nein: Die 500 Euro gehören dort hin. Erst wenn der Notgroschen steht, hat Investieren Sinn — sonst riskierst du, bei der nächsten unerwarteten Ausgabe Anteile im Minus verkaufen zu müssen.
 
-[Warum der Notgroschen vor allem anderen kommt, erklärt dieser Artikel.](/blog/notgroschen-wo-parken-tagesgeld)
+[Warum der Notgroschen vor allem anderen kommt, erklärt dieser Artikel.](/blog/notgroschen-wo-parken-tagesgeld/)
 
 ## Was du mit 500 Euro tun kannst
 
@@ -49,7 +49,7 @@ Du bekommst:
 - Regelmäßigen Aufbau durch den Sparplan
 - Cost-Average-Effekt ab dem ersten Monat
 
-[Wie ein ETF-Sparplan funktioniert, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster)
+[Wie ein ETF-Sparplan funktioniert, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster/)
 
 ### Einmalanlage
 
@@ -68,7 +68,7 @@ Bei 7 % p.a. Rendite wären die 500 Euro nach 30 Jahren ca. 3.800 Euro — durch
 
 Bei modernen Neo-Brokern: Depot kostenlos, Sparplan kostenlos, Einmalorder 0–1 Euro. Die Hürde ist tatsächlich nur noch die eigene Entscheidung.
 
-[Worauf du bei der Depot-Wahl achten solltest, erklärt dieser Artikel.](/blog/depot-eroeffnen-berufseinsteiger)
+[Worauf du bei der Depot-Wahl achten solltest, erklärt dieser Artikel.](/blog/depot-eroeffnen-berufseinsteiger/)
 
 ## Die psychologische Dimension
 

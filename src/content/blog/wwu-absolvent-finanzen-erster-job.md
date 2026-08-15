@@ -31,7 +31,7 @@ Du hast an der WWU Münster studiert — Jura, BWL, Informatik, Medizin, Sozialw
 
 Das erste Angebot ist selten das beste. WWU-Absolventen in Münster haben oft keine Gehaltsreferenz, weil das Studium keine vermittelt. Das führt dazu, dass viele das erste Angebot kommentarlos annehmen.
 
-Wer 300 Euro brutto mehr pro Monat verhandelt, hat über 30 Jahre Karriere (mit regelmäßigen Steigerungen auf dieser Basis) potenziell 100.000+ Euro mehr verdient. Das rechtfertigt ein unangenehmes Gespräch. [Wie Gehaltsverhandlung in Münster funktioniert, erklärt dieser Artikel.](/blog/berufsstart-muenster-gehalt-verhandlung)
+Wer 300 Euro brutto mehr pro Monat verhandelt, hat über 30 Jahre Karriere (mit regelmäßigen Steigerungen auf dieser Basis) potenziell 100.000+ Euro mehr verdient. Das rechtfertigt ein unangenehmes Gespräch. [Wie Gehaltsverhandlung in Münster funktioniert, erklärt dieser Artikel.](/blog/berufsstart-muenster-gehalt-verhandlung/)
 
 ## 2. Notgroschen aufbauen, bevor investiert wird
 
@@ -43,7 +43,7 @@ Zuerst braucht es einen **Liquiditätspuffer von 3 Monatsgehältern** auf einem 
 
 WWU-Absolventen, die im Laufe des Jahres anfangen, zahlen im ersten Jahr fast immer zu viel Lohnsteuer — weil das Finanzamt ein volles Jahresgehalt annimmt. Die Erstattung ist oft 800–1.800 Euro.
 
-Wer ein Masterstudium hatte: rückwirkende Verlustvorträge aus Studienkosten sind möglich und lohnend. [Die erste Steuererklärung nach dem Studium erklärt dieser Artikel.](/blog/erste-steuererklarung-wwu-muenster)
+Wer ein Masterstudium hatte: rückwirkende Verlustvorträge aus Studienkosten sind möglich und lohnend. [Die erste Steuererklärung nach dem Studium erklärt dieser Artikel.](/blog/erste-steuererklarung-wwu-muenster/)
 
 ## 4. Krankenversicherung aktiv entscheiden
 
@@ -57,7 +57,7 @@ Wer gut verdient (über ~69.300 Euro Brutto/Jahr, 2025), kann über PKV nachdenk
 
 "Ich fange in ein paar Jahren an" ist der teuerste Satz in der Altersvorsorge. Wer mit 27 statt 37 anfängt, braucht bei 7 % Rendite für dasselbe Endvermögen weniger als halb so viel pro Monat.
 
-Aber: nicht das erste beste Produkt nehmen. ETF-Sparplan, bAV, Riester, Rürup — was sinnvoll ist, hängt von Arbeitgeber, Einkommen, Familiensituation ab. [Was der Arbeitgeberzuschuss bei der bAV bringt, erklärt dieser Artikel.](/blog/bav-lohnt-sich-arbeitgeberzuschuss)
+Aber: nicht das erste beste Produkt nehmen. ETF-Sparplan, bAV, Riester, Rürup — was sinnvoll ist, hängt von Arbeitgeber, Einkommen, Familiensituation ab. [Was der Arbeitgeberzuschuss bei der bAV bringt, erklärt dieser Artikel.](/blog/bav-lohnt-sich-arbeitgeberzuschuss/)
 
 ## Zusammenfassung
 

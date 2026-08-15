@@ -57,13 +57,13 @@ Für Ehepaare und eingetragene Lebenspartner gibt es drei Modelle:
 - **III/V:** Lohnt sich als Liquiditätsvorteil, wenn ein Partner deutlich mehr verdient (Faustregel: ab etwa 60/40-Verteilung). Der Preis: Partner in V hat ein spürbar niedrigeres Netto, und es drohen Nachzahlungen.
 - **IV mit Faktor:** Verteilt die Lohnsteuer nach dem tatsächlichen Splitting-Vorteil — genauer als III/V, ohne böse Überraschung beim Bescheid.
 
-Politisch ist die Abschaffung von III/V zugunsten des Faktorverfahrens beschlossen worden, die Umsetzung ist aber mehrfach verschoben — aktuell gilt die Kombination weiter. Wer heiratet, sollte die Wahl bewusst treffen statt beim Standard zu bleiben: Wie sich die Hochzeit insgesamt auf die Finanzen auswirkt, zeigt der [Finanzplanungs-Guide zur Heirat](/blog/finanzplanung-heirat-muenster).
+Politisch ist die Abschaffung von III/V zugunsten des Faktorverfahrens beschlossen worden, die Umsetzung ist aber mehrfach verschoben — aktuell gilt die Kombination weiter. Wer heiratet, sollte die Wahl bewusst treffen statt beim Standard zu bleiben: Wie sich die Hochzeit insgesamt auf die Finanzen auswirkt, zeigt der [Finanzplanungs-Guide zur Heirat](/blog/finanzplanung-heirat-muenster/).
 
 ## Wann sich der Wechsel wirklich lohnt
 
-**Vor der Geburt (der größte Hebel):** Das [Elterngeld](/blog/elterngeld-berechnung-antrag) bemisst sich am Netto der zwölf Monate vor dem Mutterschutz. Wechselt der Elternteil, der zu Hause bleibt, früh genug in Klasse III (in der Regel mindestens sieben Monate vor Mutterschutzbeginn), steigt das Elterngeld — über 14 Bezugsmonate schnell ein vierstelliger Betrag. Was in der Elternzeit finanziell sonst noch zählt, steht im Artikel zur [Absicherung in der Elternzeit](/blog/absicherung-elternzeit-finanzen).
+**Vor der Geburt (der größte Hebel):** Das [Elterngeld](/blog/elterngeld-berechnung-antrag/) bemisst sich am Netto der zwölf Monate vor dem Mutterschutz. Wechselt der Elternteil, der zu Hause bleibt, früh genug in Klasse III (in der Regel mindestens sieben Monate vor Mutterschutzbeginn), steigt das Elterngeld — über 14 Bezugsmonate schnell ein vierstelliger Betrag. Was in der Elternzeit finanziell sonst noch zählt, steht im Artikel zur [Absicherung in der Elternzeit](/blog/absicherung-elternzeit-finanzen/).
 
-**Vor drohender Arbeitslosigkeit:** Auch das [Arbeitslosengeld 1 berechnet sich vom Netto](/blog/alg1-rechner-wie-viel-arbeitslosengeld) — die Steuerklasse zum Jahresbeginn bzw. bei rechtzeitigem Wechsel beeinflusst die Höhe direkt.
+**Vor drohender Arbeitslosigkeit:** Auch das [Arbeitslosengeld 1 berechnet sich vom Netto](/blog/alg1-rechner-wie-viel-arbeitslosengeld/) — die Steuerklasse zum Jahresbeginn bzw. bei rechtzeitigem Wechsel beeinflusst die Höhe direkt.
 
 **Bei Gehaltsverschiebungen in der Ehe:** Wechselt ein Partner in Teilzeit oder bekommt eine deutliche Erhöhung, lohnt der Neucheck der Kombination. Der Wechsel ist **mehrmals pro Jahr** möglich und wirkt ab dem Folgemonat.
 

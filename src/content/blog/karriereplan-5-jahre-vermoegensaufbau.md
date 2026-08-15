@@ -62,7 +62,7 @@ Quellen: Stepstone Gehaltsreport 2025, Kienbaum.
 - Vorteil: Strukturwechsel, längere Karriere-Halbwertszeit
 - Nachteil: Investition (Zeit + Geld), 12–24 Monate ohne Ergebnis
 
-Mehr zur steuerlichen Optimierung von Fortbildung: [Fortbildung steuerlich absetzen](/blog/fortbildung-steuerlich-absetzen).
+Mehr zur steuerlichen Optimierung von Fortbildung: [Fortbildung steuerlich absetzen](/blog/fortbildung-steuerlich-absetzen/).
 
 ## Wann ein Wechsel finanziell sinnvoll ist
 
@@ -114,7 +114,7 @@ Parallel: Jährliche Finanz-Inventur, Abstimmung mit Partnerschaft/Familie.
 
 ## Die drei Karriereschritte mit dem höchsten Hebel
 
-1. **Berufseinstiegsgehalt 5.000 € höher** — kumuliert über 40 Jahre bei 3 % Steigerung **ca. 380.000 € mehr Brutto**. Mehr dazu in [Gehaltsverhandlung Berufseinstieg](/blog/gehaltsverhandlung-berufseinstieg-muenster).
+1. **Berufseinstiegsgehalt 5.000 € höher** — kumuliert über 40 Jahre bei 3 % Steigerung **ca. 380.000 € mehr Brutto**. Mehr dazu in [Gehaltsverhandlung Berufseinstieg](/blog/gehaltsverhandlung-berufseinstieg-muenster/).
 
 2. **Stellenwechsel mit 15–20 % Sprung in Jahr 3–5** — kumuliert ca. 250.000 € Lifetime-Earnings vs. internem Verbleib.
 

@@ -61,7 +61,7 @@ Dieser Artikel macht den nüchternen Vergleich aller 6 zentralen Bausteine 2026 
 
 **Lohnt sich strukturell:** Solidarsystem mit Inflationsausgleich. Aber: Rentenniveau sinkt von 48 % auf 43–45 % bis 2040. Selbstständige sind nicht Pflichtversicherte (Ausnahmen).
 
-**Strategischer Hebel:** Freiwillige Beiträge oder Ausgleichszahlung können sinnvoll sein — vor allem bei Spitzensteuersatz und kurzem Anlagehorizont. [Details zu Rentenpunkten kaufen stehen hier.](/blog/rentenpunkte-kaufen-freiwillige-beitraege)
+**Strategischer Hebel:** Freiwillige Beiträge oder Ausgleichszahlung können sinnvoll sein — vor allem bei Spitzensteuersatz und kurzem Anlagehorizont. [Details zu Rentenpunkten kaufen stehen hier.](/blog/rentenpunkte-kaufen-freiwillige-beitraege/)
 
 ### 2. Betriebliche Altersvorsorge (bAV)
 
@@ -77,7 +77,7 @@ Dieser Artikel macht den nüchternen Vergleich aller 6 zentralen Bausteine 2026 
 - Niedrigem aktuellen Steuersatz
 - Geplanter Selbstständigkeit
 
-[Vollständige Analyse der bAV-Nachteile steht hier.](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht)
+[Vollständige Analyse der bAV-Nachteile steht hier.](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht/)
 
 **Renditerechnung 200 €/Monat über 30 Jahre:**
 - Eingezahltes Kapital: 72.000 €
@@ -101,7 +101,7 @@ Dieser Artikel macht den nüchternen Vergleich aller 6 zentralen Bausteine 2026 
 - 4 % vom rentenversicherungspflichtigen Bruttoeinkommen (max. 2.100 €/Jahr Eigenbeitrag)
 - Bei 1 Kind (geb. 2010), 60 €/Monat Eigenbeitrag: 475 € Zulagen auf 720 € Einzahlung = **66 % Zulagenrendite** auf den Eigenbeitrag — bevor irgendeine Fonds-Rendite überhaupt anfällt
 
-**Individuelle Prüfung sinnvoll bei:** Selbstständigen (kein Riester-Anspruch — dann Rürup prüfen) sowie sehr kurzem Anlagehorizont. In den allermeisten anderen Konstellationen ist Riester ein lohnender Baustein — die konkrete Tarifwahl (klassisch, fondsgebunden, Wohn-Riester) gehört in die Beratung. [Details zu Riester stehen hier.](/blog/riester-jetzt-noch-abschliessen-vertragsschutz)
+**Individuelle Prüfung sinnvoll bei:** Selbstständigen (kein Riester-Anspruch — dann Rürup prüfen) sowie sehr kurzem Anlagehorizont. In den allermeisten anderen Konstellationen ist Riester ein lohnender Baustein — die konkrete Tarifwahl (klassisch, fondsgebunden, Wohn-Riester) gehört in die Beratung. [Details zu Riester stehen hier.](/blog/riester-jetzt-noch-abschliessen-vertragsschutz/)
 
 ### 4. Rürup-Rente (Basisrente)
 
@@ -112,7 +112,7 @@ Dieser Artikel macht den nüchternen Vergleich aller 6 zentralen Bausteine 2026 
 - 2026 sind 100 % der Beiträge absetzbar (zuvor abgestuft)
 - Steuerersparnis bei 42 % Spitzensteuersatz: bis 11.140 € pro Jahr
 
-**Wichtig:** Rürup ist nicht vererbbar (außer Hinterbliebenenrente bei Ehepartner) — kinderlose Singles tragen das Verlustrisiko bei frühem Tod. [Details zu Rürup für Selbstständige stehen hier.](/blog/ruerup-rente-selbststaendige)
+**Wichtig:** Rürup ist nicht vererbbar (außer Hinterbliebenenrente bei Ehepartner) — kinderlose Singles tragen das Verlustrisiko bei frühem Tod. [Details zu Rürup für Selbstständige stehen hier.](/blog/ruerup-rente-selbststaendige/)
 
 ### 5. Fondsgebundene Privatrente (Flex)
 
@@ -128,7 +128,7 @@ Dieser Artikel macht den nüchternen Vergleich aller 6 zentralen Bausteine 2026 
 
 **Warum der Renditevergleich „Flex vs. ETF" methodisch unfair ist:** Ein ETF-Sparplan kann höhere Brutto-Renditen erzielen, hat aber **keine Rentengarantie**. Wer mit 67 sein Depot in monatliche Zahlungen umwandeln will, muss selbst entscheiden, wie viel er pro Monat entnimmt — bei 4 % Entnahmerate reicht das Kapital statistisch für ca. 30 Jahre. Wer 95 wird, hat dann ein Problem. Flex löst genau dieses Problem.
 
-[Detaillierter Vergleich Rentenversicherung vs. ETF steht hier.](/blog/private-rentenversicherung-vs-etf)
+[Detaillierter Vergleich Rentenversicherung vs. ETF steht hier.](/blog/private-rentenversicherung-vs-etf/)
 
 ### 6. ETF-Sparplan
 
@@ -148,7 +148,7 @@ Dieser Artikel macht den nüchternen Vergleich aller 6 zentralen Bausteine 2026 
 - Kein Pfändungs- oder Hartz-IV-Schutz
 - Keine Verbindlichkeit beim Sparen — Sparplan kann jederzeit pausiert oder aufgelöst werden, was in volatilen Lebensphasen oft passiert
 
-**Richtige Einordnung:** Der ETF-Sparplan ist ein hervorragendes **Anlageinstrument** — aber kein vollständiges Altersvorsorge-Konzept. Wer ihn als einzige Vorsorge betreibt, optimiert eine Dimension (Rendite) und ignoriert alle anderen (Langlebigkeit, Steuer, Zulagen, Schutz). [Details zu ETF-Sparplan stehen hier.](/blog/etf-sparplan-einsteiger-muenster)
+**Richtige Einordnung:** Der ETF-Sparplan ist ein hervorragendes **Anlageinstrument** — aber kein vollständiges Altersvorsorge-Konzept. Wer ihn als einzige Vorsorge betreibt, optimiert eine Dimension (Rendite) und ignoriert alle anderen (Langlebigkeit, Steuer, Zulagen, Schutz). [Details zu ETF-Sparplan stehen hier.](/blog/etf-sparplan-einsteiger-muenster/)
 
 ## Typische Bausteine je Lebenssituation
 
@@ -170,7 +170,7 @@ Die folgenden Profile zeigen, **welche Bausteine** typischerweise zusammenpassen
 
 **Typische Bausteine:** Rürup (statt Riester, da kein Anspruch) + Flex (private Eigeninitiative, da keine bAV) + ETF-Sparplan + erhöhter Liquiditätspuffer.
 
-[Details zu Selbstständige-Vorsorge stehen hier.](/blog/altersvorsorge-selbststaendige)
+[Details zu Selbstständige-Vorsorge stehen hier.](/blog/altersvorsorge-selbststaendige/)
 
 ### Profil 4: Spitzenverdiener 40–55
 
@@ -180,7 +180,7 @@ Die folgenden Profile zeigen, **welche Bausteine** typischerweise zusammenpassen
 
 **Typische Bausteine:** Rürup (kurzer Horizont, hoher Steuervorteil) + freiwillige Rentenpunkte-Kauf bei der DRV (lebenslange Garantie + Steuervorteil) + Flex (Verrentung statt Vermögensaufbau im Vordergrund) + ETF.
 
-[Details zu Rentenpunkte-Kauf stehen hier.](/blog/rentenpunkte-kaufen-freiwillige-beitraege)
+[Details zu Rentenpunkte-Kauf stehen hier.](/blog/rentenpunkte-kaufen-freiwillige-beitraege/)
 
 ## Warum reine Rendite-Vergleiche in die Irre führen
 
@@ -204,7 +204,7 @@ Es gibt im Netz unzählige Rechner, die 200 €/Monat über 30 Jahre durch versc
 
 3. **Die richtige Gewichtung gehört in die Beratung.** Wie viel Flex, wie viel Riester, wie viel ETF — das ist eine individuelle Rechnung, die deine Steuersituation, deine vorhandenen Verträge, deinen Familienstand und deine Ziele einbezieht. Pauschale Aufteilungen aus dem Internet sind keine seriöse Grundlage.
 
-[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert) [Wie viel du monatlich sparen solltest, steht hier.](/blog/wie-viel-monatlich-altersvorsorge-sparen) [Wer zuerst seinen konkreten Bedarf bestimmen will, berechnet die Rentenlücke hier.](/blog/rentenluecke-berechnen-schliessen)
+[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert/) [Wie viel du monatlich sparen solltest, steht hier.](/blog/wie-viel-monatlich-altersvorsorge-sparen/) [Wer zuerst seinen konkreten Bedarf bestimmen will, berechnet die Rentenlücke hier.](/blog/rentenluecke-berechnen-schliessen/)
 
 ## Fazit
 

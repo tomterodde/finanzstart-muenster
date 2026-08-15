@@ -100,21 +100,21 @@ Wenn du Blackstone-Aktien kaufst, beteiligst du dich an der **Verwaltungsgesells
 
 Performance dieser Aktien war historisch stark: **Blackstone +180 % über 5 Jahre, KKR +220 %** (Stand Ende 2024). Beim Investieren beachten: Diese Aktien sind zyklisch — bei Marktrückgängen leiden sowohl AuM als auch Carry-Realisierungen.
 
-[Mehr zum Unterschied PE vs. VC findest du im separaten Artikel.](/blog/private-equity-vs-venture-capital) [Wer noch beim Grundverständnis ist, sollte mit dem Einsteigerartikel beginnen.](/blog/private-equity-erklaert-grundlagen)
+[Mehr zum Unterschied PE vs. VC findest du im separaten Artikel.](/blog/private-equity-vs-venture-capital/) [Wer noch beim Grundverständnis ist, sollte mit dem Einsteigerartikel beginnen.](/blog/private-equity-erklaert-grundlagen/)
 
 ## Was das für dich bedeutet
 
 **Als BWL-Student:** Wenn du PE als Karriereziel hast, kenne diese Namen auswendig. Nutze die DACH-Offices als Recruiting-Ziele — bewerb dich auf Internships bei EQT München, Triton Frankfurt, Permira Frankfurt, Advent Frankfurt.
 
-**Als Anleger:** Aktien von börsennotierten PE-Firmen sind eine Möglichkeit, indirekt am Erfolg der Branche zu partizipieren — mit deutlich besserer Liquidität als bei Direkt-Fondsbeteiligungen. Über sogenannte **ELTIF-Vehikel** gibt es seit 2024 zusätzlich Zugang zu echten PE-Fonds für Privatanleger ab rund 10.000 €. [Welche konkreten Wege Privatanleger haben — Trade Republic, PE-ETF, klassische Fonds, ELTIFs und Beratung — steht im großen Vergleich.](/blog/private-equity-investieren-fonds-etf-trade-republic)
+**Als Anleger:** Aktien von börsennotierten PE-Firmen sind eine Möglichkeit, indirekt am Erfolg der Branche zu partizipieren — mit deutlich besserer Liquidität als bei Direkt-Fondsbeteiligungen. Über sogenannte **ELTIF-Vehikel** gibt es seit 2024 zusätzlich Zugang zu echten PE-Fonds für Privatanleger ab rund 10.000 €. [Welche konkreten Wege Privatanleger haben — Trade Republic, PE-ETF, klassische Fonds, ELTIFs und Beratung — steht im großen Vergleich.](/blog/private-equity-investieren-fonds-etf-trade-republic/)
 
 **Als Berufstätiger im Mittelstand:** Wenn dein Arbeitgeber zur PE-Portfolio-Firma wird, ändert sich die Arbeitsweise oft deutlich — Reporting wird strikter, KPIs härter, strategische Veränderungen schneller. Wer diese Phasen versteht, kann sie für die eigene Karriere nutzen.
 
 ## Vertiefung
 
-- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Heimische Mid-Market-Spezialisten (DPE, Auctus, Equistone).
-- [Wie verdienen PE-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld) — Gebührenstruktur und Wertschöpfungs-Hebel.
-- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Grundlagen und Beispiele.
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland/) — Heimische Mid-Market-Spezialisten (DPE, Auctus, Equistone).
+- [Wie verdienen PE-Firmen Geld?](/blog/wie-verdienen-private-equity-firmen-geld/) — Gebührenstruktur und Wertschöpfungs-Hebel.
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert/) — Grundlagen und Beispiele.
 
 ## Fazit
 

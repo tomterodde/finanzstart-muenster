@@ -56,7 +56,7 @@ Wer 2020 auf dem Corona-Tief verkauft hat, hat nicht nur den Einbruch realisiert
 
 ## Was man stattdessen tun sollte
 
-**Sparplan weiterlaufen lassen:** Im Einbruch kaufst du mehr Anteile für dasselbe Geld — der [Cost-Average-Effekt](/blog/cost-average-effekt-erklaert) wirkt am stärksten in fallenden Märkten.
+**Sparplan weiterlaufen lassen:** Im Einbruch kaufst du mehr Anteile für dasselbe Geld — der [Cost-Average-Effekt](/blog/cost-average-effekt-erklaert/) wirkt am stärksten in fallenden Märkten.
 
 **Nichts tun:** Für Langfristanleger ist Inaktivität in Krisen oft die profitabelste Entscheidung.
 

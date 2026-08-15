@@ -130,7 +130,7 @@ Eine Kapitalanlage-Immobilie kann ein sinnvoller Teil eines Vermögensplans sein
 
 Ob eine Anlageimmobilie, ein Wertpapierdepot oder eine Kombination aus beidem für dich die bessere Wahl ist, hängt von vielen Faktoren ab: Startkapital, Steuersituation, Risikotoleranz, Zeithorizont. Es gibt keine pauschale Antwort — und wer eine größere Investitionsentscheidung trifft, sollte sie nicht allein auf Basis von Faustregeln treffen.
 
-Wer Immobilien und selbstgenutztes Wohneigentum gegeneinander abwägen möchte, findet dazu eine nüchterne Analyse im Artikel [Mieten oder Kaufen in Münster](/blog/mieten-oder-kaufen-muenster).
+Wer Immobilien und selbstgenutztes Wohneigentum gegeneinander abwägen möchte, findet dazu eine nüchterne Analyse im Artikel [Mieten oder Kaufen in Münster](/blog/mieten-oder-kaufen-muenster/).
 
 ---
 

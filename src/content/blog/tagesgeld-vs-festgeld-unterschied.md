@@ -33,7 +33,7 @@ Dieser Artikel klärt den Unterschied, zeigt eine Vergleichstabelle und eine ein
 
 Ein Tagesgeldkonto ist ein Bankkonto, auf dem Guthaben **jederzeit** verfügbar bleibt — Einzahlungen und Abhebungen sind ohne Kündigungsfrist möglich. Der Zinssatz ist **variabel**: Die Bank kann ihn jederzeit anpassen, meist orientiert an der aktuellen Leitzinsentwicklung der Europäischen Zentralbank.
 
-Genau diese Kombination — volle Verfügbarkeit plus meist höhere Verzinsung als ein klassisches Girokonto — macht Tagesgeld zum Standardparkplatz für den [Notgroschen](/blog/notgroschen-wo-parken-tagesgeld).
+Genau diese Kombination — volle Verfügbarkeit plus meist höhere Verzinsung als ein klassisches Girokonto — macht Tagesgeld zum Standardparkplatz für den [Notgroschen](/blog/notgroschen-wo-parken-tagesgeld/).
 
 ## Was ist Festgeld?
 
@@ -71,7 +71,7 @@ Viele deutsche Banken gehören zusätzlich freiwilligen Einlagensicherungsfonds 
 
 Tagesgeld und Festgeld schließen sich nicht gegenseitig aus — sie erfüllen unterschiedliche Aufgaben. Der Notgroschen bleibt auf Tagesgeld, weil Verfügbarkeit hier wichtiger ist als jeder Zinsvorteil. Geld darüber hinaus, dessen Bedarfszeitpunkt du kennst, kann über Festgeld oder eine Festgeldleiter zusätzliche Zinsen einbringen, ohne dass du komplett auf Flexibilität verzichten musst.
 
-Wie du dein Vermögen sinnvoll zwischen Liquiditätsreserve, Festgeld und längerfristigem Vermögensaufbau (etwa über [ETF-Sparpläne](/blog/etf-sparplan-einsteiger-muenster)) aufteilst, hängt von deiner individuellen Lebenssituation ab — das lässt sich am besten in einem persönlichen Gespräch einordnen.
+Wie du dein Vermögen sinnvoll zwischen Liquiditätsreserve, Festgeld und längerfristigem Vermögensaufbau (etwa über [ETF-Sparpläne](/blog/etf-sparplan-einsteiger-muenster/)) aufteilst, hängt von deiner individuellen Lebenssituation ab — das lässt sich am besten in einem persönlichen Gespräch einordnen.
 
 ---
 

@@ -38,7 +38,7 @@ Der Zinseszinseffekt wächst exponentiell, nicht linear. Das bedeutet: Die letzt
 
 Wer das einmal wirklich versteht, wartet nie wieder.
 
-[Was Zinseszins bedeutet und warum Zeit der entscheidende Faktor ist, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger)
+[Was Zinseszins bedeutet und warum Zeit der entscheidende Faktor ist, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger/)
 
 ## Beispielrechnung 1: Einmalanlage mit 25 vs. 35
 
@@ -71,7 +71,7 @@ Viele denken: "Ich fange mit 35 an und zahle dann mehr ein." Das stimmt rechneri
 
 Um mit 35 dasselbe Ergebnis zu erreichen wie mit 25 (Endwert ~400.000 €), musst du nicht 200 Euro, sondern ca. **282 Euro monatlich** einzahlen. Du zahlst also 41 % mehr pro Monat — und trotzdem weniger Gesamtkapital als wenn du früher angefangen hättest.
 
-> Wer den Bedarf für seine konkrete Situation ausrechnen will: [Rentenlücke berechnen — Formel, Tabelle und kostenloser Rechner](/blog/rentenluecke-berechnen-schliessen) zeigt dir, wie viel Kapital du wirklich brauchst.
+> Wer den Bedarf für seine konkrete Situation ausrechnen will: [Rentenlücke berechnen — Formel, Tabelle und kostenloser Rechner](/blog/rentenluecke-berechnen-schliessen/) zeigt dir, wie viel Kapital du wirklich brauchst.
 
 ## Was das für Berufseinsteiger konkret bedeutet
 
@@ -85,8 +85,8 @@ Die zweit häufigste Ausrede: "Der richtige Zeitpunkt kommt noch." Er kommt nich
 
 Die Antwort hängt von deiner Situation ab — Steuerklasse, Arbeitgeber-Angebote, Familienstand, Einkommen. Die wichtigsten Bausteine:
 
-- **Gesetzliche Rente:** Pflichtbeitrag, reicht alleine nicht aus. [Was Rentenpunkte sind und warum das Niveau sinkt, erklärt dieser Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
-- **Betriebliche Altersvorsorge (bAV):** Steuer- und sozialabgabenfreie Einzahlungen, oft mit Arbeitgeberzuschuss. [Was die bAV bringt, erklärt dieser Artikel.](/blog/betriebliche-altersvorsorge-erklaert)
+- **Gesetzliche Rente:** Pflichtbeitrag, reicht alleine nicht aus. [Was Rentenpunkte sind und warum das Niveau sinkt, erklärt dieser Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
+- **Betriebliche Altersvorsorge (bAV):** Steuer- und sozialabgabenfreie Einzahlungen, oft mit Arbeitgeberzuschuss. [Was die bAV bringt, erklärt dieser Artikel.](/blog/betriebliche-altersvorsorge-erklaert/)
 - **Private Vorsorge:** ETF-Sparplan, Rentenversicherung, Riester, Rürup — je nach Situation unterschiedlich sinnvoll.
 
 ## Fazit

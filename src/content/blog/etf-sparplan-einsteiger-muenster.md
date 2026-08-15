@@ -99,17 +99,17 @@ Es gibt keine universell richtige Antwort. Aber eine Orientierung:
 
 Bevor du in ETFs investierst, sollten zwei Dinge geklärt sein:
 1. **Notgroschen** — 3 Monatsgehälter als liquide Reserve (Tagesgeldkonto). Das Geld ist für Notfälle, nicht für den Markt.
-2. **Wichtige Versicherungen** — mindestens Haftpflicht, bei Berufstätigen auch die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide).
+2. **Wichtige Versicherungen** — mindestens Haftpflicht, bei Berufstätigen auch die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide/).
 
-Was danach übrig bleibt, kannst du in einen ETF-Sparplan stecken — auch wenn es zunächst nur 50 oder 100 € sind. Wie der Zinseszins wirkt, wenn du früh anfängst, zeigt der [Artikel zur Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster) mit konkreten Zahlen.
+Was danach übrig bleibt, kannst du in einen ETF-Sparplan stecken — auch wenn es zunächst nur 50 oder 100 € sind. Wie der Zinseszins wirkt, wenn du früh anfängst, zeigt der [Artikel zur Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster/) mit konkreten Zahlen.
 
-**Für Selbstständige:** Der ETF-Sparplan ist nur ein Baustein — ohne gesetzliche Rentenversicherung muss die Architektur breiter aufgestellt sein (Rürup, Rentenversicherung, ETF-Depot, ggf. Immobilie). [Wie Selbstständige in Münster Altersvorsorge konkret aufbauen, steht hier.](/blog/altersvorsorge-selbststaendige-muenster)
+**Für Selbstständige:** Der ETF-Sparplan ist nur ein Baustein — ohne gesetzliche Rentenversicherung muss die Architektur breiter aufgestellt sein (Rürup, Rentenversicherung, ETF-Depot, ggf. Immobilie). [Wie Selbstständige in Münster Altersvorsorge konkret aufbauen, steht hier.](/blog/altersvorsorge-selbststaendige-muenster/)
 
 ## Verwandte Münster-Themen
 
-- [Girokonten Münster im Vergleich 2025](/blog/girokonten-muenster-vergleich-2025)
-- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Girokonten Münster im Vergleich 2025](/blog/girokonten-muenster-vergleich-2025/)
+- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

@@ -31,7 +31,7 @@ Dieser Artikel zeigt die Gehaltsstufen, den Weg durchs Examen und die Wechselopt
 
 Kernaufgabe ist die **gesetzliche Abschlussprüfung**: Kapitalgesellschaften ab bestimmter Größe müssen ihren Jahresabschluss von einem Wirtschaftsprüfer testieren lassen — eine Vorbehaltsaufgabe, die nur Berufsträger ausüben dürfen. Das Testat ist die Vertrauensgrundlage für Banken, Investoren und Aufsichtsräte.
 
-Dazu kommen prüfungsnahe Beratung, Unternehmensbewertung und **Transaction Services** — die Prüfung von Unternehmenszahlen bei Übernahmen. Wer wissen will, wie das in einen Deal eingebettet ist: Die [Financial Due Diligence](/blog/due-diligence-private-equity-ablauf) bei [M&A-Transaktionen](/blog/mergers-acquisitions-einfach-erklaert) ist klassisches WP-Terrain.
+Dazu kommen prüfungsnahe Beratung, Unternehmensbewertung und **Transaction Services** — die Prüfung von Unternehmenszahlen bei Übernahmen. Wer wissen will, wie das in einen Deal eingebettet ist: Die [Financial Due Diligence](/blog/due-diligence-private-equity-ablauf/) bei [M&A-Transaktionen](/blog/mergers-acquisitions-einfach-erklaert/) ist klassisches WP-Terrain.
 
 Dominiert wird der Markt von den **Big Four** (Deloitte, PwC, EY, KPMG), daneben stehen Next-Ten-Gesellschaften und ein breiter Mittelstand.
 
@@ -45,9 +45,9 @@ Dominiert wird der Markt von den **Big Four** (Deloitte, PwC, EY, KPMG), daneben
 | Senior Manager / Director | 130.000–180.000 € |
 | Partner | 250.000 € bis siebenstellig |
 
-Zwei Muster stechen heraus. Erstens: Wie beim [Steuerberater](/blog/steuerberater-gehalt-einstieg) ist das **Examen der Gehaltssprung** — der Titel hebt dich in die Manager-Ebene. Zweitens: Der Nachwuchsmangel drückt die Spannen nach oben; Gesellschaften zahlen Examenshonorare, bezahlte Vorbereitungszeit und Bleibeprämien, die es vor zehn Jahren nicht gab.
+Zwei Muster stechen heraus. Erstens: Wie beim [Steuerberater](/blog/steuerberater-gehalt-einstieg/) ist das **Examen der Gehaltssprung** — der Titel hebt dich in die Manager-Ebene. Zweitens: Der Nachwuchsmangel drückt die Spannen nach oben; Gesellschaften zahlen Examenshonorare, bezahlte Vorbereitungszeit und Bleibeprämien, die es vor zehn Jahren nicht gab.
 
-Zur Einordnung gegenüber den anderen Finance-Wegen: Das [Investment Banking](/blog/investment-banking-einstieg-gehalt) zahlt beim Einstieg mehr, die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg) ähnlich viel wie Audit — aber beide ohne den geschützten Titel als Absicherung.
+Zur Einordnung gegenüber den anderen Finance-Wegen: Das [Investment Banking](/blog/investment-banking-einstieg-gehalt/) zahlt beim Einstieg mehr, die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg/) ähnlich viel wie Audit — aber beide ohne den geschützten Titel als Absicherung.
 
 ## Das WP-Examen: Hart, aber inzwischen modular
 
@@ -62,7 +62,7 @@ Der entscheidende Fortschritt: Das Examen ist **modularisiert** — die Blöcke 
 Kaum ein Einstieg öffnet so viele Türen wie einige Jahre Prüfung plus Examen:
 
 - **CFO-Track im Konzern:** Leiter Rechnungswesen, kaufmännische Leitung — Bilanzsicherheit ist das Einstellungskriterium Nummer eins.
-- **Transaction Services / M&A:** Financial Due Diligence, Bewertung — die Brücke in die [Private-Equity-Welt](/blog/private-equity-karriere-bwl-einstieg).
+- **Transaction Services / M&A:** Financial Due Diligence, Bewertung — die Brücke in die [Private-Equity-Welt](/blog/private-equity-karriere-bwl-einstieg/).
 - **Interne Revision & Compliance:** Gefragt in jeder regulierten Branche.
 - **Eigene Praxis oder Partnertrack:** Wie in der Steuerberatung macht der Nachwuchsmangel Nachfolgen und Partnerschaften erreichbarer.
 

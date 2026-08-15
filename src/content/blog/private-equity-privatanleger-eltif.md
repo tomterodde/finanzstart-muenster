@@ -54,7 +54,7 @@ Das Ergebnis: Eine Welle neuer ELTIF-Produkte ist 2024 und 2025 auf den Markt ge
 
 **2. Geschlossene Publikumsbeteiligungen.** Klassische Form, häufig als Investment-KG strukturiert. Mindestanlagen typisch **10.000–50.000 €**, vollständige Bindung über die Fondslaufzeit, gewerbliche Einkünfte (Achtung steuerlich!).
 
-**3. Aktien börsennotierter PE-Manager.** Beteiligung an Blackstone, KKR, Apollo, Carlyle, EQT — also den **Verwaltungsgesellschaften**. Vorteil: täglich liquide, ab 100 € möglich. Nachteil: Du beteiligst dich an Fees und Carry, nicht direkt an den Portfolio-Unternehmen. [Mehr zu den größten PE-Firmen findest du hier.](/blog/groesste-private-equity-firmen-blackstone-kkr)
+**3. Aktien börsennotierter PE-Manager.** Beteiligung an Blackstone, KKR, Apollo, Carlyle, EQT — also den **Verwaltungsgesellschaften**. Vorteil: täglich liquide, ab 100 € möglich. Nachteil: Du beteiligst dich an Fees und Carry, nicht direkt an den Portfolio-Unternehmen. [Mehr zu den größten PE-Firmen findest du hier.](/blog/groesste-private-equity-firmen-blackstone-kkr/)
 
 **4. Private-Bank-Zugänge.** Master-Feeder-Strukturen für vermögende Privatkunden ab rund **200.000 €** liquidem Vermögen. Persönliche Beratung, kuratierte Fondsauswahl, oft mit Family-Office-Charakter.
 
@@ -114,7 +114,7 @@ PE ist **vermutlich nicht** sinnvoll für:
 - Anleger mit unsicherem Cashflow oder absehbarem Liquiditätsbedarf in 5–10 Jahren
 - Anleger, die ihre erste Investition machen und PE als "spannender als ETFs" sehen
 
-[Wer bei den absoluten Grundlagen ist, sollte zuerst ein solides ETF-Depot aufbauen — wie das funktioniert, ist hier erklärt.](/blog/etf-sparplan-einsteiger-muenster) [Was Privatanleger über die Mechanik von PE wissen sollten, steht im Grundlagenartikel.](/blog/private-equity-erklaert-grundlagen)
+[Wer bei den absoluten Grundlagen ist, sollte zuerst ein solides ETF-Depot aufbauen — wie das funktioniert, ist hier erklärt.](/blog/etf-sparplan-einsteiger-muenster/) [Was Privatanleger über die Mechanik von PE wissen sollten, steht im Grundlagenartikel.](/blog/private-equity-erklaert-grundlagen/)
 
 ## Was du tun solltest, bevor du investierst
 
@@ -128,10 +128,10 @@ Wenn du auf alle drei Fragen ehrlich "ja" antworten kannst, kann PE eine sinnvol
 
 ## Vertiefung
 
-- [PE Fonds, ETF und Trade Republic im Vergleich](/blog/private-equity-investieren-fonds-etf-trade-republic) — Alle fünf Wege für Privatanleger 2026 inkl. Apollo AAA und LPX-ETFs.
-- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Risiken und Warren-Buffett-Kritik im Detail.
-- [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld) — Gebührenstruktur, die deine Nettorendite bestimmt.
-- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Wer im DACH-Markt aktiv ist.
+- [PE Fonds, ETF und Trade Republic im Vergleich](/blog/private-equity-investieren-fonds-etf-trade-republic/) — Alle fünf Wege für Privatanleger 2026 inkl. Apollo AAA und LPX-ETFs.
+- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite/) — Risiken und Warren-Buffett-Kritik im Detail.
+- [Wie verdienen PE-Firmen Geld? Das 2/20-Modell](/blog/wie-verdienen-private-equity-firmen-geld/) — Gebührenstruktur, die deine Nettorendite bestimmt.
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland/) — Wer im DACH-Markt aktiv ist.
 
 ## Fazit
 

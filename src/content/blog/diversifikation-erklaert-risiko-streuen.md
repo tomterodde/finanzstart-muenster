@@ -55,7 +55,7 @@ Studien zeigen, dass ab ca. 20–30 Aktien aus verschiedenen Branchen das unsyst
 
 Das erklärt, warum Indexfonds (ETFs) so beliebt sind: Ein weltweiter Aktien-ETF hält oft 1.500–8.000 Unternehmen gleichzeitig. Mit einem einzigen Produkt ist man global breit diversifiziert.
 
-[Wie ETF-Sparpläne in der Praxis funktionieren, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster)
+[Wie ETF-Sparpläne in der Praxis funktionieren, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster/)
 
 ## Diversifikation auf mehreren Ebenen
 
@@ -83,7 +83,7 @@ Das Prinzip gilt nicht nur für Aktien, sondern für die Altersvorsorge insgesam
 
 Ein diversifizierter Altersvorsorge-Mix könnte zum Beispiel gesetzliche Rente, betriebliche Altersvorsorge und private Vorsorge kombinieren. Welche Gewichtung für dich sinnvoll ist, hängt von deiner individuellen Situation ab.
 
-[Was die Rentenlücke ist und warum sie fast jeden Berufseinsteiger betrifft, erklärt dieser Artikel.](/blog/rentenlücke-berufseinsteiger-münster)
+[Was die Rentenlücke ist und warum sie fast jeden Berufseinsteiger betrifft, erklärt dieser Artikel.](/blog/rentenlücke-berufseinsteiger-münster/)
 
 ## Fazit
 

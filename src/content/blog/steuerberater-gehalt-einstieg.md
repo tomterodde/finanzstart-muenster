@@ -58,16 +58,16 @@ Realistisch sind 12–18 Monate Vorbereitung neben dem Job. Wer das durchzieht, 
 Die Branche altert schneller, als sie Nachwuchs findet. Ein erheblicher Teil der Kanzleiinhaber steht vor dem Ruhestand, gleichzeitig sinken die Examensanmeldungen — das Ergebnis ist ein **Verkäufermarkt für Berufsträger**:
 
 - Frisch Examinierte können zwischen mehreren Angeboten wählen, Gehälter steigen.
-- **Kanzleinachfolge** ist so günstig zu haben wie selten — wer übernehmen statt gründen will, findet Auswahl. Das Muster ähnelt dem [Management-Buyout im Mittelstand](/blog/management-buyout-mbo-einfach-erklaert): bestehendes Geschäft, bestehende Kundenbeziehungen, planbare Übernahme.
+- **Kanzleinachfolge** ist so günstig zu haben wie selten — wer übernehmen statt gründen will, findet Auswahl. Das Muster ähnelt dem [Management-Buyout im Mittelstand](/blog/management-buyout-mbo-einfach-erklaert/): bestehendes Geschäft, bestehende Kundenbeziehungen, planbare Übernahme.
 - Spezialisierungen (internationale Steuern, Umwandlungen, Krypto, E-Commerce) sind besonders knapp und entsprechend bezahlt.
 
 ## Steuerberater im Karriere-Vergleich
 
-In der Reihe der Finance-Karrieren positioniert sich der Steuerberater eigenständig: Das [Investment Banking](/blog/investment-banking-einstieg-gehalt) zahlt beim Einstieg deutlich mehr, verlangt aber 70-Stunden-Wochen und bietet kaum regionale Flexibilität. Die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg) bietet die steilere Lernkurve, aber das Reise-Leben.
+In der Reihe der Finance-Karrieren positioniert sich der Steuerberater eigenständig: Das [Investment Banking](/blog/investment-banking-einstieg-gehalt/) zahlt beim Einstieg deutlich mehr, verlangt aber 70-Stunden-Wochen und bietet kaum regionale Flexibilität. Die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg/) bietet die steilere Lernkurve, aber das Reise-Leben.
 
-Am nächsten liegt der [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg): ebenfalls ein geschützter Titel hinter einem harten Examen, ebenfalls mit Partnerperspektive — aber mit höherem Gehaltsdeckel, stärkerer Konzernausrichtung und deutlich weniger Mittelstandsnähe. Viele legen beide Examen ab; die Reihenfolge Steuerberater zuerst ist der übliche Weg.
+Am nächsten liegt der [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg/): ebenfalls ein geschützter Titel hinter einem harten Examen, ebenfalls mit Partnerperspektive — aber mit höherem Gehaltsdeckel, stärkerer Konzernausrichtung und deutlich weniger Mittelstandsnähe. Viele legen beide Examen ab; die Reihenfolge Steuerberater zuerst ist der übliche Weg.
 
-Der Steuerberater tauscht Anfangs-Glamour gegen etwas anderes: **planbare Selbstständigkeit mit wiederkehrenden Erlösen.** Mandate laufen über Jahre, die Umsätze sind stabil — ein Geschäftsmodell, das dem [Aufbau eines eigenen Standbeins](/blog/zweites-standbein-nebenberuflich-aufbauen) näherkommt als jedem Konzernjob.
+Der Steuerberater tauscht Anfangs-Glamour gegen etwas anderes: **planbare Selbstständigkeit mit wiederkehrenden Erlösen.** Mandate laufen über Jahre, die Umsätze sind stabil — ein Geschäftsmodell, das dem [Aufbau eines eigenen Standbeins](/blog/zweites-standbein-nebenberuflich-aufbauen/) näherkommt als jedem Konzernjob.
 
 ## Fazit
 

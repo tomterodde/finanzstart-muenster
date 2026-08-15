@@ -70,7 +70,7 @@ Das CAPM ist kein Werkzeug, das du täglich selbst anwenden musst. Aber die Denk
 
 **Rendite gibt's nicht geschenkt.** Wer hohe Renditen will, muss hohes Risiko tragen. Wer niedrige Schwankungen will, muss sich mit niedrigen Renditen zufriedengeben. Es gibt kein Free Lunch.
 
-**Nur systematisches Risiko wird belohnt.** Das CAPM unterscheidet sauber zwischen [systematischem und unsystematischem Risiko](/blog/systematisches-unsystematisches-risiko). Für Einzelwettrisiko zahlt der Markt keine Prämie — das ist weg-diversifizierbar.
+**Nur systematisches Risiko wird belohnt.** Das CAPM unterscheidet sauber zwischen [systematischem und unsystematischem Risiko](/blog/systematisches-unsystematisches-risiko/). Für Einzelwettrisiko zahlt der Markt keine Prämie — das ist weg-diversifizierbar.
 
 **Beta hilft beim Portfolio-Aufbau.** Wer ein konservatives Portfolio will, mischt Low-Beta-Werte (Versorger, Konsumgüter) bei. Wer offensiv ist, gewichtet High-Beta-Werte (Tech, zyklische Industrie).
 

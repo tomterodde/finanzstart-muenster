@@ -59,7 +59,7 @@ Der **SRRI** (Synthetic Risk Reward Indicator) nach KIID/PRIIPs-Verordnung ist e
 
 **Wichtig:** Die Klasse ist historisch berechnet, nicht prognostisch. MSCI-World-ETFs liegen 2024/25 meist in Klasse 5 — können bei Marktverwerfungen auch in Klasse 6 rutschen.
 
-Mehr zur Volatilitätsmessung: [Volatilität einfach erklärt](/blog/volatilitaet-einfach-erklaert).
+Mehr zur Volatilitätsmessung: [Volatilität einfach erklärt](/blog/volatilitaet-einfach-erklaert/).
 
 ## Welche Risikoklasse zu welchem Anleger passt
 
@@ -96,7 +96,7 @@ Behavioral-Finance-Studien (Kahneman, Tversky) zeigen den **Loss-Aversion-Faktor
 
 **Realistischere Selbstprüfung:** Welchen Drawdown habe ich in der Vergangenheit (Corona-Crash 2020, Zinswende 2022) ausgehalten, ohne zu verkaufen? Das ist der bessere Indikator als jede Test-Antwort.
 
-Mehr zu Drawdown-Realität: [Volatilität einfach erklärt](/blog/volatilitaet-einfach-erklaert).
+Mehr zu Drawdown-Realität: [Volatilität einfach erklärt](/blog/volatilitaet-einfach-erklaert/).
 
 ## Der häufigste Stolperstein
 

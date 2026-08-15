@@ -61,7 +61,7 @@ Wer heute eine BU mit 1.500 Euro Monatsrente abschließt und in 20 Jahren 3.000 
 
 Oder die **Nachversicherungsgarantie**: Du kannst die BU-Rente zu bestimmten Ereignissen (Heirat, Gehaltssteigerung, Immobilienkauf) ohne neue Gesundheitsprüfung erhöhen.
 
-Beides sollte beim Abschluss vereinbart werden. [Was du beim BU-Abschluss generell beachten solltest, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+Beides sollte beim Abschluss vereinbart werden. [Was du beim BU-Abschluss generell beachten solltest, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 ## Fazit
 

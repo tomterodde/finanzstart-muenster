@@ -53,15 +53,15 @@ Die folgenden Spannen sind Marktschätzungen für Deutschland (Gesamtvergütung 
 
 ## Woher die hohen Zahlen kommen: Carried Interest
 
-Carried Interest ist die Gewinnbeteiligung der PE-Manager am Fonds — branchenüblich 20 % der erzielten Überrendite oberhalb einer Mindestverzinsung (der „Hurdle Rate"). Dieses Modell ist Teil der klassischen „2 und 20"-Struktur, [die im Detail erklärt, wie PE-Firmen überhaupt Geld verdienen](/blog/wie-verdienen-private-equity-firmen-geld).
+Carried Interest ist die Gewinnbeteiligung der PE-Manager am Fonds — branchenüblich 20 % der erzielten Überrendite oberhalb einer Mindestverzinsung (der „Hurdle Rate"). Dieses Modell ist Teil der klassischen „2 und 20"-Struktur, [die im Detail erklärt, wie PE-Firmen überhaupt Geld verdienen](/blog/wie-verdienen-private-equity-firmen-geld/).
 
-Der Hebel ist enorm: Verwaltet ein Fonds eine Milliarde Euro und erzielt eine starke Rendite, fließen aus den 20 % Gewinnbeteiligung dreistellige Millionenbeträge an das Partnerteam — verteilt über die Laufzeit. Wie Hurdle Rate, Catch-up und Waterfall dabei genau zusammenspielen, zeigt der Deep-Dive [Carried Interest einfach erklärt](/blog/carried-interest-einfach-erklaert). Deshalb sind die echten PE-Vermögen kein Gehalt im klassischen Sinn, sondern unternehmerische Beteiligung.
+Der Hebel ist enorm: Verwaltet ein Fonds eine Milliarde Euro und erzielt eine starke Rendite, fließen aus den 20 % Gewinnbeteiligung dreistellige Millionenbeträge an das Partnerteam — verteilt über die Laufzeit. Wie Hurdle Rate, Catch-up und Waterfall dabei genau zusammenspielen, zeigt der Deep-Dive [Carried Interest einfach erklärt](/blog/carried-interest-einfach-erklaert/). Deshalb sind die echten PE-Vermögen kein Gehalt im klassischen Sinn, sondern unternehmerische Beteiligung.
 
 Genau das ist auch der Grund, warum die Branche so selektiv ist: Die Carry-Töpfe werden auf wenige Schultern verteilt.
 
 ## Deutschland vs. London: Warum der Standort zählt
 
-Die größten und bestzahlenden Fonds — die Megafonds wie Blackstone oder KKR — sitzen nicht in Frankfurt, sondern in London und New York. [Wer die größten Player sind, liest du hier](/blog/groesste-private-equity-firmen-blackstone-kkr).
+Die größten und bestzahlenden Fonds — die Megafonds wie Blackstone oder KKR — sitzen nicht in Frankfurt, sondern in London und New York. [Wer die größten Player sind, liest du hier](/blog/groesste-private-equity-firmen-blackstone-kkr/).
 
 In Deutschland dominiert der **Mid-Market**: Fonds, die mittelständische Unternehmen und Nachfolgesituationen finanzieren. Die Gehälter sind dort etwas niedriger als in London, aber immer noch außergewöhnlich hoch. Viele deutsche PE-Talente verbringen die ersten Jahre bewusst in London, um auf Megafonds-Niveau zu verdienen und Erfahrung zu sammeln.
 
@@ -69,11 +69,11 @@ Für Berufseinsteiger heißt das: Der Standort entscheidet mit über das Gehalt 
 
 ## Was das für deinen Einstieg bedeutet
 
-Die hohen Zahlen haben einen Preis: Private Equity ist eines der am schwersten zugänglichen Felder überhaupt. Der klassische Weg führt über ein Wirtschaftsstudium, einschlägige Praktika und meist einige Jahre [Investment Banking](/blog/investment-banking-einstieg-gehalt). [Wie der Einstieg als BWL-Student konkret funktioniert, zeigt dieser Leitfaden](/blog/private-equity-karriere-bwl-einstieg).
+Die hohen Zahlen haben einen Preis: Private Equity ist eines der am schwersten zugänglichen Felder überhaupt. Der klassische Weg führt über ein Wirtschaftsstudium, einschlägige Praktika und meist einige Jahre [Investment Banking](/blog/investment-banking-einstieg-gehalt/). [Wie der Einstieg als BWL-Student konkret funktioniert, zeigt dieser Leitfaden](/blog/private-equity-karriere-bwl-einstieg/).
 
-Realistisch einordnen solltest du auch die Kehrseite: extrem lange Arbeitszeiten, hoher Druck und ein enger Flaschenhals nach oben. [Was Private Equity sonst noch verdienen lässt — und wer besser die Finger davon lässt](/blog/private-equity-nachteile-schattenseite).
+Realistisch einordnen solltest du auch die Kehrseite: extrem lange Arbeitszeiten, hoher Druck und ein enger Flaschenhals nach oben. [Was Private Equity sonst noch verdienen lässt — und wer besser die Finger davon lässt](/blog/private-equity-nachteile-schattenseite/).
 
-Und falls dich nicht die Karriere, sondern das Investieren reizt: Auch als Privatanleger gibt es inzwischen Zugänge zur Anlageklasse — [über ELTIF-Fonds und neue Plattformen](/blog/private-equity-privatanleger-eltif).
+Und falls dich nicht die Karriere, sondern das Investieren reizt: Auch als Privatanleger gibt es inzwischen Zugänge zur Anlageklasse — [über ELTIF-Fonds und neue Plattformen](/blog/private-equity-privatanleger-eltif/).
 
 ## Fazit
 

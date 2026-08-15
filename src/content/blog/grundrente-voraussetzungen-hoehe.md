@@ -36,7 +36,7 @@ Drei verbreitete Irrtümer vorweg:
 
 - Sie ist **keine Mindestrente** — wer die Voraussetzungen nicht erfüllt, bekommt auch mit kleiner Rente keinen Zuschlag.
 - Sie muss **nicht beantragt** werden — die Prüfung läuft automatisch.
-- Sie ersetzt **keine private Vorsorge** — der durchschnittliche Zuschlag von rund 86 € schließt keine [Rentenlücke](/blog/rentenluecke-berechnen-schliessen).
+- Sie ersetzt **keine private Vorsorge** — der durchschnittliche Zuschlag von rund 86 € schließt keine [Rentenlücke](/blog/rentenluecke-berechnen-schliessen/).
 
 ## Voraussetzung 1: Mindestens 33 Jahre Grundrentenzeiten
 
@@ -50,11 +50,11 @@ Der Anspruch beginnt bei **33 Jahren** Grundrentenzeiten mit einem gestaffelten 
 | Pflege von Angehörigen | Freiwillige Beiträge |
 | Zeiten mit Krankengeld-Bezug | Minijob ohne eigene Beiträge |
 
-Zwei Punkte daraus sind für die Planung wichtig: [Kindererziehung und Pflege bringen nicht nur Rentenpunkte](/blog/rentenpunkte-kindererziehung-pflege), sondern zählen auch voll als Grundrentenzeiten. Und [freiwillige Rentenbeiträge](/blog/freiwillige-rentenbeitraege-wann-sinnvoll) erhöhen zwar die Rente, helfen aber ausdrücklich **nicht** beim Grundrenten-Anspruch — ein Detail, das bei der Beitragsplanung oft übersehen wird.
+Zwei Punkte daraus sind für die Planung wichtig: [Kindererziehung und Pflege bringen nicht nur Rentenpunkte](/blog/rentenpunkte-kindererziehung-pflege/), sondern zählen auch voll als Grundrentenzeiten. Und [freiwillige Rentenbeiträge](/blog/freiwillige-rentenbeitraege-wann-sinnvoll/) erhöhen zwar die Rente, helfen aber ausdrücklich **nicht** beim Grundrenten-Anspruch — ein Detail, das bei der Beitragsplanung oft übersehen wird.
 
 ## Voraussetzung 2: Wenig verdient — aber nicht zu wenig
 
-Die Grundrente belohnt unterdurchschnittliche, aber substanzielle Erwerbsarbeit. Konkret: Der eigene Verdienst muss im Lebensdurchschnitt zwischen **30 und 80 % des Durchschnittsentgelts** gelegen haben — in [Entgeltpunkten](/blog/rentenpunkte-gesetzliche-rente-erklaert) ausgedrückt: zwischen 0,3 und 0,8 Punkten pro Jahr.
+Die Grundrente belohnt unterdurchschnittliche, aber substanzielle Erwerbsarbeit. Konkret: Der eigene Verdienst muss im Lebensdurchschnitt zwischen **30 und 80 % des Durchschnittsentgelts** gelegen haben — in [Entgeltpunkten](/blog/rentenpunkte-gesetzliche-rente-erklaert/) ausgedrückt: zwischen 0,3 und 0,8 Punkten pro Jahr.
 
 Wer darunter liegt (etwa durch jahrzehntelange geringfügige Teilzeit), gilt als nicht ausreichend „langjährig versichert im Sinne der Grundrente". Wer darüber liegt, braucht die Aufstockung nicht. Typische Anspruchsberechtigte sind daher Verkäuferinnen, Friseure, Pflegehelfer, Landwirte — Berufe mit vollen Erwerbsbiografien bei niedrigen Löhnen. Rund 70 % der Begünstigten sind Frauen.
 
@@ -78,9 +78,9 @@ Praktisch heißt das: Wer neben kleiner Rente etwa hohe Mieteinnahmen oder eine 
 
 ## Was das für deine Vorsorgeplanung bedeutet
 
-Für Berufseinsteiger ist die Grundrente vor allem eine Einordnungshilfe: Sie zeigt, wie eng der Staat das Sicherheitsnetz spannt — ein durchschnittlicher Zuschlag von 86 € korrigiert Härtefälle, ersetzt aber keine Vorsorgestrategie. Wer absehbar in Teilzeit arbeitet, Kinder erzieht oder in niedrig entlohnten Branchen bleibt, sollte die eigene Lücke früh kennen und gegensteuern — mit staatlich geförderten Bausteinen wie [Riester](/blog/riester-rente-lohnt-sich) und privater Rentenversicherung als Fundament.
+Für Berufseinsteiger ist die Grundrente vor allem eine Einordnungshilfe: Sie zeigt, wie eng der Staat das Sicherheitsnetz spannt — ein durchschnittlicher Zuschlag von 86 € korrigiert Härtefälle, ersetzt aber keine Vorsorgestrategie. Wer absehbar in Teilzeit arbeitet, Kinder erzieht oder in niedrig entlohnten Branchen bleibt, sollte die eigene Lücke früh kennen und gegensteuern — mit staatlich geförderten Bausteinen wie [Riester](/blog/riester-rente-lohnt-sich/) und privater Rentenversicherung als Fundament.
 
-Welche Kombination zu deiner Erwerbsbiografie passt, hängt von Einkommen, Familienplanung und Förderansprüchen ab — das gehört in ein persönliches Beratungsgespräch. Wer schon näher am Rentenalter steht und eine kleine Rente erwartet, findet [hier die konkreten Handlungsoptionen](/blog/kleine-rente-rentenlücke-was-tun).
+Welche Kombination zu deiner Erwerbsbiografie passt, hängt von Einkommen, Familienplanung und Förderansprüchen ab — das gehört in ein persönliches Beratungsgespräch. Wer schon näher am Rentenalter steht und eine kleine Rente erwartet, findet [hier die konkreten Handlungsoptionen](/blog/kleine-rente-rentenlücke-was-tun/).
 
 ## Fazit
 

@@ -60,7 +60,7 @@ Laterale Diversifikation bedeutet: Ein Unternehmen expandiert in **völlig neue 
 
 Die drei Arten lassen sich kombinieren — und genau das ist der Kern guter Portfolio-Konstruktion:
 
-**Stufe 1 — Horizontal: Breite innerhalb der Anlageklasse.** Ein weltweiter Aktien-ETF mit 1.500 Werten ist horizontal maximal diversifiziert. Das eliminiert das [unsystematische Risiko](/blog/systematisches-unsystematisches-risiko) fast vollständig.
+**Stufe 1 — Horizontal: Breite innerhalb der Anlageklasse.** Ein weltweiter Aktien-ETF mit 1.500 Werten ist horizontal maximal diversifiziert. Das eliminiert das [unsystematische Risiko](/blog/systematisches-unsystematisches-risiko/) fast vollständig.
 
 **Stufe 2 — Lateral: Verschiedene Anlageklassen.** Erst wenn du Aktien mit Anleihen, Immobilien oder anderen Anlagen kombinierst, reduzierst du auch systematisches Risiko — also das Marktrisiko, das ein einzelner Aktienmarkt niemals wegdiversifizieren kann.
 
@@ -74,7 +74,7 @@ Viele Anleger diversifizieren nur auf einer Ebene — und halten ihr Portfolio t
 
 - "Ich habe 10 Tech-Aktien, das ist doch diversifiziert." → Nein, das ist hohe Sektorkonzentration.
 - "Ich habe einen Welt-ETF, das reicht." → Horizontal super, aber lateral null — du hast zu 100 % Aktienmarktrisiko.
-- "Ich habe Aktien und eine Immobilie." → Lateral solide, aber wenn die Immobilie in deiner Stadt liegt und dein Job auch, hast du [geographisches Klumpenrisiko](/blog/klumpenrisiko-erklaert).
+- "Ich habe Aktien und eine Immobilie." → Lateral solide, aber wenn die Immobilie in deiner Stadt liegt und dein Job auch, hast du [geographisches Klumpenrisiko](/blog/klumpenrisiko-erklaert/).
 
 Gute Diversifikation denkt alle drei Ebenen gleichzeitig.
 

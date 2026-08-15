@@ -61,7 +61,7 @@ Die zentrale Aussage der modernen Portfoliotheorie: Der Markt belohnt dich nur f
 
 Konkret heißt das: Wer 3 Einzelaktien hält, trägt massives unsystematisches Risiko — ohne dafür eine höhere erwartete Rendite zu bekommen. Das ist kein schlaues Investment, das ist eine Wette.
 
-Wer dagegen 1.500 Aktien über einen weltweiten [ETF](/blog/etf-sparplan-einsteiger-muenster) hält, hat das unsystematische Risiko praktisch auf null reduziert. Übrig bleibt das Marktrisiko — und für das gibt es langfristig die Aktienrendite.
+Wer dagegen 1.500 Aktien über einen weltweiten [ETF](/blog/etf-sparplan-einsteiger-muenster/) hält, hat das unsystematische Risiko praktisch auf null reduziert. Übrig bleibt das Marktrisiko — und für das gibt es langfristig die Aktienrendite.
 
 ## Wie viele Aktien braucht man, um unsystematisches Risiko loszuwerden?
 
@@ -87,7 +87,7 @@ Gleiche erwartete Rendite — aber weniger als die Hälfte der Schwankung. Das i
 
 1. **Mehr Aktien heißt nicht mehr Rendite, aber weniger Schwankung.** Du wirst für Einzelwerte-Selektion nicht bezahlt.
 
-2. **Das Gesamtvermögen zählt, nicht nur das Depot.** Wenn du bei einem Pharmakonzern arbeitest und zusätzlich Pharmaaktien hältst, konzentrierst du unsystematisches Risiko — siehe [Klumpenrisiko](/blog/klumpenrisiko-erklaert).
+2. **Das Gesamtvermögen zählt, nicht nur das Depot.** Wenn du bei einem Pharmakonzern arbeitest und zusätzlich Pharmaaktien hältst, konzentrierst du unsystematisches Risiko — siehe [Klumpenrisiko](/blog/klumpenrisiko-erklaert/).
 
 3. **ETFs sind keine magische Lösung, sondern angewandte Theorie.** Ihr Erfolg basiert genau auf dieser Unterscheidung zwischen systematischem und unsystematischem Risiko.
 

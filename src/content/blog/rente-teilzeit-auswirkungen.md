@@ -49,7 +49,7 @@ Es geht nicht nur um die direkten Rentenpunkte. Wer weniger verdient, kann auch 
 
 Frauen. In Deutschland arbeiten ca. 48 % der erwerbstätigen Frauen in Teilzeit — gegenüber nur 12 % der Männer. Das ist der strukturelle Hauptgrund für den Gender Pension Gap.
 
-[Was der Gender Pension Gap bedeutet und warum er strukturell ist, erklärt dieser Artikel.](/blog/gender-pension-gap-frauen-altersvorsorge)
+[Was der Gender Pension Gap bedeutet und warum er strukturell ist, erklärt dieser Artikel.](/blog/gender-pension-gap-frauen-altersvorsorge/)
 
 ## Was du tun kannst
 

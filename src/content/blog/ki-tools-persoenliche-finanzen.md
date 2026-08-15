@@ -84,7 +84,7 @@ Einige Finanz-Apps nutzen KI-Elemente sinnvoll:
 
 Das Fazit ist einfach: KI-Tools sind nützliche Werkzeuge — für Bildung, für Struktur, für Erklärungen. Sie können dir helfen, Zusammenhänge zu verstehen und Fragen zu formulieren, die du dann mit einem echten Berater klärst.
 
-Wer die Grundlagen rund um [Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster), [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster) oder [Versicherungen](/blog/berufsunfaehigkeitsversicherung-guide) verstanden hat, ist besser in der Lage, KI-Tools sinnvoll zu nutzen — und erkennt leichter, wenn eine Antwort nicht stimmt.
+Wer die Grundlagen rund um [Rentenlücke](/blog/rentenlücke-berufseinsteiger-münster/), [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster/) oder [Versicherungen](/blog/berufsunfaehigkeitsversicherung-guide/) verstanden hat, ist besser in der Lage, KI-Tools sinnvoll zu nutzen — und erkennt leichter, wenn eine Antwort nicht stimmt.
 
 Kein KI-Tool ersetzt die Entscheidung. Die triffst immer du.
 

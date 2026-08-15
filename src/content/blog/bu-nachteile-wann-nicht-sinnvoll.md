@@ -69,7 +69,7 @@ BU ist **teuer** im Vergleich zu anderen Versicherungen. Typische Beiträge:
 - **Beitragsdynamik:** Niedrigerer Einstieg, parallele Anpassung an Karriereentwicklung.
 - **Tarifvergleich:** Beitragsunterschied bei identischer Leistung kann 30–50 % betragen.
 
-[Detaillierte Beitragstabellen je Alter und Beruf stehen hier.](/blog/was-kostet-bu-im-monat-tabelle)
+[Detaillierte Beitragstabellen je Alter und Beruf stehen hier.](/blog/was-kostet-bu-im-monat-tabelle/)
 
 ### Nachteil 2: Strenge Gesundheitsfragen
 
@@ -91,7 +91,7 @@ Bei Antragstellung musst du **alle Vorerkrankungen, Arzttermine und Krankheitsta
 - **Anonyme Risikovoranfrage:** Vor Antragstellung bei mehreren Versicherern parallel — vermeidet HIS-Eintragung bei Ablehnung.
 - **Alternative Produkte bei Ablehnung:** Grundfähigkeitsversicherung, Erwerbsunfähigkeitsversicherung, Dread Disease.
 
-[Was bei psychischen Diagnosen passiert, erklärt dieser Artikel.](/blog/bu-psychische-erkrankungen)
+[Was bei psychischen Diagnosen passiert, erklärt dieser Artikel.](/blog/bu-psychische-erkrankungen/)
 
 ### Nachteil 3: Ablehnungsrisiko bei Antrag
 
@@ -123,7 +123,7 @@ Die Bedingungen einer BU sind komplex — kleine Unterschiede haben große Auswi
 
 **Lösungsweg:** Beratung mit unabhängigem Tarifvergleich — die Tarifqualität ist nicht aus dem Werbe-Material ablesbar, sondern aus den Versicherungsbedingungen (über 50 Seiten).
 
-[Vollständige Liste der Pflicht-Tarifkriterien steht hier.](/blog/bu-was-deckt-sie-ab-leistungen)
+[Vollständige Liste der Pflicht-Tarifkriterien steht hier.](/blog/bu-was-deckt-sie-ab-leistungen/)
 
 ### Nachteil 5: Keine Beitragsrückerstattung
 
@@ -160,7 +160,7 @@ Selbst nach erfolgreichem Vertragsabschluss ist nicht garantiert, dass die Versi
 - **Ärztliche Dokumentation** bei Leistungsantrag — vollständige Krankenakten und unabhängige Gutachten
 - **Bei Ablehnung Widerspruch** — rund 50 % Erfolgsquote, Verbraucherzentrale oder spezialisierter Anwalt einschalten
 
-[Detailansicht zu Leistungsfällen und typischen Ausschlüssen.](/blog/bu-was-deckt-sie-ab-leistungen)
+[Detailansicht zu Leistungsfällen und typischen Ausschlüssen.](/blog/bu-was-deckt-sie-ab-leistungen/)
 
 ## Wann ist eine BU wirklich nicht sinnvoll?
 
@@ -178,7 +178,7 @@ Wer mit 50 bereits **500.000 €+ liquide Rücklagen** hat, kann einen Einkommen
 
 BU mit 60 für 7 Jahre Restbeitragszeit kostet rund **48.000 €** Beiträge bei einer maximal **160.000 €** Versorgungslücke. Risiko-Nutzen-Verhältnis nur noch 1:3,3 — wirtschaftlich grenzwertig.
 
-[Detailanalyse BU mit 50, 60 und älter steht hier.](/blog/bu-mit-40-50-60-noch-sinnvoll)
+[Detailanalyse BU mit 50, 60 und älter steht hier.](/blog/bu-mit-40-50-60-noch-sinnvoll/)
 
 ### Profil 3: Erwerbsminderungs-Frührentner
 
@@ -188,7 +188,7 @@ Wer bereits Erwerbsminderungsrente bezieht, hat kein Erwerbseinkommen mehr — d
 
 Bei Beamten greift bei Dienstunfähigkeit die **Beamtenversorgung** des Dienstherrn — oft mit 75 % der letzten Bezüge. Eine zusätzliche private BU ist trotzdem oft sinnvoll als Aufstockung, aber nicht zwingend.
 
-[Detaillierte Empfehlungen für Beamte stehen hier.](/blog/bu-oeffentlicher-dienst-beamte)
+[Detaillierte Empfehlungen für Beamte stehen hier.](/blog/bu-oeffentlicher-dienst-beamte/)
 
 ### Profil 5: Erhebliche Vorerkrankungen mit Hochrisikozuschlag
 
@@ -198,7 +198,7 @@ Bei Risikozuschlägen über 100 % wird die BU oft unwirtschaftlich. **Alternativ
 - **Dread Disease** — Einmalsumme bei schweren Diagnosen
 - **Erwerbsunfähigkeitsversicherung** — geringere Annahmehürden, niedrigere Beiträge
 
-[Wann Grundfähigkeitsversicherung passt, steht hier.](/blog/grundfaehigkeitsversicherung-alternative-bu) [Wann Dread Disease als Alternative sinnvoll ist.](/blog/dread-disease-schwere-krankheiten-versicherung)
+[Wann Grundfähigkeitsversicherung passt, steht hier.](/blog/grundfaehigkeitsversicherung-alternative-bu/) [Wann Dread Disease als Alternative sinnvoll ist.](/blog/dread-disease-schwere-krankheiten-versicherung/)
 
 ### Profil 6: Sehr niedriges Einkommen mit Anspruch auf Grundsicherung
 
@@ -248,7 +248,7 @@ Die BU hat reale Nachteile — hohe Beiträge, strenge Gesundheitsfragen, Ablehn
 
 Die richtige Antwort auf "BU oder nicht?" hängt von deiner konkreten Lebenssituation ab — Beruf, Gesundheit, Vermögen, Karriereperspektive. Diese Entscheidung gehört in eine **persönliche Beratung mit unabhängiger Tarifauswahl** — der Beitragsunterschied zwischen "okay" und "optimal" und die Tarifqualität rechtfertigen die Investition in eine professionelle Beratung mehrfach.
 
-[Wer prüfen will, was BU konkret abdeckt, findet die Antwort hier.](/blog/bu-was-deckt-sie-ab-leistungen) [Wann sich BU mit 40, 50 oder 60 noch lohnt, steht hier.](/blog/bu-mit-40-50-60-noch-sinnvoll)
+[Wer prüfen will, was BU konkret abdeckt, findet die Antwort hier.](/blog/bu-was-deckt-sie-ab-leistungen/) [Wann sich BU mit 40, 50 oder 60 noch lohnt, steht hier.](/blog/bu-mit-40-50-60-noch-sinnvoll/)
 
 ---
 

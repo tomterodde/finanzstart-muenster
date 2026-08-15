@@ -43,7 +43,7 @@ Die Arbeitslosmeldung ist etwas anderes als die Arbeitsuchend-Meldung. Sie erfol
 
 Du kannst dich frühestens drei Monate im Voraus melden, der späteste Zeitpunkt ist der erste Tag der Arbeitslosigkeit. Meldest du dich später, beginnt der Anspruch erst ab dem Tag der Meldung — du verschenkst also Leistungstage.
 
-Die Arbeitslosmeldung ist auch der Moment, ab dem das Arbeitslosengeld berechnet wird. [Wie hoch dein ALG I ausfällt und wie lange es gezahlt wird, erklärt dieser Überblick](/blog/alg1-arbeitslosengeld-berechnung) — und [mit dem ALG-1-Rechner schätzt du deinen konkreten Betrag](/blog/alg1-rechner-wie-viel-arbeitslosengeld).
+Die Arbeitslosmeldung ist auch der Moment, ab dem das Arbeitslosengeld berechnet wird. [Wie hoch dein ALG I ausfällt und wie lange es gezahlt wird, erklärt dieser Überblick](/blog/alg1-arbeitslosengeld-berechnung/) — und [mit dem ALG-1-Rechner schätzt du deinen konkreten Betrag](/blog/alg1-rechner-wie-viel-arbeitslosengeld/).
 
 ## Schritt 3: Den Leistungsantrag stellen
 
@@ -69,7 +69,7 @@ Die Arbeitsbescheinigung füllt dein Arbeitgeber aus — er ist gesetzlich dazu 
 
 Nach dem Antrag prüft die Agentur deinen Anspruch. Voraussetzung ist die **Anwartschaftszeit**: In den letzten 30 Monaten musst du mindestens 12 Monate versicherungspflichtig beschäftigt gewesen sein.
 
-Die Bearbeitung dauert üblicherweise **zwei bis sechs Wochen**. Gezahlt wird rückwirkend ab dem Tag der Arbeitslosmeldung — die erste Überweisung deckt also auch die Wartezeit ab. Den genauen Betrag und die Bezugsdauer findest du im Bewilligungsbescheid; [wie lange dir ALG I je nach Alter und Versicherungszeit zusteht, zeigt diese Tabelle](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit).
+Die Bearbeitung dauert üblicherweise **zwei bis sechs Wochen**. Gezahlt wird rückwirkend ab dem Tag der Arbeitslosmeldung — die erste Überweisung deckt also auch die Wartezeit ab. Den genauen Betrag und die Bezugsdauer findest du im Bewilligungsbescheid; [wie lange dir ALG I je nach Alter und Versicherungszeit zusteht, zeigt diese Tabelle](/blog/alg1-bezugsdauer-tabelle-alter-versicherungszeit/).
 
 Wichtig: Während des Bezugs musst du der Agentur **verfügbar** bleiben, Eigenbemühungen nachweisen und Termine wahrnehmen. Wer eine zumutbare Stelle ablehnt, riskiert erneut eine Sperrzeit.
 
@@ -78,7 +78,7 @@ Wichtig: Während des Bezugs musst du der Agentur **verfügbar** bleiben, Eigenb
 - **Zu späte Arbeitsuchend-Meldung.** Der Klassiker. Melde dich am Tag, an dem du von der Beendigung erfährst — nicht erst, wenn der Job vorbei ist.
 - **Eigenkündigung ohne wichtigen Grund.** Selbst kündigen oder einen Aufhebungsvertrag unterschreiben löst meist eine zwölfwöchige Sperrzeit aus. Kläre vorher, ob ein wichtiger Grund vorliegt.
 - **Unvollständige Unterlagen.** Jedes fehlende Dokument verlängert die Bearbeitung. Die Arbeitsbescheinigung ist der häufigste Engpass.
-- **Lücke nach Kurzarbeit oder befristetem Vertrag übersehen.** Auch hier gelten die Meldefristen — [wie Kurzarbeitergeld funktioniert und wann ALG I greift, liest du hier](/blog/kurzarbeit-kurzarbeitergeld-erklaert).
+- **Lücke nach Kurzarbeit oder befristetem Vertrag übersehen.** Auch hier gelten die Meldefristen — [wie Kurzarbeitergeld funktioniert und wann ALG I greift, liest du hier](/blog/kurzarbeit-kurzarbeitergeld-erklaert/).
 
 ## Sonderfälle, die den Antrag beeinflussen
 

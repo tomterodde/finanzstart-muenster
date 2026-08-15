@@ -108,10 +108,10 @@ Wer als Selbstständiger keine Pflichtversicherung hat und auch nicht in private
 Wer mit 63 in Rente will und 14,4 % Abschlag hätte, kann diese durch Ausgleichszahlung exakt ausgleichen. Bei einer geplanten Bruttorente von 2.500 € und 14,4 % Abschlag = 360 € weniger pro Monat. Ausgleichszahlung etwa 76.500 € — bei 20 Jahren Rentenbezug rund 86.400 € zusätzliche Bruttorente. Plus Steuerersparnis bei Einzahlung.
 
 **4. Versorgungslücken kurz vor Renteneintritt**
-Wer mit 60 merkt, dass nur 35 RP gesammelt wurden statt der erhofften 45 RP, kann die Lücke gezielt aufstocken. 10 Punkte Nachkauf = rund 84.350 € Investition — bringt 393 € zusätzliche Bruttorente pro Monat. [Was die konkrete Wunschrente in Punkten bedeutet — Tabelle für 1.000 € bis 3.000 € — steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente)
+Wer mit 60 merkt, dass nur 35 RP gesammelt wurden statt der erhofften 45 RP, kann die Lücke gezielt aufstocken. 10 Punkte Nachkauf = rund 84.350 € Investition — bringt 393 € zusätzliche Bruttorente pro Monat. [Was die konkrete Wunschrente in Punkten bedeutet — Tabelle für 1.000 € bis 3.000 € — steht hier.](/blog/rentenpunkte-fuer-2000-euro-rente/)
 
 **5. Nach Scheidung mit Versorgungsausgleichs-Verlust**
-Wer durch Versorgungsausgleich mehrere Rentenpunkte abgegeben hat, kann diese gezielt wieder aufstocken — meist sinnvoll bei langer Ehedauer und starkem Einkommensgefälle. [Wie der Versorgungsausgleich konkret berechnet wird, steht hier.](/blog/rentenpunkte-bei-scheidung-versorgungsausgleich)
+Wer durch Versorgungsausgleich mehrere Rentenpunkte abgegeben hat, kann diese gezielt wieder aufstocken — meist sinnvoll bei langer Ehedauer und starkem Einkommensgefälle. [Wie der Versorgungsausgleich konkret berechnet wird, steht hier.](/blog/rentenpunkte-bei-scheidung-versorgungsausgleich/)
 
 ### Lohnt sich oft NICHT:
 
@@ -145,7 +145,7 @@ Rentenpunkte sind **bis zum Renteneintritt gebunden**. Wer in den nächsten 10�
 ### Beispiel 2: Selbstständige Designerin, 35 Jahre, 60.000 € Gewinn
 
 - Bisher keine Rentenpunkte (nicht pflichtversichert)
-- Plan: 1.000 €/Monat freiwillige Beiträge — entspricht etwa 1,42 RP/Jahr (siehe [Rentenpunkte-Tabelle nach Bruttogehalt](/blog/rentenpunkte-bei-welchem-gehalt-tabelle))
+- Plan: 1.000 €/Monat freiwillige Beiträge — entspricht etwa 1,42 RP/Jahr (siehe [Rentenpunkte-Tabelle nach Bruttogehalt](/blog/rentenpunkte-bei-welchem-gehalt-tabelle/))
 - Jährliche Beiträge: 12.000 €
 - Steuerersparsnis (32 % Grenzsteuersatz): rund 3.840 €
 - RP-Aufbau: rund 1,42 RP/Jahr
@@ -174,7 +174,7 @@ Rentenpunkte sind **bis zum Renteneintritt gebunden**. Wer in den nächsten 10�
 
 **Beratung:** Vor größeren Einzahlungen (über 10.000 € pro Jahr) ist persönliche Beratung bei einer DRV-Beratungsstelle oder einem unabhängigen Steuer-/Finanzberater dringend empfohlen — Wechselwirkungen mit anderen Vorsorgeprodukten (Rürup, bAV, Riester) sind komplex und steueroptimal aufeinander abzustimmen.
 
-[Wer prüfen will, wo der eigene RP-Stand zum Lebensalter passt, findet die Vergleichswerte hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60)
+[Wer prüfen will, wo der eigene RP-Stand zum Lebensalter passt, findet die Vergleichswerte hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60/)
 
 ## Fazit
 
@@ -186,7 +186,7 @@ Rentenpunkte kaufen ist nicht generell gut oder schlecht — es ist ein **steuer
 
 Die optimale Mischung aus Rentenpunkten, ETF, bAV, Rürup, Riester und privater Rentenversicherung lässt sich pauschal nicht beantworten. Sie hängt stark an Steuerlage, Familienstand, Lebenserwartung und Anlagepräferenzen — die typische Beratungsfrage, die in einem persönlichen Gespräch konkret und durchgerechnet beantwortet werden muss.
 
-[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 ---
 

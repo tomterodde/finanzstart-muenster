@@ -119,7 +119,7 @@ Das ist in den meisten Fällen sinnvoll. Ohne Dynamik rutschst du im Laufe von 5
 
 Die Versicherungssumme ist die wichtigste Zahl im Hausrat-Vertrag — und gleichzeitig die am häufigsten falsch eingestellte. Die 650-€-Faustformel ist ein guter Startpunkt, ersetzt aber keinen Blick auf deinen tatsächlichen Hausrat.
 
-Wer einmal eine grobe Inventarliste erstellt und die Summe danach setzt, hat die häufigste Ursache für Streit mit der Versicherung ausgeschlossen. [Wie die Kosten für verschiedene Versicherungssummen variieren, ist in diesem Artikel erklärt](/blog/hausratversicherung-kosten-qm), [ob sich die Hausratversicherung für dich grundsätzlich lohnt, hier](/blog/hausratversicherung-sinnvoll) — und [was Hausrat von der Haftpflicht unterscheidet, im Vergleichsartikel](/blog/hausratversicherung-haftpflicht-unterschied). Bei welcher Deckung und welchen Zusatzbausteinen es für deine Situation am sinnvollsten bleibt, lässt sich im Beratungsgespräch klarer einordnen als am Vergleichsrechner.
+Wer einmal eine grobe Inventarliste erstellt und die Summe danach setzt, hat die häufigste Ursache für Streit mit der Versicherung ausgeschlossen. [Wie die Kosten für verschiedene Versicherungssummen variieren, ist in diesem Artikel erklärt](/blog/hausratversicherung-kosten-qm/), [ob sich die Hausratversicherung für dich grundsätzlich lohnt, hier](/blog/hausratversicherung-sinnvoll/) — und [was Hausrat von der Haftpflicht unterscheidet, im Vergleichsartikel](/blog/hausratversicherung-haftpflicht-unterschied/). Bei welcher Deckung und welchen Zusatzbausteinen es für deine Situation am sinnvollsten bleibt, lässt sich im Beratungsgespräch klarer einordnen als am Vergleichsrechner.
 
 ---
 

@@ -82,7 +82,7 @@ Nach dem Versorgungsausgleich haben **beide Partner für die Ehezeit gleich viel
 
 Bei langjährigen Ehen mit großem Einkommensgefälle sind 10–20 RP übertragene Punkte üblich — eine **echte Vermögensumverteilung im sechsstelligen Bereich** über die gesamte Rentenphase.
 
-[Wie viele Rentenpunkte du bei welchem Brutto sammelst — die zugrunde liegende Tabelle steht hier.](/blog/rentenpunkte-bei-welchem-gehalt-tabelle)
+[Wie viele Rentenpunkte du bei welchem Brutto sammelst — die zugrunde liegende Tabelle steht hier.](/blog/rentenpunkte-bei-welchem-gehalt-tabelle/)
 
 ## Vier Ausnahmen vom Versorgungsausgleich
 
@@ -164,7 +164,7 @@ Wenn beide Partner ähnlich viel verdienen und Care-Arbeit aufgeteilt ist, gibt 
 2. **bAV und Direktversicherungen** mit aufnehmen — diese fließen in den Versorgungsausgleich ein, werden aber oft übersehen.
 3. **Anwaltliche Berechnung** der Auswirkungen vor Unterzeichnung des Scheidungsvergleichs.
 
-[Wie sich Lücken in der Rentenbiografie durch Mütterrente und Pflegezeiten teilweise schließen lassen, steht hier.](/blog/rentenpunkte-kindererziehung-pflege)
+[Wie sich Lücken in der Rentenbiografie durch Mütterrente und Pflegezeiten teilweise schließen lassen, steht hier.](/blog/rentenpunkte-kindererziehung-pflege/)
 
 ## Realistische Einordnung
 
@@ -194,7 +194,7 @@ Drei Regeln:
 
 Welche konkrete Strategie für die individuelle Lebenssituation sinnvoll ist, gehört in die kombinierte Beratung von Familienanwalt und Finanzberater — die rentenrechtliche Seite und die wirtschaftliche Seite müssen zusammen gedacht werden.
 
-[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+[Wer die Grundlagen zu Rentenpunkten und gesetzlicher Rente noch braucht, findet sie im Hub-Artikel.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 ---
 

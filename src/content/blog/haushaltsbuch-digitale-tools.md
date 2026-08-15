@@ -54,7 +54,7 @@ Du richtest am Monatsanfang automatische Überweisungen auf Sparkonto/ETF ein. W
 **Vorteil:** Minimal, funktioniert automatisch.
 **Nachteil:** Keine Transparenz über Ausgabenstruktur.
 
-**Empfehlung:** Idealer Einstieg für alle, die gerade erst anfangen. [Die 50-30-20-Regel kombiniert das gut strukturiert.](/blog/50-30-20-regel-budgetierung)
+**Empfehlung:** Idealer Einstieg für alle, die gerade erst anfangen. [Die 50-30-20-Regel kombiniert das gut strukturiert.](/blog/50-30-20-regel-budgetierung/)
 
 ### 3. Zero-Based Budgeting
 

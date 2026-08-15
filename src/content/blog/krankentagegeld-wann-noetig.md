@@ -36,7 +36,7 @@ Eine Krankentagegeldversicherung zahlt dir bei längerer Arbeitsunfähigkeit ein
 
 Sie greift ab einem frei wählbaren Karenztag (z. B. ab Tag 43, wenn das Krankengeld einsetzt), zahlt steuerfrei (§ 3 Nr. 1a EStG) und läuft, bis du wieder arbeitsfähig bist oder die vertragliche Höchstdauer erreicht ist.
 
-Wichtig zur Einordnung: Sie deckt nur *vorübergehende* Krankheit — sie ist die zweite Säule der Einkommenssicherung, nicht ihr Kern. Der Kern bleibt die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide).
+Wichtig zur Einordnung: Sie deckt nur *vorübergehende* Krankheit — sie ist die zweite Säule der Einkommenssicherung, nicht ihr Kern. Der Kern bleibt die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide/).
 
 ## Was passiert nach 6 Wochen Krankheit?
 
@@ -84,13 +84,13 @@ Faustformel: **(Nettoeinkommen − Krankengeld) ÷ 30 = Tagessatz-Bedarf.** Bei 
 
 ## Krankentagegeld vs. BU-Versicherung
 
-Krankentagegeld deckt vorübergehende Krankheit ab. Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide) greift, wenn du dauerhaft nicht mehr arbeiten kannst. Beides ergänzt sich — und eine BU-Versicherung sollte für die meisten Berufstätigen Vorrang haben.
+Krankentagegeld deckt vorübergehende Krankheit ab. Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide/) greift, wenn du dauerhaft nicht mehr arbeiten kannst. Beides ergänzt sich — und eine BU-Versicherung sollte für die meisten Berufstätigen Vorrang haben.
 
 ## Vertiefung
 
-- [Krankengeld vs. Krankentagegeld: die Lücke bei langer Krankheit](/blog/krankentagegeld-krankengeld-luecke) — Wie lange das Krankengeld läuft (78 Wochen), wie hoch es ausfällt und was nach der Aussteuerung kommt.
-- [Krankengeld für Selbstständige: die gefährliche Lücke](/blog/krankengeld-selbststaendige-luecke) — Warum Selbstständige ohne Wahltarif ab Tag 1 leer ausgehen.
-- [Krankentagegeld für Selbstständige richtig wählen](/blog/krankengeld-selbststaendige-tagegeld-richtig-waehlen) — Tagessatz und Karenzzeit kalibrieren, GKV-Wahltarif vs. PKV im Vergleich.
+- [Krankengeld vs. Krankentagegeld: die Lücke bei langer Krankheit](/blog/krankentagegeld-krankengeld-luecke/) — Wie lange das Krankengeld läuft (78 Wochen), wie hoch es ausfällt und was nach der Aussteuerung kommt.
+- [Krankengeld für Selbstständige: die gefährliche Lücke](/blog/krankengeld-selbststaendige-luecke/) — Warum Selbstständige ohne Wahltarif ab Tag 1 leer ausgehen.
+- [Krankentagegeld für Selbstständige richtig wählen](/blog/krankengeld-selbststaendige-tagegeld-richtig-waehlen/) — Tagessatz und Karenzzeit kalibrieren, GKV-Wahltarif vs. PKV im Vergleich.
 
 ## Fazit
 

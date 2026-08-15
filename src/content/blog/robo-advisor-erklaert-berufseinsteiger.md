@@ -4,7 +4,7 @@ description: 'Wie ein Robo-Advisor in Deutschland funktioniert: Risikoprofiling,
 pubDate: '2026-05-05'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
-tldr: 'Robo-Advisor sind digitale Finanzportfolioverwalter mit BaFin-Lizenz nach § 1 Abs. 1a Nr. 3 KWG bzw. § 15 WpIG. Sie ermitteln über einen Geeignetheitstest (§ 64 WpHG) ein Risikoprofil, bauen daraus ein passives ETF-Portfolio (typisch 5–15 ETFs Aktien/Anleihen/Rohstoffe), investieren Einzahlungen automatisch und übernehmen das Rebalancing. Bekannte deutsche Anbieter 2025: Quirion, Scalable Capital, Whitebox, Ginmon, Growney, Oskar (Comdirect/Scalable). Mindestanlagen ab 1 € Sparplan oder 1.000–10.000 € Einmalanlage. Kapital ist als Sondervermögen nach § 92 KAGB insolvenzgeschützt — die Wertpapiere liegen bei einer Depotbank getrennt vom Anbietervermögen. Auswahlkriterien: Service-Fee, Portfoliostruktur, Rebalancing-Frequenz, Mindestanlage, Steueroptimierung, Konzern-Hintergrund. Für den direkten Kostenvergleich mit selbst gemanagten ETF-Sparplänen siehe [Robo-Advisor vs. ETF-Sparplan](/blog/robo-advisor-vs-etf-sparplan).'
+tldr: 'Robo-Advisor sind digitale Finanzportfolioverwalter mit BaFin-Lizenz nach § 1 Abs. 1a Nr. 3 KWG bzw. § 15 WpIG. Sie ermitteln über einen Geeignetheitstest (§ 64 WpHG) ein Risikoprofil, bauen daraus ein passives ETF-Portfolio (typisch 5–15 ETFs Aktien/Anleihen/Rohstoffe), investieren Einzahlungen automatisch und übernehmen das Rebalancing. Bekannte deutsche Anbieter 2025: Quirion, Scalable Capital, Whitebox, Ginmon, Growney, Oskar (Comdirect/Scalable). Mindestanlagen ab 1 € Sparplan oder 1.000–10.000 € Einmalanlage. Kapital ist als Sondervermögen nach § 92 KAGB insolvenzgeschützt — die Wertpapiere liegen bei einer Depotbank getrennt vom Anbietervermögen. Auswahlkriterien: Service-Fee, Portfoliostruktur, Rebalancing-Frequenz, Mindestanlage, Steueroptimierung, Konzern-Hintergrund. Für den direkten Kostenvergleich mit selbst gemanagten ETF-Sparplänen siehe [Robo-Advisor vs. ETF-Sparplan](/blog/robo-advisor-vs-etf-sparplan/).'
 faq:
   - question: 'Was ist ein Robo-Advisor genau?'
     answer: 'Ein Robo-Advisor ist eine digitale Finanzportfolioverwaltung — kein Anlageberater im engeren Sinne, sondern ein Vermögensverwalter mit Vollmacht (§ 1 Abs. 1a Nr. 3 KWG bzw. § 15 WpIG). Der Anleger erteilt eine Verwaltungsvollmacht, der Anbieter trifft Anlageentscheidungen im Rahmen des vereinbarten Risikoprofils. Im Hintergrund liegen passive ETFs in einem Depot bei einer Partnerbank (DAB BNP Paribas, BV Deutsche Bank, Comdirect, Baader Bank). Die "Algorithmen" sind in der Regel regelbasierte Rebalancing-Logiken, kein KI-gestütztes Stockpicking.'
@@ -79,7 +79,7 @@ Was du trotzdem trägst: das **Marktrisiko** (Kursverluste der ETFs) und das **M
 
 Bei der Anbieterwahl zählen sechs Punkte:
 
-**1. Gesamtkosten:** Service-Fee + ETF-TER unter 1 % p. a. anstreben. Über 1,2 % wird es eng gegenüber einem selbst gemanagten Sparplan — siehe [Robo-Advisor vs. ETF-Sparplan](/blog/robo-advisor-vs-etf-sparplan).
+**1. Gesamtkosten:** Service-Fee + ETF-TER unter 1 % p. a. anstreben. Über 1,2 % wird es eng gegenüber einem selbst gemanagten Sparplan — siehe [Robo-Advisor vs. ETF-Sparplan](/blog/robo-advisor-vs-etf-sparplan/).
 
 **2. Portfoliostruktur:** Anbieter sollte die Asset-Allokation transparent zeigen — wie viel Aktien, Anleihen, Rohstoffe pro Risikostufe.
 

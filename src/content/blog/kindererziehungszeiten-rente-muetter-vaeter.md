@@ -57,7 +57,7 @@ Drei Jahre pro Kind klingen nach viel. Aber:
 
 1. **Berufliche Unterbrechung:** Wer 5 oder 10 Jahre für Kinder pausiert oder in Teilzeit arbeitet, sammelt in dieser Zeit kaum Rentenpunkte aus Erwerbstätigkeit.
 2. **Teilzeit danach:** Viele Mütter kehren in Teilzeit zurück — mit entsprechend niedrigeren Rentenpunkten für Jahrzehnte.
-3. **Gender Pension Gap:** Das strukturelle Ergebnis dieser Faktoren. Frauen bekommen im Schnitt 35–45 % weniger Rente als Männer. [Was der Gender Pension Gap bedeutet, erklärt dieser Artikel.](/blog/gender-pension-gap-frauen-altersvorsorge)
+3. **Gender Pension Gap:** Das strukturelle Ergebnis dieser Faktoren. Frauen bekommen im Schnitt 35–45 % weniger Rente als Männer. [Was der Gender Pension Gap bedeutet, erklärt dieser Artikel.](/blog/gender-pension-gap-frauen-altersvorsorge/)
 
 ## Berücksichtigungszeiten: Noch ein Baustein
 

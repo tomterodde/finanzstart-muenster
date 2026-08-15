@@ -73,7 +73,7 @@ Ein Sparplan investiert automatisch einen festen Betrag monatlich — unabhängi
 
 Ein Einzelkauf ist sinnvoll für größere Einmalbeträge — z. B. wenn du eine Erbschaft oder Boni anlegen willst.
 
-Für die meisten Berufseinsteiger ist der monatliche Sparplan der richtige Einstieg. [Wie ein ETF-Sparplan konkret funktioniert, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster)
+Für die meisten Berufseinsteiger ist der monatliche Sparplan der richtige Einstieg. [Wie ein ETF-Sparplan konkret funktioniert, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster/)
 
 ## Freistellungsauftrag nicht vergessen
 

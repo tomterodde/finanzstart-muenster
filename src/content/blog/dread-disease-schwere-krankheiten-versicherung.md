@@ -49,7 +49,7 @@ Je nach Tarif sind 30–50 oder mehr Krankheitsbilder versichert.
 
 ## Der entscheidende Unterschied zur BU
 
-Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide) zahlt, wenn du **deinen Beruf** nicht mehr ausüben kannst. Die Dread Disease zahlt, wenn du eine **bestimmte Diagnose** bekommst — auch wenn du weiterarbeitest.
+Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide/) zahlt, wenn du **deinen Beruf** nicht mehr ausüben kannst. Die Dread Disease zahlt, wenn du eine **bestimmte Diagnose** bekommst — auch wenn du weiterarbeitest.
 
 **Beispiel:** Du bekommst Brustkrebs, wirst operiert und kannst nach 6 Monaten wieder arbeiten. BU-Leistung: keine (du bist nicht dauerhaft berufsunfähig). Dread-Disease-Leistung: volle Einmalsumme — für Behandlungskosten, Umbaumaßnahmen, Einkommensausfall während der Therapie.
 
@@ -72,7 +72,7 @@ Die Zahlung ist nicht zweckgebunden — du entscheidest, wofür du sie verwendes
 
 Für Berufseinsteiger ohne laufende Verbindlichkeiten und mit guter BU: eher niedrige Priorität. Als erstes kommt die BU, dann ggf. Dread Disease.
 
-**Abgrenzung zu anderen Ergänzungsprodukten:** Wer sich primär gegen Unfälle absichern will, ist mit einer [privaten Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll) günstiger und einfacher dran — sie zahlt aber nur bei dauerhafter Invalidität durch Unfall. Wer Vorerkrankungen hat und keine BU bekommt, sollte zusätzlich die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu) prüfen — sie zahlt bei Verlust körperlicher Grundfähigkeiten unabhängig von Krankheitsdiagnosen.
+**Abgrenzung zu anderen Ergänzungsprodukten:** Wer sich primär gegen Unfälle absichern will, ist mit einer [privaten Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll/) günstiger und einfacher dran — sie zahlt aber nur bei dauerhafter Invalidität durch Unfall. Wer Vorerkrankungen hat und keine BU bekommt, sollte zusätzlich die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu/) prüfen — sie zahlt bei Verlust körperlicher Grundfähigkeiten unabhängig von Krankheitsdiagnosen.
 
 ## Was beim Abschluss zu beachten ist
 

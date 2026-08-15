@@ -66,7 +66,7 @@ Was meine Skepsis nach einigen Monaten Innenansicht entkräftet hat:
 - **Ich bin selbst zuerst Kunde geworden.** Berufsunfähigkeitsversicherung, Privathaftpflicht, Riester, fondsgebundene Privatrente — ich habe meine eigene Vorsorge nach demselben Beratungsprozess aufgebaut, den ich bei Kunden anwende. Wer dir Produkte empfiehlt, die er selbst nicht bespart, ist das eigentliche Warnsignal.
 - **Kein Eintrittsgeld, kein Eigenkauf-Zwang.** Mein Startkapital war eine Gewerbeanmeldung für unter 60 Euro.
 
-Was ich genauso ehrlich sage: Die ersten Monate sind eine Investitionsphase mit wenig Einkommen, das Modell verlangt Eigenverantwortung, und es gibt Vertriebe, bei denen ich nicht unterschrieben hätte. Wie du die auseinanderhältst, zeigen die nächsten Abschnitte. [Meine ungeschönten Erfahrungen nach vier Monaten als Trainee habe ich hier ausführlich aufgeschrieben.](/blog/strukturvertrieb-erfahrungen-trainee)
+Was ich genauso ehrlich sage: Die ersten Monate sind eine Investitionsphase mit wenig Einkommen, das Modell verlangt Eigenverantwortung, und es gibt Vertriebe, bei denen ich nicht unterschrieben hätte. Wie du die auseinanderhältst, zeigen die nächsten Abschnitte. [Meine ungeschönten Erfahrungen nach vier Monaten als Trainee habe ich hier ausführlich aufgeschrieben.](/blog/strukturvertrieb-erfahrungen-trainee/)
 
 ## Was reguliert seriöse Finanzvertriebe
 
@@ -77,9 +77,9 @@ In Deutschland ist Finanzberatung stark reguliert. Wer Anlage- oder Versicherung
 - **Registrierung im DIHK-Vermittlerregister**
 - **Sachkundenachweis** (Prüfung oder gleichwertige Qualifikation)
 
-Wer diese Zulassung hat und damit arbeitet, ist nicht per se besser oder schlechter als ein Bankberater — aber er unterliegt denselben gesetzlichen Pflichten: Beratungsprotokoll, Offenlegung der Vergütung, Geeignetheitsprüfung. [Wie du jeden Berater in 2 Minuten im BaFin-/DIHK-Register prüfst, zeigt dieser Leitfaden.](/blog/bafin-vermittlerregister-pruefen-leitfaden)
+Wer diese Zulassung hat und damit arbeitet, ist nicht per se besser oder schlechter als ein Bankberater — aber er unterliegt denselben gesetzlichen Pflichten: Beratungsprotokoll, Offenlegung der Vergütung, Geeignetheitsprüfung. [Wie du jeden Berater in 2 Minuten im BaFin-/DIHK-Register prüfst, zeigt dieser Leitfaden.](/blog/bafin-vermittlerregister-pruefen-leitfaden/)
 
-Die Vergütung läuft dabei über Provisionen — [was Provisionsberatung von Honorarberatung unterscheidet und warum beide Modelle ihre Berechtigung haben, liest du hier](/blog/honorarberatung-vs-provisionsberatung-vergleich).
+Die Vergütung läuft dabei über Provisionen — [was Provisionsberatung von Honorarberatung unterscheidet und warum beide Modelle ihre Berechtigung haben, liest du hier](/blog/honorarberatung-vs-provisionsberatung-vergleich/).
 
 ## Einkommen und Karrierestufen: So verdient man im Strukturvertrieb
 
@@ -103,7 +103,7 @@ Zwei Mechanismen sorgen in seriösen Modellen dafür, dass niemand allein durch 
 
 Dazu kommen Qualitätshürden: Beförderungen setzen üblicherweise eine niedrige Stornoquote voraus. Wer Verträge "drückt", die nach einem Jahr platzen, steigt nicht auf — das Modell bestraft schlechte Beratung wirtschaftlich.
 
-Realistische Einordnung: [Was Finanzberater im Anstellungsverhältnis und in der Selbstständigkeit verdienen, habe ich hier aufgeschlüsselt](/blog/finanzberater-beruf-was-verdient-man) — und [wie Provisionsmodelle im Detail funktionieren, erklärt dieser Artikel](/blog/provisionsmodell-einkommen-erklaert). [Konkrete Zahlen für Jahr 1, 3 und 5 im Strukturvertrieb findest du in dieser Gehaltsanalyse.](/blog/strukturvertrieb-gehalt-verdienst) Die ersten 6–12 Monate sind in jedem Fall eine Aufbauphase: Wer dir vom ersten Monat an ein Vollzeitgehalt verspricht, verkauft dir ein Märchen.
+Realistische Einordnung: [Was Finanzberater im Anstellungsverhältnis und in der Selbstständigkeit verdienen, habe ich hier aufgeschlüsselt](/blog/finanzberater-beruf-was-verdient-man/) — und [wie Provisionsmodelle im Detail funktionieren, erklärt dieser Artikel](/blog/provisionsmodell-einkommen-erklaert/). [Konkrete Zahlen für Jahr 1, 3 und 5 im Strukturvertrieb findest du in dieser Gehaltsanalyse.](/blog/strukturvertrieb-gehalt-verdienst/) Die ersten 6–12 Monate sind in jedem Fall eine Aufbauphase: Wer dir vom ersten Monat an ein Vollzeitgehalt verspricht, verkauft dir ein Märchen.
 
 ## Kritik ernst genommen: Drückerkolonne, Pyramide, schlechte Beratung
 
@@ -113,7 +113,7 @@ Die drei häufigsten Vorwürfe gegen Strukturvertriebe verdienen ehrliche Antwor
 
 **"Das ist doch ein Pyramidensystem."** Die Hierarchie-Optik täuscht. Strafbar nach § 16 UWG ist ein System, in dem Einkommen primär aus der Anwerbung neuer Mitglieder entsteht — nicht eines, in dem Führungskräfte an der Produktion ihres Teams beteiligt sind. Der Test ist einfach: Fließt Geld, wenn ein neuer Berater unterschreibt (kritisch), oder erst, wenn ein echter Kunde ein echtes Produkt abschließt (legitim)? In regulierten Finanzvertrieben gilt das Zweite — ohne Kundengeschäft verdient auch die größte Struktur nichts.
 
-**"Die Beratung ist schlecht, weil Provisionen falsche Anreize setzen."** Der Anreiz-Einwand ist ernst zu nehmen — er gilt aber für jedes Vergütungsmodell: Auch Honorarberater haben einen Anreiz, Stunden zu schreiben, auch Bankberater verkaufen Hausprodukte. Entscheidend ist, ob die Anreize kontrolliert werden: Stornohaftung (der Vermittler zahlt Provision zurück, wenn der Kunde früh kündigt), Bestandsqualitätsquoten als Beförderungskriterium und die Dokumentationspflicht koppeln das Einkommen im Strukturvertrieb an langfristig haltbare Beratung. Schlechte Berater gibt es trotzdem — [woran du gute erkennst, liest du hier](/blog/wie-finde-ich-einen-guten-finanzberater).
+**"Die Beratung ist schlecht, weil Provisionen falsche Anreize setzen."** Der Anreiz-Einwand ist ernst zu nehmen — er gilt aber für jedes Vergütungsmodell: Auch Honorarberater haben einen Anreiz, Stunden zu schreiben, auch Bankberater verkaufen Hausprodukte. Entscheidend ist, ob die Anreize kontrolliert werden: Stornohaftung (der Vermittler zahlt Provision zurück, wenn der Kunde früh kündigt), Bestandsqualitätsquoten als Beförderungskriterium und die Dokumentationspflicht koppeln das Einkommen im Strukturvertrieb an langfristig haltbare Beratung. Schlechte Berater gibt es trotzdem — [woran du gute erkennst, liest du hier](/blog/wie-finde-ich-einen-guten-finanzberater/).
 
 ## Woran erkennt man seriöse Anbieter?
 
@@ -132,24 +132,24 @@ Die drei häufigsten Vorwürfe gegen Strukturvertriebe verdienen ehrliche Antwor
 - Übertriebene Einkommensversprechen ohne realistische Einordnung
 - Keine schriftliche Beratungsdokumentation
 
-[Diese 10-Punkte-Checkliste zum seriösen Strukturvertrieb fasst alle Prüfkriterien zum Mitnehmen zusammen.](/blog/strukturvertrieb-serioes-checkliste)
+[Diese 10-Punkte-Checkliste zum seriösen Strukturvertrieb fasst alle Prüfkriterien zum Mitnehmen zusammen.](/blog/strukturvertrieb-serioes-checkliste/)
 
 ## Ist Strukturvertrieb ein gutes Karrieremodell?
 
 Für manche: ja. Für andere: nein. Was es braucht:
 
-- Netzwerk und Bereitschaft, [es systematisch auszubauen](/blog/netzwerk-aufbauen-karriere-muenster)
+- Netzwerk und Bereitschaft, [es systematisch auszubauen](/blog/netzwerk-aufbauen-karriere-muenster/)
 - Interesse an Finanzthemen (Halbwissen reicht nicht)
 - Bereitschaft zur Aufbauarbeit ohne sofortige Ergebnisse
 - Eigenverantwortung und Selbstorganisation
 
 Was es bietet:
-- Flexibles Einkommen ohne Deckel — [das Einkommenspotenzial nebenberuflicher Finanzberatung im Detail](/blog/einkommenspotenzial-finanzberatung-nebenberuflich)
+- Flexibles Einkommen ohne Deckel — [das Einkommenspotenzial nebenberuflicher Finanzberatung im Detail](/blog/einkommenspotenzial-finanzberatung-nebenberuflich/)
 - Aufbau eines eigenen Teams (Führungserfahrung)
 - Unabhängigkeit vom Arbeitgeber
 - Bestandsprovision als passives Einkommenspolster
 
-Der Einstieg funktioniert für die meisten [nebenberuflich als zweites Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) — formal als [Gewerbe, nicht als freier Beruf](/blog/freiberuflich-vs-gewerbe-rechtsform), mit überschaubaren Startkosten. [Wie der nebenberufliche Einstieg in die Selbstständigkeit generell abläuft, liest du hier.](/blog/selbststaendig-nebenberuflich-einstieg) Und Vorerfahrung aus der Finanzbranche brauchst du nicht: [Wie der Quereinstieg als Finanzberater über die §34d-Sachkundeprüfung funktioniert, steht in diesem Leitfaden.](/blog/quereinsteiger-finanzberater-werden)
+Der Einstieg funktioniert für die meisten [nebenberuflich als zweites Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen/) — formal als [Gewerbe, nicht als freier Beruf](/blog/freiberuflich-vs-gewerbe-rechtsform/), mit überschaubaren Startkosten. [Wie der nebenberufliche Einstieg in die Selbstständigkeit generell abläuft, liest du hier.](/blog/selbststaendig-nebenberuflich-einstieg/) Und Vorerfahrung aus der Finanzbranche brauchst du nicht: [Wie der Quereinstieg als Finanzberater über die §34d-Sachkundeprüfung funktioniert, steht in diesem Leitfaden.](/blog/quereinsteiger-finanzberater-werden/)
 
 <aside class="career-cta" style="background: var(--accent-light); border: 1px solid rgba(26, 107, 60, 0.2); border-left: 4px solid var(--accent); border-radius: 10px; padding: 1.5em 1.75em; margin: 2.5em 0;">
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Selbst ausprobieren?</p>

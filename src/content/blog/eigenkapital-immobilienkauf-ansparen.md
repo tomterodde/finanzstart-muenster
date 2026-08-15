@@ -77,13 +77,13 @@ Bei 300 Euro monatlichem Sparplan und 4 % Rendite:
 
 Das zeigt: Wer mit 25 anfängt, kann mit 40–45 realistisch 80.000–120.000 Euro Eigenkapital aufgebaut haben — ausreichend für den Kauf in vielen deutschen Städten.
 
-[Wie du strukturiert anfängst zu sparen, erklärt dieser Artikel über die 50-30-20-Regel.](/blog/50-30-20-regel-budgetierung)
+[Wie du strukturiert anfängst zu sparen, erklärt dieser Artikel über die 50-30-20-Regel.](/blog/50-30-20-regel-budgetierung/)
 
 ## Wohnen zur Miete vs. Eigenkapital aufbauen
 
 Wer in Münster zur Miete wohnt, während er Eigenkapital aufbaut, zahlt zwar Miete — hat aber liquides Kapital, das Rendite erwirtschaftet. Das ist kein "Geld zum Fenster hinauswerfen", wenn das Depot ordentlich aufgebaut ist.
 
-[Was der Vergleich Mieten vs. Kaufen in Münster konkret ergibt, erklärt dieser Artikel.](/blog/mieten-oder-kaufen-muenster)
+[Was der Vergleich Mieten vs. Kaufen in Münster konkret ergibt, erklärt dieser Artikel.](/blog/mieten-oder-kaufen-muenster/)
 
 ## Fazit
 

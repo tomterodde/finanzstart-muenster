@@ -51,7 +51,7 @@ Ein typisches Einsteiger-Setup: ein globaler Aktien-ETF (z. B. auf MSCI World od
 
 Bei 10.000 Euro Anlagesumme und 0,8 % Mehrkosten: 80 Euro im Jahr. Klingt wenig. Über 30 Jahre mit Zinseszins macht das mehrere tausend Euro Unterschied.
 
-[Wie der Zinseszinseffekt Kosten über Jahrzehnte vervielfacht, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger)
+[Wie der Zinseszinseffekt Kosten über Jahrzehnte vervielfacht, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger/)
 
 ## Was ein Robo-Advisor bietet, was ein ETF-Sparplan nicht hat
 
@@ -79,7 +79,7 @@ Bei 10.000 Euro Anlagesumme und 0,8 % Mehrkosten: 80 Euro im Jahr. Klingt wenig.
 
 Wer bereit ist, einen Nachmittag in die Grundlagen zu investieren, fährt mit einem selbst aufgesetzten ETF-Sparplan günstiger und oft genauso gut. Wer das nicht will, ist mit einem seriösen Robo-Advisor besser dran als mit Tagesgeld oder Nichtsinvestieren.
 
-Beide Optionen sind besser als das Geld auf dem Sparbuch zu lassen. [Was Inflation mit nicht investiertem Geld macht, erklärt dieser Artikel.](/blog/inflation-kaufkraft-erklaert)
+Beide Optionen sind besser als das Geld auf dem Sparbuch zu lassen. [Was Inflation mit nicht investiertem Geld macht, erklärt dieser Artikel.](/blog/inflation-kaufkraft-erklaert/)
 
 Welche Strategie für dein konkretes Anlageziel und deine Steuersituation optimaler ist, lässt sich in einem Beratungsgespräch klären.
 

@@ -76,7 +76,7 @@ Versicherung prüft: War die Maschine angeschlossen? Läuft kontinuierlich Wasse
 **Fall 2: Der Nachbar über dir hat einen Wasserrohrbruch.**
 Dein Hausrat wird beschädigt. Dein Nachbar haftet über seine Haftpflichtversicherung. In der Praxis läuft das oft über deine Hausratversicherung ab (vorgeschaltet) — die holt sich das Geld dann vom Nachbarn/seiner Haftpflicht zurück.
 
-Umgekehrt: Wenn **du** den Schaden verursachst, greift deine [Haftpflichtversicherung](/blog/hausratversicherung-haftpflicht-unterschied) für fremde Schäden (Wohnung darunter), nicht deine Hausrat.
+Umgekehrt: Wenn **du** den Schaden verursachst, greift deine [Haftpflichtversicherung](/blog/hausratversicherung-haftpflicht-unterschied/) für fremde Schäden (Wohnung darunter), nicht deine Hausrat.
 
 ## Dokumentation: So vermeidest du Ärger
 
@@ -96,7 +96,7 @@ Im Schadensfall erwartet die Versicherung **Nachweise**. Je besser du dokumentie
 
 ## Die typischen Kürzungen — und wie du sie vermeidest
 
-**Unterversicherung:** Wenn deine Versicherungssumme zu niedrig angesetzt ist, wird anteilsmäßig gekürzt. [Wie du die richtige Versicherungssumme berechnest](/blog/hausratversicherung-versicherungssumme-berechnen).
+**Unterversicherung:** Wenn deine Versicherungssumme zu niedrig angesetzt ist, wird anteilsmäßig gekürzt. [Wie du die richtige Versicherungssumme berechnest](/blog/hausratversicherung-versicherungssumme-berechnen/).
 
 **Grobe Fahrlässigkeit:** Badewanne überlaufen lassen, Wasserhahn absichtlich auf Dauerbetrieb — das kann die Versicherung kürzen oder ablehnen. Gute Tarife haben "Verzicht auf Einrede grober Fahrlässigkeit" eingeschlossen.
 

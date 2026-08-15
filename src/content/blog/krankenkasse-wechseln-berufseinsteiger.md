@@ -105,7 +105,7 @@ Die Krankenkassenwahl ist keine einmalige Entscheidung für immer — du kannst 
 
 Was du jetzt tun solltest: Aktuellen Zusatzbeitrag deiner Kasse prüfen, mit zwei bis drei Alternativen vergleichen, Mehrleistungen gegen Beitragsdifferenz aufrechnen. Wer dabei 300–500 € im Jahr spart, hat das in 10 Minuten Recherche verdient.
 
-Zusammen mit den [5 häufigsten Finanzfehlern beim Berufsstart](/blog/finanzfehler-berufsstart-muenster) ergibt sich ein gutes Bild davon, worauf Berufseinsteiger in Münster von Anfang an achten sollten.
+Zusammen mit den [5 häufigsten Finanzfehlern beim Berufsstart](/blog/finanzfehler-berufsstart-muenster/) ergibt sich ein gutes Bild davon, worauf Berufseinsteiger in Münster von Anfang an achten sollten.
 
 ---
 

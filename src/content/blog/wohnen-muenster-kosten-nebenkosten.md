@@ -79,9 +79,9 @@ Nachteil: Eingeschränkte Privatsphäre, Koordinationsaufwand, nicht immer langf
 
 ## Verwandte Münster-Themen
 
-- [Mieten oder Kaufen in Münster: Was rechnet sich wirklich?](/blog/mieten-oder-kaufen-muenster)
-- [Netto-Gehalt vs. Lebenshaltungskosten in Münster](/blog/netto-gehalt-lebenshaltungskosten-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Mieten oder Kaufen in Münster: Was rechnet sich wirklich?](/blog/mieten-oder-kaufen-muenster/)
+- [Netto-Gehalt vs. Lebenshaltungskosten in Münster](/blog/netto-gehalt-lebenshaltungskosten-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

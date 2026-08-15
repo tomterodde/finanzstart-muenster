@@ -48,7 +48,7 @@ Das ist nicht das Ergebnis eines Fehlers — das ist das System. Die gesetzliche
 - Personen mit häufigen Jobwechseln oder Phasen der Selbstständigkeit
 - Frauen insgesamt (Gender Pension Gap)
 
-[Was der Gender Pension Gap bedeutet und warum Frauen strukturell benachteiligt sind, erklärt dieser Artikel.](/blog/gender-pension-gap-frauen-altersvorsorge)
+[Was der Gender Pension Gap bedeutet und warum Frauen strukturell benachteiligt sind, erklärt dieser Artikel.](/blog/gender-pension-gap-frauen-altersvorsorge/)
 
 ## Was noch getan werden kann — je nach Lebensphase
 
@@ -58,11 +58,11 @@ Zeit ist dein größter Hebel. Selbst kleine monatliche Beträge können über 3
 
 200 Euro monatlich bei 6 % Rendite über 35 Jahre: ca. 284.000 Euro — das entspricht einer privaten "Zusatzrente" von 950 Euro/Monat über 25 Jahre (ohne Rendite im Rentenalter).
 
-[Warum früh anfangen so entscheidend ist, zeigt dieser Artikel.](/blog/altersvorsorge-wann-anfangen-beispielrechnung)
+[Warum früh anfangen so entscheidend ist, zeigt dieser Artikel.](/blog/altersvorsorge-wann-anfangen-beispielrechnung/)
 
 ### Wenn du mittendrin bist (40–55)
 
-- **bAV prüfen:** Viele Arbeitnehmer schöpfen die betriebliche Altersvorsorge nicht voll aus. [Was die bAV bringt, erklärt dieser Artikel.](/blog/betriebliche-altersvorsorge-erklaert)
+- **bAV prüfen:** Viele Arbeitnehmer schöpfen die betriebliche Altersvorsorge nicht voll aus. [Was die bAV bringt, erklärt dieser Artikel.](/blog/betriebliche-altersvorsorge-erklaert/)
 - **Steuererklärung optimieren:** Vorsorgeaufwendungen absetzen, ggf. Riester prüfen (besonders bei niedrigem Einkommen mit Grundzulage)
 - **Freiwillige Rentenbeiträge:** Lücken gezielt füllen, Wartezeit sichern
 

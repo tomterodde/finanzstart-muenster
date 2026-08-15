@@ -49,7 +49,7 @@ Bei 0,5 % Sparbuchzins und 2,5 % Inflation: −2 % reale Rendite.
 
 Du verlierst, auch wenn du nichts "falsch" machst. Das Geld liegt sicher auf der Bank — aber es wird Jahr für Jahr weniger wert.
 
-[Was reale Rendite bedeutet und wie man sie berechnet, erklärt dieser Artikel über Rendite-Grundlagen.](/blog/rendite-erklaert-was-bedeutet-das)
+[Was reale Rendite bedeutet und wie man sie berechnet, erklärt dieser Artikel über Rendite-Grundlagen.](/blog/rendite-erklaert-was-bedeutet-das/)
 
 ## Der Kaufkraftverlust über Zeit
 
@@ -87,7 +87,7 @@ Kein Produkt bietet 100-prozentigen Schutz. Aber einige Anlageformen haben histo
 
 Das Sparbuch und Tagesgeld sind kurzfristig sinnvoll als Liquiditätspuffer — aber kein Inflationsschutz für langfristiges Kapital.
 
-[Warum der frühe Start beim Vermögensaufbau entscheidend ist, erklärt dieser Artikel über Zinseszins.](/blog/zinseszins-erklaert-berufseinsteiger)
+[Warum der frühe Start beim Vermögensaufbau entscheidend ist, erklärt dieser Artikel über Zinseszins.](/blog/zinseszins-erklaert-berufseinsteiger/)
 
 ## Inflation und Altersvorsorge
 

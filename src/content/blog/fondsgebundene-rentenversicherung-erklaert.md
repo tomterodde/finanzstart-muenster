@@ -80,7 +80,7 @@ Ein fairer Vergleich betrachtet nicht nur die Rendite, sondern alle Eigenschafte
 | Flexibilität / Zugriff | eingeschränkt (Kündigung kostet) | jederzeit |
 | Pfändungsschutz | teilweise | nein |
 
-Die Tabelle zeigt: Rendite ist nur eine von sieben Dimensionen. Wer ausschließlich auf die Kosten schaut, übersieht die Garantie- und Verrentungskomponente — wer nur auf die Garantie schaut, übersieht die Renditebremse durch hohe Provisionstarife. Wie der reine Rendite-Steuer-Vergleich im Detail ausgeht, zeigt der Artikel [Private Rentenversicherung vs. ETF](/blog/private-rentenversicherung-vs-etf).
+Die Tabelle zeigt: Rendite ist nur eine von sieben Dimensionen. Wer ausschließlich auf die Kosten schaut, übersieht die Garantie- und Verrentungskomponente — wer nur auf die Garantie schaut, übersieht die Renditebremse durch hohe Provisionstarife. Wie der reine Rendite-Steuer-Vergleich im Detail ausgeht, zeigt der Artikel [Private Rentenversicherung vs. ETF](/blog/private-rentenversicherung-vs-etf/).
 
 ## Wann kann sie sich trotzdem lohnen?
 
@@ -100,9 +100,9 @@ Die Fondspolice kann besser sein als ein ETF-Depot, wenn:
 
 ## Vertiefung
 
-- [Fondsgebundene Rentenversicherung: Steuern und Versteuerung](/blog/fondsgebundene-rentenversicherung-steuern-versteuerung) — Halbeinkünfteverfahren, Vorabpauschale und Auszahlung im Detail gerechnet.
-- [Private Rentenversicherung vs. ETF](/blog/private-rentenversicherung-vs-etf) — Der direkte Rendite- und Steuervergleich beider Wege.
-- [Die 3 Säulen der Altersvorsorge](/blog/drei-saeulen-altersvorsorge-erklaert) — Wo die Fondspolice in das Gesamtsystem gehört.
+- [Fondsgebundene Rentenversicherung: Steuern und Versteuerung](/blog/fondsgebundene-rentenversicherung-steuern-versteuerung/) — Halbeinkünfteverfahren, Vorabpauschale und Auszahlung im Detail gerechnet.
+- [Private Rentenversicherung vs. ETF](/blog/private-rentenversicherung-vs-etf/) — Der direkte Rendite- und Steuervergleich beider Wege.
+- [Die 3 Säulen der Altersvorsorge](/blog/drei-saeulen-altersvorsorge-erklaert/) — Wo die Fondspolice in das Gesamtsystem gehört.
 
 ## Fazit
 

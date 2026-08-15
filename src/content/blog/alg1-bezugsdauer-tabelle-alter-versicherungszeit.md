@@ -98,7 +98,7 @@ Wer nach Ende der ALG1-Bezugsdauer immer noch arbeitslos ist, kann Bürgergeld n
 - Die Regelleistung liegt deutlich unter dem ALG1 (Stand 2025: 563 € für Alleinstehende, dazu Kosten der Unterkunft)
 - Geschütztes Vermögen ist begrenzt (15.000 € pro Person plus Schonvermögen je nach Alter)
 
-Wer nicht in den Bezug von Bürgergeld fallen will, muss vorsorgen — entweder durch eine ausreichende Liquiditätsreserve oder durch ergänzende Absicherungen wie Berufsunfähigkeit oder Erwerbsminderung. Wie groß die [Lücke zwischen Brutto und ALG1 konkret ist, zeigt die ALG1-Tabelle nach Gehalt und Steuerklasse](/blog/alg1-rechner-wie-viel-arbeitslosengeld) — [Anspruchsvoraussetzungen und Sperrzeiten stehen im Überblicksartikel](/blog/alg1-arbeitslosengeld-berechnung/).
+Wer nicht in den Bezug von Bürgergeld fallen will, muss vorsorgen — entweder durch eine ausreichende Liquiditätsreserve oder durch ergänzende Absicherungen wie Berufsunfähigkeit oder Erwerbsminderung. Wie groß die [Lücke zwischen Brutto und ALG1 konkret ist, zeigt die ALG1-Tabelle nach Gehalt und Steuerklasse](/blog/alg1-rechner-wie-viel-arbeitslosengeld/) — [Anspruchsvoraussetzungen und Sperrzeiten stehen im Überblicksartikel](/blog/alg1-arbeitslosengeld-berechnung/).
 
 ## Praktische Konsequenzen für die Finanzplanung
 

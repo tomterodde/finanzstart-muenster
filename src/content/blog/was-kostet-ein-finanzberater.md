@@ -156,7 +156,7 @@ Bei 200 €/Monat Sparrate über 30 Jahre und 6 % Rendite vor Kosten:
 - Marktvergleich beste BU mit identischer Leistung: 65 €/Monat
 - Differenz: 25 €/Monat × 30 Jahre = **9.000 €** Beitragsaufwand-Differenz, plus deutlich besserer Schutz
 
-[Was bei der BU-Auswahl konkret zählt, steht hier.](/blog/bu-was-deckt-sie-ab-leistungen)
+[Was bei der BU-Auswahl konkret zählt, steht hier.](/blog/bu-was-deckt-sie-ab-leistungen/)
 
 ## Wirtschaftlicher Vergleich über 30 Jahre
 
@@ -232,7 +232,7 @@ Bei 200 €/Monat Sparrate über 30 Jahre und 6 % Rendite vor Kosten:
 
 **Welches Modell hat das beste Anreizsystem für den Kunden?** Die Marktdaten antworten klar: 98,5 % der Privathaushalte nutzen Provisionsberatung (Policen Direkt / IVFP 2024). Diese Zahl wäre anders, wenn Honorarberatung wirtschaftlich überlegen wäre.
 
-[Detaillierter Vergleich Honorar- vs. Provisionsberatung mit Marktdaten steht hier.](/blog/honorarberatung-vs-provisionsberatung-vergleich)
+[Detaillierter Vergleich Honorar- vs. Provisionsberatung mit Marktdaten steht hier.](/blog/honorarberatung-vs-provisionsberatung-vergleich/)
 
 ## Was du tun solltest, bevor du einen Berater wählst
 
@@ -244,7 +244,7 @@ Bei 200 €/Monat Sparrate über 30 Jahre und 6 % Rendite vor Kosten:
 
 3. **Vergleichsangebot einholen:** Bei größeren Verträgen (BU, bAV) zwei bis drei Berater parallel anfragen — der Bedingungsvergleich entscheidet mehr als die Beratungskosten.
 
-[Wie man einen guten Finanzberater erkennt — Checkliste für seriöse Berater.](/blog/wie-finde-ich-einen-guten-finanzberater) [Wie man die GewO-Zulassung kostenlos im BaFin-Vermittlerregister prüft.](/blog/bafin-vermittlerregister-pruefen-leitfaden)
+[Wie man einen guten Finanzberater erkennt — Checkliste für seriöse Berater.](/blog/wie-finde-ich-einen-guten-finanzberater/) [Wie man die GewO-Zulassung kostenlos im BaFin-Vermittlerregister prüft.](/blog/bafin-vermittlerregister-pruefen-leitfaden/)
 
 ## Fazit
 

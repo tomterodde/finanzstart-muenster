@@ -117,13 +117,13 @@ Wer mehr als 20 Stunden/Woche investieren will, sollte den Hauptjob auf 80 % ode
 
 1. **Arbeitsvertrag prüfen** — Anzeigepflicht, Konkurrenzklausel
 2. **Zeitbudget festlegen** und 6 Monate testen, bevor Geld fließt
-3. **Anmeldung** (Freiberufler: Fragebogen ELSTER; Gewerbe: Ordnungsamt) → siehe [Freiberuflich vs. Gewerbe](/blog/freiberuflich-vs-gewerbe-rechtsform)
+3. **Anmeldung** (Freiberufler: Fragebogen ELSTER; Gewerbe: Ordnungsamt) → siehe [Freiberuflich vs. Gewerbe](/blog/freiberuflich-vs-gewerbe-rechtsform/)
 4. **Geschäftskonto** trennen (N26, Kontist, Holvi für Selbstständige)
 5. **Steuerberater konsultieren** für die ersten 12 Monate
 
 ## Fazit
 
-Ein zweites Standbein ist machbar, aber kein Selbstläufer. Wer rechtlich sauber startet (Anzeige, keine Konkurrenz), steuerlich klug (Kleinunternehmer, wenn passend) und zeitlich ehrlich plant (8–15 h/Woche im ersten Jahr), schafft sich einen wertvollen zweiten Einkommensstrom. Wer dieses Modell mit einem klaren Karriereplan im Hauptjob verbindet, hat zwei Hebel gleichzeitig — siehe auch [Nebenberuflich selbstständig: Strukturierter Einstieg](/blog/selbststaendig-nebenberuflich-einstieg).
+Ein zweites Standbein ist machbar, aber kein Selbstläufer. Wer rechtlich sauber startet (Anzeige, keine Konkurrenz), steuerlich klug (Kleinunternehmer, wenn passend) und zeitlich ehrlich plant (8–15 h/Woche im ersten Jahr), schafft sich einen wertvollen zweiten Einkommensstrom. Wer dieses Modell mit einem klaren Karriereplan im Hauptjob verbindet, hat zwei Hebel gleichzeitig — siehe auch [Nebenberuflich selbstständig: Strukturierter Einstieg](/blog/selbststaendig-nebenberuflich-einstieg/).
 
 ---
 

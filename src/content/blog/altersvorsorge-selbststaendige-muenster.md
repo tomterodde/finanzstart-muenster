@@ -40,7 +40,7 @@ Wer in Münster als Freelancer oder Gründer arbeitet und keine strukturierte Al
 
 ### Option 1: Rürup-Rente für Steuerabzug nutzen
 
-Besonders sinnvoll bei hohem Einkommen und hohem Grenzsteuersatz. Beiträge bis 29.344 Euro/Jahr voll absetzbar. Lebenslange Rente, kein Kapitalzugriff vor 62. [Für wen Rürup sich rechnet, erklärt dieser Artikel.](/blog/privatrente-rurup-fuer-wen)
+Besonders sinnvoll bei hohem Einkommen und hohem Grenzsteuersatz. Beiträge bis 29.344 Euro/Jahr voll absetzbar. Lebenslange Rente, kein Kapitalzugriff vor 62. [Für wen Rürup sich rechnet, erklärt dieser Artikel.](/blog/privatrente-rurup-fuer-wen/)
 
 ### Option 2: Freiwillig in die gesetzliche Rentenversicherung einzahlen
 
@@ -72,9 +72,9 @@ Bei 4.000 Euro monatlichem Nettoeinkommen: 800 Euro/Monat in Altersvorsorge. Üb
 
 ## Verwandte Münster-Themen
 
-- [Altersvorsorge für IT-Berufe in Münster](/blog/muenster-it-jobs-altersvorsorge)
-- [Soziales Engagement und Ehrenamt: Auswirkung auf die Rente](/blog/muenster-soziales-ehrenamt-rente)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Altersvorsorge für IT-Berufe in Münster](/blog/muenster-it-jobs-altersvorsorge/)
+- [Soziales Engagement und Ehrenamt: Auswirkung auf die Rente](/blog/muenster-soziales-ehrenamt-rente/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

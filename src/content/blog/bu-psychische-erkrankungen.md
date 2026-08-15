@@ -75,13 +75,13 @@ Der Nachweis ist möglich, aber aufwendiger als bei körperlichen Erkrankungen. 
 
 Je jünger und gesünder du bist, desto sauberer deine Krankenakte. Wer mit 23 und ohne psychotherapeutische Vorgeschichte eine BU abschließt, zahlt weniger und bekommt umfassenderen Schutz als jemand mit 35 und einigen dokumentierten Belastungsphasen.
 
-[Was du beim BU-Abschluss generell beachten solltest, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+[Was du beim BU-Abschluss generell beachten solltest, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 ## Vertiefung
 
-- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen) — Leistungsumfang und typische Ablehnungsgründe.
-- [BU Nachteile und Alternativen bei Ablehnung](/blog/bu-nachteile-wann-nicht-sinnvoll) — Was tun, wenn psychische Vorerkrankungen den BU-Abschluss erschweren.
-- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen plus Risikozuschläge bei Vorerkrankungen.
+- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen/) — Leistungsumfang und typische Ablehnungsgründe.
+- [BU Nachteile und Alternativen bei Ablehnung](/blog/bu-nachteile-wann-nicht-sinnvoll/) — Was tun, wenn psychische Vorerkrankungen den BU-Abschluss erschweren.
+- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle/) — Konkrete Beitragsspannen plus Risikozuschläge bei Vorerkrankungen.
 
 ## Fazit
 

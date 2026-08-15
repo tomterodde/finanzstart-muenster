@@ -31,7 +31,7 @@ Ein Management Buyout (MBO) ist die Übernahme eines Unternehmens durch sein bes
 
 Der Reiz liegt auf der Hand: Niemand kennt das Unternehmen besser als die Leute, die es täglich führen. Sie kennen die Kunden, die Schwachstellen und die Wachstumshebel. Für einen Verkäufer ist das ein attraktiver Käufer, weil die Übergabe reibungsärmer verläuft.
 
-MBOs sind ein klassisches Werkzeug aus dem Private-Equity-Baukasten — die Grundlagen dazu stehen in [Private Equity einfach erklärt](/blog/private-equity-erklaert-grundlagen).
+MBOs sind ein klassisches Werkzeug aus dem Private-Equity-Baukasten — die Grundlagen dazu stehen in [Private Equity einfach erklärt](/blog/private-equity-erklaert-grundlagen/).
 
 ## Wie wird ein MBO finanziert?
 
@@ -53,7 +53,7 @@ Die Begriffe werden oft verwechselt. Die Abgrenzung ist aber einfach:
 | **MBI** | Externes Management von außen | Frische Führung, höheres Risiko |
 | **LBO** | Beliebiger Käufer (oft PE) | Beschreibt die *Finanzierungsart* mit viel Fremdkapital |
 
-Wichtig: MBO und LBO schließen sich nicht aus. Ein MBO wird sehr oft *als* Leveraged Buyout strukturiert — also mit hohem Fremdkapitalanteil. Wie dieser Hebel die Rendite vervielfacht, steht in [Leveraged Buyout einfach erklärt](/blog/lbo-leveraged-buyout-einfach-erklaert).
+Wichtig: MBO und LBO schließen sich nicht aus. Ein MBO wird sehr oft *als* Leveraged Buyout strukturiert — also mit hohem Fremdkapitalanteil. Wie dieser Hebel die Rendite vervielfacht, steht in [Leveraged Buyout einfach erklärt](/blog/lbo-leveraged-buyout-einfach-erklaert/).
 
 ## MBO als Nachfolgelösung im Mittelstand
 
@@ -65,7 +65,7 @@ Der MBO löst gleich mehrere Probleme:
 - **Diskretion:** Kein offener Verkaufsprozess, der Unruhe stiftet.
 - **Motivation:** Das neue Eigentümer-Management hat maximalen Anreiz, das Unternehmen weiterzuentwickeln.
 
-Gerade in einer mittelständisch geprägten Region wie dem Münsterland ist das ein realistischer Weg — mehr dazu in [Private Equity in Münster](/blog/private-equity-muenster).
+Gerade in einer mittelständisch geprägten Region wie dem Münsterland ist das ein realistischer Weg — mehr dazu in [Private Equity in Münster](/blog/private-equity-muenster/).
 
 ## Die Risiken
 
@@ -73,7 +73,7 @@ Ein MBO ist kein Selbstläufer. Die Manager setzen einen großen Teil ihres Priv
 
 Hinzu kommt der Interessenkonflikt beim Kauf: Dasselbe Management, das den Preis verhandelt, kennt die internen Zahlen genau. Verkäufer achten deshalb auf eine faire, unabhängig geprüfte Bewertung.
 
-Wer die Schattenseiten der gesamten Anlageklasse verstehen will, findet sie in [Private Equity Nachteile](/blog/private-equity-nachteile-schattenseite).
+Wer die Schattenseiten der gesamten Anlageklasse verstehen will, findet sie in [Private Equity Nachteile](/blog/private-equity-nachteile-schattenseite/).
 
 ## Fazit
 

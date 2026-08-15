@@ -60,7 +60,7 @@ Die Rürup-Rente ist das einzige staatlich geförderte Altersvorsorgeprodukt, da
 
 Für Selbstständige mit hohem Einkommen und hohem Steuersatz ist die Rürup-Rente eine der effizientesten Sparformen überhaupt.
 
-[Was die Rürup-Rente im Detail bedeutet, erklärt dieser Artikel.](/blog/ruerup-rente-selbststaendige)
+[Was die Rürup-Rente im Detail bedeutet, erklärt dieser Artikel.](/blog/ruerup-rente-selbststaendige/)
 
 ## ETF-Sparplan als Ergänzung oder Alternative
 
@@ -78,9 +78,9 @@ Bei schwankendem Einkommen (typisch für Selbstständige): In guten Monaten mehr
 
 ## Vertiefung
 
-- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Vergleich aller Optionen mit dediziertem Selbstständigen-Profil.
-- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Beispielrechnung Selbstständige mit 5.000 € Gewinn.
-- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Was für Selbstständige in welcher Säule funktioniert.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026/) — Vergleich aller Optionen mit dediziertem Selbstständigen-Profil.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen/) — Beispielrechnung Selbstständige mit 5.000 € Gewinn.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert/) — Was für Selbstständige in welcher Säule funktioniert.
 
 ## Fazit
 

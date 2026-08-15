@@ -69,9 +69,9 @@ Mit 18 Jahren hat das Kind einen soliden Startbetrag — für Studium, Führersc
 
 ## Verwandte Münster-Themen
 
-- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
-- [Finanzplanung bei Heirat in Münster](/blog/finanzplanung-heirat-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster/)
+- [Finanzplanung bei Heirat in Münster](/blog/finanzplanung-heirat-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit für Eltern in Münster
 

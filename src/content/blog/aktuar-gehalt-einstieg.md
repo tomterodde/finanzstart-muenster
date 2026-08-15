@@ -47,7 +47,7 @@ Aktuare arbeiten in Lebens-, Kranken- und Sachversicherung, bei Rückversicherer
 | Senior Aktuar / Abteilungsleitung | 100.000–140.000 € |
 | Chief Actuary / Bereichsleitung | 150.000 €+ |
 
-Der Gehaltssprung nach Abschluss der Ausbildung ähnelt dem Muster anderer Fachtitel-Berufe: Wie beim [Steuerberater](/blog/steuerberater-gehalt-einstieg) oder [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg) markiert der Titel „Aktuar DAV" die Schwelle zu deutlich höheren Gehaltsstufen. Anders als bei diesen Berufen ist der Einstiegspfad beim Aktuar von Anfang an quantitativ geprägt — ein Mathematik- oder Statistikstudium ist praktisch Voraussetzung.
+Der Gehaltssprung nach Abschluss der Ausbildung ähnelt dem Muster anderer Fachtitel-Berufe: Wie beim [Steuerberater](/blog/steuerberater-gehalt-einstieg/) oder [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg/) markiert der Titel „Aktuar DAV" die Schwelle zu deutlich höheren Gehaltsstufen. Anders als bei diesen Berufen ist der Einstiegspfad beim Aktuar von Anfang an quantitativ geprägt — ein Mathematik- oder Statistikstudium ist praktisch Voraussetzung.
 
 ## Der Ausbildungsweg zum Aktuar DAV
 
@@ -63,7 +63,7 @@ Für Berufseinsteiger bedeutet das: gute Verhandlungsposition, planbare Gehaltse
 
 ## Exit-Optionen und verwandte Karrierewege
 
-Aktuarielles Know-how ist außerhalb der klassischen Versicherung ebenfalls gefragt: in der Rückversicherung, bei spezialisierten aktuariellen Beratungen, bei der Finanzaufsicht (BaFin) und zunehmend im Risikomanagement von Banken oder in datengetriebenen Rollen. Wer sich für quantitative Finance-Berufe generell interessiert, findet verwandte Gehaltsperspektiven auch im [Investment Banking](/blog/investment-banking-einstieg-gehalt) oder als [Fondsmanager](/blog/fondsmanager-gehalt-einstieg) — dort mit anderem Schwerpunkt, aber ähnlichem mathematischem Anspruch.
+Aktuarielles Know-how ist außerhalb der klassischen Versicherung ebenfalls gefragt: in der Rückversicherung, bei spezialisierten aktuariellen Beratungen, bei der Finanzaufsicht (BaFin) und zunehmend im Risikomanagement von Banken oder in datengetriebenen Rollen. Wer sich für quantitative Finance-Berufe generell interessiert, findet verwandte Gehaltsperspektiven auch im [Investment Banking](/blog/investment-banking-einstieg-gehalt/) oder als [Fondsmanager](/blog/fondsmanager-gehalt-einstieg/) — dort mit anderem Schwerpunkt, aber ähnlichem mathematischem Anspruch.
 
 ## Fazit
 

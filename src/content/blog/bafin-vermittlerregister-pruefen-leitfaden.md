@@ -159,11 +159,11 @@ Im Suchergebnis prüfst du:
 
 **Ergebnis:** Berater ist legal zugelassen für Versicherungen UND Investmentfonds, seit über 7 Jahren tätig, Berufshaftpflicht vorhanden, Sachkundeprüfung bestanden. **Strukturelle Mindestvoraussetzungen erfüllt.**
 
-Die **Qualität der Beratung** lässt sich daraus noch nicht ablesen — dafür braucht es weitere Indikatoren (Marktauswahl, Beratungsprotokoll, Folgebetreuung). [Vollständige Qualitätscheckliste mit 12 Kriterien steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater)
+Die **Qualität der Beratung** lässt sich daraus noch nicht ablesen — dafür braucht es weitere Indikatoren (Marktauswahl, Beratungsprotokoll, Folgebetreuung). [Vollständige Qualitätscheckliste mit 12 Kriterien steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater/)
 
 ## Sonderfall: Strukturvertriebe und Konzern-Vermittler
 
-Bei [großen Strukturvertrieben](/blog/strukturvertrieb-was-steckt-dahinter) (z. B. AWD, MLP, Tecis, OVB, Swiss Life Select, Bonnfinanz) sind die einzelnen Berater oft **Handelsvertreter** mit eigener § 34d/34f-Zulassung. Sie sind im DIHK-Register eingetragen — aber meist als **gebundener Vermittler** mit Hinweis auf den Vertriebspartner.
+Bei [großen Strukturvertrieben](/blog/strukturvertrieb-was-steckt-dahinter/) (z. B. AWD, MLP, Tecis, OVB, Swiss Life Select, Bonnfinanz) sind die einzelnen Berater oft **Handelsvertreter** mit eigener § 34d/34f-Zulassung. Sie sind im DIHK-Register eingetragen — aber meist als **gebundener Vermittler** mit Hinweis auf den Vertriebspartner.
 
 **Was bedeutet das?**
 
@@ -236,7 +236,7 @@ Echte **Kundenbewertungen** liefern Hinweise auf:
 - Verhalten im Leistungsfall
 - Beratungsstil
 
-[Vollständige Qualitätsprüfung mit 12 Kriterien steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater)
+[Vollständige Qualitätsprüfung mit 12 Kriterien steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater/)
 
 ## Pflicht-Routine bei jedem Erstkontakt mit einem Finanzberater
 
@@ -260,7 +260,7 @@ Das DIHK-Vermittlerregister ist die **offizielle, kostenlose Pflicht-Prüfung** 
 
 3. **Register-Eintragung ist Mindestvoraussetzung, nicht Qualitätssiegel.** Wer dort steht, ist legal zugelassen — die Beratungsqualität (Marktauswahl, Protokoll, Folgebetreuung) muss separat geprüft werden.
 
-[Vollständige 12-Punkte-Qualitätscheckliste steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater) [Was ein Finanzberater wirklich kostet, steht hier.](/blog/was-kostet-ein-finanzberater) [Honorar- vs. Provisionsberatung im Vergleich.](/blog/honorarberatung-vs-provisionsberatung-vergleich)
+[Vollständige 12-Punkte-Qualitätscheckliste steht hier.](/blog/wie-finde-ich-einen-guten-finanzberater/) [Was ein Finanzberater wirklich kostet, steht hier.](/blog/was-kostet-ein-finanzberater/) [Honorar- vs. Provisionsberatung im Vergleich.](/blog/honorarberatung-vs-provisionsberatung-vergleich/)
 
 ---
 

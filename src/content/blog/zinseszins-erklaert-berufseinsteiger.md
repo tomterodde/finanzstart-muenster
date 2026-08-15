@@ -69,7 +69,7 @@ Der teuerste Fehler beim Vermögensaufbau ist warten.
 
 Zinseszins funktioniert nur, wenn deine Zinsen hoch genug sind. Das klassische Sparbuch zahlt aktuell 0,1–1 % p.a. — damit verlierst du nach Inflation real Geld, und der Zinseszinseffekt ist minimal.
 
-Die Idee, erst "richtiges Geld" zu verdienen und dann anzufangen, kostet dich konkret tausende Euro. [Warum das Warten beim Berufseinstieg teuer wird, erklärt dieser Artikel über typische Finanzfehler.](/blog/finanzfehler-berufsstart-muenster)
+Die Idee, erst "richtiges Geld" zu verdienen und dann anzufangen, kostet dich konkret tausende Euro. [Warum das Warten beim Berufseinstieg teuer wird, erklärt dieser Artikel über typische Finanzfehler.](/blog/finanzfehler-berufsstart-muenster/)
 
 Entscheidend ist: Möglichst früh in Anlageformen investieren, die den Zinseszins überhaupt zur Entfaltung bringen können — also mit einer realen Rendite über der Inflation.
 
@@ -84,7 +84,7 @@ Wer monatlich 100 Euro spart bei 6 % p.a.:
 
 Die eingezahlten 36.000 Euro haben sich fast verdreifacht — allein durch den Zinseszinseffekt.
 
-[Wie ein ETF-Sparplan in der Praxis funktioniert, erklärt dieser Artikel für Berufseinsteiger in Münster.](/blog/etf-sparplan-einsteiger-muenster)
+[Wie ein ETF-Sparplan in der Praxis funktioniert, erklärt dieser Artikel für Berufseinsteiger in Münster.](/blog/etf-sparplan-einsteiger-muenster/)
 
 ## Fazit
 

@@ -35,7 +35,7 @@ Das macht sie günstig: Eine 30-jährige, gesunde Person zahlt für 300.000 Euro
 
 ## Wann sie unverzichtbar ist
 
-**Kinder:** Wer Kinder hat und Hauptverdiener ist, braucht eine Risikolebensversicherung. Wenn du stirbst, müssen die Kinder weiterhin versorgt werden. Die gesetzliche Hinterbliebenenrente reicht dafür nicht aus. [Was Hinterbliebene aus der gesetzlichen Rente bekommen, erklärt dieser Artikel.](/blog/hinterbliebenenrente-was-bekommt-deine-familie)
+**Kinder:** Wer Kinder hat und Hauptverdiener ist, braucht eine Risikolebensversicherung. Wenn du stirbst, müssen die Kinder weiterhin versorgt werden. Die gesetzliche Hinterbliebenenrente reicht dafür nicht aus. [Was Hinterbliebene aus der gesetzlichen Rente bekommen, erklärt dieser Artikel.](/blog/hinterbliebenenrente-was-bekommt-deine-familie/)
 
 **Immobilienkredit:** Wer einen Kredit von 300.000 Euro hat und stirbt, hinterlässt seinem Partner eine Schuldenlast. Eine Risikolebensversicherung in Höhe der Restschuld schützt davor. Hier empfiehlt sich eine **annuitätisch fallende** Versicherungssumme — sie sinkt mit der Restschuld.
 

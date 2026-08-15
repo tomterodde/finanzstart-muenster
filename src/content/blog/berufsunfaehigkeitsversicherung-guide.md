@@ -54,7 +54,7 @@ Laut Statistik wird etwa **jeder vierte Arbeitnehmer** vor dem Rentenalter beruf
 4. **Herz-Kreislauf-Erkrankungen** (ca. 14%)
 5. **Unfälle** (ca. 9%)
 
-Das trifft nicht nur körperlich arbeitende Menschen. Auch Büroangestellte, Lehrkräfte, Ärzte und IT-Fachleute sind betroffen — gerade im Bereich psychischer Erkrankungen. Wer glaubt, mit einer [privaten Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll) ausreichend abgesichert zu sein, irrt sich: Sie deckt nur die rund 9 % unfallbedingten Fälle ab — die häufigsten BU-Ursachen (Psyche, Krebs, Rücken) leistet sie nicht.
+Das trifft nicht nur körperlich arbeitende Menschen. Auch Büroangestellte, Lehrkräfte, Ärzte und IT-Fachleute sind betroffen — gerade im Bereich psychischer Erkrankungen. Wer glaubt, mit einer [privaten Unfallversicherung](/blog/unfallversicherung-wann-sinnvoll/) ausreichend abgesichert zu sein, irrt sich: Sie deckt nur die rund 9 % unfallbedingten Fälle ab — die häufigsten BU-Ursachen (Psyche, Krebs, Rücken) leistet sie nicht.
 
 ## Ist eine Berufsunfähigkeitsversicherung sinnvoll?
 
@@ -63,14 +63,14 @@ Für die allermeisten Erwerbstätigen: ja. Wer von seinem Gehalt lebt und nicht 
 Besonders sinnvoll ist die BU für:
 
 - **Berufseinsteiger** — junger Eintritt bedeutet niedriger Beitrag plus volle Laufzeit
-- **Selbstständige** — sie haben oft gar keinen Anspruch auf die gesetzliche Erwerbsminderungsrente ([Besonderheiten für Selbstständige](/blog/bu-selbststaendige-besonderheiten))
+- **Selbstständige** — sie haben oft gar keinen Anspruch auf die gesetzliche Erwerbsminderungsrente ([Besonderheiten für Selbstständige](/blog/bu-selbststaendige-besonderheiten/))
 - **Akademiker und Fachkräfte** — bei ihnen reißt der Einkommensausfall die größte Lücke
 
-Grenzen gibt es auch: Wer bereits ausgesorgt hat, kurz vor der Rente steht oder als Risikoberuf keinen bezahlbaren Tarif bekommt, für den sieht die Rechnung anders aus. Die ehrliche Gegenseite steht im Artikel [BU-Nachteile: wann sie nicht sinnvoll ist](/blog/bu-nachteile-wann-nicht-sinnvoll). Faustregel: Je stärker du auf dein Arbeitseinkommen angewiesen bist, desto wichtiger ist die BU.
+Grenzen gibt es auch: Wer bereits ausgesorgt hat, kurz vor der Rente steht oder als Risikoberuf keinen bezahlbaren Tarif bekommt, für den sieht die Rechnung anders aus. Die ehrliche Gegenseite steht im Artikel [BU-Nachteile: wann sie nicht sinnvoll ist](/blog/bu-nachteile-wann-nicht-sinnvoll/). Faustregel: Je stärker du auf dein Arbeitseinkommen angewiesen bist, desto wichtiger ist die BU.
 
 ## Berufsunfähigkeitsrente: privat statt gesetzlich
 
-Mit „Berufsunfähigkeitsrente" ist heute die **monatliche Leistung der privaten BU** gemeint — der Betrag, den du im Leistungsfall vertraglich ausgezahlt bekommst. Eine *gesetzliche* Berufsunfähigkeitsrente gibt es seit 2001 nicht mehr; sie wurde durch die [Erwerbsminderungsrente](/blog/erwerbsminderungsrente-was-zahlt-der-staat) ersetzt, die im Schnitt nur rund 1.000 € brutto zahlt und auf *irgendeinen* Beruf verweist.
+Mit „Berufsunfähigkeitsrente" ist heute die **monatliche Leistung der privaten BU** gemeint — der Betrag, den du im Leistungsfall vertraglich ausgezahlt bekommst. Eine *gesetzliche* Berufsunfähigkeitsrente gibt es seit 2001 nicht mehr; sie wurde durch die [Erwerbsminderungsrente](/blog/erwerbsminderungsrente-was-zahlt-der-staat/) ersetzt, die im Schnitt nur rund 1.000 € brutto zahlt und auf *irgendeinen* Beruf verweist.
 
 Genau das ist der Vorteil der privaten BU-Rente: Sie ist vertraglich fixiert (z. B. 1.500 €/Monat), wird unabhängig von deinen Beitragsjahren gezahlt und stellt allein auf deinen zuletzt ausgeübten Beruf ab.
 
@@ -127,20 +127,20 @@ Körperlich arbeitende Berufe zahlen mehr, da das Risiko statistisch höher ist.
 
 ## Vertiefung: Häufige BU-Fragen im Detail
 
-- [Was deckt eine BU konkret ab? Leistungen und Ausschlüsse](/blog/bu-was-deckt-sie-ab-leistungen) — Wann zahlt sie, wann nicht, und was bedeutet "50 %-Klausel" wirklich.
-- [Was kostet eine BU im Monat? Tabelle nach Alter und Beruf](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen plus Optimierungs-Hebel.
-- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll) — Wann der Zug abgefahren ist und welche Alternativen passen.
-- [BU Nachteile: Die kritische Analyse (und wann sie nicht sinnvoll ist)](/blog/bu-nachteile-wann-nicht-sinnvoll) — Sechs reale Nachteile ehrlich aufgeschlüsselt.
-- [Wie wahrscheinlich ist Berufsunfähigkeit wirklich?](/blog/bu-wahrscheinlichkeit-statistik-jung) — Die Zahlen hinter dem „jeder Vierte" und was das für Junge heißt.
-- [BU bei psychischen Erkrankungen](/blog/bu-psychische-erkrankungen) — Häufigste BU-Ursache, Gesundheitsfragen und worauf du achten musst.
-- [BU im öffentlichen Dienst und für Beamte](/blog/bu-oeffentlicher-dienst-beamte) — Dienstunfähigkeitsklausel und was sie leisten muss.
+- [Was deckt eine BU konkret ab? Leistungen und Ausschlüsse](/blog/bu-was-deckt-sie-ab-leistungen/) — Wann zahlt sie, wann nicht, und was bedeutet "50 %-Klausel" wirklich.
+- [Was kostet eine BU im Monat? Tabelle nach Alter und Beruf](/blog/was-kostet-bu-im-monat-tabelle/) — Konkrete Beitragsspannen plus Optimierungs-Hebel.
+- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll/) — Wann der Zug abgefahren ist und welche Alternativen passen.
+- [BU Nachteile: Die kritische Analyse (und wann sie nicht sinnvoll ist)](/blog/bu-nachteile-wann-nicht-sinnvoll/) — Sechs reale Nachteile ehrlich aufgeschlüsselt.
+- [Wie wahrscheinlich ist Berufsunfähigkeit wirklich?](/blog/bu-wahrscheinlichkeit-statistik-jung/) — Die Zahlen hinter dem „jeder Vierte" und was das für Junge heißt.
+- [BU bei psychischen Erkrankungen](/blog/bu-psychische-erkrankungen/) — Häufigste BU-Ursache, Gesundheitsfragen und worauf du achten musst.
+- [BU im öffentlichen Dienst und für Beamte](/blog/bu-oeffentlicher-dienst-beamte/) — Dienstunfähigkeitsklausel und was sie leisten muss.
 
 ## Wenn die BU nicht infrage kommt
 
 Nicht jeder bekommt eine BU zu vernünftigen Konditionen — Vorerkrankungen, Risikoberufe (Dachdecker, Chirurg) oder ein zu enges Budget können den Zugang erschweren. Zwei Alternativen sind dann zu prüfen:
 
-- **[Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu)** — zahlt bei Verlust definierter körperlicher Grundfähigkeiten (Sehen, Gehen, Hände gebrauchen). Rund 30–50 % günstiger als BU, aber psychische Erkrankungen meist ausgeschlossen.
-- **[Dread-Disease-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung)** — zahlt eine Einmalsumme bei Diagnose schwerer Krankheiten wie Krebs oder Herzinfarkt. Sinnvolle Ergänzung zur BU bei laufenden Krediten oder hohen Behandlungskosten.
+- **[Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu/)** — zahlt bei Verlust definierter körperlicher Grundfähigkeiten (Sehen, Gehen, Hände gebrauchen). Rund 30–50 % günstiger als BU, aber psychische Erkrankungen meist ausgeschlossen.
+- **[Dread-Disease-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung/)** — zahlt eine Einmalsumme bei Diagnose schwerer Krankheiten wie Krebs oder Herzinfarkt. Sinnvolle Ergänzung zur BU bei laufenden Krediten oder hohen Behandlungskosten.
 
 Beides sind keine 1:1-BU-Ersätze, sondern Spezialprodukte mit klarer Zielgruppe.
 

@@ -90,7 +90,7 @@ Für normale Berufseinsteiger-Hausrate ab 5.000 bis 10.000 € ist die Versicher
 
 **Mitversicherung von Besuch:** Gäste sind in der Regel mit ihren persönlichen Gegenständen nicht in deiner Hausratversicherung. Wenn deinem Gast der Laptop gestohlen wird, ist das Pech — oder Thema seiner eigenen Versicherung.
 
-**Haftpflichtschäden in der Wohnung:** Wenn du selbst einen Schaden verursachst (z. B. Wasserhahn überlaufen lassen, Böden im Stockwerk darunter beschädigt), ist das kein Hausrat-, sondern ein Haftpflichtfall. Beide Versicherungen ergänzen sich — siehe [Unterschied Hausrat und Haftpflicht](/blog/private-haftpflichtversicherung-berufseinsteiger).
+**Haftpflichtschäden in der Wohnung:** Wenn du selbst einen Schaden verursachst (z. B. Wasserhahn überlaufen lassen, Böden im Stockwerk darunter beschädigt), ist das kein Hausrat-, sondern ein Haftpflichtfall. Beide Versicherungen ergänzen sich — siehe [Unterschied Hausrat und Haftpflicht](/blog/private-haftpflichtversicherung-berufseinsteiger/).
 
 ## Was Mieter wirklich brauchen
 
@@ -110,7 +110,7 @@ Als Mieter bist du nicht gesetzlich verpflichtet, eine Hausratversicherung zu ha
 
 In der klassischen WG gilt: Jeder braucht eine eigene Versicherung, denn ihr seid mehrere Haushalte. Die Annahme, eine Versicherung decke automatisch alle ab, ist ein teurer Fehler.
 
-Welche Deckung und welche Versicherungssumme für deine konkrete Wohnsituation passt, hängt von Hausratwert, Lage und persönlichen Risiken ab. [Wie du die richtige Versicherungssumme berechnest, ist in diesem Artikel erklärt](/blog/hausratversicherung-versicherungssumme-berechnen), [ob sich die Versicherung in deiner Situation grundsätzlich lohnt, hier](/blog/hausratversicherung-sinnvoll) — und [wie sich Hausrat und Haftpflicht abgrenzen, im Vergleichsartikel](/blog/hausratversicherung-haftpflicht-unterschied). Für die individuelle Abstimmung — auch bei WG- oder Studenten-Sonderfällen — lohnt sich ein kurzes Beratungsgespräch.
+Welche Deckung und welche Versicherungssumme für deine konkrete Wohnsituation passt, hängt von Hausratwert, Lage und persönlichen Risiken ab. [Wie du die richtige Versicherungssumme berechnest, ist in diesem Artikel erklärt](/blog/hausratversicherung-versicherungssumme-berechnen/), [ob sich die Versicherung in deiner Situation grundsätzlich lohnt, hier](/blog/hausratversicherung-sinnvoll/) — und [wie sich Hausrat und Haftpflicht abgrenzen, im Vergleichsartikel](/blog/hausratversicherung-haftpflicht-unterschied/). Für die individuelle Abstimmung — auch bei WG- oder Studenten-Sonderfällen — lohnt sich ein kurzes Beratungsgespräch.
 
 ---
 

@@ -83,7 +83,7 @@ Für rund **91% der Berufsunfähigkeitsfälle** leistet die Unfallversicherung a
 | Leistungsart | Einmalzahlung | Monatliche Rente |
 | Kosten | Günstig (50–150 €/Jahr) | Höher (50–200 €/Monat) |
 
-Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide) schützt umfassender — sie greift bei Krankheit und Unfall, zahlt eine monatliche Rente und deckt die tatsächlich relevanten Risiken ab. Wer zwischen beiden wählen muss, sollte in der Regel die BU priorisieren.
+Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide/) schützt umfassender — sie greift bei Krankheit und Unfall, zahlt eine monatliche Rente und deckt die tatsächlich relevanten Risiken ab. Wer zwischen beiden wählen muss, sollte in der Regel die BU priorisieren.
 
 ## Für wen ist die Unfallversicherung trotzdem sinnvoll?
 
@@ -97,7 +97,7 @@ Es gibt Situationen, in denen die Unfallversicherung als **Ergänzung** Sinn erg
 
 **Als Ergänzung zur BU:** Wer bereits eine BU hat, kann die Unfallversicherung als günstigen Zusatz abschließen — für Szenarien, in denen ein Unfall zu dauerhafter Invalidität führt, aber nicht zur BU (z.B. Verlust eines Fingers, der die Berufsausübung nicht unmöglich, aber einschränkt).
 
-**Wer sich gezielt gegen schwere Erkrankungen absichern will**, sollte statt der Unfallversicherung eher die [Dread-Disease-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung) prüfen — sie zahlt eine Einmalsumme bei Diagnose von Krebs, Herzinfarkt oder Schlaganfall, unabhängig vom Unfallbegriff. Für körperlich Tätige mit BU-Ablehnung ist die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu) eine günstigere Alternative — sie zahlt eine monatliche Rente bei Verlust körperlicher Grundfähigkeiten.
+**Wer sich gezielt gegen schwere Erkrankungen absichern will**, sollte statt der Unfallversicherung eher die [Dread-Disease-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung/) prüfen — sie zahlt eine Einmalsumme bei Diagnose von Krebs, Herzinfarkt oder Schlaganfall, unabhängig vom Unfallbegriff. Für körperlich Tätige mit BU-Ablehnung ist die [Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu/) eine günstigere Alternative — sie zahlt eine monatliche Rente bei Verlust körperlicher Grundfähigkeiten.
 
 ## Was bei Abschluss wichtig ist
 

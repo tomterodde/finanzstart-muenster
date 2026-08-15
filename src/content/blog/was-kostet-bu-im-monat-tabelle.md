@@ -84,7 +84,7 @@ Risikoklassen je Beruf — die meisten Versicherer arbeiten mit 4–5 Klassen.
 
 **Wichtige Anmerkung:** Risikoklassifizierung unterscheidet sich zwischen Versicherern erheblich. Was bei Versicherer A in Klasse 3 fällt, kann bei Versicherer B in Klasse 2 sein. **Das ist der wichtigste Beweggrund für Tarifvergleich** — bei körperlichen Berufen kann die Wahl des Versicherers den Beitrag um 30–40 % beeinflussen.
 
-[Detaillierte Empfehlungen für Berufsgruppen Beamte stehen hier.](/blog/bu-oeffentlicher-dienst-beamte) [Selbstständige haben spezielle Konstellationen — Berufsschutzklausel und Einkommensgrundlage.](/blog/bu-selbststaendige-besonderheiten) [Wie wahrscheinlich Berufsunfähigkeit nach Alter und Beruf ist, steht hier.](/blog/bu-wahrscheinlichkeit-statistik-jung)
+[Detaillierte Empfehlungen für Berufsgruppen Beamte stehen hier.](/blog/bu-oeffentlicher-dienst-beamte/) [Selbstständige haben spezielle Konstellationen — Berufsschutzklausel und Einkommensgrundlage.](/blog/bu-selbststaendige-besonderheiten/) [Wie wahrscheinlich Berufsunfähigkeit nach Alter und Beruf ist, steht hier.](/blog/bu-wahrscheinlichkeit-statistik-jung/)
 
 ## Tabelle 3: Beitrag nach Versicherungssumme (30 Jahre, Bürotätigkeit)
 
@@ -100,7 +100,7 @@ Risikoklassen je Beruf — die meisten Versicherer arbeiten mit 4–5 Klassen.
 
 **Wichtig zur Versicherungssumme:** 60–80 % des aktuellen Nettoeinkommens als BU-Rente sind Faustregel. Bei 3.000 € Netto entsprechen das 1.800–2.400 €/Monat BU-Rente.
 
-[Wie hoch die optimale BU-Rente sein sollte und warum, steht im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+[Wie hoch die optimale BU-Rente sein sollte und warum, steht im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 ## Versteckte Beitragsfaktoren
 
@@ -144,7 +144,7 @@ Gute Tarife mit umfassenden Bedingungen (Verzicht auf abstrakte Verweisung, Nach
 
 **Strategie bei Vorerkrankungen:** Vor Antragstellung **anonyme Risikovoranfrage** stellen — bei mehreren Versicherern parallel. So vermeidest du HIS-Eintragung bei Ablehnung.
 
-[Was bei psychischen Diagnosen passiert, erklärt dieser Artikel.](/blog/bu-psychische-erkrankungen)
+[Was bei psychischen Diagnosen passiert, erklärt dieser Artikel.](/blog/bu-psychische-erkrankungen/)
 
 ## Steuerliche Behandlung der BU-Beiträge
 
@@ -186,7 +186,7 @@ Gute Tarife mit umfassenden Bedingungen (Verzicht auf abstrakte Verweisung, Nach
 ❌ **Tarif ohne Verzicht auf abstrakte Verweisung** — im Leistungsfall problematisch
 ❌ **Tarif ohne Nachversicherungsgarantie** — bei Karriereentwicklung schwer anpassbar
 
-[Vollständige Liste der Pflicht-Tarifkriterien steht hier.](/blog/bu-was-deckt-sie-ab-leistungen)
+[Vollständige Liste der Pflicht-Tarifkriterien steht hier.](/blog/bu-was-deckt-sie-ab-leistungen/)
 
 ## Realität: Was du wirklich zahlen solltest
 
@@ -227,7 +227,7 @@ Eine BU kostet typischerweise 50–250 € pro Monat — die konkrete Höhe hän
 
 Die richtige BU für deine Berufssituation, Gesundheit und dein Einkommen lässt sich pauschal nicht beantworten. Sie gehört in eine **persönliche Beratung mit unabhängiger Tarifauswahl** — der Beitragsunterschied zwischen "okay" und "optimal" rechtfertigt die Investition in eine professionelle Beratung mehrfach.
 
-[Wer prüfen will, ob BU mit 40, 50 oder 60 noch sinnvoll ist, findet die Antwort hier.](/blog/bu-mit-40-50-60-noch-sinnvoll) [Was BU im Detail abdeckt, steht hier.](/blog/bu-was-deckt-sie-ab-leistungen)
+[Wer prüfen will, ob BU mit 40, 50 oder 60 noch sinnvoll ist, findet die Antwort hier.](/blog/bu-mit-40-50-60-noch-sinnvoll/) [Was BU im Detail abdeckt, steht hier.](/blog/bu-was-deckt-sie-ab-leistungen/)
 
 ---
 

@@ -75,7 +75,7 @@ Wer heute 25–35 ist, wird in einer Rentenlandschaft leben, die deutlich schlec
 
 **Das bedeutet:** Wer keine private Vorsorge betreibt, wird im Alter seinen Lebensstandard deutlich einschränken müssen.
 
-**Das bedeutet:** Früh anfangen ist nicht optional, sondern notwendig. [Wie man die eigene Rentenlücke berechnet, erklärt dieser Artikel.](/blog/rentenluecke-berechnen-schliessen)
+**Das bedeutet:** Früh anfangen ist nicht optional, sondern notwendig. [Wie man die eigene Rentenlücke berechnet, erklärt dieser Artikel.](/blog/rentenluecke-berechnen-schliessen/)
 
 ## Fazit
 

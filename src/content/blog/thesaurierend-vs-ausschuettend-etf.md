@@ -37,7 +37,7 @@ Du hast dich für einen ETF-Sparplan entschieden. Jetzt stehst du vor der nächs
 
 Beim thesaurierenden ETF arbeitet der Zinseszinseffekt ohne Unterbrechung: Erträge werden sofort wieder angelegt und erzielen selbst Rendite. Beim ausschüttenden ETF musst du die Ausschüttung manuell reinvestieren — oder sie landet konsumiert auf dem Konto.
 
-[Wie mächtig der Zinseszinseffekt über lange Zeiträume ist, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger)
+[Wie mächtig der Zinseszinseffekt über lange Zeiträume ist, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger/)
 
 Für den langfristigen Vermögensaufbau ist der Thesaurierer theoretisch effizienter — aber der Unterschied ist in der Praxis gering, wenn du Ausschüttungen konsequent reinvestierst.
 

@@ -71,7 +71,7 @@ In Münster sind praktisch alle großen gesetzlichen Kassen präsent. Für Azubi
 
 **BKK VBU / Novitas BKK** — Günstiger Zusatzbeitrag, stark digital orientiert. Weniger lokale Präsenz in Münster, aber für Azubis mit Online-Affinität relevant.
 
-Die konkreten Zusatzbeiträge und Leistungsangebote ändern sich jährlich. Aktuelle Werte im [Krankenkassenvergleich](/blog/krankenkasse-wechseln-berufseinsteiger) oder direkt bei der Kasse prüfen.
+Die konkreten Zusatzbeiträge und Leistungsangebote ändern sich jährlich. Aktuelle Werte im [Krankenkassenvergleich](/blog/krankenkasse-wechseln-berufseinsteiger/) oder direkt bei der Kasse prüfen.
 
 ## Fünf Entscheidungskriterien für Azubis
 
@@ -110,9 +110,9 @@ Empfehlung: In den ersten 2–3 Wochen der Ausbildung die Wahl treffen. Dein Arb
 
 ## Verwandte Münster-Themen
 
-- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster)
-- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster/)
+- [Erste Steuererklärung als WWU-Student](/blog/erste-steuererklarung-wwu-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 
@@ -120,7 +120,7 @@ Die richtige Krankenkasse als Azubi ist keine Lebensentscheidung — du kannst n
 
 Für Azubis in Münster ist der Vorteil lokaler Kassen (AOK NordWest, TK, DAK) die persönliche Beratung vor Ort — gerade bei ersten Fragen zu Rezepten, Krankschreibungen oder Vorsorge. Online-orientierte Azubis können mit bundesweiten Direkt-Kassen oft beim Zusatzbeitrag sparen.
 
-Welche Kasse für deine konkrete Situation — Ausbildungsberuf, Gesundheitsbedarf, Lebensstil — die beste ist, lässt sich in einem kurzen Beratungsgespräch klären. Die Entscheidung beeinflusst auch deine späteren [Beitragsleistungen im Berufsleben](/blog/krankenkasse-wechseln-berufseinsteiger), weil viele Kassen ihre Mitglieder langfristig binden.
+Welche Kasse für deine konkrete Situation — Ausbildungsberuf, Gesundheitsbedarf, Lebensstil — die beste ist, lässt sich in einem kurzen Beratungsgespräch klären. Die Entscheidung beeinflusst auch deine späteren [Beitragsleistungen im Berufsleben](/blog/krankenkasse-wechseln-berufseinsteiger/), weil viele Kassen ihre Mitglieder langfristig binden.
 
 ---
 

@@ -60,7 +60,7 @@ Nach der Heirat: Der Ehepartner erbt gesetzlich einen Anteil (je nach Erbfolge 1
 
 **Haftpflichtversicherung:** Viele Tarife können auf beide Partner erweitert werden — prüfen, ob eine Police reicht oder zwei nötig sind.
 
-**Risikolebensversicherung:** [Jetzt relevant](/blog/risikolebensversicherung-wann-noetig), wenn ihr voneinander finanziell abhängig seid oder ein Immobilienkredit geplant ist.
+**Risikolebensversicherung:** [Jetzt relevant](/blog/risikolebensversicherung-wann-noetig/), wenn ihr voneinander finanziell abhängig seid oder ein Immobilienkredit geplant ist.
 
 ## Was mit der Altersvorsorge passiert
 
@@ -80,9 +80,9 @@ Nach der Heirat: Der Ehepartner erbt gesetzlich einen Anteil (je nach Erbfolge 1
 
 ## Verwandte Münster-Themen
 
-- [Geldanlage für Kinder in Münster](/blog/geldanlage-fuer-kinder-muenster)
-- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Geldanlage für Kinder in Münster](/blog/geldanlage-fuer-kinder-muenster/)
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

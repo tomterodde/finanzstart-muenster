@@ -60,11 +60,11 @@ Wenige freiwillige Beitragsmonate können hier den entscheidenden Unterschied ma
 Mehr Punkte = höhere Rente. Bei relativ niedrigen Pflichtbeiträgen (z. B. Teilzeit, Niedriglohn) können freiwillige Beiträge die monatliche Rente spürbar erhöhen.
 
 **3. Um Abschläge bei Frühverrentung auszugleichen**
-Ab 50 Jahren kann man gezielt Ausgleichszahlungen leisten, um die Abschläge bei einem vorzeitigen Renteneintritt zu kompensieren. Das ist steuerlich absetzbar und kann sich rechnen. [Was Frühverrentungsabschläge kosten, erklärt dieser Artikel.](/blog/rente-fruehzeitig-abschlaege)
+Ab 50 Jahren kann man gezielt Ausgleichszahlungen leisten, um die Abschläge bei einem vorzeitigen Renteneintritt zu kompensieren. Das ist steuerlich absetzbar und kann sich rechnen. [Was Frühverrentungsabschläge kosten, erklärt dieser Artikel.](/blog/rente-fruehzeitig-abschlaege/)
 
 ## Wann lohnt es sich weniger?
 
-**Wenn du Selbstständiger mit hohem Einkommen bist:** Eine Rürup-Rente oder ein ETF-Depot bietet oft mehr Flexibilität und ähnliche steuerliche Vorteile. [Was die Rürup-Rente für Selbstständige leistet, erklärt dieser Artikel.](/blog/ruerup-rente-selbststaendige)
+**Wenn du Selbstständiger mit hohem Einkommen bist:** Eine Rürup-Rente oder ein ETF-Depot bietet oft mehr Flexibilität und ähnliche steuerliche Vorteile. [Was die Rürup-Rente für Selbstständige leistet, erklärt dieser Artikel.](/blog/ruerup-rente-selbststaendige/)
 
 **Wenn du jung bist und keine Wartezeit-Probleme hast:** Für unter 40-Jährige mit ausreichend Beitragsjahren ist ein privater Sparplan oft renditestärker.
 

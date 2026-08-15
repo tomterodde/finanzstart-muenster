@@ -31,7 +31,7 @@ Der IRR (Internal Rate of Return, deutsch: interner Zinsfuß) ist die jährliche
 
 Vereinfacht gesagt: Der IRR beantwortet die Frage „Welche jährliche Rendite hat dieses Investment erzielt?" — und berücksichtigt dabei genau, **wann** jeder Euro geflossen ist. Geld, das früh zurückkommt, ist mehr wert als Geld, das spät kommt, weil man es früher wieder anlegen kann.
 
-Das ist derselbe Zeitwert-Gedanke, der auch hinter dem [Zinseszinseffekt](/blog/zinseszins-erklaert-berufseinsteiger) steckt — nur rückwärts gerechnet.
+Das ist derselbe Zeitwert-Gedanke, der auch hinter dem [Zinseszinseffekt](/blog/zinseszins-erklaert-berufseinsteiger/) steckt — nur rückwärts gerechnet.
 
 ## IRR vs. Multiple: Höhe gegen Geschwindigkeit
 
@@ -53,7 +53,7 @@ Gleicher Multiple, völlig anderer IRR. Genau deshalb hebelt Private Equity so s
 
 Der Fokus auf den IRR erklärt viele Strategien der Branche. Wenn die Geschwindigkeit der Rückzahlung die Rendite bestimmt, lohnt es sich:
 
-- möglichst viel **Fremdkapital** einzusetzen, um den eigenen Kapitaleinsatz klein zu halten (siehe [Leveraged Buyout](/blog/lbo-leveraged-buyout-einfach-erklaert)),
+- möglichst viel **Fremdkapital** einzusetzen, um den eigenen Kapitaleinsatz klein zu halten (siehe [Leveraged Buyout](/blog/lbo-leveraged-buyout-einfach-erklaert/)),
 - frühe Ausschüttungen über Dividenden oder Teilverkäufe zu generieren,
 - den Verkauf eines Unternehmens nicht zu lange hinauszuzögern.
 
@@ -73,11 +73,11 @@ Deshalb berichten seriöse Fonds immer **beide** Kennzahlen: IRR und Multiple. W
 
 ## Was ein guter IRR ist
 
-Private-Equity-Fonds zielen typischerweise auf einen **Netto-IRR von 15–20 %** für ihre Investoren — nach Abzug von Gebühren und [Carried Interest](/blog/carried-interest-einfach-erklaert). Auf Deal-Ebene, also vor Kosten, liegen die Zielwerte eher bei 20–25 %.
+Private-Equity-Fonds zielen typischerweise auf einen **Netto-IRR von 15–20 %** für ihre Investoren — nach Abzug von Gebühren und [Carried Interest](/blog/carried-interest-einfach-erklaert/). Auf Deal-Ebene, also vor Kosten, liegen die Zielwerte eher bei 20–25 %.
 
 Zum Vergleich: Ein breit gestreuter Aktien-ETF liefert langfristig im Schnitt rund 7 % pro Jahr. Der höhere PE-Zielwert ist die Kompensation für Illiquidität, höhere Kosten und Risiko — kein geschenkter Aufschlag.
 
-Ob und wie Private Equity überhaupt für Privatanleger zugänglich ist, steht in [Private Equity für Privatanleger](/blog/private-equity-privatanleger-eltif).
+Ob und wie Private Equity überhaupt für Privatanleger zugänglich ist, steht in [Private Equity für Privatanleger](/blog/private-equity-privatanleger-eltif/).
 
 ## Fazit
 

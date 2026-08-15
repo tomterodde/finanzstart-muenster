@@ -54,7 +54,7 @@ Dieser Artikel bietet eine **12-Punkte-Checkliste**, die kritischen Fragen für 
 
 **Prüfung:** Im öffentlichen **DIHK-Vermittlerregister** (vermittlerregister.info) kostenlos abrufbar. Eingabe Name oder Registernummer. Wenn der Berater dort nicht zu finden ist: **keine Zulassung, kein Geschäft**.
 
-[Detaillierter Leitfaden zur Prüfung im Vermittlerregister steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden)
+[Detaillierter Leitfaden zur Prüfung im Vermittlerregister steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden/)
 
 ### 2. Berufshaftpflichtversicherung 1,3 Mio. €
 
@@ -72,7 +72,7 @@ Dieser Artikel bietet eine **12-Punkte-Checkliste**, die kritischen Fragen für 
 - **Fondsgesellschaften:** 3–10 (große ETF-Anbieter plus aktive Manager)
 - **Banken:** mehrere für Festgeld und Immobilienfinanzierung
 
-**Red Flag:** "Wir arbeiten exklusiv mit Anbieter X" — das ist meist Strukturvertrieb eines einzelnen Konzerns, nicht freie Beratung.
+**Red Flag:** "Wir arbeiten exklusiv mit Anbieter X" — das ist meist [Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter/) eines einzelnen Konzerns, nicht freie Beratung.
 
 ### 4. Schriftliches Beratungsprotokoll (§ 18 WpHG)
 
@@ -139,7 +139,7 @@ Dieser Artikel bietet eine **12-Punkte-Checkliste**, die kritischen Fragen für 
 - **Provisionsbasiert (§ 34d/34f):** Welche Anbieter zahlen welche Provisionen? Wie hoch sind sie? Wie lange läuft die Stornohaftung?
 - **Honorarbasiert (§ 34h):** Stundensatz und Pauschalpreise klar kommuniziert, schriftlicher Vertrag vor Beratung.
 
-**Wichtig:** Vergütungsmodell ist sekundär — beide sind reguliert und legitim. **Entscheidend ist Transparenz.** [Detaillierter Vergleich Honorar- vs. Provisionsberatung steht hier.](/blog/honorarberatung-vs-provisionsberatung-vergleich)
+**Wichtig:** Vergütungsmodell ist sekundär — beide sind reguliert und legitim. **Entscheidend ist Transparenz.** [Detaillierter Vergleich Honorar- vs. Provisionsberatung steht hier.](/blog/honorarberatung-vs-provisionsberatung-vergleich/)
 
 ### 10. Referenzen oder Bewertungen verfügbar
 
@@ -267,7 +267,7 @@ Einen guten Finanzberater findet man nicht durch Glück — sondern durch **syst
 
 3. **Empfehlung aus dem Umfeld ist die qualifizierteste Quelle.** Langjährige Beziehungen mit echtem Track Record sind die beste Vorauswahl.
 
-[Vollständiger Vergleich Honorar- vs. Provisionsberatung steht hier.](/blog/honorarberatung-vs-provisionsberatung-vergleich) [Was ein Finanzberater wirklich kostet, steht hier.](/blog/was-kostet-ein-finanzberater) [Wie du die GewO-Zulassung im BaFin-Vermittlerregister prüfst, steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden)
+[Vollständiger Vergleich Honorar- vs. Provisionsberatung steht hier.](/blog/honorarberatung-vs-provisionsberatung-vergleich/) [Was ein Finanzberater wirklich kostet, steht hier.](/blog/was-kostet-ein-finanzberater/) [Wie du die GewO-Zulassung im BaFin-Vermittlerregister prüfst, steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden/)
 
 ---
 

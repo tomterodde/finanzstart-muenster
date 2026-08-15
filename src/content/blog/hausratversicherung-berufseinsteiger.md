@@ -49,11 +49,11 @@ Was typischerweise **nicht** enthalten ist: einfacher Diebstahl (Fahrrad auf der
 
 Kurzfassung für die erste eigene Wohnung: Ab einem Hausratwert von rund 10.000 € wird die Versicherung rational sinnvoll — und die Schwelle ist mit Laptop, Möbeln, Kleidung und Fahrrad schneller erreicht als gedacht. Die Prämie liegt je nach Wohnfläche und Lage bei 50 bis 150 Euro im Jahr.
 
-[Die vollständige Lohnt-sich-Rechnung mit allen Wann-ja-wann-nein-Fällen steht im Grundsatzartikel.](/blog/hausratversicherung-sinnvoll) Hier geht es im Folgenden um das, was beim **ersten eigenen Abschluss** konkret zu tun ist.
+[Die vollständige Lohnt-sich-Rechnung mit allen Wann-ja-wann-nein-Fällen steht im Grundsatzartikel.](/blog/hausratversicherung-sinnvoll/) Hier geht es im Folgenden um das, was beim **ersten eigenen Abschluss** konkret zu tun ist.
 
 ## Worauf du beim Abschluss achten solltest
 
-**Versicherungssumme richtig berechnen:** Die übliche Faustregel lautet 650 Euro pro Quadratmeter Wohnfläche. Bei 60 m² also 39.000 Euro. Zu niedrig angesetzte Summen führen zur sogenannten Unterversicherung — du bekommst bei einem Totalschaden nur einen Teil erstattet. [Die genaue Berechnungsmethode steht hier](/blog/hausratversicherung-versicherungssumme-berechnen), [was die Versicherung pro Quadratmeter kostet, hier](/blog/hausratversicherung-kosten-qm).
+**Versicherungssumme richtig berechnen:** Die übliche Faustregel lautet 650 Euro pro Quadratmeter Wohnfläche. Bei 60 m² also 39.000 Euro. Zu niedrig angesetzte Summen führen zur sogenannten Unterversicherung — du bekommst bei einem Totalschaden nur einen Teil erstattet. [Die genaue Berechnungsmethode steht hier](/blog/hausratversicherung-versicherungssumme-berechnen/), [was die Versicherung pro Quadratmeter kostet, hier](/blog/hausratversicherung-kosten-qm/).
 
 **Fahrrad einschließen:** Fahrraddiebstahl ist in vielen Tarifen optional. In Münster, wo Fahrräder massenhaft gestohlen werden, ist das kein Luxus.
 
@@ -65,9 +65,9 @@ Kurzfassung für die erste eigene Wohnung: Ab einem Hausratwert von rund 10.000 
 
 ## Hausratversicherung vs. Haftpflichtversicherung
 
-Kurz gesagt: Die Hausratversicherung schützt **deine Sachen**, die Haftpflicht schützt dich, wenn **du anderen** schadest — beides unabhängig voneinander, beides sinnvoll. [Die ausführliche Abgrenzung mit typischen Schadenfällen steht hier](/blog/hausratversicherung-haftpflicht-unterschied), [die Haftpflicht-Grundlagen hier](/blog/private-haftpflichtversicherung-berufseinsteiger).
+Kurz gesagt: Die Hausratversicherung schützt **deine Sachen**, die Haftpflicht schützt dich, wenn **du anderen** schadest — beides unabhängig voneinander, beides sinnvoll. [Die ausführliche Abgrenzung mit typischen Schadenfällen steht hier](/blog/hausratversicherung-haftpflicht-unterschied/), [die Haftpflicht-Grundlagen hier](/blog/private-haftpflichtversicherung-berufseinsteiger/).
 
-Wohnst du zur Miete oder in einer WG, gelten ein paar Besonderheiten — [die Mieter- und WG-Fälle sind hier erklärt](/blog/hausratversicherung-mieter-wg).
+Wohnst du zur Miete oder in einer WG, gelten ein paar Besonderheiten — [die Mieter- und WG-Fälle sind hier erklärt](/blog/hausratversicherung-mieter-wg/).
 
 ## Fazit
 

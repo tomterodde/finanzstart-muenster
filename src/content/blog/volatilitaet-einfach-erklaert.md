@@ -86,7 +86,7 @@ Mischung aus Aktien und Anleihen reduziert die Gesamtschwankung überproportiona
 | 30/70 | ~ 7 % | ~ 4 % |
 
 **2. Diversifikation innerhalb Aktienanteil**
-Welt-ETF statt Einzelaktien eliminiert das unsystematische Risiko fast vollständig. Mehr dazu: [Systematisches vs. unsystematisches Risiko](/blog/systematisches-unsystematisches-risiko).
+Welt-ETF statt Einzelaktien eliminiert das unsystematische Risiko fast vollständig. Mehr dazu: [Systematisches vs. unsystematisches Risiko](/blog/systematisches-unsystematisches-risiko/).
 
 **3. Anlagezeitraum verlängern**
 Volatilität skaliert mit der Wurzel der Zeit. Rollierende Renditen MSCI World:
@@ -102,7 +102,7 @@ Volatilität skaliert mit der Wurzel der Zeit. Rollierende Renditen MSCI World:
 
 Akzeptabel, wenn alle drei Bedingungen erfüllt sind:
 1. **Anlagehorizont** mindestens 10–15 Jahre
-2. **Liquiditätspuffer** vorhanden (3–6 Monatsausgaben separat — siehe [Liquidität erklärt](/blog/liquiditaet-einfach-erklaert))
+2. **Liquiditätspuffer** vorhanden (3–6 Monatsausgaben separat — siehe [Liquidität erklärt](/blog/liquiditaet-einfach-erklaert/))
 3. **Emotionale Stressresistenz** — bei 30 % Drawdown nicht panisch verkaufen
 
 ## Wann hohe Volatilität NICHT ok ist

@@ -47,7 +47,7 @@ Fällt ein Unternehmen aus dem Index, wird es automatisch ersetzt. Du entscheide
 | Aufwand | hoch (Recherche, Monitoring) | minimal |
 | Diversifikation | keine bis gering | sehr hoch |
 
-Das Marktrisiko — also dass der gesamte Aktienmarkt fällt — tragen beide. Aber das unternehmensspezifische Risiko ist beim ETF wegdiversifiziert. [Was Diversifikation bedeutet, erklärt dieser Artikel.](/blog/diversifikation-erklaert-risiko-streuen)
+Das Marktrisiko — also dass der gesamte Aktienmarkt fällt — tragen beide. Aber das unternehmensspezifische Risiko ist beim ETF wegdiversifiziert. [Was Diversifikation bedeutet, erklärt dieser Artikel.](/blog/diversifikation-erklaert-risiko-streuen/)
 
 ## Kann man mit Einzelaktien mehr verdienen?
 
@@ -71,7 +71,7 @@ Für die meisten Berufseinsteiger gilt: ETF zuerst, Einzelaktien wenn überhaupt
 
 Der ETF-Sparplan braucht nach dem Setup kaum Aufmerksamkeit. Die Zeit, die du dadurch sparst, kannst du sinnvoller einsetzen — für Gehaltsverhandlungen, Weiterbildung oder das Leben selbst.
 
-[Wie ein ETF-Sparplan konkret aufgesetzt wird, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster)
+[Wie ein ETF-Sparplan konkret aufgesetzt wird, erklärt dieser Artikel.](/blog/etf-sparplan-einsteiger-muenster/)
 
 ## Fazit
 

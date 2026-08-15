@@ -74,7 +74,7 @@ Netto 2.040 € minus 1.380 € Fixkosten = **660 Euro frei verfügbar**.
 
 Aus diesen 660 Euro kommen:
 
-- **Altersvorsorge:** Mindestens 10 % des Nettos empfehlen Finanzplaner — also ca. 200 Euro. Wer früh anfängt, kann weniger einzahlen und mehr erreichen. [Warum das so ist, erklärt dieser Artikel über Zinseszins.](/blog/zinseszins-erklaert-berufseinsteiger)
+- **Altersvorsorge:** Mindestens 10 % des Nettos empfehlen Finanzplaner — also ca. 200 Euro. Wer früh anfängt, kann weniger einzahlen und mehr erreichen. [Warum das so ist, erklärt dieser Artikel über Zinseszins.](/blog/zinseszins-erklaert-berufseinsteiger/)
 - **Versicherungen:** Haftpflicht, BU, ggf. Hausrat — grob 30–60 Euro/Monat.
 - **Notgroschen aufbauen:** In den ersten Monaten 100–150 Euro beiseitelegen, bis 3 Monatsnettos erreicht sind.
 - **Freizeit, Restaurants, Reisen:** Das, was das Leben in Münster lebenswert macht.
@@ -85,9 +85,9 @@ Nach Altersvorsorge und Versicherungen bleiben ca. 400 Euro für Freizeit und Un
 
 **Miete ist der größte Hebel.** Wer in einer WG wohnt statt alleine, zahlt 300–400 Euro weniger — das sind über das Jahr 3.600–4.800 Euro mehr Spielraum. Für Berufseinsteiger in Münster ist die WG finanziell oft die cleverere Wahl als die erste eigene Wohnung.
 
-**Krankenkasse:** 50–100 Euro Unterschied pro Monat, je nach Anbieter. [Wie du die richtige Kasse wählst, erklärt dieser Artikel.](/blog/krankenkasse-wechseln-berufseinsteiger)
+**Krankenkasse:** 50–100 Euro Unterschied pro Monat, je nach Anbieter. [Wie du die richtige Kasse wählst, erklärt dieser Artikel.](/blog/krankenkasse-wechseln-berufseinsteiger/)
 
-**Steuererklärung:** Viele Berufseinsteiger lassen hunderte Euro liegen. Arbeitsmittel, Fahrtkosten, Homeoffice-Pauschale — das summiert sich. [Was du als Berufseinsteiger absetzen kannst, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster)
+**Steuererklärung:** Viele Berufseinsteiger lassen hunderte Euro liegen. Arbeitsmittel, Fahrtkosten, Homeoffice-Pauschale — das summiert sich. [Was du als Berufseinsteiger absetzen kannst, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster/)
 
 ## Was bei höherem Gehalt passiert
 
@@ -97,9 +97,9 @@ Gehaltsverhandlungen, Weiterbildung und Jobwechsel nach 2–3 Jahren sind finanz
 
 ## Verwandte Münster-Themen
 
-- [Wohnkosten und Nebenkosten in Münster im Überblick](/blog/wohnen-muenster-kosten-nebenkosten)
-- [Mieten oder Kaufen in Münster: Was rechnet sich?](/blog/mieten-oder-kaufen-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Wohnkosten und Nebenkosten in Münster im Überblick](/blog/wohnen-muenster-kosten-nebenkosten/)
+- [Mieten oder Kaufen in Münster: Was rechnet sich?](/blog/mieten-oder-kaufen-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

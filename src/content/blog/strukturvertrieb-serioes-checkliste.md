@@ -46,7 +46,7 @@ Strukturvertrieb seriös oder Finger weg? Die Frage stellt sich doppelt: als Kun
 
 ## Punkt 1–3: Die K.-o.-Kriterien
 
-**1. Vermittlerregister-Eintrag.** Jeder, der in Deutschland Versicherungen oder Finanzanlagen vermittelt, braucht eine Erlaubnis nach § 34d bzw. § 34f GewO und steht im DIHK-Vermittlerregister. Die Prüfung dauert zwei Minuten: Registernummer erfragen, auf vermittlerregister.info eingeben. Kein Eintrag, keine Nummer, Ausreden? Gespräch beenden. [Die ausführliche Anleitung zur Registerprüfung steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden)
+**1. Vermittlerregister-Eintrag.** Jeder, der in Deutschland Versicherungen oder Finanzanlagen vermittelt, braucht eine Erlaubnis nach § 34d bzw. § 34f GewO und steht im DIHK-Vermittlerregister. Die Prüfung dauert zwei Minuten: Registernummer erfragen, auf vermittlerregister.info eingeben. Kein Eintrag, keine Nummer, Ausreden? Gespräch beenden. [Die ausführliche Anleitung zur Registerprüfung steht hier.](/blog/bafin-vermittlerregister-pruefen-leitfaden/)
 
 **2. Keine Eintrittsgebühren, kein Eigenkauf.** Seriöse Vertriebe verdienen, wenn Kunden Produkte abschließen — nicht, wenn neue Vermittler einsteigen. Reale Einstiegskosten beschränken sich auf die Gewerbeanmeldung (unter 60 €) und später die IHK-Prüfungsgebühr. Lizenzgebühren, Starterpakete, Pflicht-Eigenverträge: alles Warnsignale Richtung Schneeballsystem — progressive Kundenwerbung ist nach **§ 16 UWG strafbar**.
 
@@ -54,7 +54,7 @@ Strukturvertrieb seriös oder Finger weg? Die Frage stellt sich doppelt: als Kun
 
 ## Punkt 4–6: Der Blick in den Vertrag
 
-**4. Transparente Provisionsregeln.** Karrierestufen, Provisionssätze und Beförderungskriterien gehören schriftlich auf den Tisch — inklusive der Verteilungsregeln, die verhindern, dass nur die Spitze verdient. [Wie die Karrierestufen-Mechanik funktioniert, erklärt der Hub-Artikel](/blog/strukturvertrieb-was-steckt-dahinter), [was realistisch zu verdienen ist, dieser](/blog/strukturvertrieb-gehalt-verdienst).
+**4. Transparente Provisionsregeln.** Karrierestufen, Provisionssätze und Beförderungskriterien gehören schriftlich auf den Tisch — inklusive der Verteilungsregeln, die verhindern, dass nur die Spitze verdient. [Wie die Karrierestufen-Mechanik funktioniert, erklärt der Hub-Artikel](/blog/strukturvertrieb-was-steckt-dahinter/), [was realistisch zu verdienen ist, dieser](/blog/strukturvertrieb-gehalt-verdienst/).
 
 **5. Faire Stornohaftung.** Dass Vermittler Provision zurückzahlen, wenn Kunden früh kündigen, ist kein Skandal — es ist der Mechanismus, der nachhaltige Beratung erzwingt. Fair ist: klare Staffelung über die Haftungszeit (üblich bis 5 Jahre), transparente Stornoreserve, keine Haftung für fremde Verträge. Unfair: Verrechnungsklauseln, die niemand versteht.
 
@@ -66,9 +66,9 @@ Strukturvertrieb seriös oder Finger weg? Die Frage stellt sich doppelt: als Kun
 
 **8. Einkommensquelle Kundengeschäft.** Der Pyramiden-Test in einer Frage: *Fließt Geld, wenn ein neuer Berater unterschreibt — oder erst, wenn ein Kunde ein Produkt abschließt?* Nur das Zweite ist ein legitimes Vertriebsmodell. Anwerbeprämien pro Kopf sind das Kernmerkmal verbotener Systeme.
 
-**9. Bedenkzeit-Test.** Sag im Gespräch: "Ich entscheide in zwei Wochen." Seriöse Gesprächspartner respektieren das selbstverständlich. Wer dann Druck aufbaut ("das Angebot gilt nur heute"), hat den Test nicht bestanden — als Berater wie als Arbeitgeber. [Woran du generell gute Berater erkennst, liest du hier.](/blog/wie-finde-ich-einen-guten-finanzberater)
+**9. Bedenkzeit-Test.** Sag im Gespräch: "Ich entscheide in zwei Wochen." Seriöse Gesprächspartner respektieren das selbstverständlich. Wer dann Druck aufbaut ("das Angebot gilt nur heute"), hat den Test nicht bestanden — als Berater wie als Arbeitgeber. [Woran du generell gute Berater erkennst, liest du hier.](/blog/wie-finde-ich-einen-guten-finanzberater/)
 
-**10. Realistische Einkommenskommunikation.** Seriös klingt: "Die ersten 12 Monate sind eine Aufbauphase, plane nebenberuflich oder mit Rücklagen." Unseriös klingt: "Vierstellig im ersten Monat, fünfstellig im ersten Jahr — garantiert." [Wie die ersten Monate wirklich aussehen, habe ich aus eigener Erfahrung beschrieben.](/blog/strukturvertrieb-erfahrungen-trainee)
+**10. Realistische Einkommenskommunikation.** Seriös klingt: "Die ersten 12 Monate sind eine Aufbauphase, plane nebenberuflich oder mit Rücklagen." Unseriös klingt: "Vierstellig im ersten Monat, fünfstellig im ersten Jahr — garantiert." [Wie die ersten Monate wirklich aussehen, habe ich aus eigener Erfahrung beschrieben.](/blog/strukturvertrieb-erfahrungen-trainee/)
 
 ## Fazit: Eine Stunde Prüfung erspart Jahre Ärger
 

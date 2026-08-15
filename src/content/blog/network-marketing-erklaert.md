@@ -66,11 +66,11 @@ Das heißt nicht, dass niemand verdient. Es heißt: Network Marketing ist **Vert
 Finanzvertriebe arbeiten ebenfalls mit mehrstufigen Strukturen — werden deshalb oft in denselben Topf geworfen. Der Unterschied ist fundamental und heißt **Regulierung**:
 
 - **Zulassungspflicht:** Wer Versicherungen oder Finanzanlagen vermittelt, braucht eine staatliche Erlaubnis (§ 34d/§ 34f GewO) samt **IHK-Sachkundeprüfung** — eine geregelte Prüfung mit schriftlichem und praktischem Teil. Im klassischen Network Marketing kann jeder sofort loslegen.
-- **Registerpflicht:** Jeder Finanzvermittler steht im öffentlichen DIHK-Vermittlerregister — [in zwei Minuten prüfbar](/blog/bafin-vermittlerregister-pruefen-leitfaden).
+- **Registerpflicht:** Jeder Finanzvermittler steht im öffentlichen DIHK-Vermittlerregister — [in zwei Minuten prüfbar](/blog/bafin-vermittlerregister-pruefen-leitfaden/).
 - **Beratungs- und Dokumentationspflicht:** Finanzberatung erfordert Beratungsprotokoll, Geeignetheitsprüfung und Vergütungstransparenz nach VVG. Der Kosmetik-Partner schuldet nichts davon.
 - **Wirtschaftliche Qualitätskontrolle:** Stornohaftung und Bestandsquoten koppeln das Vermittlereinkommen an langfristig haltbare Beratung.
 
-Kurz: [Seriöser Finanz-Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter) ist ein regulierter Berufsweg mit Marktzugangshürden — Network Marketing ist ein offenes Vertriebsmodell, dessen Qualität allein vom Unternehmen abhängt. Genau diese Offenheit zieht die schwarzen Schafe an, die dann das Image beider Modelle beschädigen. [Woran du seriöse Strukturvertriebe konkret erkennst, steht in der 10-Punkte-Checkliste.](/blog/strukturvertrieb-serioes-checkliste)
+Kurz: [Seriöser Finanz-Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter/) ist ein regulierter Berufsweg mit Marktzugangshürden — Network Marketing ist ein offenes Vertriebsmodell, dessen Qualität allein vom Unternehmen abhängt. Genau diese Offenheit zieht die schwarzen Schafe an, die dann das Image beider Modelle beschädigen. [Woran du seriöse Strukturvertriebe konkret erkennst, steht in der 10-Punkte-Checkliste.](/blog/strukturvertrieb-serioes-checkliste/)
 
 ## Ist Network Marketing seriös? Die 5-Punkte-Checkliste
 
@@ -82,7 +82,7 @@ Eine pauschale Antwort gibt es nicht — Seriosität hängt am konkreten Unterne
 4. **Einkommens-Test:** Verlange die offiziellen Zahlen zu durchschnittlichen Partnereinkommen. Ausweichen ist eine Antwort.
 5. **Druck-Test:** "Ich entscheide in zwei Wochen" — wer das nicht akzeptiert, will keine Partner, sondern Beute.
 
-Wer ernsthaft über selbstständigen Vertrieb als Einkommensweg nachdenkt, sollte die Alternativen kennen: [Was nebenberufliche Selbstständigkeit generell erfordert](/blog/selbststaendig-nebenberuflich-einstieg), [wie sich ein zweites Standbein systematisch aufbauen lässt](/blog/zweites-standbein-nebenberuflich-aufbauen) — und [was im regulierten Finanzvertrieb realistisch zu verdienen ist](/blog/strukturvertrieb-gehalt-verdienst).
+Wer ernsthaft über selbstständigen Vertrieb als Einkommensweg nachdenkt, sollte die Alternativen kennen: [Was nebenberufliche Selbstständigkeit generell erfordert](/blog/selbststaendig-nebenberuflich-einstieg/), [wie sich ein zweites Standbein systematisch aufbauen lässt](/blog/zweites-standbein-nebenberuflich-aufbauen/) — und [was im regulierten Finanzvertrieb realistisch zu verdienen ist](/blog/strukturvertrieb-gehalt-verdienst/).
 
 <aside class="career-cta" style="background: var(--accent-light); border: 1px solid rgba(26, 107, 60, 0.2); border-left: 4px solid var(--accent); border-radius: 10px; padding: 1.5em 1.75em; margin: 2.5em 0;">
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Vertrieb ja — aber reguliert?</p>

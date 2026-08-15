@@ -70,7 +70,7 @@ Rechenbeispiel: Eine Tochter erbt 550.000 €. Nach Abzug des Freibetrags von 40
 
 Alle Freibeträge gelten nicht einmalig, sondern **alle 10 Jahre neu** — für Schenkungen zu Lebzeiten genauso wie für den Erbfall. Schenkungen und Erbschaft innerhalb von 10 Jahren werden dabei zusammengerechnet.
 
-Das macht frühzeitiges Übertragen zum stärksten legalen Steuerinstrument: Wer seinem Kind mit 55 Jahren 400.000 € schenkt und mit 70 erneut, hat 800.000 € steuerfrei übertragen — und beim späteren Erbfall steht der Freibetrag ein drittes Mal zur Verfügung. Gerade bei Immobilienvermögen, das über die Freibeträge hinauswächst, entscheidet der Startzeitpunkt über fünf- bis sechsstellige Steuerbeträge. Wie Immobilien als Vermögensbaustein überhaupt funktionieren, liest du in [Immobilie als Kapitalanlage](/blog/immobilie-als-kapitalanlage).
+Das macht frühzeitiges Übertragen zum stärksten legalen Steuerinstrument: Wer seinem Kind mit 55 Jahren 400.000 € schenkt und mit 70 erneut, hat 800.000 € steuerfrei übertragen — und beim späteren Erbfall steht der Freibetrag ein drittes Mal zur Verfügung. Gerade bei Immobilienvermögen, das über die Freibeträge hinauswächst, entscheidet der Startzeitpunkt über fünf- bis sechsstellige Steuerbeträge. Wie Immobilien als Vermögensbaustein überhaupt funktionieren, liest du in [Immobilie als Kapitalanlage](/blog/immobilie-als-kapitalanlage/).
 
 ## Sonderfall Familienheim: Steuerfrei unter Bedingungen
 
@@ -80,9 +80,9 @@ Für Kinder gilt dasselbe bis **200 m² Wohnfläche**. Wer die Immobilie vor Abl
 
 ## Was Berufseinsteiger damit zu tun haben
 
-Mehr, als viele denken — in beide Richtungen. Erstens: Die Generation der Babyboomer vererbt in den kommenden zwei Jahrzehnten so viel Vermögen wie keine zuvor. Ob ein künftiges Erbe kommt und wie es strukturiert ist, gehört in die eigene Finanzplanung — genauso wie der Umgang damit, etwa beim [Ansparen von Eigenkapital für den Immobilienkauf](/blog/eigenkapital-immobilienkauf-ansparen).
+Mehr, als viele denken — in beide Richtungen. Erstens: Die Generation der Babyboomer vererbt in den kommenden zwei Jahrzehnten so viel Vermögen wie keine zuvor. Ob ein künftiges Erbe kommt und wie es strukturiert ist, gehört in die eigene Finanzplanung — genauso wie der Umgang damit, etwa beim [Ansparen von Eigenkapital für den Immobilienkauf](/blog/eigenkapital-immobilienkauf-ansparen/).
 
-Zweitens: Der Blick auf die Tabelle oben zeigt, wie teuer fehlende Struktur wird. Ein unverheiratetes Paar mit gemeinsamer Immobilie, [frisch verheiratete Paare ohne Regelung](/blog/finanzplanung-heirat-muenster) oder Eltern, die [Vermögen für Kinder aufbauen](/blog/geldanlage-fuer-kinder-muenster) — in all diesen Konstellationen lassen sich mit einfachen Mitteln (Heirat, Schenkungsfahrplan, Testament) hohe Steuerlasten vermeiden.
+Zweitens: Der Blick auf die Tabelle oben zeigt, wie teuer fehlende Struktur wird. Ein unverheiratetes Paar mit gemeinsamer Immobilie, [frisch verheiratete Paare ohne Regelung](/blog/finanzplanung-heirat-muenster/) oder Eltern, die [Vermögen für Kinder aufbauen](/blog/geldanlage-fuer-kinder-muenster/) — in all diesen Konstellationen lassen sich mit einfachen Mitteln (Heirat, Schenkungsfahrplan, Testament) hohe Steuerlasten vermeiden.
 
 Ab welcher Vermögensgröße welche Gestaltung sinnvoll ist, hängt von Familienstand, Immobilienwerten und Lebensplanung ab — das ist ein klassisches Thema für ein Gespräch mit einem Berater oder bei komplexen Nachlässen mit einem Fachanwalt für Erbrecht.
 

@@ -23,7 +23,7 @@ sources:
 
 Wenn ein Unternehmer seine Firma für 300 Mio. € verkauft, hat er ein Problem, das die wenigsten kennen: Wer managt jetzt dieses Geld — über Jahrzehnte, über Anlageklassen, über Generationen? Die Antwort der Superreichen heißt **Family Office**.
 
-Laut Deloitte gibt es weltweit über **8.000 Single Family Offices**, Tendenz stark steigend — und Deutschland ist mit seinen Unternehmerfamilien einer der wichtigsten Märkte. Gleichzeitig sind Family Offices im [Private-Equity-Markt](/blog/private-equity-erklaert-grundlagen) zu einem der einflussreichsten Investorentypen geworden.
+Laut Deloitte gibt es weltweit über **8.000 Single Family Offices**, Tendenz stark steigend — und Deutschland ist mit seinen Unternehmerfamilien einer der wichtigsten Märkte. Gleichzeitig sind Family Offices im [Private-Equity-Markt](/blog/private-equity-erklaert-grundlagen/) zu einem der einflussreichsten Investorentypen geworden.
 
 Dieser Artikel erklärt, was ein Family Office macht, ab wann es sich lohnt und warum die Deal-Welt so gern mit Familiengeld arbeitet.
 
@@ -56,23 +56,23 @@ Das **MFO** demokratisiert das Modell: Mehrere Familien teilen sich Investment-T
 
 Family Offices sind aus der Deal-Welt nicht mehr wegzudenken — aus drei Gründen:
 
-**Erstens: Patient Capital.** Familien müssen keinen Fonds nach [10 Jahren liquidieren](/blog/private-equity-fonds-funktionsweise) — sie können Beteiligungen 20 Jahre und länger halten. Das macht sie zu bevorzugten Käufern für Mittelständler, denen der klassische PE-Exit-Druck widerstrebt.
+**Erstens: Patient Capital.** Familien müssen keinen Fonds nach [10 Jahren liquidieren](/blog/private-equity-fonds-funktionsweise/) — sie können Beteiligungen 20 Jahre und länger halten. Das macht sie zu bevorzugten Käufern für Mittelständler, denen der klassische PE-Exit-Druck widerstrebt.
 
 **Zweitens: LP-Rolle.** Als Limited Partner stecken Family Offices Milliarden in PE-Fonds und sitzen damit an denselben Tischen wie Pensionskassen und Versicherer.
 
-**Drittens: Direktbeteiligungen und Club Deals.** Immer mehr Familien investieren direkt in Unternehmen — allein oder im Verbund mit anderen Familien. Sie umgehen damit die [2/20-Gebührenstruktur](/blog/carried-interest-einfach-erklaert) der Fonds und behalten die Kontrolle. Viele deutsche Unternehmensverkäufe laufen heute an Familienvermögen statt an klassische Fonds.
+**Drittens: Direktbeteiligungen und Club Deals.** Immer mehr Familien investieren direkt in Unternehmen — allein oder im Verbund mit anderen Familien. Sie umgehen damit die [2/20-Gebührenstruktur](/blog/carried-interest-einfach-erklaert/) der Fonds und behalten die Kontrolle. Viele deutsche Unternehmensverkäufe laufen heute an Familienvermögen statt an klassische Fonds.
 
-Nebenbei: Auch [Hedgefonds](/blog/hedgefonds-einfach-erklaert) haben ihre Wurzeln teils in diesem Umfeld — mehrere bekannte Häuser haben sich nach der Rückgabe von Fremdkapital in reine Family Offices umgewandelt.
+Nebenbei: Auch [Hedgefonds](/blog/hedgefonds-einfach-erklaert/) haben ihre Wurzeln teils in diesem Umfeld — mehrere bekannte Häuser haben sich nach der Rückgabe von Fremdkapital in reine Family Offices umgewandelt.
 
 ## Family Office als Karriereweg
 
-Für Finance-Interessierte ist das Family Office ein oft übersehener Arbeitgeber: Investment-Analysten, Portfolio-Manager und Beteiligungsmanager arbeiten dort an denselben Themen wie in Fonds — mit meist besserer Work-Life-Balance, aber kleineren Teams und weniger standardisierten Karrierepfaden als im [Investment Banking](/blog/investment-banking-einstieg-gehalt).
+Für Finance-Interessierte ist das Family Office ein oft übersehener Arbeitgeber: Investment-Analysten, Portfolio-Manager und Beteiligungsmanager arbeiten dort an denselben Themen wie in Fonds — mit meist besserer Work-Life-Balance, aber kleineren Teams und weniger standardisierten Karrierepfaden als im [Investment Banking](/blog/investment-banking-einstieg-gehalt/).
 
-Der typische Weg führt über einige Jahre Banking, [Private-Equity](/blog/private-equity-karriere-bwl-einstieg)- oder Beratungserfahrung — Familien kaufen Expertise ein, die sich anderswo bewiesen hat.
+Der typische Weg führt über einige Jahre Banking, [Private-Equity](/blog/private-equity-karriere-bwl-einstieg/)- oder Beratungserfahrung — Familien kaufen Expertise ein, die sich anderswo bewiesen hat.
 
 ## Was das für dich bedeutet
 
-Kaum jemand, der diesen Artikel liest, gründet morgen ein Family Office. Aber das Modell erklärt zwei Dinge, die jeden Anleger betreffen: **Erstens** denken die erfolgreichsten Vermögensverwalter der Welt in Jahrzehnten und Anlageklassen-Mix, nicht in Einzelwetten. **Zweitens** ist professionelle Struktur — klare Strategie, Diversifikation über [mehrere Anlageklassen](/blog/diversifikation-erklaert-risiko-streuen), regelmäßiges Reporting — kein Privileg der Reichen, sondern ein Prinzip, das skaliert.
+Kaum jemand, der diesen Artikel liest, gründet morgen ein Family Office. Aber das Modell erklärt zwei Dinge, die jeden Anleger betreffen: **Erstens** denken die erfolgreichsten Vermögensverwalter der Welt in Jahrzehnten und Anlageklassen-Mix, nicht in Einzelwetten. **Zweitens** ist professionelle Struktur — klare Strategie, Diversifikation über [mehrere Anlageklassen](/blog/diversifikation-erklaert-risiko-streuen/), regelmäßiges Reporting — kein Privileg der Reichen, sondern ein Prinzip, das skaliert.
 
 Die Grundidee lässt sich auf jedes Vermögen übertragen: eine Gesamtstrategie statt verstreuter Einzelentscheidungen. Wie diese Struktur für deine Situation aussieht, ist eine Frage für ein persönliches Beratungsgespräch.
 

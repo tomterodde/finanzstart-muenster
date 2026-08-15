@@ -42,11 +42,11 @@ Die mathematische Logik dahinter: Versicherungen kosten langfristig mehr, als si
 
 Diese drei decken die existenziellen Risiken ab. Sie stehen ganz oben — vor allem anderen.
 
-**1. Krankenversicherung.** In Deutschland Pflicht, daher keine echte Entscheidung. Wichtig wird sie bei der Frage gesetzlich oder privat — und beim Tarif. Wer über die Versicherungspflichtgrenze kommt oder den Anbieter wechseln will, sollte die Konditionen genau prüfen; [worauf es beim Wechsel der gesetzlichen Krankenkasse ankommt, steht hier](/blog/wechsel-gesetzliche-krankenversicherung).
+**1. Krankenversicherung.** In Deutschland Pflicht, daher keine echte Entscheidung. Wichtig wird sie bei der Frage gesetzlich oder privat — und beim Tarif. Wer über die Versicherungspflichtgrenze kommt oder den Anbieter wechseln will, sollte die Konditionen genau prüfen; [worauf es beim Wechsel der gesetzlichen Krankenkasse ankommt, steht hier](/blog/wechsel-gesetzliche-krankenversicherung/).
 
-**2. Private Haftpflichtversicherung.** Die wichtigste freiwillige Versicherung überhaupt — und eine der günstigsten. Wer fahrlässig einen Personenschaden verursacht, haftet nach deutschem Recht mit seinem gesamten Vermögen, lebenslang, bis in Millionenhöhe. Eine gute Police kostet oft unter 70 Euro im Jahr und deckt Summen von 10 bis 50 Millionen Euro ab. [Warum die Privathaftpflicht für Berufseinsteiger unverzichtbar ist, liest du hier](/blog/private-haftpflichtversicherung-berufseinsteiger).
+**2. Private Haftpflichtversicherung.** Die wichtigste freiwillige Versicherung überhaupt — und eine der günstigsten. Wer fahrlässig einen Personenschaden verursacht, haftet nach deutschem Recht mit seinem gesamten Vermögen, lebenslang, bis in Millionenhöhe. Eine gute Police kostet oft unter 70 Euro im Jahr und deckt Summen von 10 bis 50 Millionen Euro ab. [Warum die Privathaftpflicht für Berufseinsteiger unverzichtbar ist, liest du hier](/blog/private-haftpflichtversicherung-berufseinsteiger/).
 
-**3. Berufsunfähigkeitsversicherung.** Dein größtes Vermögen ist nicht dein Konto, sondern deine Arbeitskraft. Wer mit 30 anfängt zu arbeiten, verdient bis zur Rente schnell eine bis zwei Millionen Euro — fällt dieses Einkommen weg, reicht die gesetzliche Erwerbsminderungsrente bei Weitem nicht. Versicherer beziffern das Risiko, vor dem Renteneintritt berufsunfähig zu werden, auf rund jeden Vierten. [Wie eine BU funktioniert und worauf du achten musst, erklärt dieser Guide](/blog/berufsunfaehigkeitsversicherung-guide) — und [warum gerade junge, gesunde Menschen jetzt abschließen sollten, zeigen die Wahrscheinlichkeiten](/blog/bu-wahrscheinlichkeit-statistik-jung).
+**3. Berufsunfähigkeitsversicherung.** Dein größtes Vermögen ist nicht dein Konto, sondern deine Arbeitskraft. Wer mit 30 anfängt zu arbeiten, verdient bis zur Rente schnell eine bis zwei Millionen Euro — fällt dieses Einkommen weg, reicht die gesetzliche Erwerbsminderungsrente bei Weitem nicht. Versicherer beziffern das Risiko, vor dem Renteneintritt berufsunfähig zu werden, auf rund jeden Vierten. [Wie eine BU funktioniert und worauf du achten musst, erklärt dieser Guide](/blog/berufsunfaehigkeitsversicherung-guide/) — und [warum gerade junge, gesunde Menschen jetzt abschließen sollten, zeigen die Wahrscheinlichkeiten](/blog/bu-wahrscheinlichkeit-statistik-jung/).
 
 ## Wichtig, sobald deine Situation es verlangt
 
@@ -60,25 +60,25 @@ Diese Versicherungen sind nicht für jeden Pflicht — aber sobald die passende 
 | Krankentagegeld | du selbstständig bist oder die Gehaltsfortzahlung nicht reicht |
 | Rechtsschutz | dein Risiko für Rechtsstreite überdurchschnittlich ist |
 
-**Hausrat** lohnt sich, sobald die Wiederbeschaffung deines gesamten Hausstands ein echtes finanzielles Loch reißen würde. [Ob eine Hausratversicherung für dich sinnvoll ist, klärt dieser Artikel](/blog/hausratversicherung-sinnvoll) — und wer Hausrat und Haftpflicht oft verwechselt, findet [hier den Unterschied erklärt](/blog/hausratversicherung-haftpflicht-unterschied).
+**Hausrat** lohnt sich, sobald die Wiederbeschaffung deines gesamten Hausstands ein echtes finanzielles Loch reißen würde. [Ob eine Hausratversicherung für dich sinnvoll ist, klärt dieser Artikel](/blog/hausratversicherung-sinnvoll/) — und wer Hausrat und Haftpflicht oft verwechselt, findet [hier den Unterschied erklärt](/blog/hausratversicherung-haftpflicht-unterschied/).
 
-**Kfz-Versicherung** ist für Fahrzeughalter Pflicht; die Frage ist nur Teil- oder Vollkasko. [Wann sich Vollkasko gegenüber Teilkasko rechnet, erfährst du hier](/blog/kfz-versicherung-vollkasko-teilkasko).
+**Kfz-Versicherung** ist für Fahrzeughalter Pflicht; die Frage ist nur Teil- oder Vollkasko. [Wann sich Vollkasko gegenüber Teilkasko rechnet, erfährst du hier](/blog/kfz-versicherung-vollkasko-teilkasko/).
 
-**Risikolebensversicherung** wird relevant, sobald jemand von deinem Einkommen abhängt — Partner, Kinder — oder du eine Immobilie finanzierst. [Wann eine Risikolebensversicherung nötig ist, liest du hier](/blog/risikolebensversicherung-wann-noetig).
+**Risikolebensversicherung** wird relevant, sobald jemand von deinem Einkommen abhängt — Partner, Kinder — oder du eine Immobilie finanzierst. [Wann eine Risikolebensversicherung nötig ist, liest du hier](/blog/risikolebensversicherung-wann-noetig/).
 
-**Krankentagegeld** schließt die Lücke, wenn nach sechs Wochen die Lohnfortzahlung endet und das Krankengeld dein Nettoeinkommen nicht deckt. Besonders für Selbstständige relevant — [wann ein Krankentagegeld nötig ist, steht hier](/blog/krankentagegeld-wann-noetig).
+**Krankentagegeld** schließt die Lücke, wenn nach sechs Wochen die Lohnfortzahlung endet und das Krankengeld dein Nettoeinkommen nicht deckt. Besonders für Selbstständige relevant — [wann ein Krankentagegeld nötig ist, steht hier](/blog/krankentagegeld-wann-noetig/).
 
-**Rechtsschutz** ist die am meisten diskutierte dieser Gruppe — sinnvoll für manche, verzichtbar für andere. [Wann sich eine Rechtsschutzversicherung lohnt, klärt dieser Artikel](/blog/rechtsschutzversicherung-wann-sinnvoll).
+**Rechtsschutz** ist die am meisten diskutierte dieser Gruppe — sinnvoll für manche, verzichtbar für andere. [Wann sich eine Rechtsschutzversicherung lohnt, klärt dieser Artikel](/blog/rechtsschutzversicherung-wann-sinnvoll/).
 
 ## Sinnvoll für manche, überflüssig für viele
 
 Diese Versicherungen haben eine klare Zielgruppe — pauschal braucht sie aber niemand.
 
-- **Unfallversicherung:** Greift nur bei unfallbedingter Invalidität, nicht bei Krankheit. Da die meisten Invaliditätsfälle krankheitsbedingt sind, ist sie kein BU-Ersatz. [Wann eine private Unfallversicherung sinnvoll ist, liest du hier](/blog/unfallversicherung-wann-sinnvoll).
-- **Zahnzusatzversicherung:** Lohnt sich vor allem, wenn hochwertiger Zahnersatz absehbar ist. [Wann eine Zahnzusatzversicherung sinnvoll ist, steht hier](/blog/zahnzusatzversicherung-wann-sinnvoll).
-- **Pflegezusatzversicherung:** Die gesetzliche Pflegeversicherung deckt nur einen Teil — der Eigenanteil im Heim ist erheblich. [Wie groß die Pflegelücke wirklich ist, zeigt dieser Artikel](/blog/pflegeversicherung-luecke-eigenanteil).
-- **Reisekrankenversicherung:** Für Vielreisende mit Auslandsaufenthalten ein günstiger Schutz. [Ob du eine Reisekrankenversicherung brauchst, klärt dieser Beitrag](/blog/reisekrankenversicherung-brauche-ich-die).
-- **BU-Alternativen:** Wer aus gesundheitlichen Gründen keine BU bekommt, kann auf [eine Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu) oder [eine Schwere-Krankheiten-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung) ausweichen — beides sind Speziallösungen, kein vollwertiger Ersatz.
+- **Unfallversicherung:** Greift nur bei unfallbedingter Invalidität, nicht bei Krankheit. Da die meisten Invaliditätsfälle krankheitsbedingt sind, ist sie kein BU-Ersatz. [Wann eine private Unfallversicherung sinnvoll ist, liest du hier](/blog/unfallversicherung-wann-sinnvoll/).
+- **Zahnzusatzversicherung:** Lohnt sich vor allem, wenn hochwertiger Zahnersatz absehbar ist. [Wann eine Zahnzusatzversicherung sinnvoll ist, steht hier](/blog/zahnzusatzversicherung-wann-sinnvoll/).
+- **Pflegezusatzversicherung:** Die gesetzliche Pflegeversicherung deckt nur einen Teil — der Eigenanteil im Heim ist erheblich. [Wie groß die Pflegelücke wirklich ist, zeigt dieser Artikel](/blog/pflegeversicherung-luecke-eigenanteil/).
+- **Reisekrankenversicherung:** Für Vielreisende mit Auslandsaufenthalten ein günstiger Schutz. [Ob du eine Reisekrankenversicherung brauchst, klärt dieser Beitrag](/blog/reisekrankenversicherung-brauche-ich-die/).
+- **BU-Alternativen:** Wer aus gesundheitlichen Gründen keine BU bekommt, kann auf [eine Grundfähigkeitsversicherung](/blog/grundfaehigkeitsversicherung-alternative-bu/) oder [eine Schwere-Krankheiten-Versicherung](/blog/dread-disease-schwere-krankheiten-versicherung/) ausweichen — beides sind Speziallösungen, kein vollwertiger Ersatz.
 
 ## Welche Versicherungen du dir sparen kannst
 
@@ -103,7 +103,7 @@ Wenn das Budget begrenzt ist — und das ist es bei Berufseinsteigern fast immer
 4. **Situationsabhängige** Versicherungen (Hausrat, Kfz, Risikoleben)
 5. **Spezialversicherungen** — nur wenn deine Situation es klar verlangt
 
-Welche Police in deinem Fall wirklich passt — und mit welcher Summe, welchem Selbstbehalt und welchen Klauseln — hängt von deiner konkreten Lebenssituation ab und lässt sich pauschal nicht beantworten. Ein strukturierter [Versicherungscheck](/blog/versicherungscheck-jahresende) oder ein Gespräch mit einem unabhängigen Berater hilft, Lücken und Doppelversicherungen aufzudecken, bevor du Beiträge für das Falsche zahlst. Wenn du deine Absicherung einmal sauber durchgehen willst, [lass uns sprechen](/zusammenarbeiten).
+Welche Police in deinem Fall wirklich passt — und mit welcher Summe, welchem Selbstbehalt und welchen Klauseln — hängt von deiner konkreten Lebenssituation ab und lässt sich pauschal nicht beantworten. Ein strukturierter [Versicherungscheck](/blog/versicherungscheck-jahresende/) oder ein Gespräch mit einem unabhängigen Berater hilft, Lücken und Doppelversicherungen aufzudecken, bevor du Beiträge für das Falsche zahlst. Wenn du deine Absicherung einmal sauber durchgehen willst, [lass uns sprechen](/zusammenarbeiten/).
 
 ## Fazit
 

@@ -68,7 +68,7 @@ Ja — Kurzarbeit schützt nicht vor Kündigung. Allerdings ist Kurzarbeit oft e
 
 Kurzarbeit ist ein wichtiges Instrument zur Überbrückung wirtschaftlicher Krisen — für Arbeitgeber und Arbeitnehmer. Wer die Berechnungslogik kennt, kann seinen Einkommensausfall realistisch einschätzen und mit einem Notgroschen besser abfedern.
 
-[Warum ein Notgroschen so wichtig ist und wo man ihn parkt, erklärt dieser Artikel.](/blog/notgroschen-wo-parken-tagesgeld)
+[Warum ein Notgroschen so wichtig ist und wo man ihn parkt, erklärt dieser Artikel.](/blog/notgroschen-wo-parken-tagesgeld/)
 
 ---
 

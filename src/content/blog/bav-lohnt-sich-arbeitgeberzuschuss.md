@@ -54,7 +54,7 @@ Du verzichtest auf einen Teil deines Bruttogehalts (Entgeltumwandlung) — diese
 
 **Geringere gesetzliche Rente:** Weil du auf Bruttogehalt verzichtest, sinken deine sozialversicherungspflichtigen Einnahmen — du sammelst weniger Rentenpunkte. Dieser Effekt ist bei jungen Menschen mit langer Ansparzeit spürbar.
 
-**Bindung ans Unternehmen:** Bei [Jobwechsel kommt die bAV mit](/blog/bav-jobwechsel-was-passiert) — aber nicht immer unter denselben Bedingungen. Manche Verträge verlieren beim Transfer Qualität.
+**Bindung ans Unternehmen:** Bei [Jobwechsel kommt die bAV mit](/blog/bav-jobwechsel-was-passiert/) — aber nicht immer unter denselben Bedingungen. Manche Verträge verlieren beim Transfer Qualität.
 
 **Produktqualität:** Du hast wenig Einfluss auf das Produkt — dein Arbeitgeber wählt den Anbieter. Teure Versicherungsmäntel können die Rendite erheblich senken.
 
@@ -78,9 +78,9 @@ Ob die bAV für deine Einkommenssituation, dein Unternehmen und deine Lebensplan
 
 ## Vertiefung
 
-- [bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht) — Sechs zentrale Nachteile, die in Verkaufsgesprächen oft unterschlagen werden.
-- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — bAV im direkten Vergleich mit allen anderen Optionen.
-- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Konkrete Tabelle nach Bruttogehalt.
+- [bAV Nachteile: Für wen lohnt sich die betriebliche Altersvorsorge nicht?](/blog/bav-nachteile-fuer-wen-lohnt-es-nicht/) — Sechs zentrale Nachteile, die in Verkaufsgesprächen oft unterschlagen werden.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026/) — bAV im direkten Vergleich mit allen anderen Optionen.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen/) — Konkrete Tabelle nach Bruttogehalt.
 
 ## Fazit
 

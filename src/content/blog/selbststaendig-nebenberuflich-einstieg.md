@@ -52,7 +52,7 @@ Nicht jedes Geschäftsmodell funktioniert neben einem Vollzeitjob. Gut geeignet:
 
 **Dienstleistungen mit flexibler Zeiteinteilung:** Beratung, Coaching, Finanzdienstleistungen, IT-Freelancing, Texten, Design. Termine können abends oder am Wochenende stattfinden.
 
-**Provisionsmodelle:** Wer auf Provisionsbasis arbeitet — z. B. als selbstständiger Vermittler in der Finanzbranche, häufig angedockt an einen [Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter) — hat keine Kernarbeitszeiten. Kundentermine lassen sich oft flexibel vereinbaren.
+**Provisionsmodelle:** Wer auf Provisionsbasis arbeitet — z. B. als selbstständiger Vermittler in der Finanzbranche, häufig angedockt an einen [Strukturvertrieb](/blog/strukturvertrieb-was-steckt-dahinter/) — hat keine Kernarbeitszeiten. Kundentermine lassen sich oft flexibel vereinbaren.
 
 **Digitale Produkte / Content:** Aufbau braucht Zeit, aber der laufende Betrieb ist nicht zeitintensiv.
 
@@ -60,7 +60,7 @@ Nicht jedes Geschäftsmodell funktioniert neben einem Vollzeitjob. Gut geeignet:
 
 ## Was rechtlich und steuerlich zu beachten ist
 
-[Steuern, Gewerbepflicht und Kleinunternehmerregelung bei nebenberuflicher Selbstständigkeit erklärt dieser Artikel ausführlich.](/blog/steuern-muenster-nebenjob-freelancer)
+[Steuern, Gewerbepflicht und Kleinunternehmerregelung bei nebenberuflicher Selbstständigkeit erklärt dieser Artikel ausführlich.](/blog/steuern-muenster-nebenjob-freelancer/)
 
 Wichtig zusätzlich:
 - **Arbeitsvertrag prüfen:** Manche Arbeitgeber untersagen Nebentätigkeiten im selben Bereich oder verlangen Genehmigung. Vorher lesen, ggf. fragen.

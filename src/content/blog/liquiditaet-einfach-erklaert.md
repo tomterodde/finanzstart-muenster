@@ -90,7 +90,7 @@ Bei 2.500 € Monatsausgaben heißt das 7.500–30.000 € sofort liquide.
 
 **Wichtig:** Nicht aus Sorgenmotiv 50.000 € liquide halten — was über 6 Monatsausgaben hinausgeht, verliert real durch Inflation.
 
-Mehr dazu: [Notgroschen — wo parken?](/blog/notgroschen-wo-parken-tagesgeld)
+Mehr dazu: [Notgroschen — wo parken?](/blog/notgroschen-wo-parken-tagesgeld/)
 
 ## Was die Einlagensicherung schützt
 

@@ -40,7 +40,7 @@ Der Gesamtbeitrag ergibt sich aus dem festen Satz (14,6 %) plus dem kassenindivi
 | Barmer | 2,19 % | 16,79 % |
 | ⌀ Durchschnitt (BMG) | 2,50 % | 17,10 % |
 
-Zwischen der günstigsten Kasse (~1,0 %) und dem Durchschnitt (2,5 %) liegen rund **1,5 Prozentpunkte** Zusatzbeitrag. Wichtig: Nicht jede günstige BKK ist bundesweit (bzw. in NRW) geöffnet — vor dem Wechsel die regionale Verfügbarkeit und den **aktuellen** Zusatzbeitrag prüfen, denn die Sätze ändern sich jährlich. Warum die Zusatzbeiträge zuletzt gestiegen sind, steht unter [Krankenkassen-Reform 2026 und Beitragsstabilität](/blog/krankenkasse-reform-2026-beitragsstabilitaet).
+Zwischen der günstigsten Kasse (~1,0 %) und dem Durchschnitt (2,5 %) liegen rund **1,5 Prozentpunkte** Zusatzbeitrag. Wichtig: Nicht jede günstige BKK ist bundesweit (bzw. in NRW) geöffnet — vor dem Wechsel die regionale Verfügbarkeit und den **aktuellen** Zusatzbeitrag prüfen, denn die Sätze ändern sich jährlich. Warum die Zusatzbeiträge zuletzt gestiegen sind, steht unter [Krankenkassen-Reform 2026 und Beitragsstabilität](/blog/krankenkasse-reform-2026-beitragsstabilitaet/).
 
 ## Ersparnis nach Bruttogehalt
 
@@ -55,7 +55,7 @@ Wie viel ein Wechsel konkret bringt, hängt vom Einkommen ab. Die folgende Tabel
 | 60.000 € | 600 € | 300 € |
 | 66.150 € (BBG) | 661 € | 331 € |
 
-Der Eigenanteil ist die Hälfte, weil der Arbeitgeber den Zusatzbeitrag seit 2019 paritätisch mitträgt. Über der **Beitragsbemessungsgrenze** (2025: 66.150 €/Jahr) steigt die Ersparnis nicht weiter — höheres Brutto erhöht den KV-Beitrag nicht mehr. Was die BBG genau ist, erklärt [Beitragsbemessungsgrundlage einfach erklärt](/blog/beitragsbemessungsgrundlage-erklaert).
+Der Eigenanteil ist die Hälfte, weil der Arbeitgeber den Zusatzbeitrag seit 2019 paritätisch mitträgt. Über der **Beitragsbemessungsgrenze** (2025: 66.150 €/Jahr) steigt die Ersparnis nicht weiter — höheres Brutto erhöht den KV-Beitrag nicht mehr. Was die BBG genau ist, erklärt [Beitragsbemessungsgrundlage einfach erklärt](/blog/beitragsbemessungsgrundlage-erklaert/).
 
 ## Wann kann man die Krankenkasse wechseln?
 
@@ -80,15 +80,15 @@ Der Wechsel dauert meist 1–2 Monate. Dein Versicherungsschutz läuft lückenlo
 Rund 95 % der Leistungen sind GKV-weit identisch. Den Unterschied machen Extras:
 
 - **Bonusprogramme:** Geld für Vorsorge, Sport, Nicht-Rauchen — je nach Kasse bis 350 €/Jahr
-- **Wahltarife:** Selbstbehalt-Tarife mit Prämie, oder ein **Krankengeld-Wahltarif** — besonders relevant für Selbstständige, die sonst eine [Krankengeld-Lücke](/blog/krankengeld-selbststaendige-luecke) haben
+- **Wahltarife:** Selbstbehalt-Tarife mit Prämie, oder ein **Krankengeld-Wahltarif** — besonders relevant für Selbstständige, die sonst eine [Krankengeld-Lücke](/blog/krankengeld-selbststaendige-luecke/) haben
 - **Erweiterte Leistungen:** Osteopathie, professionelle Zahnreinigung, Reiseimpfungen, alternative Medizin
 - **Service:** App-Qualität, Online-Arzttermine, Erreichbarkeit — für digital-affine Nutzer ein echtes Kriterium
 
-Wer auf ein eigenes Krankentagegeld angewiesen ist, sollte den Wahltarif gegen eine private Lösung abwägen — wann sich das lohnt, zeigt [Krankentagegeld: Wann nötig?](/blog/krankentagegeld-wann-noetig).
+Wer auf ein eigenes Krankentagegeld angewiesen ist, sollte den Wahltarif gegen eine private Lösung abwägen — wann sich das lohnt, zeigt [Krankentagegeld: Wann nötig?](/blog/krankentagegeld-wann-noetig/).
 
 ## Berufseinsteiger und Azubis
 
-Gerade beim ersten Job lohnt der bewusste Kassenvergleich, weil die Kassenwahl frei ist und über Jahre wirkt. Den Sonderfall Ausbildung und Berufsstart behandelt [Krankenkasse für Berufseinsteiger](/blog/krankenkasse-wechseln-berufseinsteiger).
+Gerade beim ersten Job lohnt der bewusste Kassenvergleich, weil die Kassenwahl frei ist und über Jahre wirkt. Den Sonderfall Ausbildung und Berufsstart behandelt [Krankenkasse für Berufseinsteiger](/blog/krankenkasse-wechseln-berufseinsteiger/).
 
 ## PKV-Option: für wen relevant?
 

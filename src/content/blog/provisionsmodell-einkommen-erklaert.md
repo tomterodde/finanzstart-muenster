@@ -53,13 +53,13 @@ Die strategische Bedeutung der Bestandsprovision: Wer 5 Jahre lang Kunden gewinn
 - 150 aktive Kunden × 200 Euro Jahresbestandsprovision = 30.000 Euro/Jahr passiv
 - Dazu laufendes Neugeschäft mit Abschlussprovisionen
 
-Das ist das Modell, das erfahrene Finanzberater nutzen: Bestandsprovision als Fundament, Neugeschäft als Wachstumshebel. In der Praxis ist dieses Modell oft in einem [Strukturvertrieb organisiert](/blog/strukturvertrieb-was-steckt-dahinter) — mit zusätzlichen Karrierestufen und Override-Provisionen aus dem eigenen Team.
+Das ist das Modell, das erfahrene Finanzberater nutzen: Bestandsprovision als Fundament, Neugeschäft als Wachstumshebel. In der Praxis ist dieses Modell oft in einem [Strukturvertrieb organisiert](/blog/strukturvertrieb-was-steckt-dahinter/) — mit zusätzlichen Karrierestufen und Override-Provisionen aus dem eigenen Team.
 
 ## Die Nachteile — ehrlich benannt
 
 **Unregelmäßiges Einkommen in der Aufbauphase:** Wer neu anfängt, hat noch keinen Bestand. Die ersten Monate können einkommensschwach sein. Das erfordert Rücklagen und Frustrationstoleranz.
 
-**Kein Schutz bei Krankheit oder Pause:** Provisionsbasierte Selbstständige haben keine Lohnfortzahlung. BU-Versicherung und Krankentagegeld sind deshalb besonders wichtig. [Warum das so ist, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+**Kein Schutz bei Krankheit oder Pause:** Provisionsbasierte Selbstständige haben keine Lohnfortzahlung. BU-Versicherung und Krankentagegeld sind deshalb besonders wichtig. [Warum das so ist, erklärt dieser Artikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 **Abhängigkeit vom Kundenstamm:** Wer Kunden verliert (durch Kündigungen oder schlechte Beratung), verliert Bestandsprovisionen. Kundenbindung ist direkte Einkommenssicherung.
 

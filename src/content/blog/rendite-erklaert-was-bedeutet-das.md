@@ -84,7 +84,7 @@ Die ausgewiesene Rendite ist selten das, was du am Ende behältst. Abzüge, die 
 
 Wer günstige Indexfonds (ETFs mit TER unter 0,2 %) wählt, lässt deutlich mehr Rendite auf dem eigenen Konto.
 
-[Wie ETF-Sparpläne in der Praxis aufgesetzt werden, erklärt dieser Einsteiger-Artikel.](/blog/etf-sparplan-einsteiger-muenster)
+[Wie ETF-Sparpläne in der Praxis aufgesetzt werden, erklärt dieser Einsteiger-Artikel.](/blog/etf-sparplan-einsteiger-muenster/)
 
 ## Durchschnittliche vs. tatsächliche Rendite
 

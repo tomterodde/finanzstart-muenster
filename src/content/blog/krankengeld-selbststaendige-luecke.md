@@ -56,7 +56,7 @@ Einfachste Lösung für freiwillig GKV-versicherte Selbstständige. Kleiner Mehr
 **2. Krankentagegeldversicherung (privat)**
 Eine private Krankentagegeldversicherung zahlt ab dem vereinbarten Karenztag (z. B. Tag 1, 8, 15 oder 43). Du kannst genau wählen, ab wann die Leistung greift — und damit die ersten Wochen selbst tragen (günstigere Prämie) oder komplett absichern.
 
-Wichtig: Die Leistungshöhe sollte den Nettoverdienst abdecken — inklusive Fixkosten. [Was Krankentagegeld und Krankengeld im Detail bedeuten, erklärt dieser Artikel.](/blog/krankentagegeld-krankengeld-luecke)
+Wichtig: Die Leistungshöhe sollte den Nettoverdienst abdecken — inklusive Fixkosten. [Was Krankentagegeld und Krankengeld im Detail bedeuten, erklärt dieser Artikel.](/blog/krankentagegeld-krankengeld-luecke/)
 
 **3. Notgroschen als Puffer**
 Kein Versicherungsprodukt, aber die erste Verteidigungslinie. Wer 3–6 Monatskosten liquide hat, überbrückt kurze Krankheitsphasen ohne externe Hilfe.

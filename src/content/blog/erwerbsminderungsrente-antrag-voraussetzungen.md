@@ -48,7 +48,7 @@ Das ist der fundamentale Unterschied zur BU-Versicherung, die auf den *konkreten
 
 **Pflichtbeiträge in den letzten 5 Jahren:** In den 5 Jahren vor Eintritt der Erwerbsminderung müssen mindestens 3 Jahre Pflichtbeiträge geleistet worden sein.
 
-Das bedeutet für Berufseinsteiger: Wer nach 2 Berufsjahren schwer erkrankt, hat keinen Anspruch — die Wartezeit ist nicht erfüllt. [Was der Staat zahlt und warum das nicht reicht, erklärt dieser Artikel.](/blog/erwerbsminderungsrente-was-zahlt-der-staat)
+Das bedeutet für Berufseinsteiger: Wer nach 2 Berufsjahren schwer erkrankt, hat keinen Anspruch — die Wartezeit ist nicht erfüllt. [Was der Staat zahlt und warum das nicht reicht, erklärt dieser Artikel.](/blog/erwerbsminderungsrente-was-zahlt-der-staat/)
 
 ## Wie viel bekommt man?
 

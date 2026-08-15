@@ -68,9 +68,9 @@ Wer in Münster Wirtschaftswissenschaften studiert und ein Finance-Profil aufbau
 | Strategieberatung (McKinsey/BCG/Bain) → PE | 2–4 Jahre Beratung, dann PE | Mit PE-Due-Diligence-Erfahrung sehr offen |
 | Direkteinstieg als Analyst beim Mid-Market-PE | sofort | Selektiv, gute Möglichkeit bei DPE/Auctus/ECM |
 
-[Was den klassischen BWL-Karriereweg ins PE konkret ausmacht, steht im Karriereartikel.](/blog/private-equity-karriere-bwl-einstieg) Die Münster-spezifische Realität: Der Standort ist für PE-Karrieren kein Zentrum, der Wechsel nach Frankfurt, München oder London ist faktisch Pflicht. Aber: WWU-Absolventen mit Praktika in Big-Four-Transaction-Services oder bei lokalen M&A-Boutiquen haben einen guten Anknüpfungspunkt.
+[Was den klassischen BWL-Karriereweg ins PE konkret ausmacht, steht im Karriereartikel.](/blog/private-equity-karriere-bwl-einstieg/) Die Münster-spezifische Realität: Der Standort ist für PE-Karrieren kein Zentrum, der Wechsel nach Frankfurt, München oder London ist faktisch Pflicht. Aber: WWU-Absolventen mit Praktika in Big-Four-Transaction-Services oder bei lokalen M&A-Boutiquen haben einen guten Anknüpfungspunkt.
 
-Wer **nach 5–10 Jahren PE-Erfahrung** zurück nach Münster will, findet zunehmend Anschluss bei den Familien-Offices und Mittelstandsholdings, die in der Region entstanden sind — eine Dynamik, die [parallel zum allgemeinen Karriereaufbau in Münster](/blog/berufsstart-muenster-gehalt-verhandlung) gut funktioniert.
+Wer **nach 5–10 Jahren PE-Erfahrung** zurück nach Münster will, findet zunehmend Anschluss bei den Familien-Offices und Mittelstandsholdings, die in der Region entstanden sind — eine Dynamik, die [parallel zum allgemeinen Karriereaufbau in Münster](/blog/berufsstart-muenster-gehalt-verhandlung/) gut funktioniert.
 
 ## Was PE für Münsteraner Privatanleger bedeutet
 
@@ -82,7 +82,7 @@ Für die typische Anlegerin in Münster heißt das:
 - **Beimischung 5–15 %.** Wer ein etabliertes Depot hat, kann PE als Diversifikation nutzen — nicht als Renditejagd.
 - **Liquidität verstehen.** PE bindet Geld 7–10 Jahre. ELTIF-Strukturen sind teilweise gnädiger, aber niemals täglich liquide.
 
-[Der vollständige Überblick zu Privatanleger-Zugängen, Mindestanlagen und Risiken steht im ELTIF-Artikel.](/blog/private-equity-privatanleger-eltif) Die typische Frage in Münster: "Lohnt sich das für meine Situation?" — diese hängt so stark von Steuerlage, Liquiditätsplanung und vorhandenem Depot ab, dass eine pauschale Antwort fahrlässig wäre. [Wie man die richtige Finanzberatung in Münster findet, ist hier ausgeführt.](/blog/finanzberatung-muenster-worauf-achten)
+[Der vollständige Überblick zu Privatanleger-Zugängen, Mindestanlagen und Risiken steht im ELTIF-Artikel.](/blog/private-equity-privatanleger-eltif/) Die typische Frage in Münster: "Lohnt sich das für meine Situation?" — diese hängt so stark von Steuerlage, Liquiditätsplanung und vorhandenem Depot ab, dass eine pauschale Antwort fahrlässig wäre. [Wie man die richtige Finanzberatung in Münster findet, ist hier ausgeführt.](/blog/finanzberatung-muenster-worauf-achten/)
 
 ## Wenn das eigene Unternehmen verkauft werden soll
 
@@ -100,19 +100,19 @@ Wann es nicht passt:
 - Branchen mit zyklischem Cashflow oder hoher Regulierungsabhängigkeit
 - Verkaufspreis-Erwartung übersteigt typische Mid-Market-Multiples (8–12× EBITDA)
 
-Was steuerlich beim Verkauf passiert (Veräußerungsgewinn nach § 16 EStG, Anwendung des halben Steuersatzes nach § 34 EStG, Reinvestitionsstrategien) ist hochkomplex — das gehört in die kombinierte Beratung von M&A-Berater, Steuerberater und Finanzplaner für die Vermögensstruktur **nach** dem Verkauf. [Für Selbstständige und Unternehmer ist die Altersvorsorge-Architektur ohnehin individuell zu denken.](/blog/altersvorsorge-selbststaendige-muenster)
+Was steuerlich beim Verkauf passiert (Veräußerungsgewinn nach § 16 EStG, Anwendung des halben Steuersatzes nach § 34 EStG, Reinvestitionsstrategien) ist hochkomplex — das gehört in die kombinierte Beratung von M&A-Berater, Steuerberater und Finanzplaner für die Vermögensstruktur **nach** dem Verkauf. [Für Selbstständige und Unternehmer ist die Altersvorsorge-Architektur ohnehin individuell zu denken.](/blog/altersvorsorge-selbststaendige-muenster/)
 
 ## Verwandte Münster-Themen
 
-- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten)
-- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Finanzberatung in Münster: Worauf du achten solltest](/blog/finanzberatung-muenster-worauf-achten/)
+- [ETF-Sparplan für Einsteiger in Münster](/blog/etf-sparplan-einsteiger-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Vertiefung zu Private Equity
 
-- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert) — Grundlagen, "auf Deutsch", Beispiele.
-- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland) — Wer im DACH-Mittelstand aktiv ist.
-- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite) — Risiken vor jeder Verkaufsentscheidung verstehen.
+- [Was ist Private Equity einfach erklärt?](/blog/was-ist-private-equity-einfach-erklaert/) — Grundlagen, "auf Deutsch", Beispiele.
+- [Top PE-Firmen in Deutschland](/blog/top-private-equity-firmen-deutschland/) — Wer im DACH-Mittelstand aktiv ist.
+- [PE Nachteile: Die ehrliche Analyse](/blog/private-equity-nachteile-schattenseite/) — Risiken vor jeder Verkaufsentscheidung verstehen.
 
 ## Fazit
 

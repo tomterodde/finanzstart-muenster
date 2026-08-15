@@ -73,7 +73,7 @@ Die BBG sollte nicht mit der **Versicherungspflichtgrenze** (auch: Jahresarbeits
 
 Wer dauerhaft über dieser Grenze verdient, kann entscheiden: GKV bleiben oder in die PKV wechseln. Das ist eine weitreichende Entscheidung mit langfristigen Konsequenzen — besonders für Familiengründer und Selbstständige.
 
-[Was du bei einem Kassenwechsel beachten solltest, erklärt dieser Artikel über die Krankenkassenwahl für Berufseinsteiger.](/blog/krankenkasse-wechseln-berufseinsteiger)
+[Was du bei einem Kassenwechsel beachten solltest, erklärt dieser Artikel über die Krankenkassenwahl für Berufseinsteiger.](/blog/krankenkasse-wechseln-berufseinsteiger/)
 
 ## Warum die BBG auch für die Rentenlücke relevant ist
 
@@ -81,7 +81,7 @@ Die Rentenversicherung rechnet auf Basis der BBG. Wer über der BBG verdient, za
 
 Das ist einer der Gründe, warum Gutverdiener eine besonders große Rentenlücke haben: Sie gewöhnen sich an ein hohes Lebensstandard-Niveau, das die gesetzliche Rente nie decken wird — egal wie viel sie verdient haben.
 
-[Was die Rentenlücke ist und wie man sie berechnet, erklärt dieser Artikel.](/blog/rentenlücke-berufseinsteiger-münster)
+[Was die Rentenlücke ist und wie man sie berechnet, erklärt dieser Artikel.](/blog/rentenlücke-berufseinsteiger-münster/)
 
 ## Jährliche Anpassung
 

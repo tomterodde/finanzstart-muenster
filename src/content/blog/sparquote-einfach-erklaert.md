@@ -115,7 +115,7 @@ Realistische Einschränkung: Lebensstil-Inflation und Familienphase machen 30 %+
 ## Drei wirksame Hebel zur Erhöhung
 
 **1. "50 % der Gehaltssteigerung sparen"-Regel**
-Bei jeder Lohnerhöhung 50 % zusätzlich in Sparplan, 50 % in Lifestyle. Verhindert Lifestyle-Inflation, erhöht Sparquote automatisch über die Karriere. Mehr dazu: [5-Jahres-Karriereplan](/blog/karriereplan-5-jahre-vermoegensaufbau).
+Bei jeder Lohnerhöhung 50 % zusätzlich in Sparplan, 50 % in Lifestyle. Verhindert Lifestyle-Inflation, erhöht Sparquote automatisch über die Karriere. Mehr dazu: [5-Jahres-Karriereplan](/blog/karriereplan-5-jahre-vermoegensaufbau/).
 
 **2. Pay-yourself-first**
 Am Tag des Gehaltseingangs automatisch in Sparplan/Tagesgeld umbuchen, bevor Lifestyle-Ausgaben starten. Trick gegen die "Übrig bleibt nichts"-Falle.

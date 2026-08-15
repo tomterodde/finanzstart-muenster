@@ -46,7 +46,7 @@ Du entscheidest, wohin die VL fließen. Vier Wege sind üblich:
 | Baukredit-Tilgung | 9 % auf max. 470 €/Jahr | Immobilienbesitzer mit laufendem Darlehen |
 | Banksparplan | keine Zulage | Maximale Sicherheit, kaum Rendite |
 
-Für junge Berufstätige ohne konkrete Baupläne ist das **VL-Fondssparen** meist der interessanteste Weg: höchste Zulage, Renditechance über den Aktienmarkt und der [Cost-Average-Effekt](/blog/cost-average-effekt-erklaert) arbeitet über die Laufzeit mit. Wie stark regelmäßiges Sparen über Jahre wirkt, zeigt der [Zinseszins-Effekt](/blog/zinseszins-erklaert-berufseinsteiger).
+Für junge Berufstätige ohne konkrete Baupläne ist das **VL-Fondssparen** meist der interessanteste Weg: höchste Zulage, Renditechance über den Aktienmarkt und der [Cost-Average-Effekt](/blog/cost-average-effekt-erklaert/) arbeitet über die Laufzeit mit. Wie stark regelmäßiges Sparen über Jahre wirkt, zeigt der [Zinseszins-Effekt](/blog/zinseszins-erklaert-berufseinsteiger/).
 
 ## Die Arbeitnehmersparzulage: Der Staat legt drauf
 
@@ -68,9 +68,9 @@ Nach dem Ruhejahr startest du einfach den nächsten Vertrag. Wer das ab Berufsst
 
 **VL sind steuer- und sozialversicherungspflichtig.** Die Arbeitgeber-Zahlung gilt als Arbeitslohn — vom 40-€-Brutto kommen also je nach Steuersatz effektiv 20–28 € „Kosten" bei dir an, denen der volle Sparbetrag gegenübersteht. Das Geschäft bleibt klar positiv.
 
-**VL ersetzen keine Altersvorsorge.** Sie sind ein geförderter Vermögensbaustein mit 7-Jahres-Horizont — kein Ersatz für die langfristige Vorsorgestruktur aus privater Rentenversicherung, [Riester](/blog/riester-rente-lohnt-sich) oder [betrieblicher Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert). Auch die Wahl der VL-Anlageform hängt von deiner Gesamtsituation ab: Wer in fünf Jahren bauen will, spart anders als jemand, der Vermögen aufbaut. Welche Kombination zu dir passt, klärst du am besten in einem persönlichen Beratungsgespräch.
+**VL ersetzen keine Altersvorsorge.** Sie sind ein geförderter Vermögensbaustein mit 7-Jahres-Horizont — kein Ersatz für die langfristige Vorsorgestruktur aus privater Rentenversicherung, [Riester](/blog/riester-rente-lohnt-sich/) oder [betrieblicher Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert/). Auch die Wahl der VL-Anlageform hängt von deiner Gesamtsituation ab: Wer in fünf Jahren bauen will, spart anders als jemand, der Vermögen aufbaut. Welche Kombination zu dir passt, klärst du am besten in einem persönlichen Beratungsgespräch.
 
-**Weitere Gehalts-Extras mitdenken:** VL sind einer von mehreren Nebenhebeln im Arbeitsvertrag — welche es noch gibt, zeigt der Überblick zu [Gehalts-Extras und Nettolohn-Optimierung](/blog/nettoeinkommen-optimieren-extras).
+**Weitere Gehalts-Extras mitdenken:** VL sind einer von mehreren Nebenhebeln im Arbeitsvertrag — welche es noch gibt, zeigt der Überblick zu [Gehalts-Extras und Nettolohn-Optimierung](/blog/nettoeinkommen-optimieren-extras/).
 
 ## Fazit
 

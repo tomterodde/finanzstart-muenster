@@ -50,7 +50,7 @@ Riester lohnt sich besonders für:
 
 Für Gutverdiener ohne Kinder ist der Steuervorteil marginal, die Produktkosten fressen oft die Förderung auf.
 
-[Was die Riester-Rente konkret bringt, erklärt dieser Artikel.](/blog/riester-rente-lohnt-sich)
+[Was die Riester-Rente konkret bringt, erklärt dieser Artikel.](/blog/riester-rente-lohnt-sich/)
 
 ## Rürup: Für Selbstständige und Gutverdiener
 
@@ -58,7 +58,7 @@ Rürup-Beiträge sind als Sonderausgaben absetzbar — 2025 bis zu 29.344 Euro (
 
 Das Kapital ist gebunden (keine Kündigung, keine Auszahlung vor 62), dafür steuerlich hochattraktiv für Besserverdienende.
 
-[Was die Rürup-Rente für Selbstständige leistet, erklärt dieser Artikel.](/blog/ruerup-rente-selbststaendige)
+[Was die Rürup-Rente für Selbstständige leistet, erklärt dieser Artikel.](/blog/ruerup-rente-selbststaendige/)
 
 ## bAV: Pflichtförderung durch den Arbeitgeber
 
@@ -68,7 +68,7 @@ Zusätzlich: Beiträge bis 3.624 Euro/Jahr (2025) sind sozialabgabenfrei, bis 7.
 
 Das macht die bAV für viele Arbeitnehmer attraktiv — besonders wenn der Arbeitgeber mehr als 15 % zuschießt. Manche zahlen 50 % oder sogar voll.
 
-[Was die bAV wirklich bringt, erklärt dieser Artikel.](/blog/betriebliche-altersvorsorge-erklaert)
+[Was die bAV wirklich bringt, erklärt dieser Artikel.](/blog/betriebliche-altersvorsorge-erklaert/)
 
 ## Was für wen Priorität hat
 
@@ -82,9 +82,9 @@ Das macht die bAV für viele Arbeitnehmer attraktiv — besonders wenn der Arbei
 
 ## Vertiefung
 
-- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Förderung im Säulen- und Schichten-Modell.
-- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Empfehlungen je Lebensprofil mit Förderfokus.
-- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Aufteilung der Sparrate inkl. geförderten Bausteinen.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert/) — Förderung im Säulen- und Schichten-Modell.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026/) — Empfehlungen je Lebensprofil mit Förderfokus.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen/) — Aufteilung der Sparrate inkl. geförderten Bausteinen.
 
 ## Fazit
 

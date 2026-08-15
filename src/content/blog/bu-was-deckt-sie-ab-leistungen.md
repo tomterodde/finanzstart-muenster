@@ -59,7 +59,7 @@ Die BU zahlt, wenn die Berufsunfähigkeit verursacht wird durch:
 
 **Wichtig:** Im Gegensatz zur **Unfallversicherung** zahlt die BU **auch bei Krankheiten** — und damit bei den weit überwiegenden Ursachen.
 
-[Detaillierter Vergleich BU vs. Unfallversicherung steht hier.](/blog/unfallversicherung-wann-sinnvoll)
+[Detaillierter Vergleich BU vs. Unfallversicherung steht hier.](/blog/unfallversicherung-wann-sinnvoll/)
 
 ## Häufigste BU-Ursachen 2024
 
@@ -75,7 +75,7 @@ Die BU zahlt, wenn die Berufsunfähigkeit verursacht wird durch:
 
 **Quelle:** Morgen & Morgen 2024, GDV-Statistik 2024.
 
-**Konsequenz:** Wer auf reine Unfallversicherung setzt, ist gegen die rund 91 % der BU-Ursachen NICHT geschützt. [Details zu psychischen Erkrankungen als BU-Ursache stehen hier.](/blog/bu-psychische-erkrankungen)
+**Konsequenz:** Wer auf reine Unfallversicherung setzt, ist gegen die rund 91 % der BU-Ursachen NICHT geschützt. [Details zu psychischen Erkrankungen als BU-Ursache stehen hier.](/blog/bu-psychische-erkrankungen/)
 
 ## Wann zahlt die BU? Die drei Voraussetzungen
 
@@ -112,7 +112,7 @@ Der entscheidende Punkt: Die BU misst Einschränkung **konkret an deinem Beruf**
 
 **Praxis:** Heute haben praktisch alle qualitativ guten BU-Tarife einen Verzicht auf abstrakte Verweisung. Bei älteren Verträgen (vor 2010) ist die Prüfung oft Pflicht. **Bei Neuabschluss ist der Verzicht ein absolutes Muss-Kriterium.**
 
-[Vollständige Kriterien für gute BU-Tarife stehen im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+[Vollständige Kriterien für gute BU-Tarife stehen im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 ## Wann zahlt die BU NICHT?
 
@@ -178,7 +178,7 @@ Bei längerem Auslandsaufenthalt (oft über 6 Monate) verliert man den Schutz �
 
 **Klare Erkenntnis:** Die BU ist das **umfassendste** Einkommensschutz-Produkt — höhere Leistung, breiterer Leistungsbegriff, aber auch höchster Beitrag. Andere Produkte sind Spezialfälle oder Ergänzungen.
 
-[Vergleich Grundfähigkeitsversicherung als BU-Alternative.](/blog/grundfaehigkeitsversicherung-alternative-bu) [Wann Dread Disease als Ergänzung sinnvoll ist.](/blog/dread-disease-schwere-krankheiten-versicherung)
+[Vergleich Grundfähigkeitsversicherung als BU-Alternative.](/blog/grundfaehigkeitsversicherung-alternative-bu/) [Wann Dread Disease als Ergänzung sinnvoll ist.](/blog/dread-disease-schwere-krankheiten-versicherung/)
 
 ## Was du beim Abschluss sicherstellen solltest
 
@@ -192,7 +192,7 @@ Bei längerem Auslandsaufenthalt (oft über 6 Monate) verliert man den Schutz �
 6. **Stundungsoption** — Beitragspause möglich bei finanziellen Engpässen
 7. **Ausreichende Versicherungssumme** — Mindestens 60–70 % des Nettogehalts
 
-[Wie hoch deine BU-Rente sein sollte und was sie konkret kostet, steht hier.](/blog/was-kostet-bu-im-monat-tabelle)
+[Wie hoch deine BU-Rente sein sollte und was sie konkret kostet, steht hier.](/blog/was-kostet-bu-im-monat-tabelle/)
 
 ## Was bedeutet das für dich?
 
@@ -206,7 +206,7 @@ Bei längerem Auslandsaufenthalt (oft über 6 Monate) verliert man den Schutz �
 
 Der Tarifvergleich, die Bedingungs-Auswahl und die richtige Versicherungssumme sind die typischen Beratungsfragen. Die richtige BU für deine Berufssituation, deinen Gesundheitszustand und dein Einkommen lässt sich pauschal nicht beantworten — gehört in eine **persönliche Beratung mit unabhängiger Tarifauswahl**.
 
-[Wer die Grundlagen zur BU noch braucht, findet sie im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+[Wer die Grundlagen zur BU noch braucht, findet sie im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 ## Fazit
 
@@ -220,7 +220,7 @@ Die BU deckt das Risiko ab, deinen Beruf zu mindestens 50 % nicht mehr ausüben 
 
 Welche BU-Bedingungen für deine konkrete Berufssituation und deinen Gesundheitszustand optimal sind — das ist eine Beratungsfrage. Die richtige Tarifauswahl entscheidet über Beitragshöhe, Annahme und Leistung im Ernstfall.
 
-[Wann sich BU mit 40, 50 oder 60 noch lohnt, steht hier.](/blog/bu-mit-40-50-60-noch-sinnvoll) [Was BU im Monat kostet — konkrete Tabelle hier.](/blog/was-kostet-bu-im-monat-tabelle)
+[Wann sich BU mit 40, 50 oder 60 noch lohnt, steht hier.](/blog/bu-mit-40-50-60-noch-sinnvoll/) [Was BU im Monat kostet — konkrete Tabelle hier.](/blog/was-kostet-bu-im-monat-tabelle/)
 
 ---
 

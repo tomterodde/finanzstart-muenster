@@ -28,11 +28,11 @@ Dieser Artikel ordnet ein: Gehalt, Einstieg, Arbeitszeiten und Exit-Optionen, oh
 
 ## Was macht ein Investmentbanker?
 
-Investment Banking bedeutet im Kern: Unternehmen bei großen Finanztransaktionen beraten. Die zwei wichtigsten Felder sind **M&A** ([Fusionen und Übernahmen](/blog/mergers-acquisitions-einfach-erklaert)) und **Capital Markets** (Börsengänge, Anleihen, Kapitalerhöhungen).
+Investment Banking bedeutet im Kern: Unternehmen bei großen Finanztransaktionen beraten. Die zwei wichtigsten Felder sind **M&A** ([Fusionen und Übernahmen](/blog/mergers-acquisitions-einfach-erklaert/)) und **Capital Markets** (Börsengänge, Anleihen, Kapitalerhöhungen).
 
 Analysten — die Einstiegsstufe — bauen Finanzmodelle, erstellen Präsentationen für Kunden und analysieren Unternehmensbewertungen. Es ist detailgetriebene, anspruchsvolle Arbeit unter hohem Zeitdruck.
 
-Die Bewertungsmethoden, die hier täglich genutzt werden, prägen die ganze Finanzwelt — etwa Kennzahlen wie der [Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert).
+Die Bewertungsmethoden, die hier täglich genutzt werden, prägen die ganze Finanzwelt — etwa Kennzahlen wie der [Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert/).
 
 ## Das Gehalt: hoch, aber erkauft
 
@@ -58,13 +58,13 @@ Der Einstieg ins Investment Banking ist hochkompetitiv und folgt einem klaren Mu
 - **Networking:** Kontakte zu Banken früh aufbauen. Wer niemanden kennt, hat es schwerer — fast unabhängig von den Noten.
 - **Interviewvorbereitung:** Technische Fragen zu Bewertung, Accounting und Modellierung werden hart geprüft.
 
-Wer kein Banking-Praktikum hat, sollte gezielt an seinem Profil arbeiten. Wie man systematisch berufliche Kontakte aufbaut, steht in [Netzwerk aufbauen für die Karriere](/blog/netzwerk-aufbauen-karriere-muenster).
+Wer kein Banking-Praktikum hat, sollte gezielt an seinem Profil arbeiten. Wie man systematisch berufliche Kontakte aufbaut, steht in [Netzwerk aufbauen für die Karriere](/blog/netzwerk-aufbauen-karriere-muenster/).
 
 ## Exit-Optionen: Das eigentliche Ziel
 
 Für viele ist das Investment Banking kein Lebensziel, sondern eine **Durchgangsstation**. Nach zwei bis drei Jahren als Analyst öffnen sich Türen, die sonst verschlossen blieben:
 
-- **Private Equity** — der häufigste und prestigeträchtigste Exit. Der Weg vom IB ins PE ist gut ausgetreten (siehe [Private Equity Karriere](/blog/private-equity-karriere-bwl-einstieg)).
+- **Private Equity** — der häufigste und prestigeträchtigste Exit. Der Weg vom IB ins PE ist gut ausgetreten (siehe [Private Equity Karriere](/blog/private-equity-karriere-bwl-einstieg/)).
 - **Venture Capital, Corporate Development, Hedgefonds** — alternative Pfade in der Finanzwelt.
 - **Unternehmertum** — das erlernte Finanz-Handwerk ist eine starke Basis für die eigene Gründung.
 
@@ -74,9 +74,9 @@ Die im IB erworbene Analysefähigkeit ist überall gefragt. Genau diese Übertra
 
 Investment Banking lohnt sich finanziell, verlangt aber einen hohen Preis an Lebenszeit in den ersten Jahren. Es passt zu Menschen, die belastbar sind, schnell lernen und ein klares Ziel vor Augen haben — sei es Private Equity, eine eigene Gründung oder finanzielle Unabhängigkeit.
 
-Es ist nicht der einzige Weg zu hohem Einkommen. Die naheliegendste Alternative mit ähnlichem Profil ist die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg) — etwas weniger Gehalt, dafür breitere Branchen-Exposure und humanere Arbeitszeiten.
+Es ist nicht der einzige Weg zu hohem Einkommen. Die naheliegendste Alternative mit ähnlichem Profil ist die [Unternehmensberatung](/blog/unternehmensberater-gehalt-einstieg/) — etwas weniger Gehalt, dafür breitere Branchen-Exposure und humanere Arbeitszeiten.
 
-Wer das Einkommensniveau anstrebt, aber nicht die Volatilität des Deal-Geschäfts, findet in den Kammerberufen den planbareren Weg: [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg) und [Steuerberater](/blog/steuerberater-gehalt-einstieg) starten niedriger, kommen aber über ein Examen zu einem geschützten Titel — und damit zu einer Selbstständigkeitsperspektive, die im Investment Banking schlicht nicht existiert. Wer unternehmerisch denkt, aber die 80-Stunden-Wochen scheut, findet in [Wege zu einem zweiten Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen) alternative Modelle, die sich schrittweise aufbauen lassen.
+Wer das Einkommensniveau anstrebt, aber nicht die Volatilität des Deal-Geschäfts, findet in den Kammerberufen den planbareren Weg: [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg/) und [Steuerberater](/blog/steuerberater-gehalt-einstieg/) starten niedriger, kommen aber über ein Examen zu einem geschützten Titel — und damit zu einer Selbstständigkeitsperspektive, die im Investment Banking schlicht nicht existiert. Wer unternehmerisch denkt, aber die 80-Stunden-Wochen scheut, findet in [Wege zu einem zweiten Standbein](/blog/zweites-standbein-nebenberuflich-aufbauen/) alternative Modelle, die sich schrittweise aufbauen lassen.
 
 ## Fazit
 

@@ -41,13 +41,13 @@ Die Spreizung in der Branche ist enorm — entscheidend ist, bei welchem Typ Ber
 
 Alle Angaben inklusive Boni; die Werte sind Orientierungsgrößen aus Gehaltsreports und schwanken je nach Standort und Jahr. Zwei Dinge fallen auf: Erstens verdoppelt sich das Gehalt in den ersten fünf Jahren fast — Beförderungen folgen dem „up or out"-Prinzip in festen Takten. Zweitens ist die Partnerstufe eine eigene Liga, weil Partner am Gewinn beteiligt sind.
 
-Zur Einordnung: Das durchschnittliche Einstiegsgehalt von BWL-Absolventen liegt in Deutschland bei etwa 45.000–50.000 €. Wie du beim Berufsstart generell verhandelst, zeigt der [Gehaltsverhandlungs-Guide für Münster](/blog/berufsstart-muenster-gehalt-verhandlung).
+Zur Einordnung: Das durchschnittliche Einstiegsgehalt von BWL-Absolventen liegt in Deutschland bei etwa 45.000–50.000 €. Wie du beim Berufsstart generell verhandelst, zeigt der [Gehaltsverhandlungs-Guide für Münster](/blog/berufsstart-muenster-gehalt-verhandlung/).
 
 ## Der Einstieg: Noten, Praktika, Case-Interviews
 
 Top-Beratungen selektieren hart — aber nach einem bekannten Muster. Drei Filter musst du passieren:
 
-- **Lebenslauf:** sehr gute Noten, relevante Praktika (Beratung, [Investment Banking](/blog/investment-banking-einstieg-gehalt), Konzern-Strategieabteilung), Auslandserfahrung.
+- **Lebenslauf:** sehr gute Noten, relevante Praktika (Beratung, [Investment Banking](/blog/investment-banking-einstieg-gehalt/), Konzern-Strategieabteilung), Auslandserfahrung.
 - **Case-Interview:** Du löst live eine Fallstudie („Ihr Klient verliert Marktanteile — warum?"). Geprüft wird strukturiertes Denken, nicht Fachwissen. Ohne 20–30 geübte Cases geht kaum jemand erfolgreich rein.
 - **Fit-Interview:** Persönlichkeit, Motivation, Belastbarkeit.
 
@@ -67,12 +67,12 @@ Die typischen Exits sind der eigentliche Karriere-Hebel:
 
 - **Industrie:** Strategie- oder Führungsrollen im Konzern, oft mit Level-Sprung.
 - **Start-ups:** Chief of Staff, COO oder Head-of-Rollen — Berater-Skillset trifft Aufbauphase.
-- **Private Equity:** Der prestigeträchtigste Exit. PE-Fonds rekrutieren gezielt Berater für Due Diligence und Portfolio-Arbeit — den Weg beschreibt unser Artikel zur [Private-Equity-Karriere](/blog/private-equity-karriere-bwl-einstieg), die Verdienstperspektive das [PE-Gehalt in Deutschland](/blog/private-equity-gehalt-deutschland).
+- **Private Equity:** Der prestigeträchtigste Exit. PE-Fonds rekrutieren gezielt Berater für Due Diligence und Portfolio-Arbeit — den Weg beschreibt unser Artikel zur [Private-Equity-Karriere](/blog/private-equity-karriere-bwl-einstieg/), die Verdienstperspektive das [PE-Gehalt in Deutschland](/blog/private-equity-gehalt-deutschland/).
 - **Gründung:** Mit Netzwerk, Methodenkoffer und finanziellem Polster.
 
-Bei Übernahmen und Transaktionen arbeiten Berater ohnehin eng mit der Deal-Welt zusammen — etwa in der Commercial Due Diligence bei [M&A-Transaktionen](/blog/mergers-acquisitions-einfach-erklaert).
+Bei Übernahmen und Transaktionen arbeiten Berater ohnehin eng mit der Deal-Welt zusammen — etwa in der Commercial Due Diligence bei [M&A-Transaktionen](/blog/mergers-acquisitions-einfach-erklaert/).
 
-Ein Exit, der selten auf der Liste steht, aber gut zum Profil passt: der Wechsel in einen Kammerberuf. [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg) und [Steuerberater](/blog/steuerberater-gehalt-einstieg) verlangen ein Examen, bieten dafür aber etwas, das die Beratung strukturell nicht hat — einen geschützten Titel und einen realistischen Weg in die eigene Kanzlei statt in die nächste Partnerstufe eines fremden Hauses.
+Ein Exit, der selten auf der Liste steht, aber gut zum Profil passt: der Wechsel in einen Kammerberuf. [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg/) und [Steuerberater](/blog/steuerberater-gehalt-einstieg/) verlangen ein Examen, bieten dafür aber etwas, das die Beratung strukturell nicht hat — einen geschützten Titel und einen realistischen Weg in die eigene Kanzlei statt in die nächste Partnerstufe eines fremden Hauses.
 
 ## Fazit
 

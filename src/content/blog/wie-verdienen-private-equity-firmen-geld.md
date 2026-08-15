@@ -76,7 +76,7 @@ Diese Summe deckt:
 
 Die Management Fee fließt **unabhängig von Performance**. Selbst bei katastrophalen Verlusten verdient die PE-Firma jährlich rund 2 % auf das Fondsvolumen. **Warren Buffetts Hauptkritik:** Diese Garantieeinnahme reduziert den Anreiz, wirklich Top-Performance zu liefern.
 
-[Detaillierte PE-Nachteile und Buffett-Kritik stehen hier.](/blog/private-equity-nachteile-schattenseite)
+[Detaillierte PE-Nachteile und Buffett-Kritik stehen hier.](/blog/private-equity-nachteile-schattenseite/)
 
 ## Quelle 2: Carried Interest — der eigentliche Hebel
 
@@ -87,7 +87,7 @@ Der **Carried Interest** ("Carry") ist die **Erfolgsbeteiligung der PE-Firma** a
 - PE-Firma erhält 20 % der Gewinne
 - Investoren erhalten 80 %
 
-Aber: Der Carry beginnt erst, **nachdem die Investoren eine Mindestrendite erreicht haben** — die sogenannte **Hurdle Rate** (typisch 8 % p.a.). Die vollständige Mechanik mit Distribution Waterfall, Catch-up-Phase und deutscher Besteuerung nach § 18 EStG steht im Deep-Dive [Carried Interest einfach erklärt](/blog/carried-interest-einfach-erklaert).
+Aber: Der Carry beginnt erst, **nachdem die Investoren eine Mindestrendite erreicht haben** — die sogenannte **Hurdle Rate** (typisch 8 % p.a.). Die vollständige Mechanik mit Distribution Waterfall, Catch-up-Phase und deutscher Besteuerung nach § 18 EStG steht im Deep-Dive [Carried Interest einfach erklärt](/blog/carried-interest-einfach-erklaert/).
 
 ### Konkrete Rechnung
 
@@ -243,7 +243,7 @@ Plattform kaufen, kleinere Wettbewerber dazukaufen. Effekt:
 
 3. **Bei Median-Performance ist der Mehrwert klein.** Wer pauschal in einen durchschnittlichen PE-Fonds investiert, verzichtet auf Liquidität und Transparenz ohne klaren Renditevorteil gegenüber Aktien-ETFs.
 
-[Wie Privatanleger Zugang zu Top-PE-Fonds bekommen, steht hier.](/blog/private-equity-privatanleger-eltif)
+[Wie Privatanleger Zugang zu Top-PE-Fonds bekommen, steht hier.](/blog/private-equity-privatanleger-eltif/)
 
 ## Die politische Debatte um den Carry
 
@@ -267,7 +267,7 @@ PE-Firmen verdienen über vier Quellen: Management Fee (Basis), Carried Interest
 
 Wer PE als Privatanleger nutzen will, sollte die Gebührenstruktur und die Wertschöpfungs-Hebel verstehen — um Manager-Qualität beurteilen zu können. Diese Beurteilung gehört in eine **persönliche Beratung mit Marktüberblick**.
 
-[Wer die PE-Grundlagen einfach erklärt sucht, findet sie hier.](/blog/was-ist-private-equity-einfach-erklaert) [Wer die Karrierewege in PE verstehen will, findet sie hier.](/blog/private-equity-karriere-bwl-einstieg) [Top deutsche PE-Häuser im Überblick.](/blog/top-private-equity-firmen-deutschland)
+[Wer die PE-Grundlagen einfach erklärt sucht, findet sie hier.](/blog/was-ist-private-equity-einfach-erklaert/) [Wer die Karrierewege in PE verstehen will, findet sie hier.](/blog/private-equity-karriere-bwl-einstieg/) [Top deutsche PE-Häuser im Überblick.](/blog/top-private-equity-firmen-deutschland/)
 
 ---
 

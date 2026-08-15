@@ -31,9 +31,9 @@ Trotzdem bleibt für viele nebulös, wie das Geschäft funktioniert: Wer gibt ju
 
 **Venture Capital** (Risikokapital) ist Eigenkapital für junge Wachstumsunternehmen. Ein VC-Fonds kauft Minderheitsanteile — typischerweise 10–25 % pro Runde — an Startups, die noch keine oder kaum Gewinne machen, aber schnell wachsen können.
 
-Die Fondsstruktur gleicht dem klassischen Private Equity: Institutionelle Investoren (Limited Partner) sagen Kapital zu, die VC-Gesellschaft (General Partner) investiert es über eine Laufzeit von rund 10 Jahren und verdient über [Management Fee und Carried Interest](/blog/carried-interest-einfach-erklaert). Wie dieses Fondsvehikel im Detail funktioniert, erklärt [Wie funktioniert ein Private-Equity-Fonds?](/blog/private-equity-fonds-funktionsweise)
+Die Fondsstruktur gleicht dem klassischen Private Equity: Institutionelle Investoren (Limited Partner) sagen Kapital zu, die VC-Gesellschaft (General Partner) investiert es über eine Laufzeit von rund 10 Jahren und verdient über [Management Fee und Carried Interest](/blog/carried-interest-einfach-erklaert/). Wie dieses Fondsvehikel im Detail funktioniert, erklärt [Wie funktioniert ein Private-Equity-Fonds?](/blog/private-equity-fonds-funktionsweise/)
 
-Der entscheidende Unterschied zu PE: VC übernimmt keine Kontrolle und arbeitet ohne Fremdkapitalhebel. Die Rendite kommt allein aus Wachstum — [die vollständige Abgrenzung zwischen PE und VC steht hier](/blog/private-equity-vs-venture-capital).
+Der entscheidende Unterschied zu PE: VC übernimmt keine Kontrolle und arbeitet ohne Fremdkapitalhebel. Die Rendite kommt allein aus Wachstum — [die vollständige Abgrenzung zwischen PE und VC steht hier](/blog/private-equity-vs-venture-capital/).
 
 ## Die Finanzierungsrunden: Von Pre-Seed bis Series C
 
@@ -69,9 +69,9 @@ Laut BVK fließt das meiste Kapital in Software, Klimatechnologie, Gesundheit un
 
 **Als Gründer oder Gründungsinteressierter:** VC ist nur für eine kleine Minderheit von Unternehmen der richtige Weg — nämlich für hochskalierbare Modelle mit großem Markt. Aus eigener Gründungserfahrung kann ich sagen: Die meisten tragfähigen Unternehmen entstehen ohne Risikokapital, über Kunden statt Investoren. Wer VC nimmt, verkauft nicht nur Anteile, sondern verpflichtet sich auf den Wachstumspfad.
 
-**Als Student mit Finance-Interesse:** VC ist ein kleiner, aber attraktiver Arbeitsmarkt. Der Einstieg läuft meist über Analyst-Programme, Startup-Praktika oder eigene Gründungserfahrung — die Denkweise (Märkte bewerten, Teams einschätzen) unterscheidet sich deutlich vom [zahlengetriebenen Investment Banking](/blog/investment-banking-einstieg-gehalt).
+**Als Student mit Finance-Interesse:** VC ist ein kleiner, aber attraktiver Arbeitsmarkt. Der Einstieg läuft meist über Analyst-Programme, Startup-Praktika oder eigene Gründungserfahrung — die Denkweise (Märkte bewerten, Teams einschätzen) unterscheidet sich deutlich vom [zahlengetriebenen Investment Banking](/blog/investment-banking-einstieg-gehalt/).
 
-**Als Anleger:** Direkter Zugang zu VC-Fonds bleibt institutionellen Investoren vorbehalten. Wer dem Thema nahe kommen will, tut das realistisch über [die grundsätzliche Anlageklasse Private Equity](/blog/private-equity-erklaert-grundlagen) — mit allen dort beschriebenen Einschränkungen bei Liquidität und Mindestanlagen.
+**Als Anleger:** Direkter Zugang zu VC-Fonds bleibt institutionellen Investoren vorbehalten. Wer dem Thema nahe kommen will, tut das realistisch über [die grundsätzliche Anlageklasse Private Equity](/blog/private-equity-erklaert-grundlagen/) — mit allen dort beschriebenen Einschränkungen bei Liquidität und Mindestanlagen.
 
 ## Fazit
 

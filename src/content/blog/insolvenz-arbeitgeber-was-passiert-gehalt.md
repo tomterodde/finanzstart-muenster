@@ -63,7 +63,7 @@ Direktversicherungen und Pensionsfonds sind in der Regel ohnehin Sondervermögen
 
 Die Insolvenz des Arbeitgebers ist belastend — aber das Gehalt der letzten drei Monate ist durch das Insolvenzgeld abgesichert. Wer die Fristen kennt und schnell handelt, minimiert den finanziellen Schaden erheblich.
 
-Ein solider Notgroschen macht eine solche Phase deutlich weniger existenzbedrohend — weil du nicht sofort auf das Insolvenzgeld angewiesen bist, während der Antrag bearbeitet wird. [Warum der Notgroschen unverzichtbar ist, erklärt dieser Artikel.](/blog/notgroschen-wo-parken-tagesgeld)
+Ein solider Notgroschen macht eine solche Phase deutlich weniger existenzbedrohend — weil du nicht sofort auf das Insolvenzgeld angewiesen bist, während der Antrag bearbeitet wird. [Warum der Notgroschen unverzichtbar ist, erklärt dieser Artikel.](/blog/notgroschen-wo-parken-tagesgeld/)
 
 ---
 

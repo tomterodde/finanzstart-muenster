@@ -62,7 +62,7 @@ Die bAV-Entgeltumwandlung **reduziert das Brutto**, das in die gesetzliche Rente
 - Verlust gesetzliche Bruttorente: rund **63 € monatlich** (1,6 RP × 39,32 €/Punkt)
 - Auf 20 Jahre Rentenbezug: rund **15.100 € entgangene gesetzliche Rente**
 
-[Wie Rentenpunkte konkret berechnet werden, steht hier.](/blog/rentenpunkte-gesetzliche-rente-erklaert)
+[Wie Rentenpunkte konkret berechnet werden, steht hier.](/blog/rentenpunkte-gesetzliche-rente-erklaert/)
 
 ### 3. Niedrigeres Arbeitslosengeld und Krankengeld
 
@@ -82,7 +82,7 @@ bAV-Verträge sind **schwer mitzunehmen**. Drei Standardszenarien beim Jobwechse
 
 **Realität:** Bei drei Jobwechseln über die Karriere entstehen oft drei beitragsfreie Verträge, die separat verwaltet werden müssen — mit jeweils 1–2 % laufender Verwaltungskosten.
 
-[Was bei der bAV im Jobwechsel konkret passiert, steht hier.](/blog/bav-jobwechsel-was-passiert)
+[Was bei der bAV im Jobwechsel konkret passiert, steht hier.](/blog/bav-jobwechsel-was-passiert/)
 
 ### 5. Geringere Hinterbliebenenversorgung
 
@@ -133,7 +133,7 @@ Wer alle 3–5 Jahre den Arbeitgeber wechselt, sammelt mehrere beitragsfreie bAV
 
 Der Pflicht-Arbeitgeberzuschuss seit 2019 beträgt **15 % der Entgeltumwandlung**. Ohne **zusätzlichen** Zuschuss überwiegen die Nachteile oft. Faustregel: Wenn der Gesamt-Zuschuss unter **30 %** der Eigeneinzahlung liegt, ist bAV oft schwächer als Alternativen.
 
-[Wann sich bAV mit Arbeitgeberzuschuss konkret lohnt, steht hier.](/blog/bav-lohnt-sich-arbeitgeberzuschuss)
+[Wann sich bAV mit Arbeitgeberzuschuss konkret lohnt, steht hier.](/blog/bav-lohnt-sich-arbeitgeberzuschuss/)
 
 ### Profil 6: Hoher Steuersatz im Rentenalter
 
@@ -163,7 +163,7 @@ Bei den meisten Nicht-Lohn-Profilen ist ein **globaler ETF-Sparplan** die einfac
 | Steuerpflicht Auszahlung | Voll | Teilfreistellung 30 % |
 | Verbeitragung Auszahlung | Voll KV/PV | Keine SV |
 
-[Vollständiger Vergleich aller Altersvorsorge-Optionen steht hier.](/blog/beste-altersvorsorge-vergleich-2026)
+[Vollständiger Vergleich aller Altersvorsorge-Optionen steht hier.](/blog/beste-altersvorsorge-vergleich-2026/)
 
 ## Was du tun solltest, bevor du bAV abschließt
 
@@ -189,7 +189,7 @@ Die bAV ist kein Wundermittel — sie ist ein Spezialprodukt mit spezifischen Vo
 
 Welche Vorsorge-Mischung für deine Steuerlage, Karriereperspektive und Lebenssituation optimal ist, lässt sich pauschal nicht beantworten. Die Berechnung gehört in eine unabhängige Beratung — am besten mit jemandem, der **mehrere Anbieter und Produktarten** vergleichen kann, statt nur einen zu vertreiben.
 
-[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert)
+[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert/)
 
 ---
 

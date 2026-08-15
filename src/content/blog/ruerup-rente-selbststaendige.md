@@ -94,9 +94,9 @@ Das klingt zunächst nachteilig — ist es aber meistens nicht. In der Erwerbsph
 
 ## Vertiefung
 
-- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Rürup im direkten Vergleich mit ETF, bAV, Riester und Rentenversicherung.
-- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Aufteilung der Sparrate für Selbstständige inkl. Rürup-Anteil.
-- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Rürup als Schicht 1 der Basisvorsorge.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026/) — Rürup im direkten Vergleich mit ETF, bAV, Riester und Rentenversicherung.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen/) — Aufteilung der Sparrate für Selbstständige inkl. Rürup-Anteil.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert/) — Rürup als Schicht 1 der Basisvorsorge.
 
 ## Fazit
 
@@ -104,7 +104,7 @@ Rürup ist kein Produkt für jeden — aber für Selbstständige mit gutem Einko
 
 Die Qual der Wahl liegt im Produkt selbst: Fondsgebundene Varianten mit niedrigen Kosten und breiter ETF-Streuung sind in der Regel den klassischen Rentenversicherungen im Rürup-Mantel vorzuziehen.
 
-Mehr zum Thema [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert) als Alternative für Angestellte findest du in einem separaten Artikel.
+Mehr zum Thema [betriebliche Altersvorsorge](/blog/betriebliche-altersvorsorge-erklaert/) als Alternative für Angestellte findest du in einem separaten Artikel.
 
 ---
 

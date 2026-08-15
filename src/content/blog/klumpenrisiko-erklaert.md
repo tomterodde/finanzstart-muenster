@@ -36,7 +36,7 @@ Was auf den ersten Blick nach einem soliden Finanzleben aussieht, ist in Wahrhei
 
 Klumpenrisiko (englisch: concentration risk) entsteht, wenn ein zu großer Teil deines Vermögens von einer einzigen Quelle abhängt. Das kann ein Unternehmen, eine Branche, eine Region oder eine einzelne Anlageklasse sein.
 
-Das Problem: Wenn diese eine Quelle Probleme bekommt, verlierst du überdurchschnittlich viel — ohne dass andere Teile deines Vermögens das kompensieren können. Es ist das Gegenteil von [Diversifikation](/blog/diversifikation-erklaert-risiko-streuen).
+Das Problem: Wenn diese eine Quelle Probleme bekommt, verlierst du überdurchschnittlich viel — ohne dass andere Teile deines Vermögens das kompensieren können. Es ist das Gegenteil von [Diversifikation](/blog/diversifikation-erklaert-risiko-streuen/).
 
 ## Die vier typischen Klumpenrisiken bei Berufseinsteigern
 

@@ -43,7 +43,7 @@ Es gibt zwei Hauptvarianten:
 
 ## Was ist ein ETF-Sparplan?
 
-Ein [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster) ist ein Depot, bei dem du monatlich in börsengehandelte Indexfonds investierst. Das Geld gehört dir direkt, ist jederzeit verfügbar, und du zahlst kaum Verwaltungsgebühren.
+Ein [ETF-Sparplan](/blog/etf-sparplan-einsteiger-muenster/) ist ein Depot, bei dem du monatlich in börsengehandelte Indexfonds investierst. Das Geld gehört dir direkt, ist jederzeit verfügbar, und du zahlst kaum Verwaltungsgebühren.
 
 Kein Versicherungsschutz, keine garantierte Rente — aber maximale Transparenz und Flexibilität.
 
@@ -95,10 +95,10 @@ Genau das ist der Punkt, an dem ein persönliches Gespräch mit einem Finanzbera
 
 ## Vertiefung
 
-- [Rentenlücke berechnen — Formel, Tabelle, Rechner](/blog/rentenluecke-berechnen-schliessen) — Bestimme zuerst deinen konkreten Kapitalbedarf, bevor du dich zwischen Versicherung und ETF entscheidest.
-- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026) — Vollständiger Vergleich aller Optionen mit Empfehlungen je Lebensprofil.
-- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen) — Konkrete Sparraten und 3-Topf-Strategie nach Einkommensklasse.
-- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert) — Wie private Rentenversicherung und ETF in das Gesamtsystem passen.
+- [Rentenlücke berechnen — Formel, Tabelle, Rechner](/blog/rentenluecke-berechnen-schliessen/) — Bestimme zuerst deinen konkreten Kapitalbedarf, bevor du dich zwischen Versicherung und ETF entscheidest.
+- [Welche Altersvorsorge lohnt sich 2026 wirklich?](/blog/beste-altersvorsorge-vergleich-2026/) — Vollständiger Vergleich aller Optionen mit Empfehlungen je Lebensprofil.
+- [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen/) — Konkrete Sparraten und 3-Topf-Strategie nach Einkommensklasse.
+- [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert/) — Wie private Rentenversicherung und ETF in das Gesamtsystem passen.
 
 ## Fazit
 
@@ -106,7 +106,7 @@ Weder die private Rentenversicherung noch der ETF-Sparplan ist pauschal "besser"
 
 Die entscheidenden Fragen — wie viel Sicherheit du brauchst, welche steuerliche Situation du hast, wie du im Alter von deinem Kapital leben möchtest — lassen sich nicht aus einem Blogartikel ableiten. Sie hängen von deiner konkreten Lebenssituation ab.
 
-Den Rentenbedarf grob auszurechnen ist ein guter erster Schritt. Wie das geht, zeigt der [Artikel zum Rentenbedarf](/blog/rentenbedarf-berechnen). Der zweite Schritt ist ein Gespräch mit jemandem, der die Gesamtsituation kennt.
+Den Rentenbedarf grob auszurechnen ist ein guter erster Schritt. Wie das geht, zeigt der [Artikel zum Rentenbedarf](/blog/rentenbedarf-berechnen/). Der zweite Schritt ist ein Gespräch mit jemandem, der die Gesamtsituation kennt.
 
 ---
 

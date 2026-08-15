@@ -36,7 +36,7 @@ Dividenden klingen gut — regelmäßige Auszahlungen, passives Einkommen, Gefü
 
 **Ausschüttender/Dividenden-ETF:** Erträge werden regelmäßig (quartalsweise oder jährlich) an die Anleger ausgezahlt. Du erhältst Geld auf dein Konto, der ETF-Preis sinkt entsprechend.
 
-Der Unterschied klingt groß, ist es buchhalterisch aber nicht: In beiden Fällen gehört dir dasselbe Vermögen. [Den Unterschied zwischen thesaurierend und ausschüttend erklärt dieser Artikel ausführlich.](/blog/thesaurierend-vs-ausschuettend-etf)
+Der Unterschied klingt groß, ist es buchhalterisch aber nicht: In beiden Fällen gehört dir dasselbe Vermögen. [Den Unterschied zwischen thesaurierend und ausschüttend erklärt dieser Artikel ausführlich.](/blog/thesaurierend-vs-ausschuettend-etf/)
 
 ## Das Steuerproblem bei Dividenden
 

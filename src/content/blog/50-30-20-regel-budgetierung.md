@@ -47,7 +47,7 @@ Das war es. Kein Haushaltsbuch, keine App mit 40 Kategorien.
 | 30 % Wünsche | 600 € | Restaurants 150 €, Reisen 200 €, Kleidung 100 €, Freizeit 150 € |
 | 20 % Sparen | 400 € | Notgroschen 100 €, Altersvorsorge 200 €, ETF 100 € |
 
-In Münster mit einer günstigen WG ist das machbar. Mit einer 1-Zimmer-Wohnung für 900 € warm kommt die 50-%-Grenze schnell unter Druck — was zeigt, wo der eigentliche Hebel liegt. [Was in Münster nach Miete und Fixkosten übrig bleibt, erklärt dieser Artikel.](/blog/netto-gehalt-lebenshaltungskosten-muenster)
+In Münster mit einer günstigen WG ist das machbar. Mit einer 1-Zimmer-Wohnung für 900 € warm kommt die 50-%-Grenze schnell unter Druck — was zeigt, wo der eigentliche Hebel liegt. [Was in Münster nach Miete und Fixkosten übrig bleibt, erklärt dieser Artikel.](/blog/netto-gehalt-lebenshaltungskosten-muenster/)
 
 ## Warum 20 % Sparen — und nicht weniger?
 
@@ -57,7 +57,7 @@ In Münster mit einer günstigen WG ist das machbar. Mit einer 1-Zimmer-Wohnung 
 - Altersvorsorge betreibst (Rentenlücke schließen)
 - kurzfristig sparen willst (Urlaub, Auto, Wohnungseinrichtung)
 
-20 % ist der Mindestwert, bei dem langfristiger Vermögensaufbau realistisch wird. [Wie der Zinseszins ab 20 % Sparquote wirkt, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger)
+20 % ist der Mindestwert, bei dem langfristiger Vermögensaufbau realistisch wird. [Wie der Zinseszins ab 20 % Sparquote wirkt, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger/)
 
 ## Die 50-%-Grenze als Warnsignal
 

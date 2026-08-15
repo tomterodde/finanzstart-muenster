@@ -55,7 +55,7 @@ Außerdem: **Beitragszeiten**, die erfassten Beitragsjahre, sowie ggf. Hinweise 
 
 **Schritt 2: Hochgerechnete Rente als Ausgangspunkt nehmen** — und davon 15–20 % für Steuern und KV abziehen, um die reale Nettorente zu schätzen.
 
-**Schritt 3: Rentenlücke berechnen.** [Wie das geht, erklärt dieser Artikel.](/blog/rentenluecke-berechnen-schliessen)
+**Schritt 3: Rentenlücke berechnen.** [Wie das geht, erklärt dieser Artikel.](/blog/rentenluecke-berechnen-schliessen/)
 
 **Schritt 4: Private Vorsorge darauf aufbauen.** Nicht umgekehrt.
 

@@ -74,7 +74,7 @@ Dieser Artikel wird aktualisiert, sobald die finalen Details vorliegen.
 
 Die Entlastungsprämie ist ein klassisches Instrument der "günstigen Entlastung": Der Staat verzichtet auf Steuereinnahmen, Arbeitgeber können freiwillig helfen, und Arbeitnehmer bekommen netto mehr — ohne dass das Grundgehalt steigt. Das ist keine Lösung struktureller Probleme, aber ein echter kurzfristiger Vorteil für alle, die ihn nutzen.
 
-Wer mehr über legale steuerfreie Gehaltsextras wissen will: [Welche steuerfreien Extras Arbeitgeber noch zahlen können, erklärt dieser Artikel.](/blog/nettoeinkommen-optimieren-extras)
+Wer mehr über legale steuerfreie Gehaltsextras wissen will: [Welche steuerfreien Extras Arbeitgeber noch zahlen können, erklärt dieser Artikel.](/blog/nettoeinkommen-optimieren-extras/)
 
 ---
 

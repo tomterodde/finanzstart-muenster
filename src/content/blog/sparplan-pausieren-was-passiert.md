@@ -51,7 +51,7 @@ In jedem Fall gilt: keine Gebühr, kein Verkauf, kein steuerliches Ereignis.
 
 ## Wann eine Pause sinnvoll ist
 
-**Echter finanzieller Engpass:** Wenn du zwischen [Notgroschen](/blog/notgroschen-wo-parken-tagesgeld) und Sparplan wählen musst, kommt der Notgroschen zuerst. Eine temporäre Pause, um eine unerwartete Ausgabe zu decken, ist besser als einen Kredit aufzunehmen.
+**Echter finanzieller Engpass:** Wenn du zwischen [Notgroschen](/blog/notgroschen-wo-parken-tagesgeld/) und Sparplan wählen musst, kommt der Notgroschen zuerst. Eine temporäre Pause, um eine unerwartete Ausgabe zu decken, ist besser als einen Kredit aufzunehmen.
 
 **Konkrete kurzfristige Ausgabe:** Wenn du in 3 Monaten eine größere Zahlung hast (Kaution, Reparatur), kann es sinnvoll sein, die Sparrate vorübergehend umzuleiten.
 
@@ -59,7 +59,7 @@ In jedem Fall gilt: keine Gebühr, kein Verkauf, kein steuerliches Ereignis.
 
 ## Wann eine Pause der falsche Zug ist
 
-**Weil der Markt fällt:** Das ist der häufigste und schlechteste Grund. Fallende Kurse sind beim Sparplan eine Chance — du kaufst mehr Anteile für denselben Betrag. Genau das ist der [Cost-Average-Effekt](/blog/cost-average-effekt-erklaert): Wer in Crashs pausiert, verpasst günstige Einkaufspreise. Wie du dich bei einem Markteinbruch richtig verhältst, steht im Detail unter [ETF-Kurseinbruch: Was tun?](/blog/etf-kurseinbruch-was-tun).
+**Weil der Markt fällt:** Das ist der häufigste und schlechteste Grund. Fallende Kurse sind beim Sparplan eine Chance — du kaufst mehr Anteile für denselben Betrag. Genau das ist der [Cost-Average-Effekt](/blog/cost-average-effekt-erklaert/): Wer in Crashs pausiert, verpasst günstige Einkaufspreise. Wie du dich bei einem Markteinbruch richtig verhältst, steht im Detail unter [ETF-Kurseinbruch: Was tun?](/blog/etf-kurseinbruch-was-tun/).
 
 Historisch haben Anleger, die in der Krise 2008 oder 2020 weitergezahlt haben, deutlich besser abgeschnitten als jene, die pausiert oder verkauft haben.
 
@@ -74,7 +74,7 @@ Annahme: 200 Euro/Monat, 6 % p.a., 30 Jahre Laufzeit.
 
 Eine einjährige Pause kostet durch den entgangenen Zinseszins über 30 Jahre ~14.000 Euro. Das ist der echte Preis.
 
-[Warum der Zinseszins Pausen so teuer macht, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger)
+[Warum der Zinseszins Pausen so teuer macht, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger/)
 
 ## Besser als pausieren: Sparrate reduzieren
 

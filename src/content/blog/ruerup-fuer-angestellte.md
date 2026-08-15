@@ -38,10 +38,10 @@ Diese Eigenschaften machen Rürup zu einem echten Rentenbaustein — nicht zu ei
 
 Als Angestellter hast du Zugang zu Förderwegen, die Selbstständigen verschlossen sind — und die Rürup in der Reihenfolge oft schlagen:
 
-- **Riester:** Staatliche Zulagen (Grundzulage 175 €, Kinderzulage bis 300 € je Kind) plus Sonderausgabenabzug. [Ob und wann sich Riester lohnt, rechnet dieser Artikel durch](/blog/riester-rente-lohnt-sich).
-- **Betriebliche Altersvorsorge (bAV):** Hier zahlt dein Arbeitgeber mit — ein gesetzlicher Zuschuss von mindestens 15 % ist faktisch garantierte Rendite. [Warum die bAV vor allem mit gutem Arbeitgeberzuschuss attraktiv ist, liest du hier](/blog/bav-lohnt-sich-arbeitgeberzuschuss).
+- **Riester:** Staatliche Zulagen (Grundzulage 175 €, Kinderzulage bis 300 € je Kind) plus Sonderausgabenabzug. [Ob und wann sich Riester lohnt, rechnet dieser Artikel durch](/blog/riester-rente-lohnt-sich/).
+- **Betriebliche Altersvorsorge (bAV):** Hier zahlt dein Arbeitgeber mit — ein gesetzlicher Zuschuss von mindestens 15 % ist faktisch garantierte Rendite. [Warum die bAV vor allem mit gutem Arbeitgeberzuschuss attraktiv ist, liest du hier](/blog/bav-lohnt-sich-arbeitgeberzuschuss/).
 
-Der Unterschied ist grundlegend: Riester bringt Zulagen, die bAV einen Arbeitgeberanteil — beides zusätzliches Geld von außen. Rürup bietet „nur" den Steuervorteil. Deshalb gilt für die meisten Angestellten die Reihenfolge: erst die geförderten Bausteine ausschöpfen, dann Rürup prüfen. [Wie die drei Schichten der Altersvorsorge zusammenspielen, erklärt dieser Überblick](/blog/drei-saeulen-altersvorsorge-erklaert).
+Der Unterschied ist grundlegend: Riester bringt Zulagen, die bAV einen Arbeitgeberanteil — beides zusätzliches Geld von außen. Rürup bietet „nur" den Steuervorteil. Deshalb gilt für die meisten Angestellten die Reihenfolge: erst die geförderten Bausteine ausschöpfen, dann Rürup prüfen. [Wie die drei Schichten der Altersvorsorge zusammenspielen, erklärt dieser Überblick](/blog/drei-saeulen-altersvorsorge-erklaert/).
 
 ## Wann sich Rürup für Angestellte lohnt
 
@@ -57,7 +57,7 @@ Es gibt eine klare Nische, in der Rürup auch für Angestellte stark ist:
 
 Der typische Fall ist der gut verdienende Angestellte, der seine geförderten Wege bereits nutzt und einen weiteren steuerlich begünstigten Baustein für die lebenslange Rente sucht — besonders attraktiv, wenn variable Boni in guten Jahren flexibel zugezahlt werden können.
 
-Ein Rechenbeispiel: Wer 10.000 € im Jahr in Rürup einzahlt und einen Grenzsteuersatz von 42 % hat, bekommt rund 4.200 € über die Steuererklärung zurück. Die effektive Einzahlung sinkt damit auf 5.800 € — ein Hebel, der bei niedrigem Steuersatz deutlich kleiner ausfällt und genau deshalb vor allem für Topverdiener zählt. [Die ausführliche Steuerrechnung Rürup im Vergleich findest du hier](/blog/privatrente-rurup-fuer-wen).
+Ein Rechenbeispiel: Wer 10.000 € im Jahr in Rürup einzahlt und einen Grenzsteuersatz von 42 % hat, bekommt rund 4.200 € über die Steuererklärung zurück. Die effektive Einzahlung sinkt damit auf 5.800 € — ein Hebel, der bei niedrigem Steuersatz deutlich kleiner ausfällt und genau deshalb vor allem für Topverdiener zählt. [Die ausführliche Steuerrechnung Rürup im Vergleich findest du hier](/blog/privatrente-rurup-fuer-wen/).
 
 ## Die Nachteile, die du kennen musst
 
@@ -74,7 +74,7 @@ Ob diese Nachteile für dich ins Gewicht fallen oder durch den Steuervorteil auf
 
 Für Angestellte ist Rürup kein Standardbaustein, sondern ein Spezialwerkzeug: stark für Gutverdiener nahe dem Spitzensteuersatz, die Riester und bAV bereits nutzen und eine zusätzliche, steuerbegünstigte lebenslange Rente wollen. Für alle anderen kommen die geförderten Wege zuerst.
 
-Bevor du eine Rürup-Police abschließt, lohnt sich die Rechnung über deine konkrete Steuersituation — und ein Gespräch mit einem Berater, der deine Gesamtvorsorge kennt. Bist du selbstständig, gelten andere Prioritäten: [Hier liest du, warum Rürup für Selbstständige oft der zentrale Baustein ist](/blog/ruerup-rente-selbststaendige).
+Bevor du eine Rürup-Police abschließt, lohnt sich die Rechnung über deine konkrete Steuersituation — und ein Gespräch mit einem Berater, der deine Gesamtvorsorge kennt. Bist du selbstständig, gelten andere Prioritäten: [Hier liest du, warum Rürup für Selbstständige oft der zentrale Baustein ist](/blog/ruerup-rente-selbststaendige/).
 
 ---
 

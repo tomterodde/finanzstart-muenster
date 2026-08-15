@@ -90,7 +90,7 @@ Beispielrechnung für ein **Endkapital-Ziel von 425.000 €** (entspricht etwa 1
 
 **Klare Konsequenz:** Wer 5 Jahre länger wartet, muss rund 40–50 % höhere Beiträge zahlen. Wer 10 Jahre länger wartet, mehr als das Doppelte. **Frühstart ist der wichtigste Hebel — wichtiger als die Wahl des Anlageprodukts.**
 
-[Wie der Zinseszins-Effekt im Detail wirkt, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger)
+[Wie der Zinseszins-Effekt im Detail wirkt, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger/)
 
 ## Die 3-Topf-Strategie: Wie aufteilen?
 
@@ -108,7 +108,7 @@ Eine bewährte Aufteilung der monatlichen Sparrate für Berufstätige unter 40:
 - Plus 30 € Arbeitgeberzuschuss = 130 € im Vertrag
 - **Hebel: 130 € Sparbeitrag bei 55 € Nettoaufwand = 2,4× Hebel**
 
-[Wann sich bAV konkret lohnt und wann nicht, erklärt dieser Artikel.](/blog/bav-lohnt-sich-arbeitgeberzuschuss)
+[Wann sich bAV konkret lohnt und wann nicht, erklärt dieser Artikel.](/blog/bav-lohnt-sich-arbeitgeberzuschuss/)
 
 ### Topf 2: ETF-Sparplan (~50–60 % der Sparrate)
 
@@ -122,9 +122,9 @@ Eine bewährte Aufteilung der monatlichen Sparrate für Berufstätige unter 40:
 
 **Tagesgeld als Notgroschen-Aufstockung:** Erste Priorität sollte ein Notgroschen von 3 Monatsausgaben sein. Erst danach langfristige Vorsorge sinnvoll. Tagesgeld 2025: 2,5–3,5 % Zins.
 
-**Optional Riester (für Familien mit Kindern):** Staatliche Zulagen (175 € Grundzulage + 300 € pro Kind ab Geburt 2008) plus Steuervorteil können bei niedrigeren Einkommen attraktiv sein. Bei kinderlosen Gutverdienern oft nicht lohnenswert. [Was Riester wirklich bringt, erklärt dieser Artikel.](/blog/riester-rente-lohnt-sich) [Vollständige Übersicht aller staatlichen Förderwege steht hier.](/blog/staatliche-foerderung-altersvorsorge-ueberblick)
+**Optional Riester (für Familien mit Kindern):** Staatliche Zulagen (175 € Grundzulage + 300 € pro Kind ab Geburt 2008) plus Steuervorteil können bei niedrigeren Einkommen attraktiv sein. Bei kinderlosen Gutverdienern oft nicht lohnenswert. [Was Riester wirklich bringt, erklärt dieser Artikel.](/blog/riester-rente-lohnt-sich/) [Vollständige Übersicht aller staatlichen Förderwege steht hier.](/blog/staatliche-foerderung-altersvorsorge-ueberblick/)
 
-**Optional Rürup (für Selbstständige):** Höchstbetrag-Sonderausgabe 26.528 € (2025), in der Praxis zur Steueroptimierung bei Selbstständigen oder Spitzenverdienern. [Rürup-Details für Selbstständige stehen hier.](/blog/ruerup-rente-selbststaendige)
+**Optional Rürup (für Selbstständige):** Höchstbetrag-Sonderausgabe 26.528 € (2025), in der Praxis zur Steueroptimierung bei Selbstständigen oder Spitzenverdienern. [Rürup-Details für Selbstständige stehen hier.](/blog/ruerup-rente-selbststaendige/)
 
 ## Konkrete Beispielrechnungen
 
@@ -153,7 +153,7 @@ Selbstständige zahlen nicht zwangsweise in die gesetzliche Rente. Ohne freiwill
 
 **Wichtig:** Selbstständige sollten zusätzlich zur Altersvorsorge einen größeren Notgroschen (6–12 Monatsausgaben) und eine Berufsunfähigkeitsversicherung priorisieren — die fehlende soziale Absicherung ist der größte Risikofaktor.
 
-[Detaillierte Strategie für Selbstständige steht hier.](/blog/altersvorsorge-selbststaendige)
+[Detaillierte Strategie für Selbstständige steht hier.](/blog/altersvorsorge-selbststaendige/)
 
 ### Beispiel 3: Junges Familienpaar, 33+30 Jahre, 6.500 € + 2.800 € Brutto (kombiniert ~9.300 €)
 
@@ -172,12 +172,12 @@ Realistisch: Nicht jeder kann 12 % vom Brutto sparen. Wer nur 5 % schafft, hat t
 **Stufenplan:**
 
 1. **Notgroschen aufbauen** — 3 Monatsausgaben auf Tagesgeld. Ohne diesen Puffer droht im Notfall Auflösung der Altersvorsorge mit Verlust.
-2. **Berufsunfähigkeitsversicherung** — die größte Vermögensvernichtung im Lebensverlauf. [BU-Details hier.](/blog/berufsunfaehigkeitsversicherung-guide)
+2. **Berufsunfähigkeitsversicherung** — die größte Vermögensvernichtung im Lebensverlauf. [BU-Details hier.](/blog/berufsunfaehigkeitsversicherung-guide/)
 3. **Sparrate schrittweise erhöhen** — mit jeder Gehaltserhöhung 50 % davon in höhere Sparrate umlenken. Aus 250 € werden so über 5 Jahre 400 €.
 4. **bAV mit Arbeitgeberzuschuss zuerst** — der Zuschuss ist garantierter Renditehebel.
 5. **Alle anderen Konsumposten ehrlich prüfen** — Versicherungen mit Doppelung, Abos, Auto-Leasing.
 
-[Wie eine konkrete Rentenlücke berechnet und geschlossen wird, steht hier.](/blog/rentenluecke-berechnen-schliessen)
+[Wie eine konkrete Rentenlücke berechnet und geschlossen wird, steht hier.](/blog/rentenluecke-berechnen-schliessen/)
 
 ## Fazit
 
@@ -191,7 +191,7 @@ Realistisch: Nicht jeder kann 12 % vom Brutto sparen. Wer nur 5 % schafft, hat t
 
 Welche konkrete Aufteilung für deine Steuerlage, Lebenssituation und Arbeitgeber-Konditionen optimal ist, lässt sich pauschal nicht beantworten. Die typische Beratungsfrage, die in einem persönlichen Gespräch konkret durchgerechnet werden muss.
 
-[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert)
+[Wer die Grundlagen zu den 3 Säulen der Altersvorsorge noch braucht, findet sie hier.](/blog/drei-saeulen-altersvorsorge-erklaert/)
 
 ---
 

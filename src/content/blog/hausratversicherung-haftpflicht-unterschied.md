@@ -92,7 +92,7 @@ Die beiden Versicherungen ergänzen sich, überschneiden sich aber nicht. Das be
 
 **Die Haftpflicht ist ein Muss.** Kosten: 50 bis 80 € pro Jahr. Maximalschaden: theoretisch unbegrenzt. Dieses Preis-Leistungs-Verhältnis ist unschlagbar.
 
-**Die Hausratversicherung ist situationsabhängig.** Bei Berufseinsteigern mit eigenem Haushalt und Hausratwerten über 10.000 € wird sie rational sinnvoll — siehe [Hausratversicherung sinnvoll?](/blog/hausratversicherung-sinnvoll). Bei minimalem Hausrat (WG-Zimmer, möblierte Wohnung) kann man sie bewusst weglassen.
+**Die Hausratversicherung ist situationsabhängig.** Bei Berufseinsteigern mit eigenem Haushalt und Hausratwerten über 10.000 € wird sie rational sinnvoll — siehe [Hausratversicherung sinnvoll?](/blog/hausratversicherung-sinnvoll/). Bei minimalem Hausrat (WG-Zimmer, möblierte Wohnung) kann man sie bewusst weglassen.
 
 ## Hausrat und Haftpflichtversicherung kombinieren: Wann sich ein Kombi-Tarif lohnt
 
@@ -133,18 +133,18 @@ Eine häufige Frage: "Brauche ich noch eine Glasversicherung?" — Oft als Zusat
 
 Wenn die Grundsatzfrage geklärt ist, hängt der Rest an deiner konkreten Situation — für jede gibt es einen eigenen Vertiefungsartikel:
 
-- **Lohnt sie sich für mich überhaupt?** → [Hausratversicherung sinnvoll? Die 10.000-€-Regel](/blog/hausratversicherung-sinnvoll)
-- **Was kostet sie realistisch?** → [Kosten pro Quadratmeter mit Preisspannen](/blog/hausratversicherung-kosten-qm)
-- **Wie hoch muss die Versicherungssumme sein?** → [Versicherungssumme berechnen ohne Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen)
-- **Erste eigene Wohnung nach dem Berufsstart?** → [Der Einsteiger-Leitfaden](/blog/hausratversicherung-berufseinsteiger)
-- **Mietwohnung oder WG?** → [Die Mieter- und WG-Sonderfälle](/blog/hausratversicherung-mieter-wg)
-- **Schadenfall Nummer 1:** → [Was die Hausratversicherung bei Wasserschaden zahlt](/blog/hausratversicherung-wasserschaden)
+- **Lohnt sie sich für mich überhaupt?** → [Hausratversicherung sinnvoll? Die 10.000-€-Regel](/blog/hausratversicherung-sinnvoll/)
+- **Was kostet sie realistisch?** → [Kosten pro Quadratmeter mit Preisspannen](/blog/hausratversicherung-kosten-qm/)
+- **Wie hoch muss die Versicherungssumme sein?** → [Versicherungssumme berechnen ohne Unterversicherung](/blog/hausratversicherung-versicherungssumme-berechnen/)
+- **Erste eigene Wohnung nach dem Berufsstart?** → [Der Einsteiger-Leitfaden](/blog/hausratversicherung-berufseinsteiger/)
+- **Mietwohnung oder WG?** → [Die Mieter- und WG-Sonderfälle](/blog/hausratversicherung-mieter-wg/)
+- **Schadenfall Nummer 1:** → [Was die Hausratversicherung bei Wasserschaden zahlt](/blog/hausratversicherung-wasserschaden/)
 
 ## Fazit
 
 Hausratversicherung und Haftpflichtversicherung sind zwei verschiedene Paar Schuhe — und beide sind für die meisten Berufseinsteiger sinnvoll. Die Haftpflicht ist der absolute Grundschutz gegen existenzielle Risiken (Personenschäden). Die Hausratversicherung ist eine wirtschaftliche Absicherung ab einem gewissen Hausratwert.
 
-Welche Deckungssummen, Zusatzbausteine und Kombinationsmöglichkeiten für deine konkrete Situation sinnvoll sind, lässt sich am besten im Beratungsgespräch klären. [Was die Hausratversicherung pro Quadratmeter kostet, ist in diesem Artikel erklärt](/blog/hausratversicherung-kosten-qm). Die Haftpflicht-Eckdaten gibt es [hier zum Nachlesen](/blog/private-haftpflichtversicherung-berufseinsteiger).
+Welche Deckungssummen, Zusatzbausteine und Kombinationsmöglichkeiten für deine konkrete Situation sinnvoll sind, lässt sich am besten im Beratungsgespräch klären. [Was die Hausratversicherung pro Quadratmeter kostet, ist in diesem Artikel erklärt](/blog/hausratversicherung-kosten-qm/). Die Haftpflicht-Eckdaten gibt es [hier zum Nachlesen](/blog/private-haftpflichtversicherung-berufseinsteiger/).
 
 ---
 

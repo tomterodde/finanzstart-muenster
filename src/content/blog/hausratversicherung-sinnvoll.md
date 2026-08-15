@@ -48,7 +48,7 @@ Die Faustregel: **Ab einem Hausratwert von 10.000 Euro wird die Versicherung rat
 
 Der Haken: Die meisten unterschätzen ihren Hausratwert massiv. Rechne selbst nach — Laptop, Smartphone, Monitor, Fahrrad, Sofa, Bett, Kleidung, Küchengeräte. Du bist schneller bei 15.000 bis 30.000 Euro, als du denkst. Die Jahresprämie von 50 bis 150 Euro ist dann eine klare Rechnung.
 
-Die Schadenseite untermauert das: Laut GDV liegt der durchschnittliche Einbruchschaden bei rund 3.200 €, der durchschnittliche Leitungswasserschaden bei rund 3.800 € — ein einziger mittlerer Schadenfall entspricht also 20 bis 60 Jahresprämien. [Was die Versicherung konkret pro Quadratmeter kostet, ist hier durchgerechnet.](/blog/hausratversicherung-kosten-qm)
+Die Schadenseite untermauert das: Laut GDV liegt der durchschnittliche Einbruchschaden bei rund 3.200 €, der durchschnittliche Leitungswasserschaden bei rund 3.800 € — ein einziger mittlerer Schadenfall entspricht also 20 bis 60 Jahresprämien. [Was die Versicherung konkret pro Quadratmeter kostet, ist hier durchgerechnet.](/blog/hausratversicherung-kosten-qm/)
 
 Aus eigener aktueller Erfahrung: Ich bin selbst vor Kurzem in eine neue Wohnung in Münster gezogen, und die Hausratversicherung steht bei mir als nächster Absicherungsbaustein auf der Liste — nach genau der Rechnung, die hier steht. Wer seine Einrichtung einmal ehrlich addiert hat, diskutiert nicht mehr über das Ob, sondern über die richtige Versicherungssumme.
 
@@ -56,7 +56,7 @@ Aus eigener aktueller Erfahrung: Ich bin selbst vor Kurzem in eine neue Wohnung 
 
 Es gibt Situationen, in denen du getrost darauf verzichten kannst:
 
-- **WG-Zimmer mit Ikea-Grundausstattung** — Gebrauchte Möbel, kein Highend-Laptop, wenig Kleidung. Hausratwert unter 5.000 Euro. [Die WG-Sonderfälle im Detail stehen hier.](/blog/hausratversicherung-mieter-wg)
+- **WG-Zimmer mit Ikea-Grundausstattung** — Gebrauchte Möbel, kein Highend-Laptop, wenig Kleidung. Hausratwert unter 5.000 Euro. [Die WG-Sonderfälle im Detail stehen hier.](/blog/hausratversicherung-mieter-wg/)
 - **Zwischenlösung auf wenige Monate** — Du ziehst bald wieder um, ins Ausland oder in eine möblierte Wohnung.
 - **Eltern-Versicherung greift noch** — Studenten sind oft bis zum Ende des Erststudiums in der Hausratversicherung der Eltern mitversichert, solange sie den Wohnsitz dort behalten. Prüf das, bevor du doppelt zahlst.
 
@@ -64,7 +64,7 @@ In diesen Fällen: Geld sparen, Notgroschen aufbauen. Der ist ohnehin die erste 
 
 ## Die drei Stolperfallen beim Abschluss
 
-**1. Unterversicherung** — Die gefährlichste Falle. Setzt du die Versicherungssumme zu niedrig an, bekommst du bei einem Totalschaden nur anteilig Geld zurück. Die Faustregel: 650 Euro pro Quadratmeter Wohnfläche. Bei 50 m² also 32.500 Euro. Viele Anbieter versichern automatisch zum "Unterversicherungsverzicht", wenn du diese Summe ansetzt. [Wie du die Versicherungssumme exakt berechnest — und wann die Faustformel danebenliegt, steht hier.](/blog/hausratversicherung-versicherungssumme-berechnen)
+**1. Unterversicherung** — Die gefährlichste Falle. Setzt du die Versicherungssumme zu niedrig an, bekommst du bei einem Totalschaden nur anteilig Geld zurück. Die Faustregel: 650 Euro pro Quadratmeter Wohnfläche. Bei 50 m² also 32.500 Euro. Viele Anbieter versichern automatisch zum "Unterversicherungsverzicht", wenn du diese Summe ansetzt. [Wie du die Versicherungssumme exakt berechnest — und wann die Faustformel danebenliegt, steht hier.](/blog/hausratversicherung-versicherungssumme-berechnen/)
 
 **2. Zeitwert statt Neuwert** — Billige Tarife ersetzen dir den Zeitwert. Dein 3 Jahre altes MacBook hat dann keinen Kaufpreis, sondern Restwert. Ein Tarif mit Neuwertentschädigung ist meistens nur 10 bis 20 Euro teurer pro Jahr — und macht im Schadensfall den entscheidenden Unterschied.
 
@@ -74,13 +74,13 @@ In diesen Fällen: Geld sparen, Notgroschen aufbauen. Der ist ohnehin die erste 
 
 **Grobe Fahrlässigkeit:** Hast du die Kerze nicht ausgepustet, das Bügeleisen angelassen, die Wohnungstür offen gelassen? Günstige Tarife kürzen dann drastisch. Der Zusatz "Verzicht auf Einrede der groben Fahrlässigkeit" ist für wenige Euro jährlich buchbar und schützt vor dem häufigsten Streitfall.
 
-**Elementarschäden:** Überschwemmung durch Starkregen, Rückstau, Erdrutsch — alles nicht in der Grunddeckung. In Münster weniger relevant als in Hochwassergebieten, aber Starkregen gibt es auch hier. Prüf die Postleitzahl deiner Wohnung im ZÜRS-Geoportal. [Was die Hausratversicherung beim häufigsten Schadenfall — Wasserschaden — wirklich zahlt, liest du hier.](/blog/hausratversicherung-wasserschaden)
+**Elementarschäden:** Überschwemmung durch Starkregen, Rückstau, Erdrutsch — alles nicht in der Grunddeckung. In Münster weniger relevant als in Hochwassergebieten, aber Starkregen gibt es auch hier. Prüf die Postleitzahl deiner Wohnung im ZÜRS-Geoportal. [Was die Hausratversicherung beim häufigsten Schadenfall — Wasserschaden — wirklich zahlt, liest du hier.](/blog/hausratversicherung-wasserschaden/)
 
 **Selbstbeteiligung:** Eine Selbstbeteiligung von 150 bis 300 Euro senkt die Prämie spürbar. Für Berufseinsteiger mit Notgroschen meistens die bessere Wahl als ein Tarif ohne SB.
 
 ## Hausrat und Haftpflicht: Zwei verschiedene Paar Schuhe
 
-Häufige Verwechslung: Die Hausratversicherung schützt deinen Besitz bei Schäden, die dir passieren. Die [private Haftpflichtversicherung](/blog/private-haftpflichtversicherung-berufseinsteiger) schützt dich, wenn du anderen Schäden zufügst. Beides ist voneinander unabhängig — [die genauen Unterschiede und typischen Schadenfälle stehen hier](/blog/hausratversicherung-haftpflicht-unterschied). In Kombination ist das meistens der sinnvollste Grundschutz für einen eigenen Haushalt.
+Häufige Verwechslung: Die Hausratversicherung schützt deinen Besitz bei Schäden, die dir passieren. Die [private Haftpflichtversicherung](/blog/private-haftpflichtversicherung-berufseinsteiger/) schützt dich, wenn du anderen Schäden zufügst. Beides ist voneinander unabhängig — [die genauen Unterschiede und typischen Schadenfälle stehen hier](/blog/hausratversicherung-haftpflicht-unterschied/). In Kombination ist das meistens der sinnvollste Grundschutz für einen eigenen Haushalt.
 
 ## Fazit
 

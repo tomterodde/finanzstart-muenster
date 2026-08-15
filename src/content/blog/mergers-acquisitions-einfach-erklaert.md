@@ -40,9 +40,9 @@ In der Praxis sind echte Fusionen die Ausnahme. Die große Mehrheit der Deals si
 
 Auf der Käuferseite stehen zwei grundverschiedene Typen. **Strategische Käufer** sind Unternehmen aus derselben oder einer angrenzenden Branche. Sie kaufen wegen Synergien: Marktanteile, Technologie, Einkaufsmacht. Sie planen langfristig und zahlen für Synergien oft mehr.
 
-**Finanzinvestoren** — allen voran Private-Equity-Fonds — kaufen, um zu verkaufen. Ihr Kalkül: Unternehmen erwerben, über 4–7 Jahre entwickeln und mit Gewinn weiterreichen, häufig mit viel Fremdkapital gehebelt wie beim [Leveraged Buyout (LBO)](/blog/lbo-leveraged-buyout-einfach-erklaert).
+**Finanzinvestoren** — allen voran Private-Equity-Fonds — kaufen, um zu verkaufen. Ihr Kalkül: Unternehmen erwerben, über 4–7 Jahre entwickeln und mit Gewinn weiterreichen, häufig mit viel Fremdkapital gehebelt wie beim [Leveraged Buyout (LBO)](/blog/lbo-leveraged-buyout-einfach-erklaert/).
 
-Eine Sonderform ist das [Management-Buyout (MBO)](/blog/management-buyout-mbo-einfach-erklaert), bei dem das eigene Management das Unternehmen übernimmt — im deutschen Mittelstand ein gängiges Nachfolgemodell.
+Eine Sonderform ist das [Management-Buyout (MBO)](/blog/management-buyout-mbo-einfach-erklaert/), bei dem das eigene Management das Unternehmen übernimmt — im deutschen Mittelstand ein gängiges Nachfolgemodell.
 
 ## Der Ablauf eines M&A-Deals in 6 Phasen
 
@@ -57,7 +57,7 @@ Ein strukturierter Verkaufsprozess folgt einer festen Choreografie:
 | 5. Verhandlung + Signing | Kaufvertrag (SPA) wird verhandelt und unterzeichnet | 4–8 Wochen |
 | 6. Closing | Vollzug: Kartellfreigabe, Zahlung, Anteilsübergang | Wochen bis Monate |
 
-Herzstück ist die [Due Diligence](/blog/due-diligence-private-equity-ablauf) — hier entscheidet sich, ob der indikative Preis hält oder nachverhandelt wird. Zwischen Signing und Closing liegt der Deal rechtlich in der Schwebe: Erst wenn alle Vollzugsbedingungen erfüllt sind, fließt Geld.
+Herzstück ist die [Due Diligence](/blog/due-diligence-private-equity-ablauf/) — hier entscheidet sich, ob der indikative Preis hält oder nachverhandelt wird. Zwischen Signing und Closing liegt der Deal rechtlich in der Schwebe: Erst wenn alle Vollzugsbedingungen erfüllt sind, fließt Geld.
 
 ## Warum viele Deals scheitern
 
@@ -69,9 +69,9 @@ Für Käufer heißt das: Der Deal ist mit dem Closing nicht gewonnen. Die Post-M
 
 ## M&A als Karrierefeld
 
-M&A ist zugleich eines der prestigeträchtigsten Einstiegsfelder für BWL-Absolventen. Die Deals werden von [Investmentbanken](/blog/investment-banking-einstieg-gehalt) orchestriert, von Anwaltskanzleien vertraglich umgesetzt und von Wirtschaftsprüfern und Beratungen in der Due Diligence begleitet.
+M&A ist zugleich eines der prestigeträchtigsten Einstiegsfelder für BWL-Absolventen. Die Deals werden von [Investmentbanken](/blog/investment-banking-einstieg-gehalt/) orchestriert, von Anwaltskanzleien vertraglich umgesetzt und von Wirtschaftsprüfern und Beratungen in der Due Diligence begleitet.
 
-Wer den Prozess von der Bankenseite gelernt hat, hat exzellente Exit-Optionen — der Wechsel zu einem Private-Equity-Fonds ist der klassische Karrierepfad, wie unser Überblick zur [Private-Equity-Karriere](/blog/private-equity-karriere-bwl-einstieg) zeigt.
+Wer den Prozess von der Bankenseite gelernt hat, hat exzellente Exit-Optionen — der Wechsel zu einem Private-Equity-Fonds ist der klassische Karrierepfad, wie unser Überblick zur [Private-Equity-Karriere](/blog/private-equity-karriere-bwl-einstieg/) zeigt.
 
 ## Fazit
 

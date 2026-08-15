@@ -70,9 +70,9 @@ Wer will, kann freiwillige Rentenversicherungsbeiträge zahlen — das macht bes
 
 ## Verwandte Münster-Themen
 
-- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster)
-- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Steuererklärung für Berufseinsteiger in Münster](/blog/steuererklaerung-berufseinsteiger-muenster/)
+- [Werkstudent, Minijob & Steuern in Münster](/blog/werkstudent-minijob-steuern-muenster/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

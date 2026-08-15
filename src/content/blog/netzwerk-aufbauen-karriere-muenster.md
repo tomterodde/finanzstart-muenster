@@ -88,9 +88,9 @@ Ein Netzwerk von 100 aktiven Kontakten, die wissen was du machst: In einem Jahr 
 
 ## Verwandte Münster-Themen
 
-- [Gehaltsverhandlung beim Berufseinstieg in Münster](/blog/gehaltsverhandlung-berufseinstieg-muenster)
-- [Berufsstart in Münster: Gehaltsspannen und Marktwert](/blog/berufsstart-muenster-gehalt-verhandlung)
-- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster)
+- [Gehaltsverhandlung beim Berufseinstieg in Münster](/blog/gehaltsverhandlung-berufseinstieg-muenster/)
+- [Berufsstart in Münster: Gehaltsspannen und Marktwert](/blog/berufsstart-muenster-gehalt-verhandlung/)
+- [WWU-Absolvent: Vollständiger Finanzcheck zum Berufsstart](/blog/wwu-absolvent-finanzcheck-muenster/)
 
 ## Fazit
 

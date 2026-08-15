@@ -37,7 +37,7 @@ Vermittler im Strukturvertrieb sind **selbstständige Handelsvertreter** (§§ 8
 1. **Eigene Abschlussprovision:** ein Promillesatz auf das vermittelte Bewertungsvolumen. Der Satz steigt mit der Karrierestufe.
 2. **Differenzprovision (ab Führungsverantwortung):** die Differenz zwischen dem eigenen Satz und dem Satz der eigenen Teampartner auf deren Umsätze — die Vergütung für Ausbildung und Führung.
 
-Dazu kommen je nach Produkt **Bestandsprovisionen** als laufendes Einkommen. [Wie Provisionsmodelle im Detail funktionieren, liest du hier.](/blog/provisionsmodell-einkommen-erklaert)
+Dazu kommen je nach Produkt **Bestandsprovisionen** als laufendes Einkommen. [Wie Provisionsmodelle im Detail funktionieren, liest du hier.](/blog/provisionsmodell-einkommen-erklaert/)
 
 ## Der Karrierestufen-Hebel: dieselbe Arbeit, dreifaches Geld
 
@@ -53,15 +53,15 @@ Ein branchenübliches Karrieremodell — vereinfacht, ohne Anbieternamen — sie
 
 Die wichtigste Erkenntnis steht in der rechten Spalte: **Der Aufstieg vom Einsteiger zur ersten Führungsstufe verdreifacht den Verdienst pro Abschluss** — bei identischer Beratungsleistung. Deshalb ist die Karrierestufe der größte Einkommenshebel, nicht das bloße Mehr-Verkaufen.
 
-Beförderungen sind dabei an Bedingungen geknüpft: definierte Teamvolumen, **niedrige Stornoquoten** als Qualitätsnachweis und Verteilungsregeln (z. B. die 40/70-Regel), die verhindern, dass ein einzelner starker Umsatzbringer allein zur Beförderung reicht. [Die Mechanik hinter den Karrierestufen erklärt der Hub-Artikel.](/blog/strukturvertrieb-was-steckt-dahinter)
+Beförderungen sind dabei an Bedingungen geknüpft: definierte Teamvolumen, **niedrige Stornoquoten** als Qualitätsnachweis und Verteilungsregeln (z. B. die 40/70-Regel), die verhindern, dass ein einzelner starker Umsatzbringer allein zur Beförderung reicht. [Die Mechanik hinter den Karrierestufen erklärt der Hub-Artikel.](/blog/strukturvertrieb-was-steckt-dahinter/)
 
 ## Jahr 1: Die Aufbauphase — rechne mit wenig
 
 Das erste Jahr ist eine Investitionsphase. Begleitete Termine, IHK-Sachkundeprüfung, erste eigene Kunden aus dem Netzwerk — bei niedrigem Einsteiger-Provisionssatz. Realistisch heißt das: einige hundert Euro pro vermitteltem Beratungsfall, unregelmäßig, und ein Teil davon wandert in die Stornoreserve.
 
-Konkret gerechnet: Wer im ersten Jahr 300.000–500.000 € Volumen vermittelt — für einen nebenberuflichen Einsteiger bereits ordentlich — landet beim 7‰-Satz bei 2.100–3.500 € **Jahres**provision. [Meine eigenen ersten 4 Monate habe ich hier ungeschönt beschrieben.](/blog/strukturvertrieb-erfahrungen-trainee)
+Konkret gerechnet: Wer im ersten Jahr 300.000–500.000 € Volumen vermittelt — für einen nebenberuflichen Einsteiger bereits ordentlich — landet beim 7‰-Satz bei 2.100–3.500 € **Jahres**provision. [Meine eigenen ersten 4 Monate habe ich hier ungeschönt beschrieben.](/blog/strukturvertrieb-erfahrungen-trainee/)
 
-Die Konsequenz ist keine Schwäche des Modells, sondern Planungsgrundlage: **Jahr 1 funktioniert nur nebenberuflich oder mit Rücklagen.** [Wie ein nebenberuflicher Einstieg in die Selbstständigkeit abläuft, steht hier.](/blog/selbststaendig-nebenberuflich-einstieg)
+Die Konsequenz ist keine Schwäche des Modells, sondern Planungsgrundlage: **Jahr 1 funktioniert nur nebenberuflich oder mit Rücklagen.** [Wie ein nebenberuflicher Einstieg in die Selbstständigkeit abläuft, steht hier.](/blog/selbststaendig-nebenberuflich-einstieg/)
 
 ## Jahr 3: Kundenstamm + erste Führung
 
@@ -73,7 +73,7 @@ Eine realistische Spanne für hauptberufliche Berater mit funktionierendem Empfe
 
 Ab etwa Jahr 5 trennen sich die Wege. Wer ein Team von 6–10 Partnern aufgebaut hat (typische erste Führungsstufe), verdient an der gesamten Teamproduktion anteilig mit — das Einkommen entkoppelt sich von der eigenen Terminanzahl. Wer stattdessen als Spezialist arbeitet, skaliert über Bestandsgröße und Expertise.
 
-In beiden Pfaden sind fünfstellige Monatseinkommen erreichbar — aber sie sind die Spitze einer Pyramide aus Fleiß, nicht ihr Durchschnitt. Die Branchenrealität gehört zur Ehrlichkeit dazu: Ein erheblicher Teil der Einsteiger gibt in den ersten zwei Jahren auf, meist weil die Aufbauphase unterschätzt wurde. [Was Finanzberater quer über alle Modelle verdienen, habe ich hier eingeordnet.](/blog/finanzberater-beruf-was-verdient-man)
+In beiden Pfaden sind fünfstellige Monatseinkommen erreichbar — aber sie sind die Spitze einer Pyramide aus Fleiß, nicht ihr Durchschnitt. Die Branchenrealität gehört zur Ehrlichkeit dazu: Ein erheblicher Teil der Einsteiger gibt in den ersten zwei Jahren auf, meist weil die Aufbauphase unterschätzt wurde. [Was Finanzberater quer über alle Modelle verdienen, habe ich hier eingeordnet.](/blog/finanzberater-beruf-was-verdient-man/)
 
 ## Woran du unseriöse Einkommensversprechen erkennst
 
@@ -82,7 +82,7 @@ In beiden Pfaden sind fünfstellige Monatseinkommen erreichbar — aber sie sind
 - **Verdienst primär durchs Anwerben** — das wäre ein Schneeballsystem (§ 16 UWG), kein Vertrieb
 - **Keine Erwähnung von Stornohaftung** — wer dir nur die Brutto-Provision zeigt, verschweigt das Risiko
 
-Das Einkommenspotenzial ist real — aber es ist ein **Unternehmer-Einkommen**: unbegrenzt nach oben, ungeschützt nach unten. [Was nebenberufliche Finanzberatung realistisch abwirft, habe ich hier durchgerechnet.](/blog/einkommenspotenzial-finanzberatung-nebenberuflich)
+Das Einkommenspotenzial ist real — aber es ist ein **Unternehmer-Einkommen**: unbegrenzt nach oben, ungeschützt nach unten. [Was nebenberufliche Finanzberatung realistisch abwirft, habe ich hier durchgerechnet.](/blog/einkommenspotenzial-finanzberatung-nebenberuflich/)
 
 <aside class="career-cta" style="background: var(--accent-light); border: 1px solid rgba(26, 107, 60, 0.2); border-left: 4px solid var(--accent); border-radius: 10px; padding: 1.5em 1.75em; margin: 2.5em 0;">
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Zahlen aus erster Hand?</p>

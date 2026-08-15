@@ -55,11 +55,11 @@ Die häufigsten Ursachen (Quelle: Branchenberichte der Versicherer):
 
 Das Klischee sagt: Berufsunfähigkeit betrifft Dachdecker und Krankenpfleger. Das stimmt insofern, als körperliche Berufe früher betroffen sind und höhere BU-Prämien zahlen. Aber die absoluten Zahlen zeigen: Kaufleute, IT-Experten, Lehrer, Sozialarbeiter — alle sind substanziell gefährdet.
 
-Besonders Berufseinsteiger unterschätzen das psychische Risiko: hohe Erwartungen, Orientierungsphase, Leistungsdruck, manchmal erste Anzeichen von Burnout in den ersten Berufsjahren. [Was eine BU-Versicherung für Berufseinsteiger kostet und warum ein früher Einstieg günstiger ist, erklärt dieser Artikel.](/blog/was-kostet-bu-im-monat-tabelle)
+Besonders Berufseinsteiger unterschätzen das psychische Risiko: hohe Erwartungen, Orientierungsphase, Leistungsdruck, manchmal erste Anzeichen von Burnout in den ersten Berufsjahren. [Was eine BU-Versicherung für Berufseinsteiger kostet und warum ein früher Einstieg günstiger ist, erklärt dieser Artikel.](/blog/was-kostet-bu-im-monat-tabelle/)
 
 ## Was die gesetzliche Absicherung leistet — und was nicht
 
-Wer berufsunfähig wird, bekommt **keine** Leistung aus der gesetzlichen Rentenversicherung für seinen konkreten Beruf. Die gesetzliche Erwerbsminderungsrente greift nur, wenn man **in gar keinem** Beruf mehr als 3 Stunden täglich arbeiten kann — und ist oft sehr niedrig. [Was die Erwerbsminderungsrente zahlt, erklärt dieser Artikel.](/blog/erwerbsminderungsrente-was-zahlt-der-staat)
+Wer berufsunfähig wird, bekommt **keine** Leistung aus der gesetzlichen Rentenversicherung für seinen konkreten Beruf. Die gesetzliche Erwerbsminderungsrente greift nur, wenn man **in gar keinem** Beruf mehr als 3 Stunden täglich arbeiten kann — und ist oft sehr niedrig. [Was die Erwerbsminderungsrente zahlt, erklärt dieser Artikel.](/blog/erwerbsminderungsrente-was-zahlt-der-staat/)
 
 Der Unterschied: BU-Versicherung zahlt, wenn du deinen konkreten Beruf nicht mehr ausüben kannst. Staatliche Rente zahlt erst, wenn du fast gar nicht mehr arbeitsfähig bist.
 
@@ -71,9 +71,9 @@ Die Prämie ist jung deutlich günstiger — weil das Risiko statistisch geringe
 
 ## Vertiefung
 
-- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle) — Konkrete Beitragsspannen nach Alter und Beruf.
-- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll) — Wann der Abschluss noch lohnt und wann nicht.
-- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen) — Leistungsumfang und typische Ablehnungsgründe.
+- [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle/) — Konkrete Beitragsspannen nach Alter und Beruf.
+- [BU mit 40, 50 oder 60 noch sinnvoll?](/blog/bu-mit-40-50-60-noch-sinnvoll/) — Wann der Abschluss noch lohnt und wann nicht.
+- [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen/) — Leistungsumfang und typische Ablehnungsgründe.
 
 ## Fazit
 

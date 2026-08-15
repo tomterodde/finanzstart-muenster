@@ -46,9 +46,9 @@ BU rechnet sich, wenn die **erwartete Versorgungslücke** im Falle von Berufsunf
 
 Selbst bei einem Beitrag von 250 €/Monat über 17 Jahre (51.000 € Gesamtbeitrag) ist die Versicherung wirtschaftlich klar im Plus — wenn der Versicherungsfall eintritt.
 
-**Statistische Wahrscheinlichkeit:** Etwa **25 % aller Erwerbstätigen** werden vor Rente berufsunfähig. Bei einem 50-Jährigen liegt das Restrisiko bei rund 18-22 %. [Detaillierte BU-Wahrscheinlichkeitsstatistik nach Alter und Beruf steht hier.](/blog/bu-wahrscheinlichkeit-statistik-jung)
+**Statistische Wahrscheinlichkeit:** Etwa **25 % aller Erwerbstätigen** werden vor Rente berufsunfähig. Bei einem 50-Jährigen liegt das Restrisiko bei rund 18-22 %. [Detaillierte BU-Wahrscheinlichkeitsstatistik nach Alter und Beruf steht hier.](/blog/bu-wahrscheinlichkeit-statistik-jung/)
 
-[Was BU konkret abdeckt und wann sie zahlt, erklärt dieser Artikel.](/blog/bu-was-deckt-sie-ab-leistungen)
+[Was BU konkret abdeckt und wann sie zahlt, erklärt dieser Artikel.](/blog/bu-was-deckt-sie-ab-leistungen/)
 
 ## Tabelle: Beiträge je Eintrittsalter (Bürotätigkeit, 1.500 € BU-Rente)
 
@@ -67,7 +67,7 @@ Selbst bei einem Beitrag von 250 €/Monat über 17 Jahre (51.000 € Gesamtbeit
 
 **Klare Erkenntnis:** Pro 5 Jahre Wartezeit verdoppelt sich die Beitragshöhe — und die Annahmequote sinkt deutlich. Der Hebel "früh abschließen" ist real und mathematisch.
 
-[Detaillierte Beitragsfaktoren und Optimierungs-Hebel stehen hier.](/blog/was-kostet-bu-im-monat-tabelle)
+[Detaillierte Beitragsfaktoren und Optimierungs-Hebel stehen hier.](/blog/was-kostet-bu-im-monat-tabelle/)
 
 ## BU mit 40 Jahren: Klar sinnvoll
 
@@ -107,7 +107,7 @@ Mit 50 sind Vorerkrankungen häufiger. Was bei der Gesundheitsprüfung problemat
 
 **Wichtige Strategie:** Bei Vorerkrankungen vorher **anonyme Risikovoranfrage** stellen. Mehrere Versicherer parallel anfragen — Annahmebedingungen unterscheiden sich erheblich.
 
-[Wie psychische Diagnosen die BU beeinflussen, erklärt dieser Artikel.](/blog/bu-psychische-erkrankungen)
+[Wie psychische Diagnosen die BU beeinflussen, erklärt dieser Artikel.](/blog/bu-psychische-erkrankungen/)
 
 ### Faktor 3: Vorhandenes Vermögen
 
@@ -153,7 +153,7 @@ Mit 60 wird BU **wirtschaftlich grenzwertig**. Die Beiträge sind hoch, die Rest
 
 **Nachteil:** Psychische Erkrankungen meist ausgeschlossen — die häufigste BU-Ursache (rund 30 %) wird nicht abgedeckt.
 
-[Vollständige Erklärung Grundfähigkeitsversicherung als BU-Alternative.](/blog/grundfaehigkeitsversicherung-alternative-bu)
+[Vollständige Erklärung Grundfähigkeitsversicherung als BU-Alternative.](/blog/grundfaehigkeitsversicherung-alternative-bu/)
 
 ### Alternative 2: Dread-Disease-Versicherung
 
@@ -163,7 +163,7 @@ Mit 60 wird BU **wirtschaftlich grenzwertig**. Die Beiträge sind hoch, die Rest
 
 **Nachteil:** Kein Schutz bei Berufsunfähigkeit ohne eine der definierten Diagnosen.
 
-[Wann sich Dread-Disease-Versicherung lohnt.](/blog/dread-disease-schwere-krankheiten-versicherung)
+[Wann sich Dread-Disease-Versicherung lohnt.](/blog/dread-disease-schwere-krankheiten-versicherung/)
 
 ### Alternative 3: Erwerbsunfähigkeitsversicherung
 
@@ -190,7 +190,7 @@ Mit 60 wird BU **wirtschaftlich grenzwertig**. Die Beiträge sind hoch, die Rest
 
 1. **Bestandsaufnahme:** Hast du bereits BU? Wenn ja: Welche Bedingungen, Versicherungssumme, Endalter? Ist die Versicherungssumme noch zu deinem aktuellen Einkommen passend?
 
-2. **Bei keinem oder nicht passendem Schutz:** Risikovoranfrage bei mehreren Anbietern — anonym, ohne Vermerk in zentralen Datenbanken (HIS-System). [Was BU konkret abdeckt und welche Bedingungen wichtig sind, steht im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+2. **Bei keinem oder nicht passendem Schutz:** Risikovoranfrage bei mehreren Anbietern — anonym, ohne Vermerk in zentralen Datenbanken (HIS-System). [Was BU konkret abdeckt und welche Bedingungen wichtig sind, steht im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 Die richtige Entscheidung — BU oder Alternative, bei welchem Anbieter, mit welchen Bedingungen — lässt sich in 60 Minuten Beratung deutlich besser klären als durch reines Online-Recherchieren. Gerade bei Vorerkrankungen oder ab 50 Jahren ist die Tarifauswahl der entscheidende Hebel.
 
@@ -206,7 +206,7 @@ BU mit 40, 50 oder 60 — die ehrliche Antwort hängt von Restbeitragszeit, Gesu
 
 Die richtige Strategie für deine Lebenssituation — Tarifauswahl, Versicherungssumme, ggf. Alternative — gehört in eine **persönliche Beratung mit unabhängiger Tarifauswahl**.
 
-[Wer die BU-Grundlagen noch braucht — was sie ist, worauf zu achten ist — findet sie im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide)
+[Wer die BU-Grundlagen noch braucht — was sie ist, worauf zu achten ist — findet sie im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 ---
 

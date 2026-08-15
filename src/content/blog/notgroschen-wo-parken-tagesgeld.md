@@ -76,7 +76,7 @@ Bevor du investierst. Das ist die wichtigste Reihenfolge:
 
 Wer mit 100 Euro monatlichem Sparplan startet, aber keinen Notgroschen hat, riskiert: erster unerwarteter Schaden → Sparplan pausieren oder Kredit aufnehmen → Disziplin gebrochen.
 
-[Wie die 50-30-20-Regel beim strukturierten Aufbau hilft, erklärt dieser Artikel.](/blog/50-30-20-regel-budgetierung)
+[Wie die 50-30-20-Regel beim strukturierten Aufbau hilft, erklärt dieser Artikel.](/blog/50-30-20-regel-budgetierung/)
 
 ## Inflation frisst den Notgroschen — aber das ist ok
 

@@ -51,7 +51,7 @@ Kurz: Die gesetzliche Rente bleibt eine Grundsicherung — kein Lebensstandard-G
 
 Was sie ändert: etwas mehr Planungssicherheit beim Rentenniveau. 48 % bis 2040 ist eine politische Zusage — wie belastbar sie ist, wird sich zeigen.
 
-**Was Berufseinsteiger dennoch tun sollten:** Nicht auf politische Versprechungen verlassen. Private Vorsorge aufbauen, [Rentenlücke kennen und schließen](/blog/rentenluecke-berechnen-schliessen) — unabhängig davon, welches Rentenpaket wann kommt.
+**Was Berufseinsteiger dennoch tun sollten:** Nicht auf politische Versprechungen verlassen. Private Vorsorge aufbauen, [Rentenlücke kennen und schließen](/blog/rentenluecke-berechnen-schliessen/) — unabhängig davon, welches Rentenpaket wann kommt.
 
 ## Was könnte noch kommen?
 
