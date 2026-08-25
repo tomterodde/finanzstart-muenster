@@ -2,6 +2,7 @@
 title: 'Altersvorsorge für Selbstständige: Wer muss, wer kann, wer sollte'
 description: 'Selbstständige haben keine Rentenversicherungspflicht — aber das größte Altersvorsorge-Risiko. Was sind die Optionen, Pflichten und Strategien?'
 pubDate: '2026-04-14'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
 tldr: 'Selbstständige sind — anders als Angestellte — mehrheitlich nicht pflichtversichert in der gesetzlichen Rente. Ausnahmen nach § 2 SGB VI: Handwerker (erste 18 Jahre), Lehrer/Erzieher, Pflegepersonen, Künstler (über Künstlersozialkasse, § 1 KSVG), arbeitnehmerähnliche Selbstständige mit nur einem Auftraggeber. Optionen: freiwillige GRV (Mindestbeitrag 2025: 103,42 €/Monat, max. 1.497,30 € bis Beitragsbemessungsgrenze), Rürup-Rente (steuerlich absetzbar bis 29.344 €/Person 2025, § 10 Abs. 1 Nr. 2b EStG), privates Depot (keine Förderung, volle Flexibilität). Sparquote-Empfehlung für Selbstständige: 20–30 % des Nettoeinkommens (Destatis: 43 % der Selbstständigen ohne ausreichende Altersvorsorge). Altersarmutsrisiko laut DIW 2023: Selbstständige 3x höher als Angestellte.'
@@ -52,7 +53,7 @@ Der Beitrag ist flexibel: du kannst den Mindestbeitrag zahlen (ca. 100 Euro/Mona
 
 ## Rürup-Rente (Basisrente): Steuerlich attraktiv für Selbstständige
 
-Die Rürup-Rente ist das einzige staatlich geförderte Altersvorsorgeprodukt, das Selbstständige voll nutzen können. Riester ist für Angestellte und Beamte konzipiert.
+Die Rürup-Rente ist bisher das einzige staatlich geförderte Altersvorsorgeprodukt, das Selbstständige voll nutzen können. Riester ist für Angestellte und Beamte konzipiert — das ändert sich ab 2027: [Das neue Altersvorsorgedepot öffnet die staatliche Förderung erstmals auch für Selbstständige](/blog/altersvorsorgedepot-selbststaendige/).
 
 **Vorteil:** Beiträge sind als Sonderausgaben absetzbar — bis zu 29.344 Euro (2025, Einzelperson). Bei einem Steuersatz von 42 % bedeutet das eine erhebliche Steuerentlastung.
 

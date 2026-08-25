@@ -2,6 +2,7 @@
 title: 'Riester jetzt noch abschließen: Warum das in bestimmten Fällen sinnvoll ist'
 description: 'Ab 2027 gibt es keinen Riester mehr für Neuverträge. Warum es für manche trotzdem Sinn macht, jetzt noch einen abzuschließen — Stichwort Vertragsbestandsschutz.'
 pubDate: '2026-04-16'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
 tldr: 'Bis 31.12.2026 abgeschlossene Riester-Verträge genießen Vertragsbestandsschutz: Die alten Förderregeln (§§ 10a, 79–99 EStG) gelten dauerhaft weiter, auch nach Einführung des neuen Altersvorsorgedepots ab 2027. Sinnvoll insbesondere für Familien mit Kindern (Kinderzulage 300 € pro Kind), Geringverdiener und Beamte. Maximaler Sonderausgabenabzug 2.100 €/Jahr, Grundzulage 175 €. Achtung: Lebenslange Verrentungspflicht, hohe Kosten bei klassischen Verträgen, eingeschränkte Vererbbarkeit.'
@@ -26,6 +27,8 @@ sources:
 ---
 
 Das neue Altersvorsorgedepot kommt 2027 und ist in vielen Punkten attraktiver als Riester. Trotzdem gibt es eine spezifische Gruppe, für die es sinnvoll sein kann, **jetzt noch einen Riester-Vertrag abzuschließen** — bevor das Fenster Ende 2026 schließt. Das Stichwort: Vertragsbestandsschutz.
+
+Dieser Artikel richtet sich an alle, die noch **keinen** Riester-Vertrag haben und einen Neuabschluss erwägen. Wer bereits einen laufenden Riester-Vertrag bespart und sich fragt, ob ein Wechsel ins neue Altersvorsorgedepot sinnvoll ist, findet die Entscheidungskriterien dafür [in diesem separaten Artikel](/blog/riester-bestandsvertrag-altersvorsorgedepot-wechseln/).
 
 ## Was ist Vertragsbestandsschutz?
 

@@ -37,7 +37,7 @@ Am 27. März 2026 hat der Deutsche Bundestag die größte Reform der privaten Al
 
 Das Altersvorsorgedepot ist ein gefördertes Wertpapierdepot für die private Altersvorsorge. Der entscheidende Unterschied zu Riester: **Keine Beitragsgarantie mehr.** Bisher mussten alle Riester-Produkte garantieren, dass mindestens die eingezahlten Beiträge plus Zulagen zum Rentenbeginn zur Verfügung stehen. Diese Garantie hat die Rendite massiv gedrückt — und Riester unattraktiv gemacht.
 
-Das neue Depot erlaubt **vollständige Aktieninvestition** — zum Beispiel in global gestreute ETFs. Wer ein höheres Sicherheitsbedürfnis hat, kann weiterhin Garantieprodukte wählen. Aber: Die Wahl liegt beim Sparer.
+Das neue Depot erlaubt **vollständige Aktieninvestition** — zum Beispiel in global gestreute ETFs. Wer ein höheres Sicherheitsbedürfnis hat, kann weiterhin Garantieprodukte wählen, etwa fondsgebundene Rentenversicherungen mit [iCPPI-Wertsicherungsmechanismus](/blog/icppi-einfach-erklaert/). Aber: Die Wahl liegt beim Sparer.
 
 ## Die neue Zulagenförderung im Detail
 
@@ -94,6 +94,10 @@ Das pAV-Reformgesetz ist **endgültig verabschiedet**: Der Bundestag hat es am 2
 1. **Warten** bis 2027 und dann direkt ins neue System einsteigen
 2. **Bestehenden Riester-Vertrag weiterführen** — der läuft unverändert weiter
 3. **Riester jetzt noch abschließen** — [warum das in bestimmten Konstellationen sinnvoll sein kann, erklärt der nächste Artikel](/blog/riester-jetzt-noch-abschliessen-vertragsschutz/)
+
+**Zwei Sonderfälle im Detail:**
+- **Selbstständige:** Bisher von Riester ausgeschlossen — [wie sich das mit dem Altersvorsorgedepot ändert](/blog/altersvorsorgedepot-selbststaendige/)
+- **Bestehende Riester-Sparer:** [Weiterlaufen lassen oder ins Altersvorsorgedepot wechseln? Die Entscheidungskriterien](/blog/riester-bestandsvertrag-altersvorsorgedepot-wechseln/)
 
 ## Fazit
 

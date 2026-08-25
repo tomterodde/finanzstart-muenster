@@ -2,7 +2,7 @@
 title: 'Riester-Rente: Lohnt sie sich 2025 noch?'
 description: 'Lohnt sich die Riester-Rente noch? Zulagen, Steuervorteil, Garantien und Beispielrechnungen — wann sich Riester wirklich lohnt und worauf es beim Vertrag ankommt.'
 pubDate: '2026-04-08'
-updatedDate: '2026-06-11'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Die Riester-Rente lohnt sich für die meisten sozialversicherungspflichtig Beschäftigten — am stärksten für Familien (300 € Kinderzulage pro Kind ab Geburt 2008) und Gutverdiener (Sonderausgabenabzug bis 2.100 €/Jahr mit Günstigerprüfung). Dazu kommen strukturelle Vorteile, die reine Rendite-Vergleiche übersehen: 100 % Beitragsgarantie, Pfändungs- und Bürgergeld-Schutz in der Ansparphase und eine lebenslange Rente. Entscheidend ist die Produktqualität: Zwischen gutem und schlechtem Riester-Vertrag liegen über die Laufzeit fünfstellige Beträge — die Auszahlung ist voll steuerpflichtig und das Kapital bis zur Rente gebunden.'
@@ -71,7 +71,7 @@ Wer in der Steuerklasse mit 42% oder höher ist, profitiert stärker vom Sondera
 
 Die übliche Kritik an Riester rechnet Förderung gegen Produktkosten — und vergisst dabei drei strukturelle Eigenschaften, die kein ETF-Sparplan bietet:
 
-- **100 % Beitragsgarantie:** Zu Rentenbeginn sind mindestens alle Einzahlungen plus Zulagen vorhanden — gesetzlich garantiert. Das macht Riester zum Sicherheits-Baustein im Vorsorge-Mix.
+- **100 % Beitragsgarantie:** Zu Rentenbeginn sind mindestens alle Einzahlungen plus Zulagen vorhanden — gesetzlich garantiert. Das macht Riester zum Sicherheits-Baustein im Vorsorge-Mix. Bei fondsgebundenen Riester-Tarifen sichern Versicherer diese Garantie oft über einen dynamischen Wertsicherungsmechanismus ab — [wie das bei iCPPI funktioniert, erklären wir hier](/blog/icppi-einfach-erklaert/).
 - **Pfändungs- und Bürgergeld-Schutz:** Riester-Guthaben ist in der Ansparphase vor Pfändung geschützt und wird beim Bürgergeld nicht als Vermögen angerechnet — relevant für jeden, der sich später selbstständig macht oder berufliche Risiken trägt.
 - **Lebenslange Rente:** Das Kapital wird verrentet und kann nicht „aufgebraucht" sein, egal wie alt du wirst. Ein Entnahmeplan aus dem Depot trägt dieses Langlebigkeitsrisiko selbst.
 
