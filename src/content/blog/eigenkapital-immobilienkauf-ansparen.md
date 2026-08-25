@@ -2,6 +2,7 @@
 title: 'Eigenkapital für Immobilienkauf: Wie viel brauchst du wirklich?'
 description: 'Wie viel Eigenkapital braucht man für den Immobilienkauf? Was zählt als Eigenkapital, und wie sparst du es effizient an?'
 pubDate: '2026-04-17'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Die Faustregel lautet: 20 % des Kaufpreises Eigenkapital zusätzlich zu den Nebenkosten (Grunderwerbsteuer NRW: 6,5 %, Notar rund 1,5 %, Grundbuch 0,5 %, Maklercourtage hälftig 3,57 %). Gesamt-Nebenkosten in NRW: rund 12 % des Kaufpreises. Bei 400.000 € Kaufpreis in Münster bedeutet das 132.000 € Eigenkapital plus 268.000 € Kredit. Höheres Eigenkapital reduziert den Zinsaufschlag für hohe Beleihungsquoten um 0,5–1,5 % (Bundesbank-Zinsstatistik): Auf 20 Jahre und 300.000 € Kredit summiert sich das auf 30.000–90.000 € Zinsersparnis. Beleihungswert max. 80 % des Verkehrswertes (§ 16 PfandBG).'
@@ -43,7 +44,7 @@ Banken finanzieren in der Regel nicht den vollen Kaufpreis. Sie verleihen Geld a
 Die Faustregel: **Mindestens 20 % des Kaufpreises plus die Nebenkosten**.
 
 Nebenkosten beim Immobilienkauf (je nach Bundesland):
-- Grunderwerbsteuer: 3,5–6,5 %
+- [Grunderwerbsteuer](/blog/grunderwerbsteuer-tabelle-bundeslaender/): 3,5–6,5 %
 - Notarkosten: ca. 1,5 %
 - Grundbucheintrag: ca. 0,5 %
 - Makler (falls zutreffend): 3,57 % (hälftig)

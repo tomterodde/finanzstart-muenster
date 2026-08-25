@@ -2,7 +2,7 @@
 title: 'Unternehmensberater: Gehalt, Einstieg und die Exit-Optionen danach'
 description: 'Unternehmensberater-Gehalt 2026: Was Einsteiger bei MBB, Big Four und Mittelstandsberatungen verdienen, wie der Einstieg gelingt und welche Exits warten.'
 pubDate: '2026-07-14'
-updatedDate: '2026-08-03'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Einsteiger in der Unternehmensberatung verdienen je nach Haus 50.000 bis über 100.000 € im ersten Jahr: Top-Strategieberatungen (MBB) zahlen inklusive Bonus am meisten, Big Four und Mittelstandsberatungen deutlich weniger. Der Preis sind hohe Arbeitsbelastung und Reisetätigkeit — der Lohn neben dem Gehalt: steile Lernkurve und starke Exit-Optionen.'
@@ -73,6 +73,8 @@ Die typischen Exits sind der eigentliche Karriere-Hebel:
 Bei Übernahmen und Transaktionen arbeiten Berater ohnehin eng mit der Deal-Welt zusammen — etwa in der Commercial Due Diligence bei [M&A-Transaktionen](/blog/mergers-acquisitions-einfach-erklaert/).
 
 Ein Exit, der selten auf der Liste steht, aber gut zum Profil passt: der Wechsel in einen Kammerberuf. [Wirtschaftsprüfer](/blog/wirtschaftspruefer-gehalt-einstieg/) und [Steuerberater](/blog/steuerberater-gehalt-einstieg/) verlangen ein Examen, bieten dafür aber etwas, das die Beratung strukturell nicht hat — einen geschützten Titel und einen realistischen Weg in die eigene Kanzlei statt in die nächste Partnerstufe eines fremden Hauses.
+
+Auch die Buy-Side ist ein realistischer Exit: [Fondsmanager](/blog/fondsmanager-gehalt-einstieg/) schätzen den analytischen Blick auf Geschäftsmodelle, den die Beratung vermittelt.
 
 ## Fazit
 

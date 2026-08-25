@@ -2,7 +2,7 @@
 title: 'Investment Banking: Einstieg, Gehalt und der Weg dorthin'
 description: 'Was verdient man im Investment Banking, wie läuft der Einstieg und welche Exit-Optionen gibt es? Realistische Einordnung von Gehalt, Arbeitszeiten und Karrierewegen für Berufseinsteiger.'
 pubDate: '2026-07-04'
-updatedDate: '2026-08-03'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Investment-Banking-Analysten in Deutschland starten bei rund 70.000–90.000 € Grundgehalt plus Bonus, in London deutlich höher. Der Preis sind 60–80-Stunden-Wochen. Das IB gilt als Sprungbrett — viele wechseln nach zwei bis drei Jahren in Private Equity oder ins Unternehmertum.'
@@ -65,7 +65,7 @@ Wer kein Banking-Praktikum hat, sollte gezielt an seinem Profil arbeiten. Wie ma
 Für viele ist das Investment Banking kein Lebensziel, sondern eine **Durchgangsstation**. Nach zwei bis drei Jahren als Analyst öffnen sich Türen, die sonst verschlossen blieben:
 
 - **Private Equity** — der häufigste und prestigeträchtigste Exit. Der Weg vom IB ins PE ist gut ausgetreten (siehe [Private Equity Karriere](/blog/private-equity-karriere-bwl-einstieg/)).
-- **Venture Capital, Corporate Development, Hedgefonds** — alternative Pfade in der Finanzwelt.
+- **Venture Capital, Corporate Development, Hedgefonds, [Fondsmanagement](/blog/fondsmanager-gehalt-einstieg/)** — alternative Pfade in der Finanzwelt.
 - **Unternehmertum** — das erlernte Finanz-Handwerk ist eine starke Basis für die eigene Gründung.
 
 Die im IB erworbene Analysefähigkeit ist überall gefragt. Genau diese Übertragbarkeit macht den Einstieg so wertvoll — selbst für die, die nicht bleiben.

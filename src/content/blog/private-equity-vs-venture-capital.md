@@ -2,6 +2,7 @@
 title: 'Private Equity vs. Venture Capital: Wo liegt der Unterschied?'
 description: 'PE und VC sind beide Eigenkapital-Investments — aber in völlig unterschiedlichen Lebensphasen von Unternehmen. Strategien, Renditen und Risiken im direkten Vergleich.'
 pubDate: '2026-06-05'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Private Equity vs Venture Capital — Symbolbild Unternehmenswachstum'
 category: 'Private Equity'
@@ -33,7 +34,7 @@ In Vorlesungen und Recruiting-Events kommen Private Equity und Venture Capital o
 
 ## Der Kern-Unterschied: Welche Unternehmensphase
 
-**Venture Capital** investiert in **junge Unternehmen** — typischerweise Startups, die noch keine Profitabilität erreicht haben, aber starkes Wachstum versprechen. Tech, Biotech, Climate-Tech, FinTech sind die klassischen VC-Felder.
+**[Venture Capital](/blog/venture-capital-einfach-erklaert/)** investiert in **junge Unternehmen** — typischerweise Startups, die noch keine Profitabilität erreicht haben, aber starkes Wachstum versprechen. Tech, Biotech, Climate-Tech, FinTech sind die klassischen VC-Felder.
 
 **Private Equity** kauft **etablierte Unternehmen** — typischerweise mit stabilem Cashflow, profitablem Geschäftsmodell und mindestens 50 Mio. € Umsatz. Konsumgüter, Industrie, Software-as-a-Service mit Wiederkehrumsatz, Gesundheitsdienstleister sind klassische PE-Ziele.
 

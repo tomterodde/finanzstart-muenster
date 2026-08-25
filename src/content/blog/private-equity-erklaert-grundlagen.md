@@ -2,7 +2,7 @@
 title: 'Private Equity einfach erklärt: Was hinter PE-Firmen steckt'
 description: 'Was Private Equity macht, wie der typische Buyout-Deal funktioniert und warum PE-Firmen wie Blackstone die Wirtschaft prägen — Grundlagen für BWL-Studenten und Berufseinsteiger.'
 pubDate: '2026-06-03'
-updatedDate: '2026-08-03'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Private Equity Grundlagen — Symbolbild Finanzwelt'
 category: 'Private Equity'
@@ -108,6 +108,7 @@ Für **Privatanleger**: Direkter Zugang zu PE-Fonds ist klassisch institutionell
 - [Management-Buyout (MBO) einfach erklärt](/blog/management-buyout-mbo-einfach-erklaert/) — Wenn das eigene Management übernimmt: Sonderform des Buyouts und Nachfolgemodell im Mittelstand.
 - [IRR — Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert/) — Die Rendite-Kennzahl der PE-Welt und ihr Unterschied zum Money Multiple.
 - [Hedgefonds einfach erklärt](/blog/hedgefonds-einfach-erklaert/) — Die Abgrenzung: was Hedgefonds anders machen als PE — liquide Strategien, 2/20 mit High-Water-Mark.
+- [Venture Capital einfach erklärt](/blog/venture-capital-einfach-erklaert/) — Die andere Seite des Eigenkapital-Investierens: junge Startups statt reifer Unternehmen.
 
 ## Fazit
 

@@ -2,6 +2,7 @@
 title: 'Wirtschaftsprüfer: Gehalt, Examen und warum die Branche händeringend sucht'
 description: 'Wirtschaftsprüfer-Gehalt 2026: Was Audit-Einsteiger, examinierte WPs und Partner verdienen, wie das WP-Examen abläuft und welche Exit-Optionen der Beruf öffnet.'
 pubDate: '2026-07-26'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Audit-Einsteiger bei den Big Four starten mit rund 48.000–58.000 €, examinierte Wirtschaftsprüfer verdienen 90.000–130.000 €, Partner deutlich sechsstellig bis siebenstellig. Das WP-Examen gilt als härteste Wirtschaftsprüfung Deutschlands, lässt sich aber modular ablegen. Mit nur rund 14.000 Berufsträgern und sinkenden Zahlen herrscht extremer Nachwuchsmangel — entsprechend gut sind Verhandlungsposition und Exit-Optionen.'
@@ -62,7 +63,7 @@ Der entscheidende Fortschritt: Das Examen ist **modularisiert** — die Blöcke 
 Kaum ein Einstieg öffnet so viele Türen wie einige Jahre Prüfung plus Examen:
 
 - **CFO-Track im Konzern:** Leiter Rechnungswesen, kaufmännische Leitung — Bilanzsicherheit ist das Einstellungskriterium Nummer eins.
-- **Transaction Services / M&A:** Financial Due Diligence, Bewertung — die Brücke in die [Private-Equity-Welt](/blog/private-equity-karriere-bwl-einstieg/).
+- **Transaction Services / M&A:** Financial Due Diligence, Bewertung — die Brücke in die [Private-Equity-Welt](/blog/private-equity-karriere-bwl-einstieg/) oder ins [Fondsmanagement](/blog/fondsmanager-gehalt-einstieg/).
 - **Interne Revision & Compliance:** Gefragt in jeder regulierten Branche.
 - **Eigene Praxis oder Partnertrack:** Wie in der Steuerberatung macht der Nachwuchsmangel Nachfolgen und Partnerschaften erreichbarer.
 

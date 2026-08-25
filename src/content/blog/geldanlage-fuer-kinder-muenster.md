@@ -2,6 +2,7 @@
 title: 'Geldanlage für Kinder: Was Eltern in Münster früh richtig machen können'
 description: 'Wie legt man Geld für Kinder an — Depot, Sparbuch, Bausparvertrag? Was sinnvoll ist, was Steuern spart und was man vermeiden sollte.'
 pubDate: '2026-05-22'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Junior-ETF-Depot auf Namen des Kindes optimal für Vermögensaufbau über 18 Jahre. Steuervorteile: Kind hat eigenen Sparerpauschbetrag 1.000 €/Jahr seit 2023 (§ 20 Abs. 9 EStG), eigenen Grundfreibetrag 12.084 € (2025, § 32a EStG), Kinderzuschlag zum Grundfreibetrag bei getrennt veranlagter Einkommensteuer. Faktische Steuerfreiheit für Kinder-Erträge bis rund 13.000 €/Jahr. Schenkungsteuerfreibetrag für Kinder pro Elternteil 400.000 € alle 10 Jahre (§ 16 ErbStG). Kindesvermögen gehört dem Kind — bei Volljährigkeit Verfügungsgewalt. Familienversicherung in GKV bei Eigenvermögen Kind § 10 Abs. 3 SGB V: 535 €/Monat Einkommensgrenze 2026 — Erträge im Depot können Familienversicherung gefährden. Optimales Setup: Junior-Depot bei Scalable, Trade Republic oder Consorsbank, monatlicher ETF-Sparplan MSCI World oder FTSE All-World, 50-100 €/Monat, 18 Jahre Laufzeit.'
@@ -65,7 +66,7 @@ Mit 18 Jahren hat das Kind einen soliden Startbetrag — für Studium, Führersc
 
 **Kindergeld und Unterhalt:** Geldanlagen für Kinder haben keine Auswirkung auf das Kindergeld — das wird unabhängig davon gezahlt.
 
-**Erbschaftssteuer:** Schenkungen an Kinder bis 400.000 Euro sind alle 10 Jahre steuerfrei. Für die meisten Familien kein Thema.
+**[Erbschaftssteuer](/blog/erbschaftssteuer-freibetraege-tabelle/):** Schenkungen an Kinder bis 400.000 Euro sind alle 10 Jahre steuerfrei. Für die meisten Familien kein Thema.
 
 ## Verwandte Münster-Themen
 

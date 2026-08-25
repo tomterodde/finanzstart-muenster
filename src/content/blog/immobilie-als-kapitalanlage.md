@@ -2,6 +2,7 @@
 title: 'Immobilie als Kapitalanlage: Was du wirklich wissen musst'
 description: 'Immobilie als Kapitalanlage: Wann lohnt sich eine vermietete Wohnung, was sind die echten Kosten — und wann ist ein ETF-Sparplan die bessere Wahl?'
 pubDate: '2026-04-08'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Eine Kapitalanlage-Immobilie rechnet sich, wenn die Nettomietrendite (nach Bewirtschaftungskosten, Instandhaltungsrücklage und Steuern) attraktiv bleibt — typischerweise 1,5–2,5 % aus einer Bruttorendite von 4 %. In Münster liegen die Kaufpreisfaktoren (Kaufpreis ÷ Jahreskaltmiete) derzeit bei 25–35, was die Mietrendite deutlich drückt. Kaufnebenkosten in NRW: 6,5 % Grunderwerbsteuer + rund 2 % Notar/Grundbuch, plus ggf. bis 3,57 % Makler. Abschreibung (AfA): 2 % p.a. für Bestand, 3 % für Neubauten ab 2023.'
@@ -57,7 +58,7 @@ Die relevante Zahl ist die **Nettomietrendite** — nach allen Kosten:
 - Zinsen auf Fremdkapital (bei kreditfinanziertem Kauf)
 
 **Was auf den Kaufpreis aufgeschlagen wird:**
-- Grunderwerbsteuer in NRW: 6,5%
+- [Grunderwerbsteuer](/blog/grunderwerbsteuer-tabelle-bundeslaender/) in NRW: 6,5%
 - Notar und Grundbuch: ca. 1,5–2%
 - Makler (falls vorhanden): bis 3,57%
 
@@ -130,7 +131,7 @@ Eine Kapitalanlage-Immobilie kann ein sinnvoller Teil eines Vermögensplans sein
 
 Ob eine Anlageimmobilie, ein Wertpapierdepot oder eine Kombination aus beidem für dich die bessere Wahl ist, hängt von vielen Faktoren ab: Startkapital, Steuersituation, Risikotoleranz, Zeithorizont. Es gibt keine pauschale Antwort — und wer eine größere Investitionsentscheidung trifft, sollte sie nicht allein auf Basis von Faustregeln treffen.
 
-Wer Immobilien und selbstgenutztes Wohneigentum gegeneinander abwägen möchte, findet dazu eine nüchterne Analyse im Artikel [Mieten oder Kaufen in Münster](/blog/mieten-oder-kaufen-muenster/).
+Wer Immobilien und selbstgenutztes Wohneigentum gegeneinander abwägen möchte, findet dazu eine nüchterne Analyse im Artikel [Mieten oder Kaufen in Münster](/blog/mieten-oder-kaufen-muenster/). Für die langfristige Planung lohnt sich zudem ein Blick auf die [Freibeträge bei der Erbschaftsteuer](/blog/erbschaftssteuer-freibetraege-tabelle/) — eine Kapitalanlage-Immobilie ist am Ende auch ein Vermögenswert, der irgendwann vererbt wird.
 
 ---
 

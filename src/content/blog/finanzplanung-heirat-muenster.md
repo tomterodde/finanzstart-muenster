@@ -2,6 +2,7 @@
 title: 'Heiraten in Münster: Was sich finanziell ändert — und was ihr regeln solltet'
 description: 'Heirat verändert Steuern, Erbrecht, Versicherungen und Altersvorsorge. Was Paare in Münster finanziell regeln sollten — bevor und nach der Hochzeit.'
 pubDate: '2026-05-14'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Heirat ändert finanziell vor allem vier Bereiche: 1) Steuern — Ehegattensplitting (§ 26b EStG) spart bei Einkommensunterschieden bis zu rund 19.000 € jährlich (BMF Splittingtabelle 2025), kein Vorteil bei gleichen Einkommen; 2) Erbrecht — Ehepartner erbt gesetzlich 1/4 zzgl. ggf. 1/4 Zugewinnausgleich (§§ 1931, 1371 BGB), ohne Ehe null; 3) Krankenversicherung — Familienversicherung kostenfrei bei Einkommen unter 535 €/Monat 2025 (§ 10 SGB V); 4) Erbschaftsteuer — Freibetrag Ehegatten 500.000 € (§ 16 ErbStG, Steuerklasse I) vs. 20.000 € für unverheiratete Partner (Steuerklasse III). Steuerklassenwahl: IV/IV mit Faktor oft besser als III/V, weil vorhersehbarere Lohnsteuer. Versorgungsausgleich im Scheidungsfall (§ 1587 BGB) teilt Ehe-Rentenansprüche hälftig.'
@@ -53,6 +54,8 @@ Ohne Heirat: kein gesetzliches Erbrecht für den Partner. Wer stirbt, vererbt au
 Nach der Heirat: Der Ehepartner erbt gesetzlich einen Anteil (je nach Erbfolge 1/4 bis 1/2 des Nachlasses). Mit Testament ist mehr möglich.
 
 **Empfehlung:** Auch nach der Heirat ein gemeinsames Testament erstellen — besonders bei Immobilien, ungleichen Vermögen oder wenn Kinder aus früheren Beziehungen existieren.
+
+Auch steuerlich macht die Heirat einen erheblichen Unterschied: Der [Erbschaftsteuer-Freibetrag](/blog/erbschaftssteuer-freibetraege-tabelle/) liegt für Ehegatten bei 500.000 €, für unverheiratete Partner nur bei 20.000 €.
 
 ## Was sich bei Versicherungen ändert
 

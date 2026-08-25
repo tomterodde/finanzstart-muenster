@@ -2,6 +2,7 @@
 title: 'Mieten oder Kaufen in Münster? Was Berufseinsteiger wissen müssen'
 description: 'Mieten oder Kaufen in Münster: Was rechnet sich für Berufseinsteiger wirklich? Eine nüchterne Betrachtung ohne Mythen und Dogmen.'
 pubDate: '2026-04-08'
+updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Kaufpreise Münster 2025 (Gutachterausschuss/IVD): Eigentumswohnung 60-80 m² 300.000-500.000 €, Einfamilienhaus 450.000-700.000 €+. Kaufnebenkosten NRW 10-12 %: Grunderwerbsteuer 6,5 % § 11 GrEStG, Notar 1,5-2 %, Grundbuch 0,5 %, Makler 3,57 % (geteilt seit 2020 GwG-Reform). Mietpreise Münster 2025: 1-Zimmer 750-1.100 € warm, 2-Zimmer 950-1.400 €, 3-Zimmer 1.200-1.800 €. Mietpreis-Steigerung 2020-2024 +18 % laut Mietspiegel Münster. Bauzinsen 10-Jahres-Festschreibung 2026: 3,5-4,2 % p.a. (Stand März 2026, vor Niedrigzins 2021 unter 1 %). Eigenkapital-Faustregel 20 % Kaufpreis + 10-12 % Nebenkosten = bei 380.000 € Kauf ca. 120.000 € Startkapital. Break-Even Kauf vs. Miete in Münster bei aktuellem Zinsumfeld: 12-18 Jahre Verbleib nötig, abhängig von Mietpreissteigerung und Opportunitätskosten Kapital. Mietkaufmodell (Mietspiegel-Bremse) § 556d BGB in Münster aktiv: Neuvermietung max. 10 % über ortsüblicher Vergleichsmiete.'
@@ -39,7 +40,7 @@ Wer mietet, zahlt jeden Monat — und bekommt nichts zurück. Wer kauft, tilgt �
 Was dabei vergessen wird:
 
 - **Zinsen sind auch "rausgeschmissenes Geld"** — bei einem Immobilienkredit geht gerade in den ersten Jahren ein erheblicher Teil der Rate in Zinsen statt in Tilgung.
-- **Nebenkosten beim Kauf** schlagen in Nordrhein-Westfalen mit rund 10–12% des Kaufpreises zu Buche: Grunderwerbsteuer (6,5%), Notar, Makler, Grundbuch. Wer eine 400.000-€-Wohnung kauft, zahlt bis zu 50.000 € Nebenkosten — Kapital, das weg ist.
+- **Nebenkosten beim Kauf** schlagen in Nordrhein-Westfalen mit rund 10–12% des Kaufpreises zu Buche: [Grunderwerbsteuer](/blog/grunderwerbsteuer-tabelle-bundeslaender/) (6,5%), Notar, Makler, Grundbuch. Wer eine 400.000-€-Wohnung kauft, zahlt bis zu 50.000 € Nebenkosten — Kapital, das weg ist.
 - **Instandhaltung und Reparaturen** trägt der Eigentümer selbst. Als Mieter ist das Vermieteraufgabe.
 
 Das bedeutet nicht, dass Kaufen schlecht ist. Es bedeutet, dass der Vergleich ehrlicher sein muss.
