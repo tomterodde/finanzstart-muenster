@@ -39,7 +39,7 @@ Riester-Förderung nach § 10a EStG setzt eine unmittelbare Berechtigung voraus 
 
 ## Was sich mit dem Altersvorsorgedepot ändert
 
-Das neue Fördersystem koppelt die Zulage nicht mehr an den sozialversicherungsrechtlichen Status. [Die Zulage ist gestaffelt](/blog/altersvorsorgedepot-2027-neue-foerderung/): 50 Cent pro Euro für die ersten 360 Euro Eigenbeitrag, danach 25 Cent pro Euro bis 1.800 Euro — macht maximal 540 Euro Grundzulage im Jahr, plus 300 Euro pro Kind. Diese Förderung steht Selbstständigen ab 2027 direkt offen, unabhängig davon, ob sie in der GRV pflichtversichert sind.
+Das neue Fördersystem koppelt die Zulage nicht mehr an den sozialversicherungsrechtlichen Status. [Die Zulage ist gestaffelt](/blog/altersvorsorgedepot-2027-neue-foerderung/): 50 Cent pro Euro für die ersten 360 Euro Eigenbeitrag, danach 25 Cent pro Euro bis 1.800 Euro — macht maximal 540 Euro Grundzulage im Jahr, plus 300 Euro pro Kind. Wer vor dem 25. Geburtstag abschließt, erhält einmalig 200 Euro Berufseinsteigerbonus — für junge Gründer relevant, weil auch dieser Bonus nicht mehr an den Beschäftigungsstatus gekoppelt ist. Diese Förderung steht Selbstständigen ab 2027 direkt offen, unabhängig davon, ob sie in der GRV pflichtversichert sind.
 
 ## Altersvorsorgedepot vs. Rürup: zwei unterschiedliche Hebel
 

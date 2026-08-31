@@ -62,6 +62,8 @@ Wer unsicher ist, muss nicht sofort kündigen. Eine **Kündigung** löst nach §
 
 Die **Beitragsfreistellung** ist die deutlich schonendere Alternative: Der Vertrag ruht, es fließen keine neuen Beiträge — aber das bisher Angesparte inklusive Zulagen bleibt erhalten, ohne Rückzahlungspflicht. Das schafft Zeit, in Ruhe zu vergleichen, ob ein Wechsel ins Altersvorsorgedepot ab 2027 sinnvoll ist, ohne überstürzt zu handeln.
 
+Beide Pfade mit deinen eigenen Zahlen gegenüberstellen — Zulagen, Steuervorteil, Kosten und Endkapital: [Altersvorsorgedepot-Rechner](/altersvorsorgedepot-rechner/).
+
 ## Fazit
 
 Die automatische Antwort „einfach weiterlaufen lassen" ist für viele Riester-Bestandskunden die richtige — aber nicht für alle. Ob ein bestehender Vertrag mit gutem Rentenfaktor Gold wert ist oder ein teurer Altvertrag mit wenig Substanz eher bremst, lässt sich nur anhand der individuellen Vertragsunterlagen (Rentenfaktor, Kostenquote, bisheriger Kapitalstand, verbleibende Kinderzulagenjahre) beurteilen. Ein Beratungsgespräch, das diese Zahlen konkret durchrechnet, ist hier sinnvoller als eine pauschale Entscheidung.

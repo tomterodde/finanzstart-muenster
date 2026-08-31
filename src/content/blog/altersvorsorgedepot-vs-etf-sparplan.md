@@ -9,7 +9,7 @@ faq:
   - question: 'Ist das Altersvorsorgedepot besser als ein ETF-Sparplan?'
     answer: 'Weder noch — sie lösen unterschiedliche Aufgaben. Das Altersvorsorgedepot bringt durch die staatliche Förderung einen rechnerischen Renditevorsprung, den kein freier Sparplan aufholen kann, ist dafür aber bis zur Auszahlungsphase gebunden. Ein normaler ETF-Sparplan bringt keine Förderung, dafür aber jederzeitige Verfügbarkeit. Welche Gewichtung passt, hängt von Zielen, Zeithorizont und dem Bedarf an kurzfristiger Liquidität ab.'
   - question: 'Wie groß ist der Förderungsvorteil beim Altersvorsorgedepot konkret?'
-    answer: 'Bei vollem Ausschöpfen der geförderten 1.800 €/Jahr kommen bis zu 540 € staatliche Grundzulage dazu — eine Förderquote von 30 % auf den Eigenbeitrag, zusätzlich zur Marktrendite. Das ist ein sofortiger Vorteil, den kein ungeförderter Sparplan erreichen kann, unabhängig davon, wie die Märkte laufen.'
+    answer: 'Bei vollem Ausschöpfen der geförderten 1.800 €/Jahr kommen bis zu 540 € staatliche Grundzulage dazu — eine Förderquote von 30 % auf den Eigenbeitrag, zusätzlich zur Marktrendite. Das ist ein sofortiger Vorteil, den kein ungeförderter Sparplan erreichen kann, unabhängig davon, wie die Märkte laufen. Bei Abschluss vor dem 25. Geburtstag kommt einmalig ein Berufseinsteigerbonus von 200 € hinzu.'
   - question: 'Kann ich mein Geld aus dem Altersvorsorgedepot vorzeitig herausholen?'
     answer: 'Nur eingeschränkt und mit Nachteilen. Die Auszahlungsphase beginnt frühestens mit 65. Eine vorzeitige Entnahme des geförderten Teils gilt als schädliche Verwendung und führt zur Rückzahlung von Zulagen und Steuervorteilen — ähnlich wie bei Riester. Ein freier ETF-Sparplan hat diese Einschränkung nicht: Verkauf ist jederzeit möglich, es fällt lediglich die reguläre Abgeltungssteuer auf die Gewinne an.'
   - question: 'Sollte ich Altersvorsorgedepot und ETF-Sparplan kombinieren?'
@@ -28,7 +28,7 @@ Anders als klassische Riester-Verträge zwingt das Altersvorsorgedepot niemanden
 
 ## Der Förderungsvorteil des Altersvorsorgedepots
 
-Bei vollständiger Nutzung der geförderten 1.800 € Eigenbeitrag pro Jahr kommen bis zu **540 € staatliche Grundzulage** dazu — eine Förderquote von 30 %, unabhängig von der Marktentwicklung. Dazu kommt die [steuerliche Behandlung](/blog/altersvorsorgedepot-steuern-versteuerung/): kein laufender Abzug durch Abgeltungssteuer oder Vorabpauschale während der Ansparphase.
+Bei vollständiger Nutzung der geförderten 1.800 € Eigenbeitrag pro Jahr kommen bis zu **540 € staatliche Grundzulage** dazu — eine Förderquote von 30 %, unabhängig von der Marktentwicklung. Wer den Vertrag vor dem 25. Geburtstag abschließt, bekommt zusätzlich einmalig **200 € Berufseinsteigerbonus** — im Startjahr steigt die Förderquote damit auf 41 %. Dazu kommt die [steuerliche Behandlung](/blog/altersvorsorgedepot-steuern-versteuerung/): kein laufender Abzug durch Abgeltungssteuer oder Vorabpauschale während der Ansparphase.
 
 Ein normaler ETF-Sparplan bekommt nichts davon. Er unterliegt der regulären Kapitalertragsteuer und der jährlichen Vorabpauschale — [wie sich das konkret auf die Rendite auswirkt, zeigt der Artikel zu Steuern auf ETF-Sparpläne](/blog/steuern-etf-sparplan-abgeltungssteuer/).
 
@@ -46,7 +46,7 @@ Beim Altersvorsorgedepot ist das Standardprodukt auf **1,0 % p.a.** gedeckelt. E
 
 | Merkmal | Altersvorsorgedepot | Normaler ETF-Sparplan |
 |---|---|---|
-| Staatliche Förderung | Bis 540 €/Jahr Zulage (30 % auf 1.800 €) | Keine |
+| Staatliche Förderung | Bis 540 €/Jahr Zulage (30 % auf 1.800 €), einmalig +200 € unter 25 | Keine |
 | Laufende Besteuerung | Steuerfrei in der Ansparphase | Abgeltungssteuer + Vorabpauschale |
 | Verfügbarkeit | Gebunden bis mind. 65 | Jederzeit verkaufbar |
 | Kosten Standardprodukt | Max. 1,0 % p.a. | Je nach Broker/ETF, oft 0,1–0,3 % TER |

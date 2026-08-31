@@ -1,0 +1,1336 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead
+			title="Altersvorsorgedepot-Rechner: Riester behalten oder wechseln? (kostenlos)"
+			description="Kostenloser Rechner zur pAV-Reform 2027: Vergleiche Riester-Bestandsvertrag und Altersvorsorgedepot mit Zulagen, Steuervorteil, Kosten und Endkapital — oder berechne deine Förderquote als Neusparer."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<p class="label">Kostenlos & anonym</p>
+				<h1>Altersvorsorgedepot-Rechner 2027</h1>
+				<p class="subtitle">
+					Rechne durch, was die neue Förderung ab 1.1.2027 für dich bedeutet — als Riester-Sparer im Vergleich „behalten oder wechseln", oder als Neusparer mit Zulagen, Steuervorteil und Endkapital.
+				</p>
+			</div>
+
+			<div class="mode-switch" role="tablist" aria-label="Rechner-Modus">
+				<button id="mode-bestand" class="mode-btn active" role="tab" aria-selected="true">Ich habe einen Riester-Vertrag</button>
+				<button id="mode-neu" class="mode-btn" role="tab" aria-selected="false">Ich fange neu an</button>
+			</div>
+
+			<!-- ============ MODUS A: BESTAND ============ -->
+			<div id="panel-bestand">
+				<div id="step-input-b" class="card">
+					<h2>Deine Angaben</h2>
+
+					<div class="field">
+						<label for="b-alter">Dein Alter</label>
+						<p class="field-hint">Bestimmt die Restlaufzeit bis zum Rentenbeginn mit 67</p>
+						<div class="input-row">
+							<input type="range" id="b-alter" min="20" max="60" value="30" />
+							<span class="input-display"><span id="b-alter-val">30</span> Jahre</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="b-brutto">Bruttoeinkommen pro Jahr</label>
+						<p class="field-hint">Grundlage für Mindesteigenbeitrag (4 %) und Steuervorteil</p>
+						<div class="input-row">
+							<input type="range" id="b-brutto" min="15000" max="120000" step="1000" value="45000" />
+							<span class="input-display"><span id="b-brutto-val">45.000</span> €</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="b-beitrag">Dein Eigenbeitrag pro Monat</label>
+						<p class="field-hint">Wird in beiden Pfaden identisch angesetzt, damit der Vergleich fair ist</p>
+						<div class="input-row">
+							<input type="range" id="b-beitrag" min="25" max="300" step="5" value="150" />
+							<span class="input-display"><span id="b-beitrag-val">150</span> €/Monat</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="b-kapital">Aktuelles Guthaben im Riester-Vertrag</label>
+						<p class="field-hint">Steht im letzten Jahresauszug (Rückkaufswert bzw. Vertragsguthaben)</p>
+						<div class="input-row">
+							<input type="range" id="b-kapital" min="0" max="100000" step="1000" value="12000" />
+							<span class="input-display"><span id="b-kapital-val">12.000</span> €</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="b-jahre">Bisherige Vertragsjahre</label>
+						<p class="field-hint">Ab 5 Jahren ist der Wechsel gebührenfrei, darunter fallen bis zu 300 € an</p>
+						<div class="input-row">
+							<input type="range" id="b-jahre" min="0" max="25" value="6" />
+							<span class="input-display"><span id="b-jahre-val">6</span> Jahre</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="b-kinder">Kindergeldberechtigte Kinder</label>
+						<p class="field-hint">Kinderzulage: 300 € pro Kind und Jahr in beiden Systemen</p>
+						<div class="input-row">
+							<input type="range" id="b-kinder" min="0" max="4" value="0" />
+							<span class="input-display"><span id="b-kinder-val">0</span></span>
+						</div>
+					</div>
+
+					<div class="field" id="b-kinderjahre-field" style="display:none">
+						<label for="b-kinderjahre">Verbleibende Jahre mit Kinderzulage</label>
+						<p class="field-hint">Zulage läuft, solange Kindergeld gezahlt wird (i. d. R. bis 18, in Ausbildung bis 25)</p>
+						<div class="input-row">
+							<input type="range" id="b-kinderjahre" min="1" max="25" value="12" />
+							<span class="input-display"><span id="b-kinderjahre-val">12</span> Jahre</span>
+						</div>
+					</div>
+
+					<details class="advanced">
+						<summary>Annahmen anpassen (Rendite und Kosten)</summary>
+
+						<div class="field">
+							<label for="b-rend-r">Bruttorendite Riester-Bestandsvertrag</label>
+							<p class="field-hint">Durch die 100-%-Beitragsgarantie ist die Aktienquote begrenzt — deshalb niedriger angesetzt</p>
+							<div class="input-row">
+								<input type="range" id="b-rend-r" min="1" max="7" step="0.1" value="4" />
+								<span class="input-display"><span id="b-rend-r-val">4,0</span> % p.a.</span>
+							</div>
+						</div>
+
+						<div class="field">
+							<label for="b-kost-r">Laufende Kosten Riester-Bestandsvertrag</label>
+							<p class="field-hint">Verwaltungs- und Fondskosten, die jährlich vom Vertragsguthaben abgehen. Nicht zu verwechseln mit der Effektivkostenquote im Produktinformationsblatt — die ist bereits eine Renditeminderung und gehört dann oben bei der Rendite abgezogen</p>
+							<div class="input-row">
+								<input type="range" id="b-kost-r" min="0.5" max="4" step="0.1" value="2" />
+								<span class="input-display"><span id="b-kost-r-val">2,0</span> % p.a.</span>
+							</div>
+						</div>
+
+						<div class="field">
+							<label for="b-rend-d">Bruttorendite Altersvorsorgedepot</label>
+							<p class="field-hint">Ohne Beitragsgarantie ist eine volle Aktienquote möglich — mit entsprechendem Schwankungsrisiko</p>
+							<div class="input-row">
+								<input type="range" id="b-rend-d" min="1" max="9" step="0.1" value="6" />
+								<span class="input-display"><span id="b-rend-d-val">6,0</span> % p.a.</span>
+							</div>
+						</div>
+
+						<div class="field">
+							<label for="b-kost-d">Laufende Kosten Altersvorsorgedepot</label>
+							<p class="field-hint">Beim staatlichen Standardprodukt gesetzlich auf 1,0 % p.a. gedeckelt</p>
+							<div class="input-row">
+								<input type="range" id="b-kost-d" min="0.1" max="1.5" step="0.05" value="0.7" />
+								<span class="input-display"><span id="b-kost-d-val">0,70</span> % p.a.</span>
+							</div>
+						</div>
+					</details>
+
+					<button id="b-calc" class="btn-primary">Beide Pfade vergleichen</button>
+				</div>
+
+				<div id="step-result-b" class="card hidden">
+					<h2>Dein Vergleich</h2>
+					<p class="result-intro" id="b-horizont">–</p>
+
+					<div class="compare-grid">
+						<div class="compare-col">
+							<p class="compare-head">Riester behalten</p>
+							<p class="compare-value" id="b-end-r">–</p>
+							<p class="compare-note">Endkapital mit 67</p>
+							<dl class="compare-list">
+								<div><dt>Zulagen kumuliert</dt><dd id="b-zul-r">–</dd></div>
+								<div><dt>Steuervorteil kumuliert</dt><dd id="b-stv-r">–</dd></div>
+								<div><dt>Kosten kumuliert</dt><dd id="b-kos-r">–</dd></div>
+								<div><dt>Förderquote</dt><dd id="b-fq-r">–</dd></div>
+							</dl>
+						</div>
+						<div class="compare-col">
+							<p class="compare-head">Wechsel ins Altersvorsorgedepot</p>
+							<p class="compare-value" id="b-end-d">–</p>
+							<p class="compare-note">Endkapital mit 67</p>
+							<dl class="compare-list">
+								<div><dt>Zulagen kumuliert</dt><dd id="b-zul-d">–</dd></div>
+								<div><dt>Steuervorteil kumuliert</dt><dd id="b-stv-d">–</dd></div>
+								<div><dt>Kosten kumuliert</dt><dd id="b-kos-d">–</dd></div>
+								<div><dt>Förderquote</dt><dd id="b-fq-d">–</dd></div>
+							</dl>
+						</div>
+					</div>
+
+					<div class="sparrate-box">
+						<p class="sparrate-label">Differenz beim Endkapital</p>
+						<p class="sparrate-value" id="b-diff">–</p>
+						<p class="sparrate-note" id="b-diff-note">–</p>
+					</div>
+
+					<div class="result-grid">
+						<div class="result-box">
+							<p class="result-label">Wechselgebühr</p>
+							<p class="result-value" id="b-gebuehr">–</p>
+							<p class="result-note" id="b-gebuehr-note">–</p>
+						</div>
+						<div class="result-box">
+							<p class="result-label">Break-Even des Wechsels</p>
+							<p class="result-value" id="b-breakeven">–</p>
+							<p class="result-note" id="b-breakeven-note">Ab wann der Wechselpfad vor dem Bestandspfad liegt</p>
+						</div>
+					</div>
+
+					<div class="not-priced">
+						<p class="not-priced-head">Was diese Rechnung nicht abbildet</p>
+						<ul>
+							<li><strong>Garantierter Rentenfaktor</strong> deines Altvertrags — er legt heute schon fest, wie viel lebenslange Monatsrente je 10.000 € Kapital fließt. Ein Depot hat keinen.</li>
+							<li><strong>100-%-Beitragsgarantie</strong> im Riester-Bestand: Das Endkapital oben ist im Depot-Pfad eine Erwartung, im Riester-Pfad weitgehend eine Zusage.</li>
+							<li><strong>Renditeannahmen</strong> sind gesetzt, nicht gemessen — und sie dominieren das Ergebnis stärker als jede Zulage. Voreingestellt sind 4,0 % minus 2,0 % Kosten im Bestand gegen 6,0 % minus 0,7 % im Depot. Wer diese vier Werte unter „Annahmen anpassen" ändert, kann den Vergleich in beide Richtungen kippen.</li>
+							<li><strong>Vertragsindividuelles</strong>: Abschlusskosten, die bereits bezahlt sind, Berufsunfähigkeits-Zusatz, Hinterbliebenenschutz.</li>
+						</ul>
+					</div>
+
+					<div class="disclaimer-calc">
+						Vereinfachte Modellrechnung nach dem pAV-Reformgesetz (Start 1.1.2027) und den Riester-Regeln nach §§ 10a, 79 ff. EStG — keine Anlage- oder Steuerberatung. Zulagen werden jährlich am Jahresende gutgeschrieben, Kosten als konstanter Prozentsatz auf das Kapital gerechnet, der Steuervorteil nach Günstigerprüfung mit dem Einkommensteuertarif 2025 geschätzt. Gehalts-, Beitrags- und Steuersatzänderungen sowie Inflation sind nicht berücksichtigt. Die spätere Besteuerung der Auszahlung ist in beiden Pfaden nachgelagert und hier nicht abgezogen.
+					</div>
+
+					<button id="b-reset" class="btn-ghost">← Neu berechnen</button>
+				</div>
+			</div>
+
+			<!-- ============ MODUS B: NEUSPARER ============ -->
+			<div id="panel-neu" class="hidden">
+				<div id="step-input-n" class="card">
+					<h2>Deine Angaben</h2>
+
+					<div class="field">
+						<label for="n-alter">Dein Alter</label>
+						<p class="field-hint">Unter 25 gibt es einmalig 200 € Berufseinsteigerbonus</p>
+						<div class="input-row">
+							<input type="range" id="n-alter" min="18" max="60" value="26" />
+							<span class="input-display"><span id="n-alter-val">26</span> Jahre</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="n-brutto">Bruttoeinkommen pro Jahr</label>
+						<p class="field-hint">Grundlage für die Günstigerprüfung beim Sonderausgabenabzug</p>
+						<div class="input-row">
+							<input type="range" id="n-brutto" min="15000" max="120000" step="1000" value="45000" />
+							<span class="input-display"><span id="n-brutto-val">45.000</span> €</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="n-beitrag">Dein Eigenbeitrag pro Monat</label>
+						<p class="field-hint">Die volle Grundzulage von 540 € ist bei 150 €/Monat (1.800 €/Jahr) erreicht</p>
+						<div class="input-row">
+							<input type="range" id="n-beitrag" min="25" max="500" step="5" value="150" />
+							<span class="input-display"><span id="n-beitrag-val">150</span> €/Monat</span>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="n-kinder">Kindergeldberechtigte Kinder</label>
+						<p class="field-hint">300 € pro Kind und Jahr, bereits ab 25 €/Monat Sparbeitrag</p>
+						<div class="input-row">
+							<input type="range" id="n-kinder" min="0" max="4" value="0" />
+							<span class="input-display"><span id="n-kinder-val">0</span></span>
+						</div>
+					</div>
+
+					<div class="field" id="n-kinderjahre-field" style="display:none">
+						<label for="n-kinderjahre">Verbleibende Jahre mit Kinderzulage</label>
+						<div class="input-row">
+							<input type="range" id="n-kinderjahre" min="1" max="25" value="15" />
+							<span class="input-display"><span id="n-kinderjahre-val">15</span> Jahre</span>
+						</div>
+					</div>
+
+					<details class="advanced">
+						<summary>Annahmen anpassen (Rendite und Kosten)</summary>
+						<div class="field">
+							<label for="n-rend">Bruttorendite</label>
+							<div class="input-row">
+								<input type="range" id="n-rend" min="1" max="9" step="0.1" value="6" />
+								<span class="input-display"><span id="n-rend-val">6,0</span> % p.a.</span>
+							</div>
+						</div>
+						<div class="field">
+							<label for="n-kost">Kosten</label>
+							<p class="field-hint">Beim Standardprodukt gesetzlich auf 1,0 % p.a. gedeckelt</p>
+							<div class="input-row">
+								<input type="range" id="n-kost" min="0.1" max="1.5" step="0.05" value="0.7" />
+								<span class="input-display"><span id="n-kost-val">0,70</span> % p.a.</span>
+							</div>
+						</div>
+					</details>
+
+					<button id="n-calc" class="btn-primary">Förderung berechnen</button>
+				</div>
+
+				<div id="step-result-n" class="card hidden">
+					<h2>Dein Ergebnis</h2>
+					<p class="result-intro" id="n-horizont">–</p>
+
+					<div class="result-grid">
+						<div class="result-box">
+							<p class="result-label">Staatliche Zulage pro Jahr</p>
+							<p class="result-value" id="n-zulage">–</p>
+							<p class="result-note" id="n-zulage-note">–</p>
+						</div>
+						<div class="result-box">
+							<p class="result-label">Zusätzlicher Steuervorteil pro Jahr</p>
+							<p class="result-value" id="n-steuer">–</p>
+							<p class="result-note">Nach Günstigerprüfung, über die Zulage hinaus</p>
+						</div>
+						<div class="result-box">
+							<p class="result-label">Förderquote auf deinen Eigenbeitrag</p>
+							<p class="result-value" id="n-fq">–</p>
+							<p class="result-note" id="n-fq-note">–</p>
+						</div>
+						<div class="result-box highlight">
+							<p class="result-label">Endkapital mit 67</p>
+							<p class="result-value" id="n-end">–</p>
+							<p class="result-note" id="n-end-note">–</p>
+						</div>
+					</div>
+
+					<div class="herkunft">
+						<p class="herkunft-head">Woher das Endkapital kommt</p>
+						<div class="herkunft-bar">
+							<div class="seg seg-eigen" id="seg-eigen"><span>eigen</span></div>
+							<div class="seg seg-staat" id="seg-staat"><span>Staat</span></div>
+							<div class="seg seg-rendite" id="seg-rendite"><span>Rendite</span></div>
+						</div>
+						<dl class="compare-list">
+							<div><dt>Eigenbeiträge</dt><dd id="n-h-eigen">–</dd></div>
+							<div><dt>Zulagen vom Staat</dt><dd id="n-h-staat">–</dd></div>
+							<div><dt>Kursgewinne nach Kosten</dt><dd id="n-h-rendite">–</dd></div>
+						</dl>
+					</div>
+
+					<div class="not-priced">
+						<p class="not-priced-head">Was diese Rechnung nicht abbildet</p>
+						<ul>
+							<li>Das Altersvorsorgedepot ohne Garantie trägt das <strong>volle Kursrisiko</strong> — das Endkapital ist eine Erwartung, keine Zusage.</li>
+							<li>Ob eine Variante <strong>mit 80- oder 100-%-Beitragsgarantie</strong> oder eine Lösung mit lebenslanger Verrentung besser passt, hängt vom Anlagehorizont und vom Sicherheitsbedürfnis ab.</li>
+							<li>Der <strong>Steuervorteil</strong> ist mit dem heutigen Einkommen gerechnet und über die Laufzeit konstant gehalten.</li>
+							<li>Die <strong>Auszahlung wird nachgelagert besteuert</strong> — der Betrag oben ist brutto.</li>
+						</ul>
+					</div>
+
+					<div class="disclaimer-calc">
+						Vereinfachte Modellrechnung nach dem pAV-Reformgesetz (Start 1.1.2027) — keine Anlage- oder Steuerberatung. Grundzulage 50 Cent je Euro bis 360 € Eigenbeitrag, 25 Cent je Euro für weitere 1.440 € (maximal 540 €), Kinderzulage bis 300 € je Kind, Berufseinsteigerbonus 200 € einmalig bei Abschluss vor dem 25. Geburtstag. Sonderausgabenabzug bis 1.800 € zuzüglich Zulageanspruch mit Günstigerprüfung, geschätzt nach Einkommensteuertarif 2025. Ohne Inflation, Gehalts- und Beitragsdynamik.
+					</div>
+
+					<button id="n-reset" class="btn-ghost">← Neu berechnen</button>
+				</div>
+			</div>
+
+			<!-- CTA -->
+			<div class="cta-box">
+				<p class="cta-label">Nächster Schritt</p>
+				<h3>Die Rechnung ist die eine Hälfte — dein Vertrag die andere</h3>
+				<p class="cta-sub">
+					Ob Wechsel oder Bestand besser läuft, entscheidet sich an Zahlen, die nur in deinen Unterlagen stehen: garantierter Rentenfaktor, bereits gezahlte Abschlusskosten, Effektivkostenquote. Hol dir die kostenlose Finanzcheck-Checkliste — 20 Fragen zu Liquidität, Versicherungen, Steuern, Altersvorsorge und Einkommen.
+				</p>
+				<form
+					action="https://app.kit.com/forms/9299804/subscriptions"
+					method="post"
+					class="cta-form"
+				>
+					<input
+						type="email"
+						name="email_address"
+						placeholder="deine@email.de"
+						required
+						aria-label="E-Mail-Adresse"
+					/>
+					<input type="hidden" name="fields[quelle]" value="altersvorsorgedepot-rechner" />
+					<button type="submit" class="btn-primary">Checkliste per E-Mail erhalten</button>
+				</form>
+				<p class="cta-privacy">Kein Spam. Jederzeit abmeldbar.</p>
+
+				<div class="or-divider">oder</div>
+				<a href="/finanzcheck/" class="btn-secondary" target="_blank">Checkliste direkt öffnen →</a>
+
+				<div class="call-cta">
+					<p class="call-cta-text">Riester behalten oder wechseln — gemeinsam durchgehen?</p>
+					<a
+						href="https://outlook.office.com/bookwithme/user/f7d184a8790c451390cda05ae8b3fb18@tecis.de/meetingtype/cdie9Hia-EulszcibmFVfQ2?bookingcode=d1927a5d-5856-470c-894c-a255316c0f36&anonymous&ismsaljsauthenabled&ep=mlink&utm_source=blog&utm_medium=rechner&utm_campaign=altersvorsorgedepot"
+						class="btn-primary"
+						target="_blank"
+						rel="noopener"
+					>15-Min-Kennenlernen buchen →</a>
+					<p class="cta-privacy">Kostenlos & unverbindlich. Du wählst den Termin.</p>
+				</div>
+			</div>
+
+			<!-- SEO / Erklärung -->
+			<section class="seo-section">
+				<h2>So rechnet dieser Altersvorsorgedepot-Rechner</h2>
+				<p>
+					Ab dem <strong>1. Januar 2027</strong> ersetzt das Altersvorsorgedepot die Riester-Rente im Neugeschäft. Die Grundzulage steigt auf bis zu <strong>540 Euro</strong> pro Jahr: 50 Cent je Euro für die ersten 360 Euro Eigenbeitrag, 25 Cent je Euro für weitere 1.440 Euro. Dazu kommen <strong>300 Euro Kinderzulage</strong> je Kind — anders als bei Riester bereits ab 25 Euro Monatsbeitrag — sowie ein einmaliger <strong>Berufseinsteigerbonus von 200 Euro</strong> bei Abschluss vor dem 25. Geburtstag.
+				</p>
+				<p>
+					Der Rechner stellt beide Pfade jahresweise gegenüber: Eigenbeitrag und Zulagen fließen ins Kapital, darauf wirkt die Bruttorendite abzüglich der laufenden Kosten. Den Steuervorteil ermittelt er über die <strong>Günstigerprüfung</strong> — das Finanzamt gewährt nur den Betrag, der über den Zulagenanspruch hinausgeht (§ 10a EStG). Für den Riester-Bestand gilt der alte Rahmen: 175 Euro Grundzulage, 300 Euro Kinderzulage, Sonderausgabenabzug bis 2.100 Euro und die Kürzung der Zulage, wenn der Mindesteigenbeitrag von 4 Prozent des Vorjahresbruttos unterschritten wird.
+				</p>
+				<p>
+					Der entscheidende Hebel ist selten die Zulage, sondern die <strong>Kostendifferenz</strong>: Klassische Riester-Verträge liegen häufig bei 2 bis 4 Prozent Effektivkosten pro Jahr, beim staatlichen Standardprodukt sind die Kosten auf 1,0 Prozent gedeckelt. Über 30 Jahre summiert sich dieser Unterschied stärker als jede Zulagenerhöhung.
+				</p>
+				<p>
+					Die Hintergründe im Detail: <a href="/blog/altersvorsorgedepot-2027-neue-foerderung/">Das Altersvorsorgedepot ab 2027</a> · <a href="/blog/riester-bestandsvertrag-altersvorsorgedepot-wechseln/">Riester-Bestandsvertrag: behalten oder wechseln?</a> · <a href="/blog/altersvorsorgedepot-anbieter-vergleich/">Welche Anbieter starten 2027?</a> · <a href="/blog/altersvorsorgedepot-kosten-standardprodukt/">Kosten des Standardprodukts</a>
+				</p>
+
+				<h2>Häufige Fragen</h2>
+				<details>
+					<summary>Muss ich meinen Riester-Vertrag 2027 wechseln?</summary>
+					<p>Nein. Verträge, die vor dem 1.1.2027 abgeschlossen wurden, genießen Bestandsschutz und laufen unverändert nach den alten Regeln weiter — inklusive Zulagen, Beitragsgarantie und garantiertem Rentenfaktor. Der Wechsel ins Altersvorsorgedepot ist eine Option, keine Pflicht.</p>
+				</details>
+				<details>
+					<summary>Was kostet der Wechsel ins Altersvorsorgedepot?</summary>
+					<p>Die Gebühren sind gesetzlich gedeckelt: Der aufnehmende Anbieter darf maximal 150 Euro verlangen, der abgebende Riester-Anbieter bei unter fünf Vertragsjahren ebenfalls maximal 150 Euro. Ab fünf Vertragsjahren ist der Wechsel beim abgebenden Anbieter kostenlos. Die Übertragung ist förderunschädlich — anders als eine Kündigung, bei der alle Zulagen und Steuervorteile zurückzuzahlen sind (§ 93 EStG).</p>
+				</details>
+				<details>
+					<summary>Warum rechnet der Rechner für Riester mit einer niedrigeren Rendite?</summary>
+					<p>Weil Riester-Produkte eine 100-prozentige Beitragsgarantie leisten müssen. Diese Garantie zwingt zu einer defensiven Kapitalanlage mit hohem Anleihenanteil, was die Renditeerwartung dämpft. Das Altersvorsorgedepot kennt diesen Zwang nicht und kann voll in Aktien investieren — mit entsprechend höherem Schwankungsrisiko. Beide Annahmen lassen sich im Rechner unter „Annahmen anpassen" ändern.</p>
+				</details>
+				<details>
+					<summary>Bekomme ich Zulage und Steuervorteil gleichzeitig?</summary>
+					<p>Nur teilweise. Das Finanzamt führt eine Günstigerprüfung durch: Es vergleicht die Steuerersparnis aus dem Sonderausgabenabzug mit dem Zulagenanspruch und gewährt nur den darüber hinausgehenden Differenzbetrag. Bei niedrigen und mittleren Einkommen ist meist die Zulage günstiger, bei höheren Einkommen der Steuerabzug.</p>
+				</details>
+				<details>
+					<summary>Lohnt sich das Altersvorsorgedepot auch für Selbstständige?</summary>
+					<p>Ja — das ist eine der zentralen Neuerungen. Riester war für Selbstständige faktisch geschlossen, sie waren nur mittelbar über einen förderberechtigten Ehepartner begünstigt. Das Altersvorsorgedepot steht ab 2027 auch Selbstständigen und Freiberuflern offen, unabhängig von einer Pflichtversicherung in der gesetzlichen Rentenversicherung.</p>
+				</details>
+
+				<p class="weitere-rechner">Weitere Rechner: <a href="/rentenluecke-rechner/">Rentenlücken-Rechner</a> · <a href="/sparplan-rechner/">Sparplan-Rechner</a> · <a href="/rentensteuer-rechner/">Steuerrechner für Rentner</a></p>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<script>
+	const RENTENALTER = 67;
+
+	// --- Parameter pAV-Reformgesetz (Start 1.1.2027) ---
+	const NEU_STUFE1 = 360;      // 50 Cent je Euro bis 360 €
+	const NEU_STUFE2 = 1800;     // 25 Cent je Euro für weitere 1.440 €
+	const NEU_KINDERZULAGE = 300;
+	const NEU_BONUS_JUNG = 200;  // einmalig, Abschluss vor dem 25. Geburtstag
+	const NEU_SA_HOECHST = 1800; // Sonderausgabenabzug zzgl. Zulageanspruch
+
+	// --- Parameter Riester-Bestand (§§ 10a, 79 ff. EStG) ---
+	const ALT_GRUNDZULAGE = 175;
+	const ALT_KINDERZULAGE = 300;
+	const ALT_SA_HOECHST = 2100;
+	const ALT_MINDEST_QUOTE = 0.04;
+	const ALT_SOCKEL = 60;
+
+	function fmt(n: number) {
+		return Math.round(n).toLocaleString('de-DE');
+	}
+	function fmtP(n: number, d = 1) {
+		return n.toLocaleString('de-DE', { minimumFractionDigits: d, maximumFractionDigits: d });
+	}
+
+	// Einkommensteuer-Grundtarif 2025 (§ 32a EStG)
+	function est(zvE: number): number {
+		const x = Math.floor(Math.max(0, zvE));
+		if (x <= 12096) return 0;
+		if (x <= 17443) {
+			const y = (x - 12096) / 10000;
+			return Math.floor((932.3 * y + 1400) * y);
+		}
+		if (x <= 68480) {
+			const z = (x - 17443) / 10000;
+			return Math.floor((176.64 * z + 2397) * z + 1015.13);
+		}
+		if (x <= 277825) return Math.floor(0.42 * x - 10911.92);
+		return Math.floor(0.45 * x - 19246.67);
+	}
+
+	// Grobe Näherung des zu versteuernden Einkommens aus dem Bruttojahreslohn
+	function zvEausBrutto(brutto: number): number {
+		return Math.max(0, brutto * 0.8 - 1230 - 36);
+	}
+
+	// Steuervorteil nach Günstigerprüfung: nur der Teil, der über die Zulage hinausgeht
+	function steuervorteil(brutto: number, abzugsfaehig: number, zulagen: number): number {
+		const zvE = zvEausBrutto(brutto);
+		const ersparnis = est(zvE) - est(zvE - abzugsfaehig);
+		return Math.max(0, ersparnis - zulagen);
+	}
+
+	// Zulage im Altersvorsorgedepot ab 2027
+	function zulageNeu(beitrag: number, kinder: number): number {
+		const s1 = Math.min(beitrag, NEU_STUFE1) * 0.5;
+		const s2 = Math.max(0, Math.min(beitrag, NEU_STUFE2) - NEU_STUFE1) * 0.25;
+		const kind = kinder * Math.min(beitrag, NEU_KINDERZULAGE);
+		return s1 + s2 + kind;
+	}
+
+	// Zulage im Riester-Bestand inkl. Kürzung bei unterschrittenem Mindesteigenbeitrag
+	function zulageAlt(beitrag: number, kinder: number, brutto: number): number {
+		const voll = ALT_GRUNDZULAGE + kinder * ALT_KINDERZULAGE;
+		const mindest = Math.max(ALT_SOCKEL, Math.min(brutto * ALT_MINDEST_QUOTE, ALT_SA_HOECHST) - voll);
+		const quote = mindest > 0 ? Math.min(1, beitrag / mindest) : 1;
+		return voll * quote;
+	}
+
+	type Pfad = {
+		endkapital: number;
+		zulagen: number;
+		steuer: number;
+		kosten: number;
+		eigen: number;
+		verlauf: number[];
+	};
+
+	// Jahresweise Fortschreibung: Beitrag + Zulage fließen ein, danach wirkt Rendite abzgl. Kosten
+	function simuliere(opts: {
+		startkapital: number;
+		jahre: number;
+		beitrag: number;
+		rendite: number;
+		kosten: number;
+		zulageFn: (jahr: number) => number;
+		steuerFn: (jahr: number) => number;
+	}): Pfad {
+		let kapital = opts.startkapital;
+		let zulagenSum = 0;
+		let steuerSum = 0;
+		let kostenSum = 0;
+		let eigenSum = 0;
+		const verlauf: number[] = [];
+
+		for (let j = 1; j <= opts.jahre; j++) {
+			const zulage = opts.zulageFn(j);
+			kapital += opts.beitrag + zulage;
+			const brutto = kapital * (opts.rendite / 100);
+			const kosten = (kapital + brutto) * (opts.kosten / 100);
+			kapital = kapital + brutto - kosten;
+
+			zulagenSum += zulage;
+			steuerSum += opts.steuerFn(j);
+			kostenSum += kosten;
+			eigenSum += opts.beitrag;
+			verlauf.push(kapital);
+		}
+
+		return {
+			endkapital: kapital,
+			zulagen: zulagenSum,
+			steuer: steuerSum,
+			kosten: kostenSum,
+			eigen: eigenSum,
+			verlauf,
+		};
+	}
+
+	// ---------- Slider-Verdrahtung ----------
+	function bind(id: string, valId: string, transform: (v: number) => string) {
+		const el = document.getElementById(id) as HTMLInputElement;
+		const out = document.getElementById(valId)!;
+		el.addEventListener('input', () => { out.textContent = transform(Number(el.value)); });
+		return el;
+	}
+	const asInt = (v: number) => fmt(v);
+	const as1 = (v: number) => fmtP(v, 1);
+	const as2 = (v: number) => fmtP(v, 2);
+
+	// ---------- Modus-Umschaltung ----------
+	const modeBestand = document.getElementById('mode-bestand')!;
+	const modeNeu = document.getElementById('mode-neu')!;
+	const panelBestand = document.getElementById('panel-bestand')!;
+	const panelNeu = document.getElementById('panel-neu')!;
+
+	function setMode(bestand: boolean) {
+		modeBestand.classList.toggle('active', bestand);
+		modeNeu.classList.toggle('active', !bestand);
+		modeBestand.setAttribute('aria-selected', String(bestand));
+		modeNeu.setAttribute('aria-selected', String(!bestand));
+		panelBestand.classList.toggle('hidden', !bestand);
+		panelNeu.classList.toggle('hidden', bestand);
+	}
+	modeBestand.addEventListener('click', () => setMode(true));
+	modeNeu.addEventListener('click', () => setMode(false));
+
+	// ---------- Modus A: Bestandsvertrag ----------
+	const bAlter = bind('b-alter', 'b-alter-val', asInt);
+	const bBrutto = bind('b-brutto', 'b-brutto-val', asInt);
+	const bBeitrag = bind('b-beitrag', 'b-beitrag-val', asInt);
+	const bKapital = bind('b-kapital', 'b-kapital-val', asInt);
+	const bJahre = bind('b-jahre', 'b-jahre-val', asInt);
+	const bKinder = bind('b-kinder', 'b-kinder-val', asInt);
+	const bKinderjahre = bind('b-kinderjahre', 'b-kinderjahre-val', asInt);
+	const bRendR = bind('b-rend-r', 'b-rend-r-val', as1);
+	const bKostR = bind('b-kost-r', 'b-kost-r-val', as1);
+	const bRendD = bind('b-rend-d', 'b-rend-d-val', as1);
+	const bKostD = bind('b-kost-d', 'b-kost-d-val', as2);
+
+	const bKinderField = document.getElementById('b-kinderjahre-field')!;
+	bKinder.addEventListener('input', () => {
+		bKinderField.style.display = Number(bKinder.value) > 0 ? 'block' : 'none';
+	});
+
+	document.getElementById('b-calc')!.addEventListener('click', () => {
+		const alter = Number(bAlter.value);
+		const brutto = Number(bBrutto.value);
+		const beitrag = Number(bBeitrag.value) * 12;
+		const kapital = Number(bKapital.value);
+		const vertragsjahre = Number(bJahre.value);
+		const kinder = Number(bKinder.value);
+		const kinderjahre = kinder > 0 ? Number(bKinderjahre.value) : 0;
+		const jahre = Math.max(1, RENTENALTER - alter);
+
+		const gebuehr = vertragsjahre >= 5 ? 0 : 300;
+
+		// Pfad 1: Riester behalten
+		const zulAlt = (j: number) => zulageAlt(beitrag, j <= kinderjahre ? kinder : 0, brutto);
+		const pfadR = simuliere({
+			startkapital: kapital,
+			jahre,
+			beitrag,
+			rendite: Number(bRendR.value),
+			kosten: Number(bKostR.value),
+			zulageFn: zulAlt,
+			steuerFn: (j) => {
+				const z = zulAlt(j);
+				return steuervorteil(brutto, Math.min(beitrag + z, ALT_SA_HOECHST), z);
+			},
+		});
+
+		// Pfad 2: Wechsel ins Altersvorsorgedepot
+		const zulNeu = (j: number) => zulageNeu(beitrag, j <= kinderjahre ? kinder : 0);
+		const pfadD = simuliere({
+			startkapital: Math.max(0, kapital - gebuehr),
+			jahre,
+			beitrag,
+			rendite: Number(bRendD.value),
+			kosten: Number(bKostD.value),
+			zulageFn: zulNeu,
+			steuerFn: (j) => {
+				const z = zulNeu(j);
+				return steuervorteil(brutto, Math.min(beitrag, NEU_SA_HOECHST) + z, z);
+			},
+		});
+
+		const diff = pfadD.endkapital - pfadR.endkapital;
+		const breakeven = pfadD.verlauf.findIndex((v, i) => v > pfadR.verlauf[i]);
+
+		document.getElementById('b-horizont')!.textContent =
+			`Laufzeit ${jahre} Jahre (von ${alter} bis ${RENTENALTER}), Eigenbeitrag ${fmt(beitrag)} € pro Jahr in beiden Pfaden.`;
+
+		document.getElementById('b-end-r')!.textContent = fmt(pfadR.endkapital) + ' €';
+		document.getElementById('b-zul-r')!.textContent = fmt(pfadR.zulagen) + ' €';
+		document.getElementById('b-stv-r')!.textContent = fmt(pfadR.steuer) + ' €';
+		document.getElementById('b-kos-r')!.textContent = fmt(pfadR.kosten) + ' €';
+		document.getElementById('b-fq-r')!.textContent =
+			fmtP(((pfadR.zulagen + pfadR.steuer) / pfadR.eigen) * 100) + ' %';
+
+		document.getElementById('b-end-d')!.textContent = fmt(pfadD.endkapital) + ' €';
+		document.getElementById('b-zul-d')!.textContent = fmt(pfadD.zulagen) + ' €';
+		document.getElementById('b-stv-d')!.textContent = fmt(pfadD.steuer) + ' €';
+		document.getElementById('b-kos-d')!.textContent = fmt(pfadD.kosten) + ' €';
+		document.getElementById('b-fq-d')!.textContent =
+			fmtP(((pfadD.zulagen + pfadD.steuer) / pfadD.eigen) * 100) + ' %';
+
+		document.getElementById('b-diff')!.textContent = (diff >= 0 ? '+' : '−') + fmt(Math.abs(diff)) + ' €';
+		const stvDiff = pfadR.steuer - pfadD.steuer;
+		const stvHinweis = stvDiff > 0
+			? ` Gegenläufig wirkt der Steuervorteil: Im Bestandspfad fällt er über die Laufzeit um ${fmt(stvDiff)} € höher aus, weil die Günstigerprüfung dort weniger Zulage gegenrechnet.`
+			: '';
+		document.getElementById('b-diff-note')!.textContent = diff >= 0
+			? `Der Wechselpfad liegt unter diesen Annahmen um ${fmt(Math.abs(diff))} € vorn — getrieben vor allem von der Kostendifferenz (${fmt(pfadR.kosten - pfadD.kosten)} € über die Laufzeit).` + stvHinweis
+			: `Der Bestandsvertrag liegt unter diesen Annahmen um ${fmt(Math.abs(diff))} € vorn.` + stvHinweis;
+
+		document.getElementById('b-gebuehr')!.textContent = fmt(gebuehr) + ' €';
+		document.getElementById('b-gebuehr-note')!.textContent = gebuehr === 0
+			? 'Ab 5 Vertragsjahren ist der Wechsel beim abgebenden Anbieter kostenlos'
+			: 'Unter 5 Vertragsjahren: bis zu 150 € abgebender + 150 € aufnehmender Anbieter';
+
+		document.getElementById('b-breakeven')!.textContent =
+			breakeven === -1 ? 'nicht erreicht' : breakeven === 0 ? 'sofort' : `nach ${breakeven + 1} Jahren`;
+		document.getElementById('b-breakeven-note')!.textContent =
+			breakeven === -1
+				? 'Der Bestandspfad bleibt über die gesamte Laufzeit vorn'
+				: breakeven === 0
+					? 'Der Wechselpfad liegt bereits im ersten Jahr vorn — die Wechselkosten sind sofort wieder eingespielt'
+					: 'Ab wann der Wechselpfad vor dem Bestandspfad liegt';
+
+		document.getElementById('step-input-b')!.classList.add('hidden');
+		document.getElementById('step-result-b')!.classList.remove('hidden');
+		document.getElementById('step-result-b')!.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+
+	document.getElementById('b-reset')!.addEventListener('click', () => {
+		document.getElementById('step-result-b')!.classList.add('hidden');
+		document.getElementById('step-input-b')!.classList.remove('hidden');
+		document.getElementById('step-input-b')!.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+
+	// ---------- Modus B: Neusparer ----------
+	const nAlter = bind('n-alter', 'n-alter-val', asInt);
+	const nBrutto = bind('n-brutto', 'n-brutto-val', asInt);
+	const nBeitrag = bind('n-beitrag', 'n-beitrag-val', asInt);
+	const nKinder = bind('n-kinder', 'n-kinder-val', asInt);
+	const nKinderjahre = bind('n-kinderjahre', 'n-kinderjahre-val', asInt);
+	const nRend = bind('n-rend', 'n-rend-val', as1);
+	const nKost = bind('n-kost', 'n-kost-val', as2);
+
+	const nKinderField = document.getElementById('n-kinderjahre-field')!;
+	nKinder.addEventListener('input', () => {
+		nKinderField.style.display = Number(nKinder.value) > 0 ? 'block' : 'none';
+	});
+
+	document.getElementById('n-calc')!.addEventListener('click', () => {
+		const alter = Number(nAlter.value);
+		const brutto = Number(nBrutto.value);
+		const beitrag = Number(nBeitrag.value) * 12;
+		const kinder = Number(nKinder.value);
+		const kinderjahre = kinder > 0 ? Number(nKinderjahre.value) : 0;
+		const jahre = Math.max(1, RENTENALTER - alter);
+		const bonus = alter < 25 ? NEU_BONUS_JUNG : 0;
+
+		const zulFn = (j: number) => zulageNeu(beitrag, j <= kinderjahre ? kinder : 0) + (j === 1 ? bonus : 0);
+		const pfad = simuliere({
+			startkapital: 0,
+			jahre,
+			beitrag,
+			rendite: Number(nRend.value),
+			kosten: Number(nKost.value),
+			zulageFn: zulFn,
+			steuerFn: (j) => {
+				const z = zulFn(j);
+				return steuervorteil(brutto, Math.min(beitrag, NEU_SA_HOECHST) + z, z);
+			},
+		});
+
+		const zulageJahr1 = zulFn(1);
+		const steuerJahr1 = steuervorteil(brutto, Math.min(beitrag, NEU_SA_HOECHST) + zulageJahr1, zulageJahr1);
+		const foerderquote = ((zulageJahr1 + steuerJahr1) / beitrag) * 100;
+		const renditeAnteil = Math.max(0, pfad.endkapital - pfad.eigen - pfad.zulagen);
+
+		document.getElementById('n-horizont')!.textContent =
+			`Laufzeit ${jahre} Jahre (von ${alter} bis ${RENTENALTER}), Eigenbeitrag ${fmt(beitrag)} € pro Jahr.`;
+
+		document.getElementById('n-zulage')!.textContent = fmt(zulageJahr1 - bonus) + ' €';
+		document.getElementById('n-zulage-note')!.textContent = bonus > 0
+			? `Grundzulage${kinder > 0 ? ' + Kinderzulage' : ''}, dazu einmalig ${bonus} € Berufseinsteigerbonus im ersten Jahr`
+			: `Grundzulage${kinder > 0 ? ' + ' + kinder + '× 300 € Kinderzulage' : ''}, maximal 540 € Grundzulage möglich`;
+
+		document.getElementById('n-steuer')!.textContent = fmt(steuerJahr1) + ' €';
+		document.getElementById('n-fq')!.textContent = fmtP(foerderquote) + ' %';
+		document.getElementById('n-fq-note')!.textContent =
+			`Auf ${fmt(beitrag)} € Eigenbeitrag kommen ${fmt(zulageJahr1 + steuerJahr1)} € vom Staat`;
+
+		document.getElementById('n-end')!.textContent = fmt(pfad.endkapital) + ' €';
+		document.getElementById('n-end-note')!.textContent =
+			`Nach Kosten von ${fmt(pfad.kosten)} € über die gesamte Laufzeit`;
+
+		document.getElementById('n-h-eigen')!.textContent = fmt(pfad.eigen) + ' €';
+		document.getElementById('n-h-staat')!.textContent = fmt(pfad.zulagen) + ' €';
+		document.getElementById('n-h-rendite')!.textContent = fmt(renditeAnteil) + ' €';
+
+		const gesamt = pfad.eigen + pfad.zulagen + renditeAnteil;
+		const pct = (v: number) => (gesamt > 0 ? (v / gesamt) * 100 : 0);
+		(document.getElementById('seg-eigen') as HTMLElement).style.width = pct(pfad.eigen) + '%';
+		(document.getElementById('seg-staat') as HTMLElement).style.width = pct(pfad.zulagen) + '%';
+		(document.getElementById('seg-rendite') as HTMLElement).style.width = pct(renditeAnteil) + '%';
+
+		document.getElementById('step-input-n')!.classList.add('hidden');
+		document.getElementById('step-result-n')!.classList.remove('hidden');
+		document.getElementById('step-result-n')!.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+
+	document.getElementById('n-reset')!.addEventListener('click', () => {
+		document.getElementById('step-result-n')!.classList.add('hidden');
+		document.getElementById('step-input-n')!.classList.remove('hidden');
+		document.getElementById('step-input-n')!.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	});
+</script>
+<style>
+	main {
+		max-width: 720px;
+		margin: 0 auto;
+		padding: 3em 1.5em 5em;
+	}
+
+	.page-header {
+		text-align: center;
+		margin-bottom: 2.5em;
+	}
+
+	.label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.6em;
+	}
+
+	h1 {
+		font-size: 2.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.subtitle {
+		font-size: 1.05em;
+		color: rgb(var(--gray));
+		max-width: 520px;
+		margin: 0 auto;
+		line-height: 1.6;
+	}
+
+	.card {
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 16px;
+		padding: 2.5em 2.5em;
+		box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+	}
+
+	.card h2 {
+		font-size: 1.25em;
+		margin: 0 0 1.75em;
+		color: rgb(var(--black));
+	}
+
+	.hidden { display: none !important; }
+
+	.field {
+		margin-bottom: 2em;
+	}
+
+	.field label {
+		display: block;
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin-bottom: 0.4em;
+	}
+
+	.checkbox-label {
+		display: flex !important;
+		align-items: center;
+		gap: 0.6em;
+		cursor: pointer;
+	}
+
+	.checkbox-label input[type="checkbox"] {
+		accent-color: var(--accent);
+		width: 1.1em;
+		height: 1.1em;
+		cursor: pointer;
+	}
+
+	.field-hint {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0.2em 0 0.6em;
+	}
+
+	.input-row {
+		display: flex;
+		align-items: center;
+		gap: 1em;
+	}
+
+	input[type="range"] {
+		flex: 1;
+		accent-color: var(--accent);
+		height: 4px;
+		cursor: pointer;
+	}
+
+	.input-display {
+		font-size: 1em;
+		font-weight: 700;
+		color: var(--accent);
+		min-width: 120px;
+		text-align: right;
+		white-space: nowrap;
+	}
+
+	.result-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1em;
+		margin-bottom: 1.5em;
+	}
+
+	.result-box {
+		background: rgb(var(--gray-light));
+		border-radius: 10px;
+		padding: 1.2em 1.4em;
+	}
+
+	.result-box.highlight {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.result-label {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0 0 0.4em;
+		font-weight: 500;
+	}
+
+	.result-value {
+		font-size: 1.4em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		margin: 0 0 0.3em;
+	}
+
+	.result-box.highlight .result-value {
+		color: var(--accent-dark);
+	}
+
+	.result-note {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+
+	.sparrate-box {
+		background: var(--accent);
+		border-radius: 12px;
+		padding: 1.5em 2em;
+		text-align: center;
+		margin-bottom: 1.5em;
+	}
+
+	.sparrate-label {
+		font-size: 0.85em;
+		color: rgba(255,255,255,0.8);
+		margin: 0 0 0.3em;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+
+	.sparrate-value {
+		font-size: 2em;
+		font-weight: 700;
+		color: white;
+		margin: 0 0 0.3em;
+	}
+
+	.sparrate-note {
+		font-size: 0.78em;
+		color: rgba(255,255,255,0.7);
+		margin: 0;
+	}
+
+	.disclaimer-calc {
+		font-size: 0.78em;
+		color: rgb(var(--gray));
+		background: rgb(var(--gray-light));
+		border-radius: 8px;
+		padding: 0.8em 1em;
+		margin-bottom: 2em;
+		line-height: 1.5;
+	}
+
+	.cta-box {
+		background: var(--accent-light);
+		border: 1px solid rgba(26, 107, 60, 0.2);
+		border-radius: 12px;
+		padding: 2em;
+		margin-bottom: 1.5em;
+		text-align: center;
+	}
+
+	.cta-label {
+		font-size: 0.75em;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		font-weight: 700;
+		margin: 0 0 0.5em;
+	}
+
+	.cta-box h3 {
+		font-size: 1.2em;
+		margin: 0 0 0.5em;
+		color: rgb(var(--black));
+	}
+
+	.cta-sub {
+		font-size: 0.9em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+		line-height: 1.6;
+	}
+
+	.cta-form {
+		display: flex;
+		gap: 0.6em;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-bottom: 0.6em;
+	}
+
+	.cta-form input[type="email"] {
+		flex: 1 1 220px;
+		padding: 0.75em 1em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 8px;
+		font-size: 0.95em;
+		font-family: inherit;
+		outline: none;
+		background: white;
+	}
+
+	.cta-form input[type="email"]:focus {
+		border-color: var(--accent);
+	}
+
+	.cta-privacy {
+		font-size: 0.75em;
+		color: rgb(var(--gray));
+		margin: 0 0 1.2em;
+	}
+
+	.or-divider {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin-bottom: 0.8em;
+	}
+
+	.call-cta {
+		margin-top: 1.75em;
+		padding-top: 1.5em;
+		border-top: 1px solid rgba(26, 107, 60, 0.2);
+	}
+
+	.call-cta-text {
+		font-size: 0.95em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		margin: 0 0 0.9em;
+	}
+
+	.btn-primary {
+		display: inline-block;
+		background: var(--accent);
+		color: white;
+		padding: 0.75em 1.75em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.95em;
+		font-family: inherit;
+		border: none;
+		cursor: pointer;
+		text-decoration: none;
+		transition: background 0.15s;
+		white-space: nowrap;
+	}
+
+	.btn-primary:hover { background: var(--accent-dark); }
+
+	.btn-secondary {
+		display: inline-block;
+		color: var(--accent);
+		padding: 0.6em 1.4em;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 0.9em;
+		border: 2px solid var(--accent);
+		text-decoration: none;
+		transition: background 0.15s;
+	}
+
+	.btn-secondary:hover { background: var(--accent-light); }
+
+	.btn-ghost {
+		background: none;
+		border: none;
+		color: rgb(var(--gray));
+		font-size: 0.875em;
+		font-family: inherit;
+		cursor: pointer;
+		padding: 0;
+		text-decoration: underline;
+	}
+
+	.btn-ghost:hover { color: rgb(var(--black)); }
+
+	/* SEO-Sektion */
+	.seo-section {
+		margin-top: 3.5em;
+	}
+
+	.seo-section h2 {
+		font-size: 1.25em;
+		color: rgb(var(--black));
+		margin: 0 0 0.75em;
+	}
+
+	.seo-section p {
+		font-size: 0.95em;
+		color: rgb(var(--gray-dark, var(--gray)));
+		line-height: 1.7;
+		margin: 0 0 1.25em;
+	}
+
+	.seo-section details {
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 10px;
+		padding: 0.9em 1.2em;
+		margin-bottom: 0.75em;
+		background: white;
+	}
+
+	.seo-section summary {
+		font-weight: 600;
+		font-size: 0.95em;
+		cursor: pointer;
+		color: rgb(var(--black));
+	}
+
+	.seo-section details p {
+		margin: 0.75em 0 0;
+		font-size: 0.9em;
+	}
+
+	.weitere-rechner {
+		margin-top: 2em;
+		font-size: 0.9em;
+	}
+
+	@media (max-width: 600px) {
+		.card { padding: 1.5em 1.2em; }
+		.result-grid { grid-template-columns: 1fr; }
+		h1 { font-size: 1.75em; }
+		.input-display { min-width: 90px; font-size: 0.9em; }
+		.cta-form input[type="email"],
+		.cta-form .btn-primary { flex: 1 1 100%; width: 100%; }
+	}
+
+	/* --- Modus-Umschaltung --- */
+	.mode-switch {
+		display: flex;
+		gap: 0.5em;
+		margin-bottom: 1.5em;
+		background: var(--gray-light);
+		padding: 0.35em;
+		border-radius: 10px;
+	}
+
+	.mode-btn {
+		flex: 1;
+		padding: 0.75em 0.8em;
+		border: none;
+		background: transparent;
+		border-radius: 7px;
+		font-size: 0.92em;
+		font-weight: 600;
+		color: rgb(var(--gray));
+		cursor: pointer;
+		transition: background 0.15s ease, color 0.15s ease;
+		font-family: inherit;
+	}
+
+	.mode-btn:hover {
+		color: rgb(var(--black));
+	}
+
+	.mode-btn.active {
+		background: #fff;
+		color: rgb(var(--black));
+		box-shadow: 0 1px 3px rgba(var(--gray), 0.25);
+	}
+
+	/* --- Erweiterte Annahmen --- */
+	.advanced {
+		margin: 1.5em 0 1.2em;
+		border-top: 1px solid rgba(var(--gray), 0.2);
+		padding-top: 1.2em;
+	}
+
+	.advanced summary {
+		cursor: pointer;
+		font-weight: 600;
+		font-size: 0.92em;
+		color: var(--accent);
+		margin-bottom: 0.5em;
+	}
+
+	.advanced .field {
+		margin-top: 1.2em;
+	}
+
+	/* --- Vergleichsspalten --- */
+	.result-intro {
+		font-size: 0.9em;
+		color: rgb(var(--gray));
+		margin: -0.5em 0 1.5em;
+	}
+
+	.compare-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1em;
+		margin-bottom: 1.5em;
+	}
+
+	.compare-col {
+		background: var(--gray-light);
+		border-radius: 10px;
+		padding: 1.2em 1em;
+	}
+
+	.compare-head {
+		font-size: 0.78em;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		font-weight: 700;
+		color: rgb(var(--gray));
+		margin: 0 0 0.6em;
+	}
+
+	.compare-value {
+		font-size: 1.6em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		margin: 0;
+		line-height: 1.1;
+	}
+
+	.compare-note {
+		font-size: 0.78em;
+		color: rgb(var(--gray));
+		margin: 0.3em 0 1em;
+	}
+
+	.compare-list {
+		margin: 0;
+		border-top: 1px solid rgba(var(--gray), 0.2);
+		padding-top: 0.8em;
+	}
+
+	.compare-list > div {
+		display: flex;
+		justify-content: space-between;
+		gap: 0.6em;
+		padding: 0.35em 0;
+		font-size: 0.85em;
+	}
+
+	.compare-list dt {
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+
+	.compare-list dd {
+		margin: 0;
+		font-weight: 600;
+		white-space: nowrap;
+	}
+
+	/* --- Herkunft des Kapitals --- */
+	.herkunft {
+		margin: 1.5em 0;
+		padding: 1.2em;
+		background: var(--gray-light);
+		border-radius: 10px;
+	}
+
+	.herkunft-head {
+		font-size: 0.78em;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		font-weight: 700;
+		color: rgb(var(--gray));
+		margin: 0 0 0.8em;
+	}
+
+	.herkunft-bar {
+		display: flex;
+		height: 34px;
+		border-radius: 6px;
+		overflow: hidden;
+		margin-bottom: 1em;
+	}
+
+	.seg {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 0.7em;
+		font-weight: 700;
+		color: #fff;
+		overflow: hidden;
+		white-space: nowrap;
+		transition: width 0.4s ease;
+	}
+
+	.seg span {
+		padding: 0 0.4em;
+	}
+
+	.seg-eigen { background: rgb(var(--gray)); }
+	.seg-staat { background: var(--accent); }
+	.seg-rendite { background: var(--accent-dark); }
+
+	/* --- Grenzen der Rechnung --- */
+	.not-priced {
+		margin: 1.5em 0;
+		padding: 1.2em 1.3em;
+		border: 1px solid rgba(var(--gray), 0.25);
+		border-radius: 10px;
+	}
+
+	.not-priced-head {
+		font-size: 0.78em;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		margin: 0 0 0.7em;
+	}
+
+	.not-priced ul {
+		margin: 0;
+		padding-left: 1.2em;
+	}
+
+	.not-priced li {
+		font-size: 0.88em;
+		line-height: 1.55;
+		color: rgb(var(--gray));
+		margin-bottom: 0.5em;
+	}
+
+	.not-priced li:last-child {
+		margin-bottom: 0;
+	}
+
+	@media (max-width: 620px) {
+		.compare-grid {
+			grid-template-columns: 1fr;
+		}
+
+		.mode-switch {
+			flex-direction: column;
+		}
+
+		.compare-value {
+			font-size: 1.4em;
+		}
+	}
+</style>
