@@ -2,10 +2,11 @@
 title: 'Honorarberatung vs. Provisionsberatung: Was lohnt sich wirklich? (2026)'
 description: 'Honorar- oder Provisionsberatung — welcher Weg passt zu wem? Kosten, Marktanteil, regulatorischer Schutz und die ehrliche Antwort für 90 % der Privathaushalte.'
 pubDate: '2026-05-23'
+updatedDate: '2026-09-14'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Honorarberatung vs. Provisionsberatung — Vergleich und Empfehlung 2026'
 category: 'Vermögensaufbau'
-tldr: 'Honorarberatung (§ 34h GewO) wird in Deutschland von nur rund 1,5 % der Privathaushalte genutzt (Policen Direkt / IVFP 2024) — bei direkten Kosten von 150–300 €/Stunde oder 1.500–3.000 € pro Finanzplan plus Honorar für jedes Folgegespräch. Provisionsberatung (§ 34d/34f GewO) ist für 90 % aller Privathaushalte der strukturell finanzierbare Weg: keine direkten Kosten, jahrzehntelange Folgebetreuung über die Bestandsprovision finanziert, Zugang zum gesamten deutschen Versicherungs- und Investmentmarkt. Regulatorischer Schutz in beiden Modellen identisch — § 18 WpHG (Protokoll), § 64 WpHG (Geeignetheit), § 70 WpHG (Zuwendungen), BaFin-Aufsicht, Provisionsdeckel 2,5 % seit LV-Reform 2015, fünfjährige Stornohaftung. Honorarberatung lohnt rechnerisch erst ab rund 250.000 € liquidem Vermögen oder bei rein punktuellen Spezialfragen — bei der typischen Berufseinsteiger-/Familiensituation ist Provisionsberatung die pragmatische Wahl.'
+tldr: 'Honorarberatung (§ 34h GewO) wird in Deutschland von nur rund 1,5 % der Privathaushalte genutzt (Policen Direkt / IVFP 2024) — bei direkten Kosten von 150–300 €/Stunde oder 1.500–3.000 € pro Finanzplan plus Honorar für jedes Folgegespräch. Provisionsberatung (§ 34d/34f GewO) ist für 90 % aller Privathaushalte der strukturell finanzierbare Weg: keine direkten Kosten, jahrzehntelange Folgebetreuung über die Bestandsprovision finanziert, Zugang zum gesamten deutschen Versicherungs- und Investmentmarkt. Regulatorischer Schutz in beiden Modellen identisch — § 18 WpHG (Protokoll), § 64 WpHG (Geeignetheit), § 70 WpHG (Zuwendungen), BaFin-Aufsicht, abgesenkter Höchstzillmersatz von 25 ‰ seit der LV-Reform 2015, fünfjährige Stornohaftung nach § 49 VAG. Honorarberatung lohnt rechnerisch erst ab rund 250.000 € liquidem Vermögen oder bei rein punktuellen Spezialfragen — bei der typischen Berufseinsteiger-/Familiensituation ist Provisionsberatung die pragmatische Wahl.'
 faq:
   - question: 'Was ist der Unterschied zwischen Honorarberatung und Provisionsberatung?'
     answer: 'Provisionsberatung (§ 34d/34f GewO): Berater wird vom Produktanbieter (Versicherer, Fondsgesellschaft) bezahlt, nicht vom Kunden. Direkte Kosten für den Kunden: 0 €. Die Vergütung ist in den Produktkosten kalkuliert — Abschlusscourtage 2–4 % bei Lebens-/Rentenversicherungen (gesetzlich gedeckelt seit LV-Reform 2015 auf max. 2,5 %), laufende Bestandsprovision 0,2–1 % auf Fondsvolumen. Honorarberatung (§ 34h GewO): Der Berater darf keine Produktprovisionen behalten und wird ausschließlich vom Kunden bezahlt — Stundensatz 150–300 €, Pauschale für Finanzplan 1.500–3.000 €. Jedes Folgegespräch wieder kostenpflichtig. Wirtschaftliche Konsequenz: Honorarberatung verlangt Eingangsinvestition, Provisionsberatung trägt die Beratung über die Vertragslaufzeit. Beratungsqualität und regulatorischer Schutz sind in beiden Modellen identisch.'
@@ -29,7 +30,7 @@ sources:
   - title: 'Marktstudie Honorar- vs. Provisionsberatung in Deutschland'
     publisher: 'Policen Direkt / Institut für Vorsorge und Finanzplanung (IVFP)'
     year: 2024
-  - title: 'Lebensversicherungsreformgesetz (LVRG) — Provisionsdeckel und Stornohaftung'
+  - title: 'Lebensversicherungsreformgesetz (LVRG) — Höchstzillmersatz und Stornohaftung'
     publisher: 'Bundesministerium der Finanzen'
     year: 2015
 ---
@@ -101,7 +102,7 @@ Honorarberatung wird seit Jahren als "die bessere Beratung" beworben — der Mar
 ### Mythos 2: "Provisionsberater verkaufen nur teure Produkte"
 
 **Realität:** Seit der LV-Reform 2015 (LVRG) gilt:
-- **Provisionsdeckel 2,5 %** auf Abschlussprovisionen bei Lebensversicherungen
+- **Höchstzillmersatz 25 ‰** — Obergrenze der auf den Vertrag anrechenbaren Abschlusskosten bei Lebensversicherungen
 - **Fünfjährige Stornohaftung** — der Berater verliert seine Provision, wenn der Kunde innerhalb 5 Jahren kündigt
 - **Effektivkostenausweis Pflicht** — alle Kosten transparent im Produktinformationsblatt
 - **§ 70 WpHG** — Offenlegung aller Zuwendungen

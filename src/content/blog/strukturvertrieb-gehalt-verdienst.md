@@ -2,6 +2,7 @@
 title: 'Strukturvertrieb Gehalt: Was verdient man wirklich in Jahr 1, 3 und 5?'
 description: 'Strukturvertrieb-Gehalt realistisch gerechnet: Wie Provisionssätze und Karrierestufen das Einkommen bestimmen, was in Jahr 1, 3 und 5 drin ist — und was nicht.'
 pubDate: '2026-06-13'
+updatedDate: '2026-09-14'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Im Strukturvertrieb gibt es kein Gehalt, sondern Provisionen: Der Verdienst hängt am vermittelten Volumen und an der Karrierestufe. In branchenüblichen Modellen verdreifacht sich der Provisionssatz vom Einsteiger (ca. 7 ‰) zur ersten Führungsstufe (ca. 20 ‰). Realistisch: Jahr 1 ist eine Aufbauphase mit oft unter 1.000 € monatlich, ab Jahr 3 sind mit stabilem Kundenstamm und erster Teamverantwortung 3.000–6.000 € monatlich erreichbar, ab Jahr 5 mit etabliertem Team deutlich mehr — aber nur für die Minderheit, die die Aufbauphase durchhält. Garantiert ist nichts.'
@@ -20,7 +21,7 @@ sources:
   - title: 'Handelsgesetzbuch §§ 84, 92 — Handelsvertreter / Versicherungsvertreter'
     publisher: 'Bundesministerium der Justiz (gesetze-im-internet.de)'
     url: 'https://www.gesetze-im-internet.de/hgb/__84.html'
-  - title: 'Lebensversicherungsreformgesetz (LVRG) — Provisionsdeckel'
+  - title: 'Lebensversicherungsreformgesetz (LVRG) — Höchstzillmersatz'
     publisher: 'Bundesfinanzministerium'
     year: 2014
   - title: 'AfW Vermittlerbarometer — Einkommenssituation freier Vermittler'

@@ -2,10 +2,11 @@
 title: 'Was kostet ein Finanzberater? Konkrete Preise und Modelle (2026)'
 description: 'Was kostet ein guter Finanzberater wirklich? Provisionsberatung, Honorarberatung und Bankberatung im konkreten Kostenvergleich — mit Beispielrechnungen über 30 Jahre.'
 pubDate: '2026-05-24'
+updatedDate: '2026-09-14'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Was kostet ein Finanzberater — Preisvergleich Honorar vs. Provision'
 category: 'Vermögensaufbau'
-tldr: 'Drei Vergütungsmodelle mit fundamental unterschiedlichen Kosten: 1) Provisionsberatung (§ 34d/34f GewO): Direkte Kosten für den Kunden 0 € — weder für Erstgespräch, Analyse, Folgebetreuung noch für den Leistungsfall. Vergütung ist in den Produkten kalkuliert (transparent im Produktinformationsblatt), Provisionsdeckel 2,5 % auf Lebensversicherungen seit 2015. 2) Honorarberatung (§ 34h GewO): 150–300 €/Stunde, 1.500–3.000 € für einen Finanzplan. Folgegespräche kostenpflichtig. 3) Bankberatung: Kostenlos für den Kunden, aber eingeschränkter Marktzugang (nur hauseigene Produkte). Über 30 Jahre Beratungslaufzeit ergibt sich für Provisionsberatung rund 6.000–8.000 € kalkulierte Vergütung aus Produkten (kein direkter Cash-Out), für Honorarberatung rund 15.000–25.000 € direkt aus dem Nettoeinkommen. Honorarberatung rechnet sich erst ab rund 250.000 € liquidem Vermögen.'
+tldr: 'Drei Vergütungsmodelle mit fundamental unterschiedlichen Kosten: 1) Provisionsberatung (§ 34d/34f GewO): Direkte Kosten für den Kunden 0 € — weder für Erstgespräch, Analyse, Folgebetreuung noch für den Leistungsfall. Vergütung ist in den Produkten kalkuliert (transparent im Produktinformationsblatt), Höchstzillmersatz seit der LV-Reform 2015 auf 25 ‰ abgesenkt. 2) Honorarberatung (§ 34h GewO): 150–300 €/Stunde, 1.500–3.000 € für einen Finanzplan. Folgegespräche kostenpflichtig. 3) Bankberatung: Kostenlos für den Kunden, aber eingeschränkter Marktzugang (nur hauseigene Produkte). Über 30 Jahre Beratungslaufzeit ergibt sich für Provisionsberatung rund 6.000–8.000 € kalkulierte Vergütung aus Produkten (kein direkter Cash-Out), für Honorarberatung rund 15.000–25.000 € direkt aus dem Nettoeinkommen. Honorarberatung rechnet sich erst ab rund 250.000 € liquidem Vermögen.'
 faq:
   - question: 'Was kostet ein guter Finanzberater im Monat?'
     answer: 'Bei Provisionsberatung: 0 € direkt im Monat. Die Vergütung ist in den Produktkosten kalkuliert — bei einer BU mit 70 €/Monat Beitrag und einer bAV mit 100 €/Monat Beitrag entstehen rund 5–15 € monatliche Provisionsanteile in den Produkten, die der Berater erhält. Der Kunde zahlt aber keinen Cent zusätzlich. Bei Honorarberatung: keine monatlichen Kosten direkt, dafür einmalige Honorare bei jedem Gespräch — Erstplan 1.500–3.000 €, Folgegespräche 200–500 €. Bei Bankberatung: 0 € direkt, dafür eingeschränkter Marktzugang. Vergleich auf Lebenszeit (30 Jahre): Provisionsberatung kostet den Kunden netto rund 200–270 € pro Jahr über die Produktkosten, Honorarberatung mit jährlichen Anpassungsgesprächen rund 700–900 € pro Jahr direkt aus dem Netto.'
@@ -20,7 +21,7 @@ faq:
   - question: 'Wie wird eine Provisionsberatung konkret vergütet?'
     answer: 'Die Vergütungsstrukturen sind seit der LV-Reform 2015 (LVRG) klar reguliert: 1) Lebens- und Rentenversicherungen: Abschlussprovision max. 2,5 % auf die Beitragssumme (auf 5 Jahre gestreckt, 0,5 % pro Jahr). Beispiel: BU mit 70 €/Monat Beitrag = 840 €/Jahr Beitrag × 30 Jahre = 25.200 € Beitragssumme. Max. Provision: 630 €. Plus 5-jährige Stornohaftung — bei Storno verliert der Berater seine Provision zurück. 2) Investmentfonds: Abschlusscourtage 0–5 % (oft verhandelbar) plus laufende Bestandsprovision 0,2–1 % auf Fondsvolumen pro Jahr. 3) Sachversicherungen: Abschlussprovision 5–15 % der Jahresprämie, plus Bestandsprovision rund 5 % der jährlichen Beiträge. 4) Immobilienfinanzierung: Provision aus dem Darlehen 0,5–1,5 %, vom Vermittler bezahlt durch die Bank. Alle Provisionen sind in den Produktkosten kalkuliert und im Produktinformationsblatt offen ausgewiesen — Transparenz ist gesetzlich vorgeschrieben.'
 sources:
-  - title: 'Lebensversicherungsreformgesetz (LVRG) — Provisionsdeckel und Stornohaftung'
+  - title: 'Lebensversicherungsreformgesetz (LVRG) — Höchstzillmersatz und Stornohaftung'
     publisher: 'Bundesministerium der Finanzen'
     year: 2015
   - title: 'Gewerbeordnung (GewO) §§ 34d, 34f, 34h — Vermittlerzulassungen und Vergütung'
@@ -205,11 +206,11 @@ Bei 200 €/Monat Sparrate über 30 Jahre und 6 % Rendite vor Kosten:
 
 ### Sind Provisionen am Kunden vorbei?
 
-**Nein.** Seit § 70 WpHG müssen alle Zuwendungen offen gelegt werden, im Produktinformationsblatt sind alle Kosten transparent ausgewiesen. Plus: gesetzliche Provisionsdeckelung (2,5 % LV) und Stornohaftung.
+**Nein.** Seit § 70 WpHG müssen alle Zuwendungen offen gelegt werden, im Produktinformationsblatt sind alle Kosten transparent ausgewiesen. Plus: der gesetzlich abgesenkte Höchstzillmersatz (25 ‰ bei Lebensversicherungen) und die fünfjährige Stornohaftung nach § 49 VAG.
 
 ### Kann man Provisionen verhandeln?
 
-**Bei Investmentfonds:** Ja, Ausgabeaufschlag oft verhandelbar oder über Rabatte ermäßigt (Bestandsanbieter wie Comdirect, ebase, FFB bieten Rabatte). **Bei Lebensversicherungen:** Nein, Provisionsdeckel gesetzlich, Verhandlungsspielraum minimal.
+**Bei Investmentfonds:** Ja, Ausgabeaufschlag oft verhandelbar oder über Rabatte ermäßigt (Bestandsanbieter wie Comdirect, ebase, FFB bieten Rabatte). **Bei Lebensversicherungen:** Kaum — die Abschlusskosten sind über den Höchstzillmersatz kalkuliert, der Verhandlungsspielraum ist minimal.
 
 ### Wann sind Beratungskosten steuerlich absetzbar?
 

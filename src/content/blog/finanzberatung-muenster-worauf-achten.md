@@ -2,6 +2,7 @@
 title: 'Finanzberatung in Münster: Worauf du achten solltest — und welches Vergütungsmodell wirklich zu dir passt'
 description: 'Honorar- oder Provisionsberatung — was ist für die meisten in Münster der pragmatischere Weg? Vergütung, Zulassung und die Fragen, die du wirklich stellen solltest.'
 pubDate: '2026-05-10'
+updatedDate: '2026-09-14'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Drei Beratertypen mit unterschiedlichen Zulassungen (GewO): 1) Provisionsbasierter Vermittler § 34d/34f GewO — vom Produktanbieter bezahlt, keine direkten Kosten für den Kunden, jahrzehntelange Betreuung inklusive Bestandsprovision (laufende Vergütung für laufende Betreuung). 2) Honorar-Finanzanlagenberater § 34h GewO — Honorar direkt vom Kunden (150-300 €/Stunde, Pauschale 1.500-3.000 € für einen Finanzplan); lohnt sich nur bei hohem Vermögen oder einmaligen Spezialfragen. 3) Bankberater — angestellt, empfiehlt hauseigene Produkte. Für 90 % der Berufseinsteiger und Familien in Münster ist Provisionsberatung der pragmatische Weg: keine Eingangskosten, kontinuierliche Betreuung, Zugang zum gesamten Versicherungs- und Investmentmarkt. Honorarberatung passt vor allem ab ca. 250.000 € liquidem Vermögen oder bei rein punktuellen Fragen. Schutz für den Kunden in beiden Modellen identisch: BaFin-Vermittlerregister, Beratungsprotokoll nach § 18 WpHG, Geeignetheitsprüfung § 64 WpHG, Berufshaftpflicht 1,3 Mio. €.'
@@ -26,7 +27,7 @@ sources:
   - title: 'Marktstudie Honorar- vs. Provisionsberatung in Deutschland'
     publisher: 'Policen Direkt / Institut für Vorsorge und Finanzplanung'
     year: 2024
-  - title: 'Lebensversicherungsreformgesetz (LVRG) — Provisionsdeckel und Stornohaftung'
+  - title: 'Lebensversicherungsreformgesetz (LVRG) — Höchstzillmersatz und Stornohaftung'
     publisher: 'Bundesministerium der Finanzen'
     year: 2015
 ---
@@ -64,7 +65,7 @@ Der häufigste Mythos: Provisionsberatung sei "teurer", weil die Provision ja ir
 
 Bei Honorarberatung zahlst du das Honorar **direkt aus versteuertem Einkommen** — ein Stundensatz von 250 € entspricht netto ca. 450 € Bruttoeinkommen, das du erst erarbeiten musstest. Bei Provisionsberatung wird die Vergütung über die Produktlaufzeit eingerechnet und teilt sich auf 20–30 Jahre auf — pro Monat ein einstelliger Eurobetrag, der zudem die laufende Betreuung mitfinanziert.
 
-Hinzu kommt: Provisionsprodukte sind seit der Reform 2015 streng reguliert. Provisionsdeckel, fünfjährige Stornohaftung und Pflicht zum Produktinformationsblatt mit ausgewiesenen Effektivkosten machen Vergleiche transparent. Wer heute behauptet, Provisionsberatung sei automatisch teurer, ignoriert die Regulierungslandschaft der letzten zehn Jahre.
+Hinzu kommt: Provisionsprodukte sind seit der Reform 2015 streng reguliert. Der abgesenkte Höchstzillmersatz von 25 ‰, die fünfjährige Stornohaftung nach § 49 VAG und die Pflicht zum Produktinformationsblatt mit ausgewiesenen Effektivkosten machen Vergleiche transparent. Wer heute behauptet, Provisionsberatung sei automatisch teurer, ignoriert die Regulierungslandschaft der letzten zehn Jahre.
 
 ## Gute Fragen vor dem ersten Termin
 

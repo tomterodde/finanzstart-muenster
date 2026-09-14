@@ -2,6 +2,7 @@
 title: 'Provisionsbasiertes Einkommen: Wie es funktioniert — und wann es sich lohnt'
 description: 'Provision statt Fixgehalt — was steckt dahinter? Wie Provisionsmodelle funktionieren, welche Vor- und Nachteile sie haben und für wen sie geeignet sind.'
 pubDate: '2026-04-20'
+updatedDate: '2026-09-14'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Provision ist leistungsabhängige Vergütung — kein Abschluss, kein Einkommen. Rechtlicher Rahmen für Versicherungs- und Finanzvermittlung: § 87 HGB (Provisionsanspruch), § 92 HGB (Bestandsprovisionen) und § 34d/§ 34f GewO (Erlaubnis und Registereintrag). Im Versicherungsbereich werden Abschlussprovisionen seit der Lebensversicherungsreform (LVRG 2015) gedeckelt: max. 2,5 % der Beitragssumme bei Lebensversicherungen (40 ‰ vorher). Honorarberatung als Alternative ist möglich (§ 34h GewO), aber in Deutschland Marktanteil unter 5 %. Praxis-Bandbreite Finanzberatung: Aufbauphase Jahre 1–2 Einkommensschwankung 15.000–40.000 €, ab Jahr 5 mit 150+ Bestandsverträgen 70.000–120.000 € realistisch (laut Branchen-Karrierestatistiken 2024). Bestandsprovision ist der entscheidende Hebel: passives Einkommen wächst kumulativ, geringere Volatilität als reines Neugeschäft.'
@@ -21,7 +22,7 @@ sources:
     url: 'https://www.gesetze-im-internet.de/hgb/__87.html'
   - title: '§ 34d GewO — Versicherungsvermittler und Versicherungsberater (gesetze-im-internet.de)'
     url: 'https://www.gesetze-im-internet.de/gewo/__34d.html'
-  - title: 'BaFin — Lebensversicherungsreformgesetz (LVRG) und Provisionsdeckel'
+  - title: 'BaFin — Lebensversicherungsreformgesetz (LVRG) und Höchstzillmersatz'
     url: 'https://www.bafin.de/DE/Aufsicht/VersichererPensionsfonds/Lebensversicherer/lebensversicherer_node.html'
 ---
 
