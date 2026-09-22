@@ -93,9 +93,21 @@ Zum Vergleich: Bei einem klassischen Riester-Fondsparplan mit 1,5 % Kostenquote 
 
 Beide Werte sind Bruttobeträge vor Steuern. Das geförderte Kapital wird in der Auszahlungsphase nachgelagert besteuert, ein freiwilliger Mehrbetrag oberhalb der Fördergrenze dagegen nach eigenen Regeln — [wie die Besteuerung im Altersvorsorgedepot funktioniert](/blog/altersvorsorgedepot-steuern-versteuerung/).
 
-## Aktueller Stand des Gesetzgebungsverfahrens (Update August 2026)
+## Aktueller Stand des Gesetzgebungsverfahrens (Update September 2026)
 
-Das pAV-Reformgesetz ist **endgültig verabschiedet**: Der Bundestag hat es am 27. März 2026 beschlossen, der Bundesrat hat am 8. Mai 2026 zugestimmt. Damit steht auch die Wechseloption für bestehende Riester-Verträge fest — sie ist ab 1.1.2027 **förderunschädlich** möglich, mit gesetzlich gedeckelten Gebühren (siehe FAQ). Offen sind nur noch Detailfragen der praktischen Umsetzung bei einzelnen Anbietern, nicht mehr die Kernparameter des Gesetzes selbst.
+Das Altersvorsorgereformgesetz ist **in Kraft**. Der Weg dorthin, mit Daten:
+
+| Schritt | Datum |
+|---|---|
+| Beschluss Bundestag | 27. März 2026 |
+| Zustimmung Bundesrat | 8. Mai 2026 |
+| Ausfertigung | 26. Mai 2026 |
+| **Verkündung im Bundesgesetzblatt** | **29. Mai 2026** (BGBl. 2026 I Nr. 156) |
+| Start der Neuverträge | 1. Januar 2027 |
+
+Damit steht auch die Wechseloption für bestehende Riester-Verträge fest — sie ist ab 1.1.2027 **förderunschädlich** möglich, mit gesetzlich gedeckelten Gebühren (siehe FAQ).
+
+**Was im September 2026 noch aussteht:** Die Zertifizierungsstelle beim **Bundeszentralamt für Steuern** prüft derzeit die einzelnen Anbieterprodukte nach dem Altersvorsorgeverträge-Zertifizierungsgesetz; öffentlich bestätigte Freigaben gibt es noch keine. Ebenfalls offen ist die Verordnung, mit der die Bundesregierung einen **öffentlichen Träger** mit einem eigenen Standarddepot beauftragen könnte — sie liegt laut Bundesfinanzministerium derzeit nicht vor. An den Kernparametern des Gesetzes — Starttermin, Zulagenmodell, 1,0-%-Kostendeckel, Wechselgebühren — ändert das nichts.
 
 ## Wann kommt es — was man jetzt tun sollte
 
@@ -109,7 +121,7 @@ Das pAV-Reformgesetz ist **endgültig verabschiedet**: Der Bundestag hat es am 2
 - **Selbstständige:** Bisher von Riester ausgeschlossen — [wie sich das mit dem Altersvorsorgedepot ändert](/blog/altersvorsorgedepot-selbststaendige/)
 - **Bestehende Riester-Sparer:** [Weiterlaufen lassen oder ins Altersvorsorgedepot wechseln? Die Entscheidungskriterien](/blog/riester-bestandsvertrag-altersvorsorgedepot-wechseln/)
 
-Offen bleibt die Anbieterfrage: Trade Republic und Scalable Capital haben den Start für Q1 2027 angekündigt, mehrere Direktbanken bereiten sich vor. Den [Stand je Anbieter](/blog/altersvorsorgedepot-anbieter-vergleich/) hält der Vergleichsartikel fest — noch sind es Absichtserklärungen, die Zertifizierung steht erst im Herbst 2026 an.
+Offen bleibt die Anbieterfrage: Scalable Capital und quirion haben als Erste konkrete Kostenzahlen genannt, Trade Republic und mehrere Direktbanken planen den Start, ohne sich festzulegen. Den [Stand je Anbieter](/blog/altersvorsorgedepot-anbieter-vergleich/) hält der Vergleichsartikel fest — verbindlich wird das jeweils erst mit der Produktfreigabe durch das Bundeszentralamt für Steuern.
 
 Wie hoch deine Zulage, dein Steuervorteil und dein Endkapital konkret ausfallen, rechnest du im [Altersvorsorgedepot-Rechner](/altersvorsorgedepot-rechner/) durch — wahlweise als Neusparer oder im Vergleich zu einem bestehenden Riester-Vertrag.
 
@@ -121,4 +133,4 @@ Ob der Wechsel vom freien Sparplan ins geförderte Depot für dich aufgeht, ist 
 
 ---
 
-*Dieser Artikel basiert auf dem final verabschiedeten pAV-Reformgesetz (Bundestag 27. März 2026, Bundesrat 8. Mai 2026). Angaben ohne Gewähr — Details der praktischen Umsetzung bei einzelnen Anbietern können sich noch konkretisieren. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*
+*Dieser Artikel basiert auf dem Altersvorsorgereformgesetz, verkündet am 29. Mai 2026 (BGBl. 2026 I Nr. 156), Informationsstand September 2026. Angaben ohne Gewähr — Details der praktischen Umsetzung bei einzelnen Anbietern werden erst mit der Produktzertifizierung durch das Bundeszentralamt für Steuern verbindlich. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*

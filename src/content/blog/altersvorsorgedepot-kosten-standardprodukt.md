@@ -2,12 +2,13 @@
 title: 'Altersvorsorgedepot Kosten: Was der 1-%-Kostendeckel wirklich bedeutet'
 description: 'Das staatliche Standardprodukt beim Altersvorsorgedepot ist auf 1,0 % p.a. gedeckelt. Was das im Vergleich zu Riester-Altverträgen und freien ETF-Sparplänen bedeutet — und was noch offen ist.'
 pubDate: '2026-08-31'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
-tldr: 'Das staatliche Standardprodukt beim Altersvorsorgedepot ist gesetzlich auf maximal 1,0 % p.a. Gesamtkosten gedeckelt — reduziert gegenüber dem ursprünglichen Entwurf von 1,5 %. Zum Vergleich: klassische Riester-Versicherungsverträge liegen häufig bei 1,5–3 % effektiven Kosten, ein reiner ETF-Sparplan bei einem günstigen Broker dagegen oft nur bei 0,1–0,3 % (Fonds-TER), allerdings ohne jede staatliche Förderung. Die genaue Umsetzung des Kostendeckels regelt eine Rechtsverordnung, die 2026 folgt — einzelne Anbieter haben erste eigene Kostensignale gegeben (teils sogar 0 % Depotgebühr), verbindlich wird das erst nach der Zertifizierung im Herbst 2026.'
+tldr: 'Das staatliche Standardprodukt beim Altersvorsorgedepot ist gesetzlich auf maximal 1,0 % p.a. Gesamtkosten gedeckelt — reduziert gegenüber dem ursprünglichen Entwurf von 1,5 %. Zum Vergleich: klassische Riester-Versicherungsverträge liegen häufig bei 1,5–3 % effektiven Kosten, ein reiner ETF-Sparplan bei einem günstigen Broker dagegen oft nur bei 0,1–0,3 % (Fonds-TER), allerdings ohne jede staatliche Förderung. Stand September 2026: Das Altersvorsorgereformgesetz ist verkündet (BGBl. 2026 I Nr. 156 vom 29.5.2026) und der 1,0-%-Deckel steht damit im Gesetz. Das Zertifizierungsverfahren beim Bundeszentralamt für Steuern läuft, öffentlich bestätigte Produktfreigaben gibt es noch nicht. Erste Anbieter nennen bereits konkrete Zahlen deutlich unterhalb des Deckels — Scalable Capital 0,15 % p.a. für die ETF-Kosten (Startjahr 0 %), quirion 0,07–0,08 %.'
 faq:
   - question: 'Was genau umfasst der 1-%-Kostendeckel?'
-    answer: 'Der Kostendeckel bezieht sich auf das staatliche Standardprodukt, das gesetzlich vorgeschrieben bei jedem zertifizierten Anbieter verfügbar sein muss. Er begrenzt die Gesamtkosten (Total Expense Ratio inklusive Verwaltung) auf maximal 1,0 % pro Jahr. Die genaue technische Ausgestaltung — was konkret eingerechnet wird — regelt eine Rechtsverordnung, die im Laufe von 2026 folgt.'
+    answer: 'Der Kostendeckel bezieht sich auf das Standardprodukt, das gesetzlich vorgeschrieben bei jedem zertifizierten Anbieter verfügbar sein muss. Er begrenzt die Gesamtkosten (Total Expense Ratio inklusive Verwaltung) auf maximal 1,0 % pro Jahr und steht seit der Verkündung des Altersvorsorgereformgesetzes am 29.5.2026 fest. Wie die Einhaltung im Einzelnen geprüft wird, zeigt sich mit den ersten Produktfreigaben durch das Bundeszentralamt für Steuern.'
   - question: 'Ist 1 % pro Jahr teuer oder günstig?'
     answer: 'Im Vergleich zu klassischen Riester-Versicherungsverträgen (oft 1,5–3 % effektive Kosten durch Abschluss- und Verwaltungsgebühren) ist 1 % deutlich günstiger. Im Vergleich zu einem reinen ETF-Sparplan bei einem günstigen Broker (oft 0,1–0,3 % Fondskosten) ist es teurer — dafür kommt beim Altersvorsorgedepot aber die staatliche Förderung von bis zu 540 € pro Jahr obendrauf, die den Kostenunterschied in aller Regel deutlich übersteigt.'
   - question: 'Bieten alle Anbieter nur das 1-%-Standardprodukt an?'
@@ -42,12 +43,19 @@ Gegenüber einem reinen ETF-Sparplan bei einem günstigen Broker liegt das Stand
 
 ## Was noch offen ist
 
-Die genaue technische Ausgestaltung des Kostendeckels — was exakt eingerechnet wird, wie die Einhaltung kontrolliert wird — regelt eine **Rechtsverordnung**, die im Laufe von 2026 folgt. Einzelne Anbieter haben bereits eigene Kostensignale für ihre geplanten Produkte gegeben, teils sogar unterhalb des gesetzlichen Deckels (Details und Reifegrad der jeweiligen Ankündigung im [Anbieter-Überblick](/blog/altersvorsorgedepot-anbieter-vergleich/)) — verbindlich wird das aber erst nach der Zertifizierung im Herbst 2026.
+**Update September 2026.** Der 1,0-%-Deckel selbst ist nicht mehr offen: Er steht im Altersvorsorgereformgesetz, das am 26. Mai 2026 ausgefertigt und am **29. Mai 2026 im Bundesgesetzblatt verkündet** wurde (BGBl. 2026 I Nr. 156).
+
+Offen sind zwei andere Punkte, die in der Berichterstattung häufig vermischt werden:
+
+- **Die Produktzertifizierung.** Die Zertifizierungsstelle beim **Bundeszentralamt für Steuern** prüft jedes Produkt auf Übereinstimmung mit dem Altersvorsorgeverträge-Zertifizierungsgesetz. Das Verfahren läuft, öffentlich bestätigte Freigaben gab es bis September 2026 nicht. Erst damit wird aus einer angekündigten Kostenquote eine vertraglich zugesicherte.
+- **Die Verordnung zum öffentlichen Standarddepot.** Das Gesetz erlaubt der Bundesregierung, einen öffentlichen Träger mit einem eigenen Standarddepot zu beauftragen. Diese Verordnung liegt laut Bundesfinanzministerium **derzeit nicht vor**. Sie betrifft ein zusätzliches staatliches Angebot — nicht den Deckel, der für die privaten Anbieter ohnehin gilt.
+
+Erste konkrete Zahlen liegen inzwischen vor und unterschreiten den Deckel deutlich: **Scalable Capital** nennt 0,15 % p.a. für die ETF-Kosten (im Startjahr 0 %), **quirion** 0,07–0,08 % (Details und Reifegrad im [Anbieter-Überblick](/blog/altersvorsorgedepot-anbieter-vergleich/)).
 
 ## Fazit
 
-1,0 % p.a. ist ein spürbar niedrigerer Deckel als die effektiven Kosten vieler klassischer Riester-Verträge und macht das Standardprodukt zu einer soliden Basis-Option ohne aktiven Vergleichsaufwand. Wer noch kostenbewusster sein will, findet bei einzelnen Anbietern schon jetzt günstigere Signale — die endgültige Kostenlandschaft zeigt sich aber erst, wenn im Herbst 2026 die ersten zertifizierten Produkte tatsächlich verglichen werden können.
+1,0 % p.a. ist ein spürbar niedrigerer Deckel als die effektiven Kosten vieler klassischer Riester-Verträge und macht das Standardprodukt zu einer soliden Basis-Option ohne aktiven Vergleichsaufwand. Wer noch kostenbewusster sein will, findet bei einzelnen Anbietern schon jetzt deutlich günstigere Zahlen — die endgültige Kostenlandschaft zeigt sich aber erst, wenn die ersten zertifizierten Produkte tatsächlich vorliegen und verglichen werden können.
 
 ---
 
-*Dieser Artikel dient der allgemeinen Finanzbildung und stellt keine individuelle Anlage- oder Finanzberatung dar. Er gibt den Informationsstand von August 2026 wieder; die konkrete Ausgestaltung des Kostendeckels über die Rechtsverordnung sowie einzelne Anbieterkonditionen können sich bis zum Start am 1.1.2027 noch ändern. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*
+*Dieser Artikel dient der allgemeinen Finanzbildung und stellt keine individuelle Anlage- oder Finanzberatung dar. Er gibt den Informationsstand von September 2026 wieder; einzelne Anbieterkonditionen werden erst mit der Produktfreigabe durch das Bundeszentralamt für Steuern verbindlich und können sich bis zum Start am 1.1.2027 noch ändern. Für eine persönliche Beratung wende dich an einen zugelassenen Finanzberater.*
