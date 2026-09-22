@@ -50,6 +50,34 @@ Die folgende Tabelle zeigt für verschiedene Rentenhöhen, wie viel Einkommenste
 
 Zwei Dinge fallen auf: Bis etwa **1.300 € Bruttorente** zahlt ein alleinstehender Rentner 2025 noch gar keine Einkommensteuer. Und der größere Abzug ist bei kleinen Renten nicht die Steuer, sondern die Sozialabgaben (KV/PV).
 
+## Steuertabelle für Rentnerehepaare 2026 (Zusammenveranlagung)
+
+Bei zusammenveranlagten Ehepaaren greift das Ehegattensplitting: Das gemeinsame zu versteuernde Einkommen wird halbiert, darauf der Tarif angewandt und die Steuer anschließend verdoppelt. Praktisch verdoppelt sich damit auch der Grundfreibetrag — 2026 auf **24.696 Euro** statt 12.348 Euro für Alleinstehende.
+
+Entscheidend ist dabei nur die **gemeinsame** Rentensumme, nicht ihre Aufteilung. Ob beide je 1.500 Euro beziehen oder einer 2.500 und der andere 500 Euro, ändert an der Steuer nichts.
+
+| Gemeinsame Bruttorente (mtl.) | Steuerpflichtig (Jahr) | Einkommensteuer (Jahr) | KV + PV (mtl.) | ≈ Nettorente (mtl.) |
+|---|---|---|---|---|
+| 2.000 € | 20.040 € | 0 € | ~162 € | ~1.838 € |
+| 2.400 € | 24.048 € | 0 € | ~194 € | ~2.206 € |
+| 2.800 € | 28.056 € | ~120 € | ~226 € | ~2.564 € |
+| 3.200 € | 32.064 € | ~720 € | ~260 € | ~2.880 € |
+| 3.600 € | 36.072 € | ~1.440 € | ~292 € | ~3.188 € |
+| 4.000 € | 40.080 € | ~2.280 € | ~324 € | ~3.486 € |
+| 5.000 € | 50.100 € | ~4.540 € | ~406 € | ~4.216 € |
+
+**Annahmen:** beide Partner Renteneintritt 2025 (steuerpflichtiger Anteil je 83,5 %), Zusammenveranlagung, gesetzlich krankenversichert (KVdR), keine Kirchensteuer, keine weiteren Einkünfte. Werte gerundet.
+
+Die Schwelle liegt damit bei rund **2.600 Euro gemeinsamer Bruttorente**, bis zu der ein Rentnerehepaar keine Einkommensteuer zahlt — gegenüber etwa 1.300 Euro bei Alleinstehenden.
+
+### Warum es keine „Lohnsteuertabelle für Rentner" gibt
+
+Ein verbreitetes Missverständnis: Renten unterliegen **nicht** der Lohnsteuer. Lohnsteuer ist lediglich die Erhebungsform der Einkommensteuer auf Arbeitslohn, die der Arbeitgeber einbehält und abführt.
+
+Die Deutsche Rentenversicherung behält **keine** Steuer ein. Sie zahlt brutto aus und meldet die Rentenbezüge per Rentenbezugsmitteilung an die Finanzverwaltung. Die Steuer wird erst im Rahmen der Einkommensteuererklärung festgesetzt und dann in einer Summe oder per Vorauszahlung fällig.
+
+Wer nach einer Lohnsteuertabelle oder Steuerberechnungstabelle für Rentner sucht, braucht also die **Grundtabelle** (Alleinstehende) beziehungsweise die **Splittingtabelle** (Zusammenveranlagung) — genau die beiden Übersichten oben. Praktisch bedeutet das auch: Anders als Arbeitnehmer bekommen Rentner keine automatisch abgeführte Steuer, sondern eine Nachzahlung. Wer das nicht einplant, hat die Steuer im Folgejahr auf einen Schlag auf dem Tisch.
+
 ## Wie die Rente besteuert wird: nachgelagerte Besteuerung
 
 Das deutsche Steuersystem stellt die Altersvorsorge auf nachgelagerte Besteuerung um: In der Einzahlphase sind die Beiträge zur Rentenversicherung (zunehmend) steuerlich absetzbar, dafür wird in der Auszahlphase die Rente besteuert (§ 22 Nr. 1 EStG).

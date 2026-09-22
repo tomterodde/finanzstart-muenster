@@ -2,6 +2,7 @@
 title: 'Systematisches vs. unsystematisches Risiko: Was du wirklich beeinflussen kannst'
 description: 'Systematisches und unsystematisches Risiko einfach erklärt: Was beide Risikoarten unterscheidet und wie du als Anleger damit umgehst.'
 pubDate: '2026-05-24'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Aktienrisiko teilt sich in zwei Komponenten: (1) Systematisches Risiko (Marktrisiko) — entsteht aus Konjunktur, Zinsen, Inflation, geopolitischen Krisen und kann nicht wegdiversifiziert werden. Wird mit dem Beta-Faktor (CAPM) gemessen. (2) Unsystematisches Risiko (titelspezifisches Risiko) — entsteht aus einzelnen Unternehmen (Vorstandswechsel, Produktflop, Bilanzskandal) und sinkt durch Diversifikation gegen null. Schon ab 20–30 zufälligen Aktien ist das unsystematische Risiko weitgehend eliminiert. Bei einem Welt-ETF mit 1.500+ Titeln (MSCI World) bleibt nur noch das systematische Marktrisiko — und genau für dieses bekommt der Anleger die Risikoprämie.'
@@ -62,6 +63,71 @@ Die zentrale Aussage der modernen Portfoliotheorie: Der Markt belohnt dich nur f
 Konkret heißt das: Wer 3 Einzelaktien hält, trägt massives unsystematisches Risiko — ohne dafür eine höhere erwartete Rendite zu bekommen. Das ist kein schlaues Investment, das ist eine Wette.
 
 Wer dagegen 1.500 Aktien über einen weltweiten [ETF](/blog/etf-sparplan-einsteiger-muenster/) hält, hat das unsystematische Risiko praktisch auf null reduziert. Übrig bleibt das Marktrisiko — und für das gibt es langfristig die Aktienrendite.
+
+## Die Begriffe im Überblick: Synonyme, die dasselbe meinen
+
+In Lehrbüchern, Klausuren und Fondsprospekten tauchen für dieselben zwei Größen unterschiedliche Namen auf. Das ist die häufigste Verwirrungsquelle bei diesem Thema:
+
+| Systematisches Risiko | Unsystematisches Risiko |
+|---|---|
+| Marktrisiko | spezifisches Risiko |
+| nicht-diversifizierbares Risiko | **idiosynkratisches Risiko** |
+| Beta-Risiko | diversifizierbares Risiko |
+| — | titelspezifisches / unternehmensspezifisches Risiko |
+
+**Definition unsystematisches Risiko:** der Teil der Renditeschwankung eines Wertpapiers, der auf Ursachen zurückgeht, die nur dieses eine Unternehmen oder diese eine Branche betreffen — und der sich deshalb durch Streuung über viele Titel wegmitteln lässt.
+
+**Definition systematisches Risiko:** der Teil der Schwankung, der aus gesamtwirtschaftlichen Faktoren stammt — Zinsen, Inflation, Konjunktur, geopolitische Ereignisse. Er trifft alle Titel gleichzeitig und bleibt deshalb auch im breitesten Portfolio bestehen.
+
+## Systematisches Risiko berechnen: Varianzzerlegung und Beta
+
+Die Trennung ist nicht nur begrifflich, sondern rechnerisch definiert. Die Gesamtvarianz einer Aktie zerfällt in genau zwei Teile:
+
+> **σ²(gesamt) = β² · σ²(Markt) + σ²(ε)**
+
+- **β² · σ²(Markt)** ist der systematische Anteil — er hängt am Marktrisiko, skaliert mit dem Beta des Titels.
+- **σ²(ε)** ist der unsystematische Anteil — die Restvarianz, die der Markt nicht erklärt.
+
+### Beta berechnen
+
+Das Beta misst, wie stark ein Titel auf Marktbewegungen reagiert. Es ist die Kovarianz zwischen Aktien- und Marktrendite, geteilt durch die Varianz der Marktrendite:
+
+> **β = Cov(r(i), r(M)) / Var(r(M))**
+
+| Beta | Bedeutung |
+|---|---|
+| β = 1,0 | Der Titel schwankt wie der Markt |
+| β > 1,0 | überproportional (typisch: Technologie, zyklische Industrie) |
+| β < 1,0 | unterproportional (typisch: Versorger, Basiskonsumgüter) |
+| β = 0 | keine Marktkorrelation (theoretischer Fall) |
+| β < 0 | gegenläufig (selten, z. B. zeitweise Gold-Titel) |
+
+### Ein Rechenbeispiel
+
+Eine Aktie hat eine Gesamtvolatilität von 40 % (σ² = 0,16). Der Markt schwankt mit 18 % (σ² ≈ 0,0324). Das Beta der Aktie liegt bei 1,2.
+
+- Systematischer Anteil: 1,2² × 0,0324 = **0,0467**
+- Unsystematischer Anteil: 0,16 − 0,0467 = **0,1133**
+
+Ergebnis: Rund **71 %** der Varianz dieser Einzelaktie sind unsystematisch — also wegdiversifizierbar, ohne dass die erwartete Rendite sinkt. Genau das ist der rechnerische Kern des Diversifikationsarguments.
+
+### Der Bezug zum CAPM
+
+Im [Capital Asset Pricing Model](/blog/capm-einfach-erklaert/) taucht nur noch das Beta auf:
+
+> **E(r(i)) = r(f) + β · [E(r(M)) − r(f)]**
+
+Das unsystematische Risiko kommt in der Formel **nicht vor**. Das ist keine Nachlässigkeit, sondern die Kernaussage: Das CAPM unterstellt, dass jeder Anleger diversifizieren kann — und wer ein Risiko kostenlos beseitigen kann, bekommt dafür keine Prämie. Bezahlt wird ausschließlich das Beta.
+
+## Unsystematisches Risiko bei Immobilien
+
+Bei Aktien lässt sich unsystematisches Risiko mit einem einzigen ETF beseitigen. Bei Immobilien ist genau das der Knackpunkt.
+
+Eine einzelne vermietete Wohnung bündelt titelspezifische Risiken, die kein Marktindex abfedert: Mietausfall durch einen einzelnen Mieter, Sanierungsstau im konkreten Gebäude, Milieuwandel in der Straße, Leerstand nach Auszug, Streit in der Eigentümergemeinschaft.
+
+Systematisch — und damit nicht wegdiversifizierbar — sind dagegen das Zinsniveau, die allgemeine Preisentwicklung am Wohnungsmarkt und regulatorische Eingriffe wie Mietendeckel oder Sanierungspflichten.
+
+Der Unterschied zur Aktienanlage ist die Stückelung: Wer 10.000 Euro in einen Welt-ETF legt, hält 1.500 Titel. Wer 300.000 Euro in eine Wohnung legt, hält **einen** Titel. Deshalb ist die erste eigene [Kapitalanlage-Immobilie](/blog/immobilie-als-kapitalanlage/) fast immer ein Klumpenrisiko — unabhängig davon, wie gut das Objekt ist.
 
 ## Wie viele Aktien braucht man, um unsystematisches Risiko loszuwerden?
 

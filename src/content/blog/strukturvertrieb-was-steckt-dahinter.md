@@ -2,7 +2,7 @@
 title: 'Strukturvertrieb: Was steckt dahinter — und wie erkenne ich seriöse Anbieter?'
 description: 'Strukturvertrieb hat einen schlechten Ruf — aber warum eigentlich? Was das Modell bedeutet, wie Karrierestufen und Einkommen funktionieren und woran man seriöse Anbieter erkennt.'
 pubDate: '2026-04-21'
-updatedDate: '2026-07-18'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Strukturvertrieb ist ein Vertriebsmodell, in dem selbstständige Vermittler nicht nur Produkte verkaufen, sondern auch eigene Vertriebsteams aufbauen und an deren Umsätzen anteilig verdienen. In der Finanzbranche typisch bei Versicherungs- und Anlagevermittlern (DVAG, OVB, MLP, tecis, Swiss Life Select). Seriöse Strukturvertriebe haben BaFin-Lizenz (§ 34d/§ 34f GewO), bieten Produkte mehrerer Anbieter (Mehrfachagent), keine Eintrittsgebühren, klare Provisionsoffenlegung und transparente Karrierepfade. Schwarze Schafe: Pyramidensysteme ohne echte Produkte, Eintrittsgelder, Druck zum Eigenkauf — diese sind nach § 16 UWG bzw. § 16 SchwarzArbG verboten.'
@@ -114,6 +114,43 @@ Die drei häufigsten Vorwürfe gegen Strukturvertriebe verdienen ehrliche Antwor
 **"Das ist doch ein Pyramidensystem."** Die Hierarchie-Optik täuscht. Strafbar nach § 16 UWG ist ein System, in dem Einkommen primär aus der Anwerbung neuer Mitglieder entsteht — nicht eines, in dem Führungskräfte an der Produktion ihres Teams beteiligt sind. Der Test ist einfach: Fließt Geld, wenn ein neuer Berater unterschreibt (kritisch), oder erst, wenn ein echter Kunde ein echtes Produkt abschließt (legitim)? In regulierten Finanzvertrieben gilt das Zweite — ohne Kundengeschäft verdient auch die größte Struktur nichts.
 
 **"Die Beratung ist schlecht, weil Provisionen falsche Anreize setzen."** Der Anreiz-Einwand ist ernst zu nehmen — er gilt aber für jedes Vergütungsmodell: Auch Honorarberater haben einen Anreiz, Stunden zu schreiben, auch Bankberater verkaufen Hausprodukte. Entscheidend ist, ob die Anreize kontrolliert werden: Stornohaftung (der Vermittler zahlt Provision zurück, wenn der Kunde früh kündigt), Bestandsqualitätsquoten als Beförderungskriterium und die Dokumentationspflicht koppeln das Einkommen im Strukturvertrieb an langfristig haltbare Beratung. Schlechte Berater gibt es trotzdem — [woran du gute erkennst, liest du hier](/blog/wie-finde-ich-einen-guten-finanzberater/).
+
+## Die großen Strukturvertriebe in Deutschland: eine Übersicht
+
+Der deutsche Markt wird von einer überschaubaren Zahl von Gesellschaften dominiert. Die folgende Liste ordnet die bekanntesten Finanz- und Versicherungs-Strukturvertriebe nach ihrer Ausrichtung — ohne Wertung und ohne Empfehlung, denn die Unterschiede liegen weniger im Modell als in Provisionsstruktur, Produktpartnern und Führungskultur des jeweiligen Standorts.
+
+| Gesellschaft | Besonderheit |
+|---|---|
+| DVAG (Deutsche Vermögensberatung) | größter deutscher Finanzvertrieb, enge Produktbindung an einen Hauptpartner |
+| Swiss Life Select (ehem. AWD) | breite Produktpalette, Teil eines Versicherungskonzerns |
+| OVB Holding | börsennotiert, stark europäisch aufgestellt |
+| MLP | Fokus auf Akademiker, Ärzte und Berufseinsteiger mit Studium |
+| tecis | Allfinanz-Ansatz, Schwerpunkt Investment und Vorsorge |
+| Bonnfinanz | Allfinanzberatung mit langer Marktpräsenz |
+| Allfinanz Aktiengesellschaft | Teil eines Versicherungskonzerns |
+
+Daneben existieren zahlreiche kleinere Vertriebe und Maklerpools, die nach demselben Prinzip arbeiten. **Die Zugehörigkeit zu einer bekannten Gesellschaft ersetzt die Einzelprüfung nicht** — entscheidend bleibt, ob der konkrete Berater im Register eingetragen ist und wie er arbeitet. Wie du das in fünf Minuten selbst prüfst, steht im [Leitfaden zum Vermittlerregister](/blog/bafin-vermittlerregister-pruefen-leitfaden/).
+
+Brancheninteressen werden vom BVK (Bundesverband Deutscher Versicherungskaufleute) und vom AfW (Bundesverband Finanzdienstleistung) vertreten.
+
+## Einen eigenen Strukturvertrieb gründen oder aufbauen — was dafür nötig ist
+
+Die Frage taucht regelmäßig auf, meint aber zwei sehr verschiedene Dinge.
+
+**Variante 1: Eine eigene Struktur innerhalb einer bestehenden Gesellschaft aufbauen.** Das ist der Normalfall und genau das, was die Karrierestufen oben beschreiben. Du bleibst selbstständiger Vermittler unter dem Dach einer Gesellschaft, baust ein eigenes Team auf und verdienst an dessen Umsätzen mit. Voraussetzung ist die eigene Zulassung nach § 34d bzw. § 34f GewO — die Gesellschaft stellt Infrastruktur, Produktzugang und Haftungsdach.
+
+**Variante 2: Eine eigene Vertriebsgesellschaft gründen.** Das ist ein deutlich größeres Vorhaben. Dafür brauchst du:
+
+- **Gewerbeerlaubnis** nach § 34d GewO (Versicherungen) und/oder § 34f GewO (Finanzanlagen), beantragt bei der zuständigen IHK
+- **Sachkundenachweis** für dich und die Leitungsebene
+- **Vermögensschadenhaftpflicht** in gesetzlich vorgeschriebener Mindesthöhe
+- **Registereintragung** im DIHK-Vermittlerregister
+- **Produktpartner oder Maklerpool-Anbindung**, sonst gibt es nichts zu vermitteln
+- **Vergütungs- und Stornohaftungsregelungen** für die angebundenen Vermittler — rechtlich der aufwendigste Teil
+
+Der kritische Punkt ist dabei nicht die Erlaubnis, sondern die Vorfinanzierung: Strukturvertriebe zahlen Provisionen an ihre Vermittler oft aus, bevor die eigene Abrechnung beim Produktgeber vollständig durch ist, und tragen das Stornorisiko mit.
+
+**Was rechtlich nicht geht:** Ein Modell, bei dem Einnahmen überwiegend aus der Anwerbung neuer Mitglieder statt aus echtem Produktgeschäft stammen, ist ein progressives Kundenwerbesystem und nach § 16 Abs. 2 UWG strafbar. Die Abgrenzung ist kein Formalismus — sie entscheidet darüber, ob das Geschäftsmodell überhaupt zulässig ist.
 
 ## Woran erkennt man seriöse Anbieter?
 
