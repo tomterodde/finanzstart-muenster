@@ -2,7 +2,7 @@
 title: 'Finanzberatung in Münster: Worauf du achten solltest — und welches Vergütungsmodell wirklich zu dir passt'
 description: 'Honorar- oder Provisionsberatung — was ist für die meisten in Münster der pragmatischere Weg? Vergütung, Zulassung und die Fragen, die du wirklich stellen solltest.'
 pubDate: '2026-05-10'
-updatedDate: '2026-09-14'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Drei Beratertypen mit unterschiedlichen Zulassungen (GewO): 1) Provisionsbasierter Vermittler § 34d/34f GewO — vom Produktanbieter bezahlt, keine direkten Kosten für den Kunden, jahrzehntelange Betreuung inklusive Bestandsprovision (laufende Vergütung für laufende Betreuung). 2) Honorar-Finanzanlagenberater § 34h GewO — Honorar direkt vom Kunden (150-300 €/Stunde, Pauschale 1.500-3.000 € für einen Finanzplan); lohnt sich nur bei hohem Vermögen oder einmaligen Spezialfragen. 3) Bankberater — angestellt, empfiehlt hauseigene Produkte. Für 90 % der Berufseinsteiger und Familien in Münster ist Provisionsberatung der pragmatische Weg: keine Eingangskosten, kontinuierliche Betreuung, Zugang zum gesamten Versicherungs- und Investmentmarkt. Honorarberatung passt vor allem ab ca. 250.000 € liquidem Vermögen oder bei rein punktuellen Fragen. Schutz für den Kunden in beiden Modellen identisch: BaFin-Vermittlerregister, Beratungsprotokoll nach § 18 WpHG, Geeignetheitsprüfung § 64 WpHG, Berufshaftpflicht 1,3 Mio. €.'
@@ -66,6 +66,43 @@ Der häufigste Mythos: Provisionsberatung sei "teurer", weil die Provision ja ir
 Bei Honorarberatung zahlst du das Honorar **direkt aus versteuertem Einkommen** — ein Stundensatz von 250 € entspricht netto ca. 450 € Bruttoeinkommen, das du erst erarbeiten musstest. Bei Provisionsberatung wird die Vergütung über die Produktlaufzeit eingerechnet und teilt sich auf 20–30 Jahre auf — pro Monat ein einstelliger Eurobetrag, der zudem die laufende Betreuung mitfinanziert.
 
 Hinzu kommt: Provisionsprodukte sind seit der Reform 2015 streng reguliert. Der abgesenkte Höchstzillmersatz von 25 ‰, die fünfjährige Stornohaftung nach § 49 VAG und die Pflicht zum Produktinformationsblatt mit ausgewiesenen Effektivkosten machen Vergleiche transparent. Wer heute behauptet, Provisionsberatung sei automatisch teurer, ignoriert die Regulierungslandschaft der letzten zehn Jahre.
+
+## Honorarberater in Münster finden und prüfen
+
+Wer gezielt einen Honorarberater in Münster sucht, stößt auf ein praktisches Problem: Die Berufsbezeichnung ist nicht geschützt, die **Zulassung** dagegen schon. „Unabhängiger Finanzberater" auf einer Website sagt rechtlich nichts aus — § 34h GewO schon.
+
+### Der Registercheck in zwei Minuten
+
+Die einzige verlässliche Quelle ist das DIHK-Vermittlerregister. Dort suchst du nach Name oder Registernummer und siehst, welche Erlaubnis tatsächlich vorliegt:
+
+| Eintrag | Bedeutung |
+|---|---|
+| **§ 34h GewO** | Honorar-Finanzanlagenberater — darf keine Provisionen behalten |
+| **§ 34f GewO** | Finanzanlagenvermittler — provisionsbasiert |
+| **§ 34d GewO** | Versicherungsvermittler bzw. -makler |
+| kein Eintrag | keine Erlaubnis für erlaubnispflichtige Beratung |
+
+Entscheidend ist: **§ 34h und § 34f schließen sich für dieselbe Anlage gegenseitig aus.** Wer als Honorarberater auftritt, darf für dieselbe Empfehlung keine Provision vereinnahmen. Findest du beides nebeneinander, gehört das angesprochen. Wie die Suche im Register konkret abläuft, steht im [Schritt-für-Schritt-Leitfaden](/blog/bafin-vermittlerregister-pruefen-leitfaden/).
+
+### Was in Münster realistisch auf dich zukommt
+
+Die Honorarberatung ist bundesweit ein Nischenmarkt — laut einer Auswertung von Policen Direkt nutzen rund **1,5 %** der deutschen Privathaushalte sie. Entsprechend überschaubar ist auch das Angebot vor Ort: In Münster finden sich einige spezialisierte Einzelberater und kleinere Büros, dazu überregionale Anbieter, die per Video beraten.
+
+Realistische Größenordnungen für ein Erstmandat:
+
+- **Stundensatz:** 150–300 €
+- **Vollständiger Finanzplan:** 1.500–3.000 €
+- **Folgegespräch / jährliche Anpassung:** jeweils erneut Honorar
+
+Diese Zahlen sind der Grund, warum die Modellfrage in der Praxis oft schon entschieden ist, bevor sie gestellt wird: Für eine Berufseinsteigerin mit 2.800 € brutto ist ein Finanzplan für 2.000 € aus versteuertem Einkommen selten der erste Schritt. Ab einem größeren liquiden Vermögen oder bei einer klar abgegrenzten Einzelfrage — Abfindung, Erbschaft, Unternehmensverkauf — kehrt sich die Rechnung um.
+
+### Die drei Fragen, die den Unterschied machen
+
+Unabhängig vom Modell entscheiden diese drei Punkte über die Qualität, nicht die Vergütungsform:
+
+1. **„Zeigen Sie mir Ihren Registereintrag."** Eine Registernummer, die sich in zwei Minuten prüfen lässt — oder eben nicht.
+2. **„Was kostet mich die Betreuung in zehn Jahren?"** Bei Honorarberatung ist das jedes Mal ein neues Honorar, bei Provisionsberatung über die Bestandsprovision abgedeckt. Beides ist legitim, aber es sollte auf dem Tisch liegen.
+3. **„Wie viele Anbieter vergleichen Sie?"** Ein Honorarberater ohne breiten Marktzugang bringt dir den Modellvorteil nicht ein.
 
 ## Gute Fragen vor dem ersten Termin
 
