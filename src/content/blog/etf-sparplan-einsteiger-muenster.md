@@ -2,6 +2,7 @@
 title: 'ETF-Sparplan: Der einfachste Einstieg in den Vermögensaufbau'
 description: 'ETF-Sparplan für Einsteiger erklärt: Was ein ETF ist, wie ein Sparplan funktioniert und warum er für Berufseinsteiger in Münster die naheliegendste Wahl ist.'
 pubDate: '2026-04-08'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Ein ETF-Sparplan ist ein automatischer monatlicher Kauf eines börsengehandelten Indexfonds, oft ab 25–50 € pro Monat. Typische TER liegen bei 0,1–0,3 % gegenüber 1,5–2,5 % bei aktiv gemanagten Fonds. Vor dem ETF sollten Notgroschen (3 Monatsgehälter) und wichtige Versicherungen (Haftpflicht, BU) stehen. Der Sparerpauschbetrag beträgt 1.000 € pro Jahr (mit Freistellungsauftrag).'
@@ -70,6 +71,8 @@ Die Grundlage hinter passivem Investieren ist gut erforscht: Über lange Zeiträ
 Ein ETF-Sparplan ist nicht für jeden die erste Wahl. Je nach Lebenssituation können staatlich geförderte Produkte wie Riester, die betriebliche Altersvorsorge oder Rürup erhebliche Vorteile bieten — etwa durch Steuerersparnis, Arbeitgeberzuschüsse oder Zulagen für Kinder.
 
 Wer beispielsweise Kinder hat, einen Arbeitgeber mit hohem bAV-Zuschuss oder ein sehr hohes Einkommen, für den kann ein anderer Weg finanziell deutlich vorteilhafter sein als ein reiner ETF-Sparplan.
+
+Ab 2027 kommt mit dem Altersvorsorgedepot eine Variante dazu, die beides verbindet: ETF-Anlage ohne Garantiezwang, dafür mit staatlicher Zulage und Bindung bis zur Rente. [Altersvorsorgedepot oder normaler ETF-Sparplan?](/blog/altersvorsorgedepot-vs-etf-sparplan/) vergleicht Förderquote, Flexibilität und Kosten gegeneinander.
 
 **Was das für dich konkret bedeutet, hängt von deiner persönlichen Situation ab** — Steuerklasse, Familienstand, Arbeitgeber, Einkommen. Das lässt sich pauschal nicht beantworten. Ein Gespräch mit einem Finanzberater hilft, die Optionen gegeneinander abzuwägen.
 

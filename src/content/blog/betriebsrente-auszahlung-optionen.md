@@ -2,6 +2,7 @@
 title: 'Betriebsrente: Einmalauszahlung oder monatliche Rente — was ist besser?'
 description: 'Wenn die bAV ausgezahlt wird, steht eine wichtige Entscheidung an: Kapital oder monatliche Rente? Was die Vor- und Nachteile sind — mit Rechenbeispiel.'
 pubDate: '2026-05-13'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
 tldr: 'Drei Auszahlungsoptionen der bAV: 1) Monatliche Lebensrente — typischer Rentenfaktor 25-30 €/Monat pro 10.000 € Kapital, also 300-360 €/Monat bei 120.000 €, Break-even bei rund 33 Jahren nach Renteneintritt. 2) Einmalauszahlung — volle Kontrolle über Kapital, aber volle Besteuerung in einem Jahr. 3) Teilauszahlung bis 30 % + Rente. Besteuerung nachgelagert (§ 22 Nr. 5 EStG): bei Einmalauszahlung Fünftelregelung nach § 34 EStG möglich, bei Rente über viele Jahre verteilt meist niedrigerer Grenzsteuersatz. Krankenversicherungspflicht ab 2020 Freigrenze 176,75 € (2025) — darüber 7,3 % + Zusatzbeitrag + 3,05 % Pflege auf bAV-Leistungen (§ 229 SGB V). Laut Aon-Studie 2024 wählen 72 % der Berechtigten die Einmalauszahlung, nur 28 % die monatliche Rente.'
@@ -37,6 +38,8 @@ Du hast jahrzehntelang in die betriebliche Altersvorsorge eingezahlt. Jetzt, kur
 **Einmalauszahlung:** Du bekommst das angesammelte Kapital auf einmal. Du verwaltest es selbst, kannst es anlegen, vererben oder verbrauchen.
 
 Viele Verträge bieten auch eine **Teilauszahlung** (bis 30 % des Kapitals) als Einmalzahlung, der Rest wird verrentet. Das ist ein Mittelweg.
+
+Dieselbe 30-%-Logik übernimmt der Gesetzgeber beim Altersvorsorgedepot ab 2027 — dort allerdings ergänzt um eine Zeitrente als dritte Option. Wer die Abwägung in dieser erweiterten Form sehen will: [Auszahlungsoptionen im Altersvorsorgedepot](/blog/altersvorsorgedepot-auszahlung-optionen/).
 
 ## Was für die monatliche Rente spricht
 

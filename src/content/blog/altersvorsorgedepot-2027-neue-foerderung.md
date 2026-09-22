@@ -2,7 +2,7 @@
 title: 'Altersvorsorgedepot ab 2027: Das neue geförderte ETF-Depot — alle Details'
 description: 'Der Bundestag hat die Riester-Nachfolge beschlossen: Das Altersvorsorgedepot kommt 2027. Was es ist, was der Staat dazugibt — und für wen es sich lohnt.'
 pubDate: '2026-04-15'
-updatedDate: '2026-08-15'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
 tldr: 'Das Altersvorsorgedepot ersetzt die Riester-Rente für Neuverträge ab 1.1.2027 — das pAV-Reformgesetz ist seit dem 8.5.2026 (Bundesrats-Zustimmung nach dem Bundestagsbeschluss vom 27.3.2026) endgültig verabschiedet. Kernneuerungen: 1) Keine Beitragsgarantie mehr — volle ETF-Investition möglich; 2) Gestaffelte Zulage — 50 Cent pro Euro bis 360 €/Jahr, 25 Cent pro Euro von 361-1.800 €, maximal 540 € Grundzulage (vs. 175 € bisher Riester); 3) Kinderzulage 300 €/Kind ab 25 €/Monat Beitrag (bisher 4 % des Vorjahresbruttos nötig); 4) Berufseinsteigerbonus 200 € einmalig bei Abschluss vor dem 25. Geburtstag; 5) Öffnung für Selbstständige und Freiberufler; 6) Kostendeckel 1,0 % p.a. beim Standardprodukt (vs. 1,5-3 % Riester-Bestand); 7) Flexiblere Auszahlungsphase mit Zeitrenten. Bei 150 €/Monat Einzahlung, 35 Jahren Laufzeit, 7 % Rendite: rund 320.000 € Endvermögen gegenüber 190-220.000 € bei klassischem Riester-Fondssparplan.'
@@ -69,9 +69,13 @@ Ein kostengünstiges **Standardprodukt** wird bei jedem Anbieter verfügbar sein
 
 Das Standardprodukt soll Orientierung bieten und Beratungsaufwand reduzieren — ähnlich dem schwedischen PPM-System, das als Vorbild gilt.
 
+Der Deckel von 1,0 % p.a. klingt niedrig, liegt aber immer noch deutlich über den 0,1–0,3 % eines freien ETF-Sparplans. [Was der Kostendeckel konkret umfasst — und wo er nicht greift](/blog/altersvorsorgedepot-kosten-standardprodukt/).
+
 ## Mehr Flexibilität in der Auszahlungsphase
 
 Bisher musste Riester-Kapital zu mindestens 70 % als lebenslange Rente ausgezahlt werden. Das neue System erlaubt auch **Zeitrenten** — Auszahlung über einen definierten Zeitraum statt lebenslang. Das gibt mehr Kontrolle, verschiebt aber das Langlebigkeitsrisiko zurück auf den Sparer.
+
+Zeitrente bis 85, lebenslange Verrentung oder die Kombination aus 30 % Einmalzahlung und Restverrentung: [Die drei Auszahlungswege im Vergleich](/blog/altersvorsorgedepot-auszahlung-optionen/) — inklusive des Auszahlungsfensters zwischen 65 und 70.
 
 ## Was das rechnerisch bedeutet
 
@@ -86,6 +90,8 @@ Bisher musste Riester-Kapital zu mindestens 70 % als lebenslange Rente ausgezahl
 Über 35 Jahre bei 7 % Rendite (ETF, keine Garantiebremse): ca. **320.000 Euro** Endvermögen.
 
 Zum Vergleich: Bei einem klassischen Riester-Fondsparplan mit 1,5 % Kostenquote und Garantiebremse (Aktienanteil limitiert): ca. 190.000–220.000 Euro.
+
+Beide Werte sind Bruttobeträge vor Steuern. Das geförderte Kapital wird in der Auszahlungsphase nachgelagert besteuert, ein freiwilliger Mehrbetrag oberhalb der Fördergrenze dagegen nach eigenen Regeln — [wie die Besteuerung im Altersvorsorgedepot funktioniert](/blog/altersvorsorgedepot-steuern-versteuerung/).
 
 ## Aktueller Stand des Gesetzgebungsverfahrens (Update August 2026)
 
@@ -103,11 +109,15 @@ Das pAV-Reformgesetz ist **endgültig verabschiedet**: Der Bundestag hat es am 2
 - **Selbstständige:** Bisher von Riester ausgeschlossen — [wie sich das mit dem Altersvorsorgedepot ändert](/blog/altersvorsorgedepot-selbststaendige/)
 - **Bestehende Riester-Sparer:** [Weiterlaufen lassen oder ins Altersvorsorgedepot wechseln? Die Entscheidungskriterien](/blog/riester-bestandsvertrag-altersvorsorgedepot-wechseln/)
 
+Offen bleibt die Anbieterfrage: Trade Republic und Scalable Capital haben den Start für Q1 2027 angekündigt, mehrere Direktbanken bereiten sich vor. Den [Stand je Anbieter](/blog/altersvorsorgedepot-anbieter-vergleich/) hält der Vergleichsartikel fest — noch sind es Absichtserklärungen, die Zertifizierung steht erst im Herbst 2026 an.
+
 Wie hoch deine Zulage, dein Steuervorteil und dein Endkapital konkret ausfallen, rechnest du im [Altersvorsorgedepot-Rechner](/altersvorsorgedepot-rechner/) durch — wahlweise als Neusparer oder im Vergleich zu einem bestehenden Riester-Vertrag.
 
 ## Fazit
 
 Das Altersvorsorgedepot ist ein echter Fortschritt: ETFs ohne Garantiezwang, höhere Zulagen, günstigeres Standardprodukt, offen für Selbstständige. Es macht staatlich geförderte Altersvorsorge erstmals attraktiv für Berufseinsteiger, die renditeorientiert anlegen wollen. Der entscheidende Schritt: 2027 abwarten und dann handeln — oder bereits jetzt mit einem provisorischen ETF-Sparplan die Basis legen, die dann ins geförderte System überführt werden kann.
+
+Ob der Wechsel vom freien Sparplan ins geförderte Depot für dich aufgeht, ist damit aber nicht beantwortet: Förderquote auf der einen, Bindung bis zur Rente auf der anderen Seite. [Altersvorsorgedepot oder normaler ETF-Sparplan — die Entscheidung im Detail](/blog/altersvorsorgedepot-vs-etf-sparplan/).
 
 ---
 

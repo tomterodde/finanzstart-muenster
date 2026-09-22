@@ -2,7 +2,7 @@
 title: 'Rente versteuern: Steuertabelle für Rentner 2026 — wie viel Steuern zahlst du?'
 description: 'Wie viel Steuern zahlst du auf die Rente? Steuertabelle für Rentner 2026 nach Rentenhöhe, der steuerpflichtige Anteil, KV/PV-Abzüge und wie du deine Nettorente berechnest.'
 pubDate: '2026-04-20'
-updatedDate: '2026-08-15'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Seit dem Alterseinkünftegesetz 2005 wird die gesetzliche Rente nachgelagert besteuert (§ 22 Nr. 1 Buchst. a EStG). Der steuerpflichtige Anteil hängt vom Renteneintrittsjahr ab und wurde durch das Wachstumschancengesetz (2024) verlangsamt: 2024 = 83 %, 2025 = 83,5 %, 2026 = 84 %, 2030 = 88 %, 2040 = 96 %, ab 2058 = 100 %. Der nicht-versteuerte Anteil wird beim Renteneintritt einmalig als fester Euro-Betrag fixiert und bleibt lebenslang steuerfrei (Renten-Freibetrag § 22 Nr. 1 Satz 3 EStG). Grundfreibetrag 2026: 12.348 € Single (24.696 € bei Zusammenveranlagung). Reine GRV-Renten unter ca. 1.300 €/Monat liegen auch 2026 meist noch unter dem Grundfreibetrag und sind damit steuerfrei. Zusätzliche Abzüge: KV/PV-Beiträge ca. 12,6 % der Bruttorente. Kirchensteuer 8 % oder 9 % der Einkommensteuer (Bayern/Baden-Württemberg 8 %, Rest 9 %). Reale Nettorente liegt bei ca. 75–87 % der Bruttorente.'
@@ -111,6 +111,7 @@ Die gesetzliche Rente ist nur ein Baustein. Andere Vorsorgeformen folgen eigenen
 
 - **Klassische/fondsgebundene private Rentenversicherung:** günstige Ertragsanteilsbesteuerung — bei Rentenbeginn mit 67 sind nur 17 % der Rente steuerpflichtig. Details: [Fondsgebundene Rentenversicherung & Steuern](/blog/fondsgebundene-rentenversicherung-steuern-versteuerung/).
 - **Riester-Rente:** voll nachgelagert (100 % steuerpflichtig) — als Gegenstück zur vollen Förderung in der Ansparphase.
+- **Altersvorsorgedepot (ab 2027):** übernimmt die nachgelagerte Besteuerung von Riester für den geförderten Teil, behandelt freiwillige Mehrbeiträge aber nach eigenen Regeln. Details: [Altersvorsorgedepot und Steuern](/blog/altersvorsorgedepot-steuern-versteuerung/).
 - **Betriebliche Altersvorsorge (bAV):** in der Auszahlung voll steuer- **und** KV/PV-pflichtig. Das ist in der Planung einzukalkulieren — heißt aber nicht, dass sich bAV nicht lohnt: Bei gutem Arbeitgeberzuschuss und Steuerersparnis in der Ansparphase kann die Gesamtbilanz trotzdem positiv sein. Welche Auszahlungsform sinnvoll ist, zeigt [Betriebsrente: Einmalzahlung oder monatliche Rente?](/blog/betriebsrente-auszahlung-optionen/).
 
 Die Mischung verschiedener Vorsorgeformen ist also nicht nur eine Rendite-, sondern auch eine Steuerfrage — und die optimale Kombination ist individuell sehr verschieden.

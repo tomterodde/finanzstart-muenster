@@ -2,7 +2,7 @@
 title: 'Riester-Rente: Lohnt sie sich 2025 noch?'
 description: 'Lohnt sich die Riester-Rente noch? Zulagen, Steuervorteil, Garantien und Beispielrechnungen — wann sich Riester wirklich lohnt und worauf es beim Vertrag ankommt.'
 pubDate: '2026-04-08'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Die Riester-Rente lohnt sich für die meisten sozialversicherungspflichtig Beschäftigten — am stärksten für Familien (300 € Kinderzulage pro Kind ab Geburt 2008) und Gutverdiener (Sonderausgabenabzug bis 2.100 €/Jahr mit Günstigerprüfung). Dazu kommen strukturelle Vorteile, die reine Rendite-Vergleiche übersehen: 100 % Beitragsgarantie, Pfändungs- und Bürgergeld-Schutz in der Ansparphase und eine lebenslange Rente. Entscheidend ist die Produktqualität: Zwischen gutem und schlechtem Riester-Vertrag liegen über die Laufzeit fünfstellige Beträge — die Auszahlung ist voll steuerpflichtig und das Kapital bis zur Rente gebunden.'
@@ -98,6 +98,7 @@ Außerdem: Riester-Renten werden auf die Grundsicherung angerechnet. Wer im Alte
 - [Die 3 Säulen der Altersvorsorge erklärt](/blog/drei-saeulen-altersvorsorge-erklaert/) — Wie sich Riester ins Gesamtsystem einordnet (Schicht 2 im Schichten-Modell).
 - [Staatliche Förderung der Altersvorsorge im Überblick](/blog/staatliche-foerderung-altersvorsorge-ueberblick/) — alle Zulagen und Steuervorteile auf einen Blick.
 - [Wie viel pro Monat für Altersvorsorge sparen?](/blog/wie-viel-monatlich-altersvorsorge-sparen/) — Konkrete Sparraten inkl. Riester-Optimierung für Familien.
+- [Altersvorsorgedepot: Was der 1-%-Kostendeckel bedeutet](/blog/altersvorsorgedepot-kosten-standardprodukt/) — der Kostenvergleich zu Riester-Bestandsverträgen (1,5–3 % p.a.) im Detail.
 
 ## Fazit
 
