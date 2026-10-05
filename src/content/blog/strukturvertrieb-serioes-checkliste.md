@@ -2,6 +2,7 @@
 title: 'Strukturvertrieb seriös erkennen: Die 10-Punkte-Checkliste'
 description: 'Ist dieser Strukturvertrieb seriös? 10 prüfbare Kriterien: Vermittlerregister, Eintrittsgebühren, Stornohaftung, Ausbildung, Produktbreite — mit konkreten Prüfschritten.'
 pubDate: '2026-06-15'
+updatedDate: '2026-10-05'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Ob ein Strukturvertrieb seriös ist, lässt sich in unter einer Stunde prüfen: Registernummer im DIHK-Vermittlerregister (vermittlerregister.info), keine Eintrittsgebühren oder Eigenkauf-Pflichten, IHK-Sachkundeausbildung (§ 34d/f GewO) im Onboarding, transparente Provisions- und Stornohaftungsregeln, Produkte mehrerer Gesellschaften, schriftliche Beratungsdokumentation und Einkommen primär aus Kundengeschäft statt Anwerbung. Fällt einer der 10 Punkte durch, ist Vorsicht geboten — fallen mehrere durch, Finger weg.'
@@ -56,7 +57,7 @@ Strukturvertrieb seriös oder Finger weg? Die Frage stellt sich doppelt: als Kun
 
 **4. Transparente Provisionsregeln.** Karrierestufen, Provisionssätze und Beförderungskriterien gehören schriftlich auf den Tisch — inklusive der Verteilungsregeln, die verhindern, dass nur die Spitze verdient. [Wie die Karrierestufen-Mechanik funktioniert, erklärt der Hub-Artikel](/blog/strukturvertrieb-was-steckt-dahinter/), [was realistisch zu verdienen ist, dieser](/blog/strukturvertrieb-gehalt-verdienst/).
 
-**5. Faire Stornohaftung.** Dass Vermittler Provision zurückzahlen, wenn Kunden früh kündigen, ist kein Skandal — es ist der Mechanismus, der nachhaltige Beratung erzwingt. Fair ist: klare Staffelung über die Haftungszeit (üblich bis 5 Jahre), transparente Stornoreserve, keine Haftung für fremde Verträge. Unfair: Verrechnungsklauseln, die niemand versteht.
+**5. Faire Stornohaftung.** Dass Vermittler Provision zurückzahlen, wenn Kunden früh kündigen, ist kein Skandal — es ist der Mechanismus, der nachhaltige Beratung erzwingt. Fair ist: klare Staffelung über die Haftungszeit (üblich bis 5 Jahre), transparente Stornoreserve, keine Haftung für fremde Verträge. Unfair: Verrechnungsklauseln, die niemand versteht. [Wie die Stornohaftung nach § 49 VAG konkret gerechnet wird, steht hier.](/blog/stornohaftung-erklaert/) Besonders genau lesen bei Provisionsvorschüssen: Wer Geld bekommt, bevor der Kunde gezahlt hat, muss es unter Umständen zurückgeben — [wann so eine Rückforderung greift und wann sie scheitert](/blog/provisionsvorschuss-rueckzahlung-erklaert/).
 
 **6. Produktbreite.** Mehrfachagenten vermitteln Produkte vieler Gesellschaften und können vergleichen. Ausschließlichkeitsvertriebe verkaufen ein einziges Konzernregal — legal, aber strukturell limitiert. Frag konkret: "Mit wie vielen Gesellschaften arbeiten Sie, und darf ich eine Produktliste sehen?"
 
@@ -64,7 +65,7 @@ Strukturvertrieb seriös oder Finger weg? Die Frage stellt sich doppelt: als Kun
 
 **7. Schriftliche Beratungsdokumentation.** Beratungsprotokoll nach § 6 VVG ist Pflicht, nicht Kür. Als Kunde: Kein Protokoll = kein Abschluss. Als Einsteiger: Ein Vertrieb, der Dokumentation als lästig behandelt, bringt dir Rechtsverstöße bei.
 
-**8. Einkommensquelle Kundengeschäft.** Der Pyramiden-Test in einer Frage: *Fließt Geld, wenn ein neuer Berater unterschreibt — oder erst, wenn ein Kunde ein Produkt abschließt?* Nur das Zweite ist ein legitimes Vertriebsmodell. Anwerbeprämien pro Kopf sind das Kernmerkmal verbotener Systeme.
+**8. Einkommensquelle Kundengeschäft.** Der Pyramiden-Test in einer Frage: *Fließt Geld, wenn ein neuer Berater unterschreibt — oder erst, wenn ein Kunde ein Produkt abschließt?* Nur das Zweite ist ein legitimes Vertriebsmodell. Anwerbeprämien pro Kopf sind das Kernmerkmal verbotener Systeme. Legitim ist dagegen die **Superprovision**: Führungskräfte verdienen an den Kundenabschlüssen ihres Teams mit, nicht an dessen Anwerbung. [Wie die Differenzprovision gerechnet wird und wo die Grenze zu § 16 UWG verläuft, steht hier.](/blog/superprovision-differenzprovision-erklaert/)
 
 **9. Bedenkzeit-Test.** Sag im Gespräch: "Ich entscheide in zwei Wochen." Seriöse Gesprächspartner respektieren das selbstverständlich. Wer dann Druck aufbaut ("das Angebot gilt nur heute"), hat den Test nicht bestanden — als Berater wie als Arbeitgeber. [Woran du generell gute Berater erkennst, liest du hier.](/blog/wie-finde-ich-einen-guten-finanzberater/)
 

@@ -2,7 +2,7 @@
 title: 'Was kostet ein Finanzberater? Konkrete Preise und Modelle (2026)'
 description: 'Was kostet ein guter Finanzberater wirklich? Provisionsberatung, Honorarberatung und Bankberatung im konkreten Kostenvergleich — mit Beispielrechnungen über 30 Jahre.'
 pubDate: '2026-05-24'
-updatedDate: '2026-09-14'
+updatedDate: '2026-10-05'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Was kostet ein Finanzberater — Preisvergleich Honorar vs. Provision'
 category: 'Vermögensaufbau'
@@ -19,7 +19,7 @@ faq:
   - question: 'Sind Beratungsgebühren steuerlich absetzbar?'
     answer: 'Differenziert nach Beratungsthema und Vergütungsmodell: 1) Honorarberatungsgebühren für Anlageberatung: NICHT als Werbungskosten absetzbar (BFH-Urteil 2017, da Abgeltungsteuer-System). Ausnahme: bei Anlagen mit dem Tarif individueller Besteuerung (z. B. Anteile an Personengesellschaften). 2) Honorarberatung für Steueroptimierung: voll als Steuerberatungskosten absetzbar nach § 9 EStG. 3) Honorarberatung im betrieblichen Kontext (Selbstständige): voll als Betriebsausgaben absetzbar nach § 4 EStG. 4) Provisionen aus Produktkosten: nicht direkt absetzbar (sind im Produkt einkalkuliert, wirken automatisch). Praktische Konsequenz: Die meisten Berufseinsteiger und Familien haben aus der Honorarberatungs-Absetzbarkeit kaum Steuervorteil — bei der typischen Anlagestrategie greift die Werbungskosten-Begrenzung. Spitzenverdiener mit gewerblichen Einkünften profitieren hingegen oft.'
   - question: 'Wie wird eine Provisionsberatung konkret vergütet?'
-    answer: 'Die Vergütungsstrukturen sind seit der LV-Reform 2015 (LVRG) klar reguliert: 1) Lebens- und Rentenversicherungen: Abschlussprovision max. 2,5 % auf die Beitragssumme (auf 5 Jahre gestreckt, 0,5 % pro Jahr). Beispiel: BU mit 70 €/Monat Beitrag = 840 €/Jahr Beitrag × 30 Jahre = 25.200 € Beitragssumme. Max. Provision: 630 €. Plus 5-jährige Stornohaftung — bei Storno verliert der Berater seine Provision zurück. 2) Investmentfonds: Abschlusscourtage 0–5 % (oft verhandelbar) plus laufende Bestandsprovision 0,2–1 % auf Fondsvolumen pro Jahr. 3) Sachversicherungen: Abschlussprovision 5–15 % der Jahresprämie, plus Bestandsprovision rund 5 % der jährlichen Beiträge. 4) Immobilienfinanzierung: Provision aus dem Darlehen 0,5–1,5 %, vom Vermittler bezahlt durch die Bank. Alle Provisionen sind in den Produktkosten kalkuliert und im Produktinformationsblatt offen ausgewiesen — Transparenz ist gesetzlich vorgeschrieben.'
+    answer: 'Die Vergütungsstrukturen sind reguliert und offenzulegen: 1) Lebens- und Rentenversicherungen: Abschlussprovision marktüblich rund 2–3 % der Beitragssumme. Einen gesetzlichen Provisionsdeckel gibt es dafür nicht — das LVRG 2015 hat nur den Höchstzillmersatz (die Abschlusskosten, die der Versicherer auf den Vertrag anrechnen darf) auf 25 ‰ gesenkt. Beispiel: BU mit 70 €/Monat Beitrag = 840 €/Jahr Beitrag × 30 Jahre = 25.200 € Beitragssumme. Bei 2,5 % Provision: 630 €. Plus 5-jährige Stornohaftung nach § 49 VAG — bei früher Kündigung zahlt der Berater seine Provision anteilig zurück. 2) Investmentfonds: Abschlusscourtage 0–5 % (oft verhandelbar) plus laufende Bestandsprovision 0,2–1 % auf Fondsvolumen pro Jahr. 3) Sachversicherungen: Abschlussprovision 5–15 % der Jahresprämie, plus Bestandsprovision rund 5 % der jährlichen Beiträge. 4) Immobilienfinanzierung: Provision aus dem Darlehen 0,5–1,5 %, vom Vermittler bezahlt durch die Bank. Alle Provisionen sind in den Produktkosten kalkuliert und im Produktinformationsblatt offen ausgewiesen — Transparenz ist gesetzlich vorgeschrieben.'
 sources:
   - title: 'Lebensversicherungsreformgesetz (LVRG) — Höchstzillmersatz und Stornohaftung'
     publisher: 'Bundesministerium der Finanzen'
@@ -61,12 +61,12 @@ Dieser Artikel macht die Rechnung konkret — mit Preisen, Beispielen und einer 
 
 ### Wie wird der Berater vergütet?
 
-Die Vergütung ist **in den Produkten kalkuliert** — gesetzlich gedeckelt und transparent ausgewiesen:
+Die Vergütung ist **in den Produkten kalkuliert** — reguliert und transparent ausgewiesen:
 
-**Lebensversicherungen (seit LV-Reform 2015):**
-- Max. **2,5 % Abschlussprovision** auf Beitragssumme
-- Auf **5 Jahre gestreckt** (0,5 % pro Jahr)
-- **Stornohaftung 5 Jahre** — bei früher Kündigung verliert der Berater seine Provision zurück
+**Lebensversicherungen:**
+- Abschlussprovision marktüblich rund **2–3 %** der Beitragssumme — einen gesetzlichen Provisionsdeckel gibt es dafür nicht
+- **Höchstzillmersatz 25 ‰** (seit LV-Reform 2015) — Obergrenze der Abschlusskosten, die der Versicherer auf den Vertrag anrechnen darf
+- **Stornohaftung 5 Jahre** — bei früher Kündigung zahlt der Berater seine Provision anteilig zurück ([so funktioniert die 60-Monats-Rechnung](/blog/stornohaftung-erklaert/))
 
 **Investmentfonds:**
 - 0–5 % Ausgabeaufschlag (oft verhandelbar, bei Neobrokern entfallend)
@@ -75,6 +75,8 @@ Die Vergütung ist **in den Produkten kalkuliert** — gesetzlich gedeckelt und 
 **Sachversicherungen (Haftpflicht, Hausrat etc.):**
 - 5–15 % Abschlussprovision auf Jahresprämie
 - Rund 5 % laufende Bestandsprovision
+
+Arbeitet der Berater als **Versicherungsmakler**, heißt dieselbe Vergütung **Courtage** — auch sie zahlt der Versicherer, nicht der Kunde. [Wie hoch die Courtage je Sparte ausfällt und warum der Begriff rechtlich zählt, steht hier.](/blog/courtage-versicherung-erklaert/)
 
 ### Konkrete Rechnung: Berufseinsteiger über 30 Jahre
 

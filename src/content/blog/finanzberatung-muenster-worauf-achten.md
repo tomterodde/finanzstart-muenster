@@ -2,7 +2,7 @@
 title: 'Finanzberatung in Münster: Worauf du achten solltest — und welches Vergütungsmodell wirklich zu dir passt'
 description: 'Honorar- oder Provisionsberatung — was ist für die meisten in Münster der pragmatischere Weg? Vergütung, Zulassung und die Fragen, die du wirklich stellen solltest.'
 pubDate: '2026-05-10'
-updatedDate: '2026-09-22'
+updatedDate: '2026-10-05'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Drei Beratertypen mit unterschiedlichen Zulassungen (GewO): 1) Provisionsbasierter Vermittler § 34d/34f GewO — vom Produktanbieter bezahlt, keine direkten Kosten für den Kunden, jahrzehntelange Betreuung inklusive Bestandsprovision (laufende Vergütung für laufende Betreuung). 2) Honorar-Finanzanlagenberater § 34h GewO — Honorar direkt vom Kunden (150-300 €/Stunde, Pauschale 1.500-3.000 € für einen Finanzplan); lohnt sich nur bei hohem Vermögen oder einmaligen Spezialfragen. 3) Bankberater — angestellt, empfiehlt hauseigene Produkte. Für 90 % der Berufseinsteiger und Familien in Münster ist Provisionsberatung der pragmatische Weg: keine Eingangskosten, kontinuierliche Betreuung, Zugang zum gesamten Versicherungs- und Investmentmarkt. Honorarberatung passt vor allem ab ca. 250.000 € liquidem Vermögen oder bei rein punktuellen Fragen. Schutz für den Kunden in beiden Modellen identisch: BaFin-Vermittlerregister, Beratungsprotokoll nach § 18 WpHG, Geeignetheitsprüfung § 64 WpHG, Berufshaftpflicht 1,3 Mio. €.'
@@ -14,7 +14,7 @@ faq:
   - question: 'Was kostet ein guter Finanzberater in Münster?'
     answer: 'Provisionsberatung: keine direkten Kosten — weder für Erstgespräch, Analyse, Vertragsabschluss noch für laufende Betreuung über 30 Jahre. Die Vergütung ist im Produkt kalkuliert (transparent ausgewiesen im Produktinformationsblatt). Honorarberatung: 150-300 €/Stunde, ein vollständiger Finanzplan kostet 1.500-3.000 €. Folgegespräche, Vertragsanpassungen, neue Vorsorgeentscheidungen — jedes Mal wieder Honorar. Stiftung Warentest Finanztest 6/2024: Honorarberatung rechnet sich erst ab ca. 250.000 € liquidem Vermögen oder bei rein punktuellen Spezialfragen. Bei normalen Einkommens- und Vorsorgesituationen ist Provisionsberatung wirtschaftlich die deutlich bessere Wahl, weil die Beratung über die gesamte Vertragslaufzeit getragen wird.'
   - question: 'Welche Fragen sollte ich beim ersten Beratungstermin stellen?'
-    answer: 'Pflicht: "Welche GewO-Zulassung haben Sie? Darf ich das Vermittlerregister prüfen?" + "Erstellen Sie ein schriftliches Beratungsprotokoll nach § 18 WpHG?" + "Wie ist Ihre Berufshaftpflicht abgesichert?" (Standard: 1,3 Mio. €) + "Wie sieht die Folgebetreuung nach Abschluss aus — wer ist mein Ansprechpartner in fünf oder zehn Jahren?" + "Können Sie mir Referenzen nennen?". Red Flags: keine Bedenkzeit angeboten (§ 152 VVG: 14 Tage Widerrufsrecht), Pauschal-Renditeversprechen, Produktempfehlung vor vollständiger Analyse deiner Situation, kein schriftliches Protokoll. Hinweis: hohe Provisionen sind kein Red Flag — sie sind reguliert (LV-Reform 2015: max. 2,5 % Abschlussprovision, fünfjährige Stornohaftung) und finanzieren die Folgebetreuung mit.'
+    answer: 'Pflicht: "Welche GewO-Zulassung haben Sie? Darf ich das Vermittlerregister prüfen?" + "Erstellen Sie ein schriftliches Beratungsprotokoll nach § 18 WpHG?" + "Wie ist Ihre Berufshaftpflicht abgesichert?" (Standard: 1,3 Mio. €) + "Wie sieht die Folgebetreuung nach Abschluss aus — wer ist mein Ansprechpartner in fünf oder zehn Jahren?" + "Können Sie mir Referenzen nennen?". Red Flags: keine Bedenkzeit angeboten (§ 152 VVG: 14 Tage Widerrufsrecht), Pauschal-Renditeversprechen, Produktempfehlung vor vollständiger Analyse deiner Situation, kein schriftliches Protokoll. Hinweis: hohe Provisionen sind kein Red Flag — sie sind reguliert (Höchstzillmersatz seit der LV-Reform 2015, fünfjährige Stornohaftung nach § 49 VAG) und finanzieren die Folgebetreuung mit.'
   - question: 'Brauche ich als Berufseinsteiger überhaupt einen Finanzberater?'
     answer: 'Ja — gerade dann. Berufseinsteiger treffen frühe Weichenstellungen (BU, bAV, Altersvorsorge, Krankenversicherung), die sich über 40 Jahre summieren. Eigeninitiative deckt einen ETF-Sparplan und Tagesgeld ab, aber nicht die existenziellen Themen. Honorarberatung mit 1.500-3.000 € Einstiegskosten ist für die meisten Einsteiger unrealistisch — Provisionsberatung ist hier strukturell der passende Weg: kein finanzieller Eintritt, lebenslanger Ansprechpartner, jährliche Anpassungsgespräche inklusive. Wichtig ist nicht das Vergütungsmodell, sondern der Berater: BaFin-registriert, transparentes Protokoll, mehrere Produktanbieter im Portfolio (kein Ein-Versicherer-Vertrieb), klare Bedenkzeit. In Münster gibt es alle drei Modelle — die meisten gut versorgten Haushalte werden seit Jahrzehnten provisionsbasiert betreut.'
 sources:
@@ -38,7 +38,7 @@ Finanzberatung ist nicht gleich Finanzberatung. Zwischen einem unabhängigen Hon
 
 **Bankberater:** Angestellter seiner Bank. Empfiehlt überwiegend hauseigene Produkte, weil er dazu angehalten ist. Für dich kostenlos — bezahlt über Produktmargen und interne Vertriebsziele. Produktauswahl strukturell eingeschränkt.
 
-**Provisionsbasierter Finanzberater (freier Vermittler):** Zugelassen nach § 34d/§ 34f GewO. Bezahlt vom Produktanbieter — nicht vom Kunden. Hat Zugang zum gesamten deutschen Versicherungs- und Investmentmarkt und kann produktoffen vergleichen. Die Vergütung ist im Produkt kalkuliert und seit der LV-Reform 2015 gedeckelt (max. 2,5 % Abschlussprovision bei Lebensversicherungen, fünfjährige Stornohaftung — der Berater verliert sein Geld, wenn der Vertrag früh storniert wird; daran hat er also kein Interesse).
+**Provisionsbasierter Finanzberater (freier Vermittler):** Zugelassen nach § 34d/§ 34f GewO. Bezahlt vom Produktanbieter — nicht vom Kunden. Hat Zugang zum gesamten deutschen Versicherungs- und Investmentmarkt und kann produktoffen vergleichen. Die Vergütung ist im Produkt kalkuliert und reguliert (Höchstzillmersatz 25 ‰ bei Lebensversicherungen seit der LV-Reform 2015, fünfjährige Stornohaftung — der Berater verliert sein Geld, wenn der Vertrag früh storniert wird; daran hat er also kein Interesse).
 
 **Honorarberater (§ 34h GewO):** Du zahlst direkt — Stunden- oder Pauschalhonorar (1.500–3.000 € für einen Finanzplan). Er darf keine Provisionen behalten. Vorteil: produktunabhängige Vergütung. Nachteil: hohe Eingangskosten und kaum echte Folgebetreuung, weil jedes weitere Gespräch wieder Honorar kostet.
 
@@ -121,7 +121,7 @@ Unabhängig vom Modell entscheiden diese drei Punkte über die Qualität, nicht 
 - Pauschalversprechen ("garantierte Rendite von X %")
 - Bedenkzeit verweigern (§ 152 VVG: 14 Tage Widerrufsrecht)
 
-Wichtig: Provisionen sind **kein** Red Flag — sie sind die normale Vergütungsform für 98 % aller Finanzberatungen in Deutschland und gesetzlich gedeckelt. Red Flag ist mangelnde Transparenz, nicht das Modell selbst.
+Wichtig: Provisionen sind **kein** Red Flag — sie sind die normale Vergütungsform für 98 % aller Finanzberatungen in Deutschland und gesetzlich reguliert. Red Flag ist mangelnde Transparenz, nicht das Modell selbst.
 
 ## Vertiefung
 
@@ -138,7 +138,7 @@ Wichtig: Provisionen sind **kein** Red Flag — sie sind die normale Vergütungs
 
 ## Fazit
 
-Die meisten in Münster brauchen keine Honorarberatung — sie brauchen einen erreichbaren, qualifizierten Berater, der über Jahrzehnte mitläuft. Genau dafür ist das Provisionsmodell strukturell gemacht: keine Eintrittshürde, kontinuierliche Betreuung, regulierte und gedeckelte Vergütung. Honorarberatung hat ihren Platz bei hohem Vermögen oder einmaligen Spezialfragen, ist für die durchschnittliche Lebenssituation aber selten der wirtschaftlich beste Weg.
+Die meisten in Münster brauchen keine Honorarberatung — sie brauchen einen erreichbaren, qualifizierten Berater, der über Jahrzehnte mitläuft. Genau dafür ist das Provisionsmodell strukturell gemacht: keine Eintrittshürde, kontinuierliche Betreuung, regulierte und transparente Vergütung. Honorarberatung hat ihren Platz bei hohem Vermögen oder einmaligen Spezialfragen, ist für die durchschnittliche Lebenssituation aber selten der wirtschaftlich beste Weg.
 
 Entscheidend ist nicht das Vergütungsmodell, sondern der Berater: BaFin-registriert, Berufshaftpflicht, transparentes Protokoll, breite Produktauswahl, klarer Folgebetreuungs-Plan.
 

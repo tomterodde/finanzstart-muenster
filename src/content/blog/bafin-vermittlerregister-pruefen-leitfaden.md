@@ -2,6 +2,7 @@
 title: 'Vermittlerregister prüfen: So checkst du deinen Finanzberater (Schritt-für-Schritt)'
 description: 'Wie prüft man, ob ein Finanzberater oder Versicherungsvermittler zugelassen ist? Schritt-für-Schritt-Anleitung zum DIHK-Vermittlerregister und zur BaFin-Datenbank.'
 pubDate: '2026-05-26'
+updatedDate: '2026-10-05'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Vermittlerregister prüfen — Schritt-für-Schritt-Anleitung'
 category: 'Vermögensaufbau'
@@ -79,6 +80,8 @@ Alle, die **als selbstständige Vermittler oder Berater tätig sind**:
 | § 34i GewO | Immobiliardarlehensvermittlung |
 
 **Ausnahme:** Angestellte (z. B. von Banken oder großen Strukturvertrieben) müssen nicht selbst eingetragen sein — dann ist **ihr Arbeitgeber** im Register, nicht sie persönlich. In diesem Fall musst du die Zulassung des Arbeitgebers prüfen.
+
+**Makler oder Vertreter?** Bei einer § 34d-Erlaubnis zeigt der Registereintrag auch, ob jemand als **Versicherungsmakler** oder als **Versicherungsvertreter** tätig ist. Das ist mehr als ein Etikett: Der Vertreter arbeitet für den Versicherer und erhält Provision, der Makler steht rechtlich auf deiner Seite und erhält Courtage. [Was hinter der Courtage steckt und wer sie bezahlt, steht hier.](/blog/courtage-versicherung-erklaert/)
 
 ## Schritt-für-Schritt: So prüfst du den Vermittler
 
