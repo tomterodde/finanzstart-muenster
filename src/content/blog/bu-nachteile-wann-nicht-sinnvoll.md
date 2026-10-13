@@ -2,6 +2,7 @@
 title: 'BU Nachteile: Was kritisch ist (und für wen sie nicht sinnvoll ist)'
 description: 'Welche Nachteile hat eine Berufsunfähigkeitsversicherung? Hohe Beiträge, Gesundheitsfragen, Ausschlüsse — die ehrliche Analyse plus klare Lösungswege.'
 pubDate: '2026-06-06'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Nachteile der Berufsunfähigkeitsversicherung — kritische Analyse'
 category: 'Einkommenssicherung'
@@ -157,8 +158,8 @@ Selbst nach erfolgreichem Vertragsabschluss ist nicht garantiert, dass die Versi
 **Lösungswege:**
 
 - **Wahrheitsgemäße Anzeige** bei Antragstellung
-- **Ärztliche Dokumentation** bei Leistungsantrag — vollständige Krankenakten und unabhängige Gutachten
-- **Bei Ablehnung Widerspruch** — rund 50 % Erfolgsquote, Verbraucherzentrale oder spezialisierter Anwalt einschalten
+- **Ärztliche Dokumentation** beim [Leistungsantrag](/blog/bu-leistungsantrag-stellen-ablauf/) — vollständige Krankenakten und unabhängige Gutachten
+- **Bei Ablehnung Widerspruch** — rund 50 % Erfolgsquote, Verbraucherzentrale oder spezialisierter Anwalt einschalten. Eine gesetzliche Frist dafür gibt es nicht; die Schritte im Detail stehen unter [BU-Antrag abgelehnt: Was du jetzt tun kannst](/blog/bu-antrag-abgelehnt-was-tun/)
 
 [Detailansicht zu Leistungsfällen und typischen Ausschlüssen.](/blog/bu-was-deckt-sie-ab-leistungen/)
 

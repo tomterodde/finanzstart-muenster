@@ -2,6 +2,7 @@
 title: 'Krankentagegeld: Wann du es brauchst — und wann nicht'
 description: 'Krankentagegeldversicherung: Was sie ist, wer sie braucht, was sie kostet und wo die Fallen liegen. Sie schließt die Lücke nach der 6-Wochen-Lohnfortzahlung.'
 pubDate: '2026-05-05'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Krankentagegeld § 192 Abs. 5 VVG schließt die Lücke zwischen Krankengeld § 44 SGB V (70 % Brutto, max. 90 % Netto, gedeckelt bei BBG GKV 4.462,50 €/Monat 2026) und Nettogehalt. Bei 2.500 € Netto: GKV-Krankengeld ca. 1.750-1.800 €/Monat = 700-750 € Lücke. Lohnfortzahlung Arbeitgeber § 3 EFZG: 6 Wochen / 100 % Brutto. Krankengeld danach max. 78 Wochen/3 Jahre § 48 SGB V. Selbstständige GKV: Krankengeld nur via Wahltarif § 53 Abs. 6 SGB V (+0,6-0,9 % Beitrag) oder ab Tag 43 ohne Wahltarif. Beitragsbeispiele: Angestellter 28J., 30 €/Tag ab Tag 43 → 15-25 €/Monat. Selbstständiger 30J., 80 €/Tag ab Tag 1 → 60-100 €/Monat. Wartezeit typisch 3-8 Monate nach Vertragsbeginn (außer Unfall). Überversicherungsverbot § 74 VVG: Tagessatz max. 90 % Nettoeinkommen. Abgrenzung BU § 172 VVG: vorübergehend (KT) vs. dauerhaft (BU) — Komplementär, nicht Ersatz.'
@@ -85,6 +86,8 @@ Faustformel: **(Nettoeinkommen − Krankengeld) ÷ 30 = Tagessatz-Bedarf.** Bei 
 ## Krankentagegeld vs. BU-Versicherung
 
 Krankentagegeld deckt vorübergehende Krankheit ab. Die [Berufsunfähigkeitsversicherung](/blog/berufsunfaehigkeitsversicherung-guide/) greift, wenn du dauerhaft nicht mehr arbeiten kannst. Beides ergänzt sich — und eine BU-Versicherung sollte für die meisten Berufstätigen Vorrang haben.
+
+Wie eng beides zusammenhängt, zeigt der Leistungsfall: Bis der BU-Versicherer über einen Antrag entscheidet, vergehen im Schnitt 201 Tage (Franke und Bornberg, BU-Leistungspraxisstudie 2026). Diese Phase soll das Krankentagegeld überbrücken — warum der [BU-Leistungsantrag](/blog/bu-leistungsantrag-stellen-ablauf/) so lange dauert und wie vollständige Unterlagen ihn beschleunigen, steht im eigenen Leitfaden.
 
 ## Vertiefung
 

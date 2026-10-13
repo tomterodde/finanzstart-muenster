@@ -2,6 +2,7 @@
 title: 'BU für Selbstständige: Warum besondere Regeln gelten'
 description: 'Selbstständige brauchen eine BU — aber andere Bedingungen gelten als für Angestellte. Was beim Abschluss und im Leistungsfall zu beachten ist.'
 pubDate: '2026-04-19'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Selbstständige ohne Krankengeld-Anspruch (§ 44 SGB V nur für Pflichtversicherte automatisch), ohne ausreichende Beitragsjahre für EM-Rente (§ 43 SGB VI verlangt 3 Pflichtbeitragsjahre in letzten 5 Jahren) und ohne bAV brauchen BU umso dringender. Drei BU-Besonderheiten für Selbstständige: 1) Abstrakte Verweisung nach § 172 VVG unbedingt ausschließen — sonst kann Versicherer auf theoretisch mögliche Umschulungs-Tätigkeit verweisen. 2) Umorganisationsklausel: Versicherer prüft bei Selbstständigen, ob durch Umorganisation des Betriebs (z. B. Einstellen Mitarbeiter, Aufgabendelegation) Berufsfähigkeit erhalten werden kann — bei zumutbarer Umorganisation keine Leistung. 3) Einkommensprüfung im Leistungsfall: BWA/Steuerbescheide letzter 3 Jahre werden geprüft, Rente sollte 60-70 % des Nettoeinkommens decken. Laut Morgen & Morgen 2024: Ablehnungsquote BU-Anträge Selbstständige rund 25 % vs. 15 % Angestellte.'
@@ -42,6 +43,8 @@ Bei Selbstständigen ist das komplexer. Ein Selbstständiger hat oft mehrere Tä
 
 Wer als Selbstständiger hauptsächlich geistig arbeitet und körperlich nur minimal tätig ist, bekommt die BU leichter anerkannt. Wer körperlich tätig ist (Handwerk, Physiotherapie), hat eine andere Ausgangslage.
 
+Diese Fragen enden nicht mit der Anerkennung. Bei der [BU-Nachprüfung](/blog/bu-nachpruefung-erklaert/) kann der Versicherer später erneut prüfen, ob sich dein Betrieb so umorganisieren lässt, dass deine verbliebene Leistungsfähigkeit wieder ausreicht.
+
 ## Die abstrakte Verweisung: Besonderes Risiko für Selbstständige
 
 Viele BU-Verträge enthalten die sogenannte "abstrakte Verweisung" — die Klausel, dass die Versicherung nicht zahlen muss, wenn der Versicherte theoretisch einen anderen Beruf ausüben könnte (auch wenn er das in der Praxis nicht tut).
@@ -72,6 +75,7 @@ Nicht jeder Versicherer bietet das an — beim Vergleich darauf achten.
 ## Vertiefung
 
 - [Was deckt eine BU konkret ab?](/blog/bu-was-deckt-sie-ab-leistungen/) — Leistungsumfang, Voraussetzungen und Berufsbild-Definition.
+- [BU-Leistungsantrag stellen](/blog/bu-leistungsantrag-stellen-ablauf/) — Ablauf, Unterlagen und warum die Tätigkeitsbeschreibung über den Ausgang entscheidet.
 - [Was kostet eine BU im Monat?](/blog/was-kostet-bu-im-monat-tabelle/) — Beitragsspannen für Selbstständige nach Beruf.
 - [BU Nachteile: Wann sie nicht sinnvoll ist](/blog/bu-nachteile-wann-nicht-sinnvoll/) — Selbstständige mit hohem Vermögen oder kurzer Erwerbsperspektive prüfen.
 

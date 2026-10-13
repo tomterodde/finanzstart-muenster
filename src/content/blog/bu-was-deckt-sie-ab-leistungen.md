@@ -2,6 +2,7 @@
 title: 'Was deckt eine Berufsunfähigkeitsversicherung ab? (Leistungen 2026)'
 description: 'Was leistet eine BU konkret? Wann zahlt sie, wann nicht — und wo liegen die häufigsten Streitpunkte? Klar erklärt mit Statistiken und typischen Fallstricken.'
 pubDate: '2026-06-04'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Was deckt eine Berufsunfähigkeitsversicherung ab — Leistungsumfang'
 category: 'Einkommenssicherung'
@@ -112,6 +113,8 @@ Der entscheidende Punkt: Die BU misst Einschränkung **konkret an deinem Beruf**
 
 **Praxis:** Heute haben praktisch alle qualitativ guten BU-Tarife einen Verzicht auf abstrakte Verweisung. Bei älteren Verträgen (vor 2010) ist die Prüfung oft Pflicht. **Bei Neuabschluss ist der Verzicht ein absolutes Muss-Kriterium.**
 
+Nicht verwechseln mit der **konkreten Verweisung**: Sie greift, wenn du tatsächlich eine andere Tätigkeit ausübst, die deiner bisherigen Lebensstellung entspricht. Darauf verzichten auch viele gute Tarife nicht — relevant wird sie vor allem bei der [Nachprüfung einer laufenden BU-Rente](/blog/bu-nachpruefung-erklaert/).
+
 [Vollständige Kriterien für gute BU-Tarife stehen im Hauptartikel.](/blog/berufsunfaehigkeitsversicherung-guide/)
 
 ## Wann zahlt die BU NICHT?
@@ -120,7 +123,7 @@ Sechs häufige Ablehnungsgründe — sortiert nach Häufigkeit:
 
 ### 1. BU-Grad unter 50 %
 
-Die häufigste Ablehnungsursache (rund 35 % aller Ablehnungen). Versicherer beauftragen oft eigene Gutachten, die zu niedrigeren BU-Graden kommen als die behandelnden Ärzte.
+Die häufigste Ablehnungsursache (rund 35 % aller Ablehnungen). Versicherer beauftragen oft eigene Gutachten, die zu niedrigeren BU-Graden kommen als die behandelnden Ärzte. Welche Rechte du bei einer solchen Begutachtung hast, erklärt der Artikel zum [BU-Gutachten](/blog/bu-gutachten-ablauf-rechte/).
 
 **Strategie:** Bei Ablehnung **unabhängiges Gutachten** einholen — über Verbraucherzentrale oder spezialisierten Anwalt. Nach Map-Report 2024 werden rund 50 % der Ablehnungen nach Widerspruch revidiert.
 
@@ -163,6 +166,8 @@ Bei längerem Auslandsaufenthalt (oft über 6 Monate) verliert man den Schutz �
 - **Effektive Ablehnungsquote: rund 11 %** der Anträge
 
 **Wichtige Lesart:** Die BU ist deutlich besser als ihr Ruf. Die meisten Ablehnungen sind formal — bei guten Tarifen und korrekter Anzeige ist die Annahmequote im Leistungsfall sehr hoch.
+
+Formale Fehler lassen sich vermeiden: Wie du den [BU-Leistungsantrag Schritt für Schritt stellst](/blog/bu-leistungsantrag-stellen-ablauf/), steht im eigenen Leitfaden.
 
 ## BU vs. andere Einkommensschutz-Versicherungen
 

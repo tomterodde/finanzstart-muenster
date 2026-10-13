@@ -2,6 +2,7 @@
 title: 'Was kostet eine Berufsunfähigkeitsversicherung im Monat? (Tabelle 2026)'
 description: 'Was kostet eine BU im Monat? Konkrete Tabelle nach Alter, Beruf und Versicherungssumme — plus Hebel zur Beitragsoptimierung.'
 pubDate: '2026-06-05'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Was kostet eine Berufsunfähigkeitsversicherung im Monat'
 category: 'Einkommenssicherung'
@@ -156,6 +157,10 @@ Gute Tarife mit umfassenden Bedingungen (Verzicht auf abstrakte Verweisung, Nach
 **Realität:** Dieser Höchstbetrag ist bei den meisten **bereits durch KV/PV-Beiträge ausgeschöpft**. Die Steuerersparsnis durch BU-Beiträge ist daher oft **null**.
 
 **Ausnahme:** Selbstständige mit Rürup-Rente und entsprechender Steueroptimierung — hier kann ein Teil der BU-Beiträge in der Rürup-Förderung mit absetzbar sein.
+
+**Die andere Seite — die Leistung:** Eine private BU-Rente wird nur mit dem **Ertragsanteil** besteuert, abhängig von der Restlaufzeit bei Rentenbeginn. Bei 20 Jahren Restlaufzeit sind 21 % steuerpflichtig, der Rest bleibt steuerfrei.
+
+Anders bei einer BU über Rürup oder bAV: Dort gilt die nachgelagerte Besteuerung. Tabelle und Rechenbeispiele stehen im Artikel [BU-Rente versteuern](/blog/bu-rente-versteuern-ertragsanteil/).
 
 ## Konkrete Berechnung: Was zahlt der Durchschnitt?
 

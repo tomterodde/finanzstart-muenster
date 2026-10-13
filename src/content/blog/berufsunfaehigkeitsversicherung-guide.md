@@ -2,6 +2,7 @@
 title: 'Berufsunfähigkeitsversicherung: Was du wirklich wissen musst'
 description: 'Berufsunfähigkeitsversicherung: Für wen sie sinnvoll ist, wie hoch die BU-Rente sein sollte, was sie kostet und worauf du beim Abschluss achten musst.'
 pubDate: '2026-04-07'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Rund jeder vierte Arbeitnehmer wird vor dem Renteneintritt berufsunfähig — häufigste Ursache sind mit etwa 30 % psychische Erkrankungen. Die gesetzliche Erwerbsminderungsrente liegt im Schnitt bei nur rund 1.000 € und reicht meist nicht. Eine BU-Rente sollte 60–70 % des Nettoeinkommens abdecken; je früher der Abschluss, desto günstiger und leichter der Zugang.'
@@ -74,6 +75,8 @@ Mit „Berufsunfähigkeitsrente" ist heute die **monatliche Leistung der private
 
 Genau das ist der Vorteil der privaten BU-Rente: Sie ist vertraglich fixiert (z. B. 1.500 €/Monat), wird unabhängig von deinen Beitragsjahren gezahlt und stellt allein auf deinen zuletzt ausgeübten Beruf ab.
 
+Im Ernstfall fließt diese Rente nicht automatisch — du musst sie beantragen, und der Versicherer entscheidet im Schnitt erst nach 201 Tagen. Welche Unterlagen du brauchst und warum die Beschreibung deiner Tätigkeit über den Ausgang entscheidet, erklärt der Leitfaden zum [BU-Leistungsantrag](/blog/bu-leistungsantrag-stellen-ablauf/).
+
 ## Warum früh abschließen?
 
 Zwei Gründe, die wirklich zählen:
@@ -112,6 +115,8 @@ Bei Abschluss einer BU wirst du einen Gesundheitsfragebogen ausfüllen müssen. 
 **Beantworte alle Fragen vollständig und wahrheitsgemäß.**
 
 Wer Vorerkrankungen verschweigt, riskiert, dass die Versicherung im Leistungsfall nicht zahlt — und das genau dann, wenn du sie am dringendsten brauchst. Lieber vorher klären, welche Vorerkrankungen akzeptiert werden, als im Ernstfall ohne Schutz dazustehen.
+
+Das ist keine Theorie: Rund jede fünfte Ablehnung im Leistungsfall beruht auf Anfechtung oder Rücktritt wegen der Gesundheitsangaben beim Abschluss (Franke und Bornberg, BU-Leistungspraxisstudie 2026). Was du tun kannst, wenn es trotzdem so weit kommt, steht im Artikel [BU-Antrag abgelehnt](/blog/bu-antrag-abgelehnt-was-tun/).
 
 ## Was kostet eine BU typischerweise?
 

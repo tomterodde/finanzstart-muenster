@@ -2,6 +2,7 @@
 title: 'BU und psychische Erkrankungen: Was du wissen musst'
 description: 'Psychische Erkrankungen sind der häufigste BU-Grund. Was bedeutet das für den Abschluss, die Leistung und die Gesundheitsprüfung?'
 pubDate: '2026-04-13'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'
 tldr: 'Psychische Erkrankungen sind seit Jahren die häufigste Ursache für Berufsunfähigkeit in Deutschland — rund 30 % aller BU-Leistungen werden darauf gezahlt (Morgen & Morgen, GDV). Beim BU-Abschluss müssen auch kurze Psychotherapien, Antidepressiva-Gaben und Burnout-Krankschreibungen angegeben werden; sonst droht arglistige Täuschung. Typische Reaktionen: Ausschluss psychischer Erkrankungen, Risikozuschlag oder Ablehnung. Eine anonyme Risikovoranfrage über einen Makler schützt vor der Speicherung abgelehnter Anträge.'
@@ -70,6 +71,8 @@ Wenn du wegen einer psychischen Erkrankung BU-Leistungen beantragst, verlangt di
 - Gutachten eines unabhängigen Sachverständigen (oft auf Kosten der Versicherung)
 
 Der Nachweis ist möglich, aber aufwendiger als bei körperlichen Erkrankungen. Manchmal kommt es zu Auseinandersetzungen darüber, ob die Erkrankung wirklich eine 50-prozentige Berufsunfähigkeit begründet.
+
+Die Zahlen bestätigen das: Psychische Erkrankungen werden laut Franke und Bornberg (BU-Leistungspraxisstudie 2026) nur zu etwa 72 bis 75 % anerkannt, Krebserkrankungen zu rund 95 %. Entscheidend ist deshalb oft das Gutachten — wie es abläuft und welche Rechte du dabei hast, erklärt der Artikel zum [BU-Gutachten](/blog/bu-gutachten-ablauf-rechte/).
 
 ## Früh abschließen: Warum das besonders gilt
 
