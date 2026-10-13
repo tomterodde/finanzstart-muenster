@@ -2,9 +2,10 @@
 title: 'Aktien und Unternehmensinsolvenz: Was passiert mit deinem Geld?'
 description: 'Geht ein Unternehmen pleite, stehen Aktionäre am Ende der Rangfolge. Wie die Insolvenzordnung Gläubiger und Aktionäre unterscheidet — und wie du dich schützt.'
 pubDate: '2026-09-12'
+updatedDate: '2026-10-13'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
-tldr: 'Aktionäre sind Eigenkapitalgeber, keine Gläubiger — im Insolvenzverfahren werden sie nach allen Gläubigern bedient (§ 38, § 39 InsO): erst Massekosten, dann Banken/Anleihegläubiger/Lieferanten anteilig, dann nachrangige Gläubiger, ganz am Ende die Aktionäre. In der Praxis bleibt für sie meist nichts übrig — der Totalverlust ist bei einer echten Aktiengesellschafts-Insolvenz der Regelfall. Verluste lassen sich steuerlich mit anderen Kapitalerträgen verrechnen, aber gedeckelt auf 20.000 € pro Jahr (§ 20 Abs. 6 EStG). Der einzige wirksame Schutz gegen dieses Risiko ist Diversifikation über viele Unternehmen.'
+tldr: 'Aktionäre sind Eigenkapitalgeber, keine Gläubiger — im Insolvenzverfahren werden sie nach allen Gläubigern bedient (§ 38, § 39 InsO): erst Massekosten, dann Banken/Anleihegläubiger/Lieferanten anteilig, dann nachrangige Gläubiger, ganz am Ende die Aktionäre. In der Praxis bleibt für sie meist nichts übrig — der Totalverlust ist bei einer echten Aktiengesellschafts-Insolvenz der Regelfall. Steuerlich zählt der Totalverlust als Aktienverlust: Er lässt sich mit Gewinnen aus Aktienverkäufen verrechnen, die frühere Deckelung auf 20.000 € pro Jahr ist seit dem Jahressteuergesetz 2024 aufgehoben. Der einzige wirksame Schutz gegen dieses Risiko ist Diversifikation über viele Unternehmen.'
 faq:
   - question: 'Bekomme ich mein Geld zurück, wenn ein Unternehmen, dessen Aktien ich halte, insolvent geht?'
     answer: 'In den allermeisten Fällen nein. Aktionäre sind Eigenkapitalgeber und werden im Insolvenzverfahren erst bedient, nachdem alle Gläubiger vollständig befriedigt sind. Bei einer echten Insolvenz reicht die Insolvenzmasse fast nie so weit — für die Aktionäre bleibt dann nichts übrig, die Aktien werden wertlos.'
@@ -13,7 +14,7 @@ faq:
   - question: 'Was ist der Unterschied zwischen Aktien und Anleihen im Insolvenzfall?'
     answer: 'Anleihegläubiger sind Fremdkapitalgeber mit einem vertraglichen Zins- und Rückzahlungsanspruch — sie werden vor den Aktionären bedient, oft aber ebenfalls nur anteilig (Insolvenzquote). Aktionäre haben dagegen keinen festen Anspruch, sondern tragen das volle unternehmerische Risiko als Miteigentümer. Das erklärt auch, warum Aktien im Erfolgsfall die höhere Rendite bieten: Sie tragen das höhere Risiko.'
   - question: 'Kann ich einen Aktien-Totalverlust steuerlich geltend machen?'
-    answer: 'Ja, seit 2020 können Verluste aus dem Ausfall von Kapitalanlagen (§ 20 Abs. 6 Satz 6 EStG) mit anderen Kapitalerträgen verrechnet werden — allerdings gedeckelt auf 20.000 € pro Jahr. Übersteigende Verluste werden auf Folgejahre vorgetragen und können dort verrechnet werden.'
+    answer: 'Ja. Verluste aus der Ausbuchung wertloser Aktien ordnet die Finanzverwaltung dem Aktienverlusttopf zu (BMF-Schreiben vom 14.05.2025, Rz. 118) — sie lassen sich mit Gewinnen aus Aktienverkäufen verrechnen, nicht mit Zinsen oder ETF-Gewinnen. Die frühere Deckelung auf 20.000 € pro Jahr wurde mit dem Jahressteuergesetz 2024 für alle offenen Fälle aufgehoben. Nicht verrechnete Verluste werden in Folgejahre vorgetragen.'
   - question: 'Wie schütze ich mich vor dem Risiko eines Aktien-Totalverlusts?'
     answer: 'Der einzig wirksame Schutz ist Diversifikation über viele Unternehmen, Branchen und Länder — etwa über einen breit gestreuten Welt-ETF. Einzelaktien tragen immer ein Emittentenrisiko, das ein diversifiziertes Portfolio durch die schiere Anzahl gehaltener Positionen abfedert: Der Ausfall eines einzelnen Unternehmens fällt kaum ins Gewicht.'
 sources:
@@ -23,8 +24,11 @@ sources:
     url: 'https://www.gesetze-im-internet.de/inso/'
   - title: '§ 20 Abs. 6 EStG (Verlustverrechnung bei Kapitaleinkünften)'
     publisher: 'Bundesministerium der Justiz'
-    year: 2025
+    year: 2026
     url: 'https://www.gesetze-im-internet.de/estg/__20.html'
+  - title: 'Einzelfragen zur Abgeltungsteuer — BMF-Schreiben vom 14.05.2025 (Rz. 118: Verluste aus wertlosen Aktien)'
+    publisher: 'Bundesministerium der Finanzen'
+    year: 2025
 ---
 
 Wirecard, Adler Group, Galeria Karstadt Kaufhof — wenn ein bekanntes Unternehmen insolvent geht, ist die erste Frage vieler Aktionäre: Bekomme ich wenigstens einen Teil meines Geldes zurück? Die ernüchternde Antwort steckt in der Insolvenzordnung — und sie ist eindeutiger, als viele denken.
@@ -60,7 +64,9 @@ Wer über einen ETF oder Fonds in Aktien investiert, ist durch das Sondervermög
 
 ## Steuerliche Behandlung eines Totalverlusts
 
-Seit einer Gesetzesänderung 2020 können Verluste aus dem endgültigen Ausfall von Kapitalanlagen — etwa durch Insolvenz — mit anderen Kapitalerträgen verrechnet werden (§ 20 Abs. 6 Satz 6 EStG). Die Verrechnung ist allerdings auf **20.000 € pro Jahr** gedeckelt. Wer einen größeren Verlust erlitten hat, kann den übersteigenden Betrag in Folgejahre vortragen.
+Ein Totalverlust ist steuerlich nicht verloren. Bucht die Bank wertlos gewordene Aktien aus, behandelt die Finanzverwaltung das als Aktienverlust (BMF-Schreiben vom 14.05.2025, Rz. 118). Er landet im Aktienverlusttopf und lässt sich mit Gewinnen aus Aktienverkäufen verrechnen — nicht mit Zinsen, Dividenden oder ETF-Gewinnen.
+
+Die früher geltende Deckelung auf **20.000 € pro Jahr** (§ 20 Abs. 6 Satz 6 EStG a. F.) gibt es nicht mehr: Das Jahressteuergesetz 2024 hat sie für alle noch offenen Fälle aufgehoben. Was im selben Jahr nicht verrechnet werden kann, wird vorgetragen.
 
 ## Wie du dich schützt
 
