@@ -40,12 +40,12 @@ Wenn du ETF-Anteile verkaufst und Gewinn machst, fällt Abgeltungssteuer an: 25 
 
 Bist du Kirchenmitglied, kommt Kirchensteuer hinzu — die Bank behält sie automatisch ein, gesteuert über das [KISTAM-Verfahren](/blog/sperrvermerk-kirchensteuer-kapitalertraege/). Ein Sperrvermerk stoppt nur den automatischen Abzug, nicht die Steuerpflicht.
 
-Beispiel: Du kaufst für 10.000 Euro, verkaufst für 15.000 Euro. Gewinn: 5.000 Euro. Steuer: ca. 1.319 Euro.
+Beispiel: Du kaufst für 10.000 Euro, verkaufst für 15.000 Euro. Gewinn: 5.000 Euro. Bei einem Aktien-ETF sind davon 30 % steuerfrei (Teilfreistellung, siehe unten), versteuert werden 3.500 Euro — Steuer: **ca. 923 Euro**. Bei einem Renten-ETF ohne Teilfreistellung wären es ca. 1.319 Euro. Den Sparerpauschbetrag lässt das Beispiel außen vor.
 
 Solange du nicht verkaufst, fällt keine Steuer an — der Steuerstundungseffekt ist ein echter Vorteil beim langfristigen Halten.
 
 **2. Abgeltungssteuer auf Ausschüttungen**
-Bei ausschüttenden ETFs wird jede Dividendenzahlung sofort besteuert. 1.000 Euro Ausschüttung → ca. 264 Euro Steuer → 736 Euro netto auf dem Konto.
+Bei ausschüttenden ETFs wird jede Dividendenzahlung sofort besteuert. 1.000 Euro Ausschüttung aus einem Aktien-ETF → nach Teilfreistellung ca. 185 Euro Steuer → rund 815 Euro netto auf dem Konto. Ohne Teilfreistellung wären es ca. 264 Euro Steuer.
 
 **3. Vorabpauschale**
 Für thesaurierende ETFs hat der Gesetzgeber die Vorabpauschale eingeführt: eine jährliche Mindestbesteuerung, auch wenn du nichts verkaufst.
