@@ -2,6 +2,7 @@
 title: 'Früher in Rente: Was die Abschläge wirklich kosten'
 description: 'Wie viel kostet es, früher in Rente zu gehen? Abschläge, Ausnahmen und die Rechnung für Berufseinsteiger, die mit 60 oder 63 aufhören wollen.'
 pubDate: '2026-04-11'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
 tldr: 'Früher Renteneintritt kostet 0,3 % Abschlag pro Vorzieh-Monat (§ 77 Abs. 2 SGB VI), maximal 14,4 % bei 4 Jahren Vorziehung. Frühestmöglicher Rentenbeginn ist 63 Jahre für besonders langjährig Versicherte mit 35 Beitragsjahren (§ 36 SGB VI). Doppel-Nachteil: Abschläge plus fehlende Rentenpunkte für die nicht gearbeiteten Jahre. Bei Durchschnittsverdiener mit Eintritt 63 statt 67: ca. 250–350 € weniger Monatsrente lebenslang. Ausnahme ohne Abschlag: 45 Beitragsjahre = "Rente für besonders langjährig Versicherte" (§ 38 SGB VI), möglich ab 65 für Jahrgänge ab 1964. Ausgleichszahlungen ab 50 Jahren möglich (§ 187a SGB VI), als Sonderausgaben absetzbar (§ 10 Abs. 1 Nr. 2 EStG). Aktueller Rentenwert seit 1.7.2025: 40,79 €/Entgeltpunkt (Rentenanpassung +3,74 % laut Rentenwertbestimmungsverordnung 2025).'
@@ -63,6 +64,10 @@ Kombiniert: Bis zu 300 Euro weniger im Monat für 4 Jahre früheren Renteneintri
 Wer **45 Beitragsjahre** nachweisen kann, darf ohne Abschlag früher in Rente — aktuell mit 65 Jahren. Das klingt nach viel, ist aber für Menschen mit frühem Berufseinstieg und wenig Studiumzeit erreichbar.
 
 Berücksichtigt werden: Pflichtbeitragszeiten aus Beschäftigung, Kindererziehungszeiten, Pflegezeiten, Wehrdienst. Nicht berücksichtigt: Zeiten des ALG-II-Bezugs.
+
+Ob du die 45 Jahre erreichst, zeigt dein [Versicherungsverlauf](/blog/versicherungsverlauf-rentenversicherung-lesen/) — dort lassen sich fehlende Zeiten früh erkennen und noch nachtragen.
+
+Und egal, welche Rentenart: Keine kommt automatisch. Sie muss beantragt werden, am besten rund drei Monate vor dem gewünschten Beginn. Fristen und Unterlagen stehen im Artikel [Rentenantrag stellen](/blog/rentenantrag-stellen-ablauf-fristen/).
 
 ## Abschläge ausgleichen: Ist das möglich?
 

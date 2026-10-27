@@ -2,7 +2,7 @@
 title: 'Altersvorsorgedepot ab 2027: Das neue geförderte ETF-Depot — alle Details'
 description: 'Der Bundestag hat die Riester-Nachfolge beschlossen: Das Altersvorsorgedepot kommt 2027. Was es ist, was der Staat dazugibt — und für wen es sich lohnt.'
 pubDate: '2026-04-15'
-updatedDate: '2026-09-22'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
 tldr: 'Das Altersvorsorgedepot ersetzt die Riester-Rente für Neuverträge ab 1.1.2027 — das pAV-Reformgesetz ist seit dem 8.5.2026 (Bundesrats-Zustimmung nach dem Bundestagsbeschluss vom 27.3.2026) endgültig verabschiedet. Kernneuerungen: 1) Keine Beitragsgarantie mehr — volle ETF-Investition möglich; 2) Gestaffelte Zulage — 50 Cent pro Euro bis 360 €/Jahr, 25 Cent pro Euro von 361-1.800 €, maximal 540 € Grundzulage (vs. 175 € bisher Riester); 3) Kinderzulage 300 €/Kind ab 25 €/Monat Beitrag (bisher 4 % des Vorjahresbruttos nötig); 4) Berufseinsteigerbonus 200 € einmalig bei Abschluss vor dem 25. Geburtstag; 5) Öffnung für Selbstständige und Freiberufler; 6) Kostendeckel 1,0 % p.a. beim Standardprodukt (vs. 1,5-3 % Riester-Bestand); 7) Flexiblere Auszahlungsphase mit Zeitrenten. Bei 150 €/Monat Einzahlung, 35 Jahren Laufzeit, 7 % Rendite: rund 320.000 € Endvermögen gegenüber 190-220.000 € bei klassischem Riester-Fondssparplan.'
@@ -122,6 +122,8 @@ Damit steht auch die Wechseloption für bestehende Riester-Verträge fest — si
 - **Bestehende Riester-Sparer:** [Weiterlaufen lassen oder ins Altersvorsorgedepot wechseln? Die Entscheidungskriterien](/blog/riester-bestandsvertrag-altersvorsorgedepot-wechseln/)
 
 Offen bleibt die Anbieterfrage: Scalable Capital und quirion haben als Erste konkrete Kostenzahlen genannt, Trade Republic und mehrere Direktbanken planen den Start, ohne sich festzulegen. Den [Stand je Anbieter](/blog/altersvorsorgedepot-anbieter-vergleich/) hält der Vergleichsartikel fest — verbindlich wird das jeweils erst mit der Produktfreigabe durch das Bundeszentralamt für Steuern.
+
+Für Münster gibt es eine eigene Einordnung — mit Blick auf die vielen Studierenden, für die der Berufseinsteigerbonus greift, die Öffnung für Selbstständige und die regionalen Anbieter: [Altersvorsorgedepot in Münster](/blog/altersvorsorgedepot-muenster/).
 
 Wie hoch deine Zulage, dein Steuervorteil und dein Endkapital konkret ausfallen, rechnest du im [Altersvorsorgedepot-Rechner](/altersvorsorgedepot-rechner/) durch — wahlweise als Neusparer oder im Vergleich zu einem bestehenden Riester-Vertrag.
 

@@ -2,6 +2,7 @@
 title: 'Depot eröffnen als Berufseinsteiger: Worauf du achten solltest'
 description: 'Wie eröffne ich ein Wertpapierdepot? Was sind die Unterschiede zwischen Banken, Direktbanken und Neo-Brokern — und worauf kommt es wirklich an?'
 pubDate: '2026-04-09'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Ein Wertpapierdepot ist die Voraussetzung für ETF-Sparpläne und Aktienkauf — seit PSD2 (2018) ist die Eröffnung online in 15 Minuten via Video-Ident (GwG § 12) möglich. Drei Anbietertypen: Filialbank (teuer, 20–90 €/Jahr Depotgebühr), Direktbank (ING, DKB, Comdirect: 0 €, große Auswahl), Neo-Broker (Trade Republic, Scalable: 0 €, oft kostenlose Sparpläne). Wertpapiere sind als Sondervermögen insolvenzgeschützt (KAGB). Freistellungsauftrag einrichten: Sparerpauschbetrag 1.000 € (2.000 € bei Ehepaaren, § 20 Abs. 9 EStG).'
@@ -80,6 +81,8 @@ Für die meisten Berufseinsteiger ist der monatliche Sparplan der richtige Einst
 Jedem Anleger steht ein Sparerpauschbetrag von 1.000 Euro pro Jahr zu (2.000 Euro für Ehepaare). Bis zu dieser Summe werden Kapitalerträge nicht besteuert.
 
 Damit das greift, musst du beim Depot einen **Freistellungsauftrag** einrichten. Das kostet zwei Minuten und spart dir sofort Steuern auf Dividenden und realisierte Gewinne.
+
+Wer studiert oder wenig verdient, kann einen Schritt weiter gehen: Liegt das zu versteuernde Einkommen voraussichtlich unter dem Grundfreibetrag (2026: 12.348 Euro), setzt die [NV-Bescheinigung](/blog/nv-bescheinigung-beantragen/) den Steuerabzug ganz aus — auch über 1.000 Euro hinaus. Sie ersetzt bei der jeweiligen Bank den Freistellungsauftrag.
 
 ## Fazit
 

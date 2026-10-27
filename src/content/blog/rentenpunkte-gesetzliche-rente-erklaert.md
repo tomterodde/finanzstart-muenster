@@ -2,7 +2,7 @@
 title: 'Rentenpunkte erklärt: Wie die gesetzliche Rente 2025 funktioniert'
 description: 'Ein Rentenpunkt (Entgeltpunkt) bringt 2025 genau 39,32 € Monatsrente. Wie Rentenpunkte berechnet werden, wie viele du brauchst und warum 31,7 Punkte oft nicht reichen.'
 pubDate: '2026-04-09'
-updatedDate: '2026-08-25'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Rentenpunkte (Entgeltpunkte) werden jährlich als Verhältnis Bruttolohn zu Durchschnittslohn (2025: rund 45.358 € p.a.) vergeben — Durchschnittsverdiener erhält 1,0 Punkt. Aktueller Rentenwert 2025: 39,32 € pro Punkt und Monat (West). Bei 3.000 € Brutto monatlich ergeben 40 Arbeitsjahre rund 31,7 Punkte und rund 1.247 € Bruttorente. Beitragsbemessungsgrenze 2025: 8.050 € pro Monat — Einkommen darüber bringt keine zusätzlichen Rentenansprüche. Inflation ist in den Hochrechnungen nicht berücksichtigt.'
@@ -87,6 +87,8 @@ Wer heute 2.500 Euro netto verdient, bekommt aus der gesetzlichen Rente im Durch
 Ja. Die Deutsche Rentenversicherung schickt ab dem 27. Lebensjahr jährlich eine Renteninformation per Post. Alternativ kannst du dein Rentenkonto online über das Portal der DRV einsehen.
 
 Dort siehst du: gesammelte Punkte, bisherige Beitragszeiten, und eine Hochrechnung auf die spätere Rente. Diese Hochrechnung geht von konstanten Verhältnissen aus — Inflation und Rentenreformen sind darin nicht berücksichtigt.
+
+Welche Zeiten hinter deinen Punkten stehen, zeigt der [Versicherungsverlauf](/blog/versicherungsverlauf-rentenversicherung-lesen/) — Jahr für Jahr, getrennt nach Beitrags-, beitragsfreien und Berücksichtigungszeiten. Fehlt dort etwas, etwa die Ausbildung oder ein Auslandsjahr, lässt es sich über eine [Kontenklärung](/blog/kontenklaerung-rentenversicherung-ablauf/) nachtragen. Je früher, desto leichter der Nachweis.
 
 ## Vertiefung: Häufige Rentenpunkte-Fragen
 

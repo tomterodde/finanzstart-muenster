@@ -2,7 +2,7 @@
 title: 'Rentenlücke berechnen: Formel, Tabelle & kostenloser Rechner (2026)'
 description: 'Rentenlücke berechnen in 4 Schritten: Formel, aktuelle Beispieltabelle nach Bruttogehalt und kostenloser Online-Rechner. So weißt du in 60 Sekunden, wie viel du privat vorsorgen musst.'
 pubDate: '2026-04-30'
-updatedDate: '2026-05-15'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Rentenlücke = Nettobedarf im Alter (70–80 % des heutigen Nettos) minus gesetzliche Nettorente. Bei 3.500 € Brutto / 2.300 € Netto heute liegt die typische Lücke bei rund 850 €/Monat — das entspricht ca. 255.000 € Kapitalbedarf (4 %-Entnahme) oder 230–270 € Sparrate pro Monat bei 7 % Rendite über 35 Jahre. Den kostenlosen Rechner findest du unter /rentenluecke-rechner.'
@@ -94,6 +94,8 @@ Sie zeigt dir drei zentrale Werte:
 3. **Bei jährlichen Steigerungen von 1 % bzw. 2 %** — Szenarien mit Lohnsteigerung.
 
 > **Wichtig:** Diese Zahlen sind **Bruttorente in heutigen Euro** — vor Inflation, Steuer und KV/PV-Beiträgen. Die tatsächliche Nettorente liegt deutlich darunter. [So liest du die Renteninformation richtig →](/blog/rentenbescheid-verstehen-rentenpunkte/)
+
+> **Vorher prüfen:** Die Hochrechnung ist nur so vollständig wie dein Rentenkonto. Fehlen Zeiten — etwa aus Ausbildung, Studium oder Auslandsjahren —, rechnet sie mit einer unvollständigen Grundlage. Eine [Kontenklärung](/blog/kontenklaerung-rentenversicherung-ablauf/) schließt solche Lücken, solange sich die Zeiten noch belegen lassen.
 
 **Selbst rechnen mit Entgeltpunkten:**
 

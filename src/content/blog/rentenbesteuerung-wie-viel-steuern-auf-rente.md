@@ -2,7 +2,7 @@
 title: 'Rente versteuern: Steuertabelle für Rentner 2026 — wie viel Steuern zahlst du?'
 description: 'Wie viel Steuern zahlst du auf die Rente? Steuertabelle für Rentner 2026 nach Rentenhöhe, der steuerpflichtige Anteil, KV/PV-Abzüge und wie du deine Nettorente berechnest.'
 pubDate: '2026-04-20'
-updatedDate: '2026-09-22'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
 tldr: 'Seit dem Alterseinkünftegesetz 2005 wird die gesetzliche Rente nachgelagert besteuert (§ 22 Nr. 1 Buchst. a EStG). Der steuerpflichtige Anteil hängt vom Renteneintrittsjahr ab und wurde durch das Wachstumschancengesetz (2024) verlangsamt: 2024 = 83 %, 2025 = 83,5 %, 2026 = 84 %, 2030 = 88 %, 2040 = 96 %, ab 2058 = 100 %. Der nicht-versteuerte Anteil wird beim Renteneintritt einmalig als fester Euro-Betrag fixiert und bleibt lebenslang steuerfrei (Renten-Freibetrag § 22 Nr. 1 Satz 3 EStG). Grundfreibetrag 2026: 12.348 € Single (24.696 € bei Zusammenveranlagung). Reine GRV-Renten unter ca. 1.300 €/Monat liegen auch 2026 meist noch unter dem Grundfreibetrag und sind damit steuerfrei. Zusätzliche Abzüge: KV/PV-Beiträge ca. 12,6 % der Bruttorente. Kirchensteuer 8 % oder 9 % der Einkommensteuer (Bayern/Baden-Württemberg 8 %, Rest 9 %). Reale Nettorente liegt bei ca. 75–87 % der Bruttorente.'
@@ -100,6 +100,8 @@ Wer 2005 in Rente ging, musste nur 50 % seiner Rente versteuern. Seitdem steigt 
 | ab 2058 | 100 % |
 
 Wer 2026 in Rente geht, versteuert 84 % der Rente. Der restliche Anteil (16 %) bleibt dauerhaft steuerfrei — und zwar als **fester Euro-Betrag**, der im Jahr nach dem Renteneintritt fixiert wird und lebenslang gilt. Spätere Rentenerhöhungen sind voll steuerpflichtig. Wie dieser Freibetrag genau berechnet wird und welche Bruttorente komplett steuerfrei bleibt, steht im Detail unter [Rentenfreibetrag: Was bleibt von der Rente steuerfrei?](/blog/rentenfreibetrag-was-bleibt-steuerfrei/).
+
+Maßgeblich ist das Jahr des **Rentenbeginns**, und der hängt auch am Antrag: Die Rente wird nur auf Antrag gezahlt, und wer die Drei-Monats-Frist aus § 99 SGB VI verpasst, bekommt sie erst später. Wie du den [Rentenantrag](/blog/rentenantrag-stellen-ablauf-fristen/) richtig terminierst, steht im eigenen Leitfaden.
 
 ## Ab welcher Rente musst du Steuern zahlen?
 

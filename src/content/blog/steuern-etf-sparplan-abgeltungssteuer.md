@@ -2,6 +2,7 @@
 title: 'Steuern beim ETF-Sparplan: Was du wirklich zahlen musst'
 description: 'Wie werden ETF-Gewinne besteuert? Abgeltungssteuer, Vorabpauschale und Freistellungsauftrag einfach erklärt für Berufseinsteiger.'
 pubDate: '2026-04-13'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Auf ETF-Gewinne und Ausschüttungen fällt die Abgeltungssteuer von 25 % plus Solidaritätszuschlag an — effektiv 26,375 % ohne Kirchensteuer. Der Sparerpauschbetrag von 1.000 € pro Jahr (2.000 € für Ehepaare) bleibt mit Freistellungsauftrag steuerfrei. Auf Aktien-ETFs gilt die Teilfreistellung von 30 %, der effektive Steuersatz sinkt damit auf rund 18,5 %. Solange du nicht verkaufst, fällt nur die Vorabpauschale an.'
@@ -37,6 +38,8 @@ ETF-Sparplan eingerichtet, läuft — aber was passiert steuerlich? Viele Anlege
 **1. Abgeltungssteuer auf realisierte Gewinne**
 Wenn du ETF-Anteile verkaufst und Gewinn machst, fällt Abgeltungssteuer an: 25 % plus 5,5 % Solidaritätszuschlag darauf = **26,375 %** effektiv (ohne Kirchensteuer).
 
+Bist du Kirchenmitglied, kommt Kirchensteuer hinzu — die Bank behält sie automatisch ein, gesteuert über das [KISTAM-Verfahren](/blog/sperrvermerk-kirchensteuer-kapitalertraege/). Ein Sperrvermerk stoppt nur den automatischen Abzug, nicht die Steuerpflicht.
+
 Beispiel: Du kaufst für 10.000 Euro, verkaufst für 15.000 Euro. Gewinn: 5.000 Euro. Steuer: ca. 1.319 Euro.
 
 Solange du nicht verkaufst, fällt keine Steuer an — der Steuerstundungseffekt ist ein echter Vorteil beim langfristigen Halten.
@@ -63,11 +66,15 @@ Was bedeutet das praktisch?
 
 Hast du mehrere Depots bei verschiedenen Brokern: Du kannst den Freibetrag aufteilen — aber die Summe darf 1.000 Euro nicht überschreiten.
 
+Liegt dein gesamtes zu versteuerndes Einkommen voraussichtlich unter dem Grundfreibetrag — 2026 sind das 12.348 Euro —, reicht der Freistellungsauftrag nicht weit genug. Die [NV-Bescheinigung](/blog/nv-bescheinigung-beantragen/) setzt den Steuerabzug dann vollständig aus; typisch ist das bei Studierenden und Kindern mit eigenem Depot.
+
 ## Verlustverrechnung
 
 Verluste aus ETF-Verkäufen können mit Gewinnen verrechnet werden. Broker führen automatisch einen Verlustverrechnungstopf. Nicht verrechnete Verluste werden ins nächste Jahr übertragen.
 
 Achtung: Verluste aus Aktien können nur mit Aktiengewinnen verrechnet werden, nicht mit anderen Kapitalerträgen (sog. Aktientopf). Bei ETFs gilt die allgemeine Verlustverrechnung.
+
+Liegen Verluste und Gewinne bei verschiedenen Banken, verrechnet keine der beiden sie automatisch miteinander. Dafür gibt es die [Verlustbescheinigung](/blog/verlustbescheinigung-beantragen-frist/) — der Antrag muss bis zum 15. Dezember bei der Bank sein.
 
 ## Teilfreistellung für Aktienfonds
 

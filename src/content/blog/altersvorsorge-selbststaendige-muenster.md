@@ -2,7 +2,7 @@
 title: 'Altersvorsorge für Selbstständige in Münster: Was wirklich funktioniert'
 description: 'Selbstständige in Münster haben keine automatische Rentenversicherung. Welche Strategien wirklich funktionieren — für Freiberufler, Gründer und Side-Business-Betreiber.'
 pubDate: '2026-05-09'
-updatedDate: '2026-08-25'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
 tldr: 'Selbstständige sind überwiegend nicht in GRV pflichtversichert (Ausnahmen § 2 SGB VI: Handwerker in Anlage A HwO, Lehrer/Erzieher ohne Angestellte, Künstler/Publizisten via KSVG). Vier Optionen: 1) Rürup/Basisrente (§ 10 Abs. 1 Nr. 2 EStG) — 2026 voll abzugsfähig bis 29.344 € (Ledige) / 58.688 € (Verheiratete), lebenslange Rente, pfändungssicher § 851c ZPO. 2) Freiwillige GRV-Beiträge (§ 7 SGB VI) — 2026 Mindestbeitrag 103,42 €/Monat, Maximalbeitrag 1.497,30 €/Monat (Höchstbeitragsbemessungsgrenze 8.050 €/Monat West). 3) ETF-Depot — flexibel, keine Steuerförderung in Ansparphase, 25 % Abgeltungsteuer § 32d EStG mit 30 %-Teilfreistellung bei Aktien-ETFs § 20 InvStG. 4) Neues Altersvorsorgedepot ab 2027 (Bundestagsbeschluss 27.3.2026). Laut DIW 2023 sind rund 45 % der Solo-Selbstständigen von Altersarmut bedroht.'
@@ -53,7 +53,7 @@ Für Selbstständige mit unsicherem Einkommensverlauf ist ein ETF-Depot attrakti
 
 Nachteil: Keine Steuerersparnis bei Einzahlung, keine Garantie der Verrentung. Disziplin erforderlich.
 
-Ab 2027 kommt mit dem neuen Altersvorsorgedepot eine geförderte Variante dieses Ansatzes hinzu, die erstmals auch Selbstständigen offensteht — [was das für die Rürup-Kombination konkret bedeutet, erklärt dieser Artikel](/blog/altersvorsorgedepot-selbststaendige/).
+Ab 2027 kommt mit dem neuen Altersvorsorgedepot eine geförderte Variante dieses Ansatzes hinzu, die erstmals auch Selbstständigen offensteht — [was das für die Rürup-Kombination konkret bedeutet, erklärt dieser Artikel](/blog/altersvorsorgedepot-selbststaendige/). Was das Depot speziell für Selbstständige und Freiberufler hier vor Ort bedeutet und welche Anbieter infrage kommen, steht im Artikel [Altersvorsorgedepot in Münster](/blog/altersvorsorgedepot-muenster/).
 
 ### Option 4: Immobilie als dritte Säule
 

@@ -2,6 +2,7 @@
 title: 'Rentenlücke: Was Berufseinsteiger in Münster wissen müssen'
 description: 'Die gesetzliche Rente wird nicht reichen – das ist Fakt. Wie groß deine Rentenlücke wirklich ist und was du jetzt tun kannst, erklärt dieser Artikel.'
 pubDate: '2026-04-07'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
 tldr: 'Das aktuelle gesetzliche Rentenniveau liegt bei 48 % und sinkt laut Rentenversicherungsbericht der Bundesregierung langfristig weiter. Bei empfohlenen 70–80 % des letzten Nettoeinkommens als Ziel ergibt sich für typische Berufseinsteiger eine Rentenlücke von 500–1.000 € monatlich. Ursachen: Demografischer Wandel (1970: 4 Beitragszahler pro Rentner, heute: 2), gesetzlich festgelegtes sinkendes Rentenniveau (§ 154 SGB VI), 2 % durchschnittliche Inflation halbiert Kaufkraft in 35 Jahren. Wer mit 25 statt 35 anfängt (100 €/Monat, 6 % p.a.), hat mit 67 rund 201.000 € statt 101.000 €.'
@@ -87,14 +88,16 @@ Das ist keine Magie – das ist Mathematik. Und sie arbeitet für dich, wenn du 
 
 Hier ein einfacher Einstieg ohne Überforderung:
 
-**Schritt 1: Rentenbescheid anschauen**
-Du bekommst ab 27 jährlich einen Rentenbescheid von der Deutschen Rentenversicherung. Falls du noch keinen hast: [rentenbescheid.de](https://www.deutsche-rentenversicherung.de) – dort kannst du eine Rentenauskunft anfordern. Das dauert 5 Minuten.
+**Schritt 1: Renteninformation anschauen**
+Ab 27 bekommst du jährlich eine Renteninformation von der Deutschen Rentenversicherung, sofern du mindestens fünf Beitragsjahre hast. Falls du noch keine hast: Im Online-Konto der [Deutschen Rentenversicherung](https://www.deutsche-rentenversicherung.de) kannst du deinen Versicherungsverlauf abrufen — [wie du ihn liest](/blog/versicherungsverlauf-rentenversicherung-lesen/).
 
 **Schritt 2: Lücke ausrechnen**
 Nimm deinen erwarteten Rentenbetrag und vergleiche ihn mit deinem gewünschten Lebensstandard im Alter. Die Differenz – das ist deine Lücke.
 
 **Schritt 3: Informieren, nicht verkaufen lassen**
 Es gibt verschiedene Wege, die Lücke zu schließen: ETF-Sparplan, betriebliche Altersvorsorge, Riester, Rürup, private Rentenversicherung. Jeder Weg hat Vor- und Nachteile – und keiner passt für alle gleich.
+
+Ab 2027 kommt das Altersvorsorgedepot dazu, das Riester für Neuverträge ablöst. Was es für Berufseinsteiger in Münster bedeutet, steht im Artikel [Altersvorsorgedepot in Münster](/blog/altersvorsorgedepot-muenster/).
 
 **Das Wichtigste: Fang an.** Lieber 50 € im Monat jetzt als 200 € in zehn Jahren.
 

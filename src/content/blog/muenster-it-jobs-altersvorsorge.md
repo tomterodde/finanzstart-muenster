@@ -2,6 +2,7 @@
 title: 'IT-Jobs in Münster: Was Softwareentwickler bei der Altersvorsorge beachten sollten'
 description: 'IT-Fachkräfte in Münster verdienen gut — aber haben oft Lücken bei Altersvorsorge, BU und staatlichen Ansprüchen. Was gerade in der Tech-Branche zählt.'
 pubDate: '2026-05-16'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'
 tldr: 'IT-Berufe in Münster Risikogruppe 1 (niedrigstes Risiko) für BU-Versicherung § 172 VVG: typische Prämie 28-jähriger Softwareentwickler für 3.000 € BU-Rente bis 67 Jahre: 40-65 €/Monat (Stand Stiftung Warentest 06/2024). Durchschnittsgehalt IT Münster 2025: Junior Entwickler 50.000-58.000 € Brutto, Senior 75.000-95.000 €, Tech Lead 90.000-120.000 € (Quelle StepStone Gehaltsreport 2025, Münsteraner IHK-Lohnstatistik). Rentenlücke berufstypisch: bei 80.000 € Brutto und 40 Beitragsjahren ca. 1.500-2.000 €/Monat Rentenlücke nach Inflation, Standardrente nicht kompensiert. bAV-Pflichtzuschuss seit 01.01.2022 § 1a Abs. 1a BetrAVG: 15 % der Bruttogehaltsumwandlung. IT-Tarif typisch 25-50 % Arbeitgeberzuschuss → Bruttoverdoppelung Sparbetrag. Aktienoptionen/RSUs § 19a EStG (geänderter Steuerlatenz seit 01.07.2024 mit Zukunftsfinanzierungsgesetz): bis 5.000 €/Jahr steuerstundbar bei Startup-Anteilen. Freelancer-Empfehlung: Künstlersozialkasse nicht zugänglich, freiwillige GRV § 7 SGB VI oder Rürup mit max. 27.566 € absetzbar 2026.'
@@ -59,6 +60,8 @@ Viele IT-Unternehmen (besonders internationale) bieten Aktienoptionen oder Restr
 ### Freelancing als IT-Consultant: Rentenversicherung selbst gestalten
 
 Wer als IT-Freelancer arbeitet: [Altersvorsorge für Selbstständige ist Pflichtlektüre](/blog/rente-selbststaendige-alternativen/). Bei hohem Einkommen: Rürup für den steuerlichen Hebel, ETF-Depot für Flexibilität.
+
+Neu ab 2027: Das [Altersvorsorgedepot](/blog/altersvorsorgedepot-muenster/) steht erstmals auch Selbstständigen offen — eine Zulagenförderung, die Freelancern bei Riester bisher verschlossen war.
 
 ## Was IT-Fachkräfte in Münster konkret tun sollten
 

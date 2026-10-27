@@ -2,6 +2,7 @@
 title: 'Rentenbescheid verstehen: Was auf der Renteninformation steht — und was nicht'
 description: 'Deine Renteninformation kommt jährlich per Post. Was die Zahlen bedeuten, was fehlt — und warum du sie aktiv lesen solltest.'
 pubDate: '2026-05-12'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Altersvorsorge'
 tldr: 'Die Renteninformation (§ 109 SGB VI) wird ab dem 27. Lebensjahr bei mindestens 5 Beitragsjahren jährlich automatisch zugesendet. Drei zentrale Werte: 1) Aktuelle Anwartschaft (was bei sofortigem Stopp bezahlt würde), 2) Hochrechnung bei gleichbleibendem Verlauf bis 67, 3) Optimistische Variante mit +1 % Lohnwachstum. Aktueller Rentenwert seit 1.7.2025: 40,79 €/Entgeltpunkt (+3,74 % laut Rentenwertbestimmungsverordnung 2025). Abzüge auf die Bruttorente: ca. 11–12 % KV/PV-Beiträge plus zunehmende Besteuerung (2025: 83,5 % steuerpflichtig, ab 2058 100 % nach Wachstumschancengesetz). Reale Nettorente liegt bei ca. 75–80 % der Bruttorente. Rentenkontoklärung (§ 149 SGB VI) ist kostenlos beantragbar und sollte alle 5–10 Jahre durchgeführt werden — Lücken werden mit zunehmendem Alter schwerer nachzuweisen. Online-Konto-Auszug jederzeit über deutsche-rentenversicherung.de mit AusweisApp/Briefcode-Zugang.'
@@ -53,6 +54,8 @@ Außerdem: **Beitragszeiten**, die erfassten Beitragsjahre, sowie ggf. Hinweise 
 
 **Schritt 1: Beitragszeiten prüfen.** Fehlen Jahre? Studienjahre, Auslandsaufenthalte, Krankheitszeiten — manchmal werden Zeiten nicht korrekt erfasst. Über das **Rentenkonto klären** (Antrag bei der DRV) können fehlende Zeiten nachgemeldet werden.
 
+Die Renteninformation selbst zeigt nur Ergebnisse, nicht die einzelnen Zeiten. Die stehen im **Versicherungsverlauf**, den du bei der DRV anfordern oder im Online-Konto abrufen kannst — [wie du ihn liest und auf Lücken prüfst](/blog/versicherungsverlauf-rentenversicherung-lesen/).
+
 **Schritt 2: Hochgerechnete Rente als Ausgangspunkt nehmen** — und davon 15–20 % für Steuern und KV abziehen, um die reale Nettorente zu schätzen.
 
 **Schritt 3: Rentenlücke berechnen.** [Wie das geht, erklärt dieser Artikel.](/blog/rentenluecke-berechnen-schliessen/)
@@ -72,7 +75,7 @@ Fehlerhafte oder fehlende Zeiten im Rentenkonto können Auswirkungen auf:
 - Wartezeit für Erwerbsminderungsrente (5 Jahre Pflichtbeiträge nötig)
 - Anspruch auf abschlagsfreie Rente (45 Jahre Pflichtbeiträge)
 
-Antrag auf **Kontenklärung** bei der DRV stellen — das ist kostenlos und sollte spätestens alle 5–10 Jahre gemacht werden.
+Antrag auf [**Kontenklärung**](/blog/kontenklaerung-rentenversicherung-ablauf/) bei der DRV stellen — das ist kostenlos und sollte spätestens alle 5–10 Jahre gemacht werden.
 
 ## Fazit
 

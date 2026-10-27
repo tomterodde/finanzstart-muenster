@@ -2,6 +2,7 @@
 title: 'WWU-Absolvent: Dein Finanzcheck zum Berufsstart in Münster'
 description: 'Frisch von der WWU Münster und jetzt berufstätig? Diese 7 Finanzentscheidungen solltest du im ersten Jahr treffen — bevor es zu spät ist.'
 pubDate: '2026-04-08'
+updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Sieben Finanzweichen für WWU-Absolventen im ersten Berufsjahr in Münster: (1) Notgroschen 3 Monatsausgaben auf Tagesgeldkonto (Stand 2025: 2,5–3,5 % Zins), (2) Privathaftpflicht (5–10 €/Monat, 10–15 Mio. € Versicherungssumme), (3) Berufsunfähigkeitsversicherung sofort beim ersten Job — Beiträge steigen jährlich mit Alter und Risiko, (4) ETF-Sparplan mit MSCI World oder FTSE All-World ab 50–100 €/Monat, (5) bAV nur mit Arbeitgeberzuschuss von mindestens 20 %, (6) Krankenversicherung gesetzlich oder privat — privat lohnt sich erst ab 65–70k Bruttojahresgehalt und ohne geplante Familie, (7) erste Steuererklärung mit Werbungskosten Berufsstart absetzen.'
@@ -64,6 +65,8 @@ Die gesetzliche Rente wird für dich nicht reichen. Das ist keine Meinung — da
 [Was die Rentenlücke ist und warum sie Berufseinsteiger in Münster besonders trifft, erklärt dieser Artikel.](/blog/rentenlücke-berufseinsteiger-münster/)
 
 Der Zinseszinseffekt belohnt frühen Start extrem. [Wie mächtig das konkret ist, erklärt dieser Artikel.](/blog/zinseszins-erklaert-berufseinsteiger/)
+
+Wer noch keine 25 ist, hat ab 2027 einen zusätzlichen Grund, nicht zu warten: Das neue Altersvorsorgedepot zahlt bei Abschluss vor dem 25. Geburtstag einmalig 200 Euro Berufseinsteigerbonus. [Was das für Absolventen in Münster bedeutet.](/blog/altersvorsorgedepot-muenster/)
 
 ## 6. Prüfe die betriebliche Altersvorsorge deines Arbeitgebers
 
