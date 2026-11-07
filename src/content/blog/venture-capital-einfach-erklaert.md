@@ -71,6 +71,8 @@ Laut BVK fließt das meiste Kapital in Software, Klimatechnologie, Gesundheit un
 
 **Als Student mit Finance-Interesse:** VC ist ein kleiner, aber attraktiver Arbeitsmarkt. Der Einstieg läuft meist über Analyst-Programme, Startup-Praktika oder eigene Gründungserfahrung — die Denkweise (Märkte bewerten, Teams einschätzen) unterscheidet sich deutlich vom [zahlengetriebenen Investment Banking](/blog/investment-banking-einstieg-gehalt/).
 
+**Als Mitarbeiter eines Startups:** VC-finanzierte Unternehmen zahlen oft unter Marktniveau und gleichen das mit einer Beteiligung aus. Was solche virtuellen oder echten Anteile im Exit tatsächlich bringen, hängt an Vesting und Liquidationspräferenz — [der Überblick zu VSOP und ESOP](/blog/vsop-esop-mitarbeiterbeteiligung-startup/) rechnet es durch.
+
 **Als Anleger:** Direkter Zugang zu VC-Fonds bleibt institutionellen Investoren vorbehalten. Wer dem Thema nahe kommen will, tut das realistisch über [die grundsätzliche Anlageklasse Private Equity](/blog/private-equity-erklaert-grundlagen/) — mit allen dort beschriebenen Einschränkungen bei Liquidität und Mindestanlagen.
 
 ## Fazit

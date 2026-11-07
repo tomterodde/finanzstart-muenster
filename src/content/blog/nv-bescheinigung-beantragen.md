@@ -82,6 +82,8 @@ Die NV-Bescheinigung ist ein Liquiditäts- und Vereinfachungsinstrument, kein St
 
 Wie Kapitalerträge grundsätzlich besteuert werden und wie Sparerpauschbetrag und Abgeltungsteuer zusammenspielen, steht in der [Übersicht zu Steuern auf den ETF-Sparplan](/blog/steuern-etf-sparplan-abgeltungssteuer/). Wenn es um ein Depot für Kinder geht, sind die Nebenwirkungen jenseits der Steuer der wichtigere Teil der Entscheidung — [nachzulesen hier](/blog/geldanlage-fuer-kinder-muenster/). Und wer gerade erst ein Depot eröffnet, findet die Grundlagen inklusive Freistellungsauftrag im [Leitfaden für Berufseinsteiger](/blog/depot-eroeffnen-berufseinsteiger/).
 
+Wer Depots bei mehreren Banken führt, hat neben Freistellungsauftrag und NV-Bescheinigung ein drittes Werkzeug: die [Verlustbescheinigung](/blog/verlustbescheinigung-beantragen-frist/). Mit ihr verrechnet das Finanzamt Verluste bei der einen Bank mit Gewinnen bei der anderen.
+
 Ob NV-Bescheinigung, Freistellungsauftrag oder beides an verschiedenen Banken für deine Situation passt, hängt an der Einkommensprognose und daran, wie sich dein Vermögen aufteilt. Das lässt sich pauschal nicht beantworten.
 
 ## Fazit

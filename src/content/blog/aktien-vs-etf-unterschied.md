@@ -27,7 +27,7 @@ sources:
 
 ## Was ist eine Einzelaktie?
 
-Eine Aktie ist ein Unternehmensanteil. Wer eine Apple-Aktie kauft, ist Miteigentümer von Apple — mit allen Rechten und Risiken. Steigt Apple, steigt dein Investment. Bricht Apple ein, verlierst du.
+Eine Aktie ist ein Unternehmensanteil. Wer eine Apple-Aktie kauft, ist Miteigentümer von Apple — mit allen Rechten und Risiken. Steigt Apple, steigt dein Investment. Bricht Apple ein, verlierst du. Als Miteigentümer erlebst du auch Kapitalmaßnahmen direkt im Depot, etwa einen [Aktiensplit](/blog/aktiensplit-was-passiert-mit-aktien/), bei dem sich die Stückzahl ändert, der Wert deiner Position aber nicht.
 
 Das Risiko ist konzentriert auf ein einziges Unternehmen. Das ist kein theoretisches Problem: Nokia, Wirecard, Lehman Brothers — alle waren mal sichere Investments, bevor sie es nicht mehr waren.
 

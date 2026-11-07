@@ -73,6 +73,8 @@ Carried Interest steht steuerlich in der Kritik. In Deutschland gilt für Carry 
 
 Kritiker argumentieren, dass hier Arbeitseinkommen wie eine Kapitalanlage behandelt wird. Befürworter halten dagegen, dass die Manager echtes unternehmerisches Risiko tragen. Die Debatte ist in mehreren Ländern aktiv — eine Reform ist nicht ausgeschlossen.
 
+Eine Ebene tiefer, in den finanzierten Startups, gibt es das Gegenstück für Mitarbeitende: Beteiligungsprogramme wie [VSOP und ESOP](/blog/vsop-esop-mitarbeiterbeteiligung-startup/). Steuerlich laufen sie anders — die Auszahlung aus einem VSOP ist voll steuerpflichtiger Arbeitslohn.
+
 Wer die Schattenseiten der Anlageklasse insgesamt verstehen will, findet sie in [Private Equity Nachteile](/blog/private-equity-nachteile-schattenseite/).
 
 ## Fazit

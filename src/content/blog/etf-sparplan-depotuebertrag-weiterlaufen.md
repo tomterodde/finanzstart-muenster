@@ -31,6 +31,8 @@ Ein Depotübertrag (auch Wertpapierübertrag genannt) verschiebt deine **bereits
 
 Möglich macht das § 43a EStG: Die abgebende depotführende Stelle ist verpflichtet, der aufnehmenden Stelle die ursprünglichen Anschaffungsdaten und -kosten deiner Wertpapiere zu übermitteln. Der neue Broker weiß damit genau, wann und zu welchem Preis du die ETF-Anteile ursprünglich gekauft hast — wichtig für die spätere Steuerberechnung bei einem Verkauf.
 
+Auch deine Verlusttöpfe gehen nicht verloren: Überträgst du alle Wertpapiere, teilt die alte Bank der neuen auf Verlangen die noch nicht verrechneten Verluste mit. Eine [Verlustbescheinigung](/blog/verlustbescheinigung-beantragen-frist/) brauchst du nur, wenn du das alte Depot weiterführst.
+
 ## Der Sparplan-Auftrag wird NICHT automatisch mitübertragen
 
 Hier liegt der häufigste Stolperstein: Ein Sparplan ist technisch gesehen kein Wertpapierbestand, sondern ein **Dauerauftrag** — eine Order-Einstellung, die dein bisheriger Broker regelmäßig ausführt. Diese Einstellung ist an das Konto beim alten Broker gebunden und wird beim Depotübertrag **nicht** mit übertragen.

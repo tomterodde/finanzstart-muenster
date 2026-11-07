@@ -93,6 +93,8 @@ Typischer Pfad: 2–3 Jahre Investment Banking → PE-Associate. [Wie der Karrie
 
 Typische VC-Pfade: **Tech-Gründer mit Exit** → VC-Partner. **Top-Operator** (Google PM, Meta Engineer Director) → VC. **Strategy Consulting** (BCG, Bain) → VC. Reine IB-Karriere ist im VC seltener.
 
+Wer nicht beim Fonds, sondern bei einem der finanzierten Startups anfängt, wird häufig zusätzlich mit Anteilen bezahlt. [Wie VSOP und ESOP funktionieren und was sie im Exit wert sind](/blog/vsop-esop-mitarbeiterbeteiligung-startup/), solltest du vor der Unterschrift verstanden haben.
+
 ## Was das für dich als BWL-Student bedeutet
 
 **Wenn dich Excel-Modelle und M&A-Strategie faszinieren** → PE ist der natürliche Pfad.

@@ -64,7 +64,7 @@ Wo die Due Diligence im großen Ganzen sitzt — zwischen erster Ansprache, Kauf
 
 Die Due Diligence ist kein Formalakt, sondern ein Verhandlungshebel. Jeder gefundene Risikofaktor verschiebt die Position des Käufers.
 
-Findet das Team etwa einen wichtigen Kundenvertrag, der bald ausläuft, sinkt der faire Wert des Unternehmens. Der Käufer kann daraufhin den Preis drücken oder Garantien vom Verkäufer verlangen.
+Findet das Team etwa einen wichtigen Kundenvertrag, der bald ausläuft, sinkt der faire Wert des Unternehmens. Der Käufer kann daraufhin den Preis drücken oder Garantien vom Verkäufer verlangen. Bleibt die Unsicherheit groß, wird ein Teil des Preises an spätere Ergebnisse gekoppelt, als [Earn-out](/blog/earn-out-unternehmenskauf-erklaert/).
 
 So fließen die Erkenntnisse direkt in die Renditerechnung ein — und damit in Kennzahlen wie den [Internal Rate of Return](/blog/irr-internal-rate-of-return-einfach-erklaert/), nach denen PE-Fonds ihren Erfolg messen.
 

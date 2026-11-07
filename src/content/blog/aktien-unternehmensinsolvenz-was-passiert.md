@@ -56,7 +56,7 @@ Die Ränge 2 und 3 werden zudem meist nicht vollständig, sondern nur anteilig n
 
 In der Praxis ist es selten, dass nach der vollständigen Befriedigung aller Gläubiger noch etwas für die Aktionäre übrig bleibt. Bei den meisten großen Aktien-Insolvenzen der letzten Jahre — Wirecard ist das bekannteste deutsche Beispiel — wurden die Aktien de facto wertlos. Das ist kein Ausreißer, sondern die strukturelle Konsequenz der Nachrangigkeit von Eigenkapital.
 
-**Wichtig zur Einordnung:** Nicht jedes Delisting ist eine Insolvenz. Aktien können auch von der Börse genommen werden, weil ein Unternehmen übernommen wird oder sich freiwillig zurückzieht — in solchen Fällen erhalten Aktionäre häufig ein Abfindungsangebot. Das unterscheidet sich fundamental von einem insolvenzbedingten Delisting.
+**Wichtig zur Einordnung:** Nicht jedes Delisting ist eine Insolvenz. Aktien können auch von der Börse genommen werden, weil ein Unternehmen übernommen wird oder sich freiwillig zurückzieht — in solchen Fällen erhalten Aktionäre häufig ein Abfindungsangebot. Hält ein Großaktionär 95 % der Aktien, kann er die übrigen Aktionäre sogar gegen eine Barabfindung hinausdrängen — [wie ein Squeeze-out abläuft](/blog/squeeze-out-aktien-was-passiert/). Das unterscheidet sich fundamental von einem insolvenzbedingten Delisting.
 
 ## Was Fonds und ETFs anders macht — und was nicht
 
@@ -67,6 +67,8 @@ Wer über einen ETF oder Fonds in Aktien investiert, ist durch das Sondervermög
 Ein Totalverlust ist steuerlich nicht verloren. Bucht die Bank wertlos gewordene Aktien aus, behandelt die Finanzverwaltung das als Aktienverlust (BMF-Schreiben vom 14.05.2025, Rz. 118). Er landet im Aktienverlusttopf und lässt sich mit Gewinnen aus Aktienverkäufen verrechnen — nicht mit Zinsen, Dividenden oder ETF-Gewinnen.
 
 Die früher geltende Deckelung auf **20.000 € pro Jahr** (§ 20 Abs. 6 Satz 6 EStG a. F.) gibt es nicht mehr: Das Jahressteuergesetz 2024 hat sie für alle noch offenen Fälle aufgehoben. Was im selben Jahr nicht verrechnet werden kann, wird vorgetragen.
+
+Liegt der Verlust bei einer anderen Bank als deine Gewinne, verrechnet die Bank ihn nicht von selbst. Dann brauchst du eine [Verlustbescheinigung, die bis zum 15. Dezember beantragt sein muss](/blog/verlustbescheinigung-beantragen-frist/).
 
 ## Wie du dich schützt
 

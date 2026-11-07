@@ -59,6 +59,8 @@ Ein strukturierter Verkaufsprozess folgt einer festen Choreografie:
 
 Herzstück ist die [Due Diligence](/blog/due-diligence-private-equity-ablauf/) — hier entscheidet sich, ob der indikative Preis hält oder nachverhandelt wird. Zwischen Signing und Closing liegt der Deal rechtlich in der Schwebe: Erst wenn alle Vollzugsbedingungen erfüllt sind, fließt Geld.
 
+Liegen Käufer und Verkäufer beim Preis auseinander, überbrückt oft ein [Earn-out](/blog/earn-out-unternehmenskauf-erklaert/) die Lücke: Ein Teil des Kaufpreises fließt erst, wenn das Unternehmen nach dem Closing vereinbarte Ziele erreicht. Bei börsennotierten Zielen gibt es eine weitere Besonderheit: Wer nach der Übernahme 95 % der Aktien hält, kann die restlichen Aktionäre per [Squeeze-out](/blog/squeeze-out-aktien-was-passiert/) gegen Barabfindung hinausdrängen.
+
 ## Warum viele Deals scheitern
 
 Die unbequeme Wahrheit der Branche: Ein erheblicher Teil aller Übernahmen vernichtet Wert, statt ihn zu schaffen. Studien beziffern die Quote gescheiterter oder hinter den Erwartungen gebliebener Deals seit Jahrzehnten auf grob die Hälfte.

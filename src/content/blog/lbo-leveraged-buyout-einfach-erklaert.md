@@ -39,6 +39,8 @@ Ein typischer LBO besteht aus zwei Finanzierungsbausteinen:
 - **Eigenkapital (Equity):** Das Geld aus dem Private-Equity-Fonds. Anteil am Kaufpreis: meist 30 bis 50 %.
 - **Fremdkapital (Debt):** Bankkredite und Anleihen, besichert durch das Zielunternehmen. Anteil: meist 50 bis 70 %.
 
+Auf der Kaufpreisseite kommt in vielen Deals ein dritter Baustein dazu: ein [Earn-out](/blog/earn-out-unternehmenskauf-erklaert/), bei dem ein Teil des Preises erst später und abhängig vom Erfolg gezahlt wird. Er senkt den Betrag, der beim Closing finanziert werden muss.
+
 Je höher der Fremdkapitalanteil, desto stärker der Hebel — und desto größer sowohl die Renditechance als auch das Risiko. [Wie Private-Equity-Firmen mit dieser Struktur Geld verdienen, erklärt dieser Artikel im Detail](/blog/wie-verdienen-private-equity-firmen-geld/).
 
 ## Das Rechenbeispiel: Warum der Hebel wirkt

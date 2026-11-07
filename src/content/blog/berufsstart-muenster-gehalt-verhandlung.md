@@ -68,7 +68,7 @@ Die erste Zahl gewinnt in der Psychologie. Nenn dein Zielgehalt als Eröffnung �
 Wer nach dem Nennen der Zahl sofort relativiert, verliert. Zahl nennen — Pause halten.
 
 **Schritt 5: Alternativen kennen**
-Wenn das Grundgehalt nicht verhandelbar ist: Einmalzahlung, frühere erste Gehaltsüberprüfung, Homeoffice-Regelung, Weiterbildungsbudget.
+Wenn das Grundgehalt nicht verhandelbar ist: Einmalzahlung, frühere erste Gehaltsüberprüfung, Homeoffice-Regelung, Weiterbildungsbudget. Startups bieten statt mehr Gehalt oft eine Mitarbeiterbeteiligung an — [was VSOP und ESOP im Ernstfall wert sind](/blog/vsop-esop-mitarbeiterbeteiligung-startup/), solltest du nachrechnen, bevor du dafür auf Grundgehalt verzichtest.
 
 ## Was viele vergessen: Altersvorsorge und Gehalt hängen zusammen
 

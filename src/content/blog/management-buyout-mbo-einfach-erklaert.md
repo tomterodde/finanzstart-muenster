@@ -43,6 +43,8 @@ Das zentrale Problem: Manager verdienen gut, aber selten genug, um ein ganzes Un
 
 In der Praxis ist der PE-Partner häufig der entscheidende Geldgeber. Er bringt nicht nur Kapital, sondern auch Erfahrung in Wachstum und späterem Verkauf mit.
 
+Oft hilft auch der bisherige Eigentümer mit: Er knüpft einen Teil des Kaufpreises an die künftige Entwicklung des Unternehmens. Ein solcher [Earn-out](/blog/earn-out-unternehmenskauf-erklaert/) senkt den Betrag, den das Management am Tag des Kaufs finanzieren muss.
+
 ## MBO, MBI und LBO: Wo ist der Unterschied?
 
 Die Begriffe werden oft verwechselt. Die Abgrenzung ist aber einfach:

@@ -31,6 +31,8 @@ Ein Unternehmen kauft eigene Aktien am Markt zurück — genau wie ein Anleger, 
 
 In beiden Fällen sinkt die Zahl der am Markt frei handelbaren Aktien. Das hat einen mechanischen Effekt: Der gleiche Unternehmensgewinn verteilt sich auf weniger Aktien — der **Gewinn pro Aktie (Earnings per Share, EPS)** steigt automatisch, selbst wenn das operative Geschäft überhaupt nicht gewachsen ist.
 
+Darin liegt der Unterschied zum [Aktiensplit](/blog/aktiensplit-was-passiert-mit-aktien/): Der Split ändert nur die Stückelung, jede Aktie steht danach für denselben Anteil am Unternehmen wie vorher, nur aufgeteilt. Nach einem Rückkauf mit Einziehung steht jede verbleibende Aktie für einen etwas größeren Teil.
+
 ## Warum Unternehmen Buybacks Dividenden vorziehen
 
 **Flexibilität für den Anleger.** Bei einer Dividende bekommt jeder Aktionär automatisch eine Barausschüttung — und wird dadurch sofort steuerpflichtig, unabhängig davon, ob er das Geld gerade braucht oder lieber reinvestiert hätte. Bei einem Buyback entscheidet jeder Aktionär selbst: Wer verkauft, realisiert einen Gewinn und zahlt Steuern darauf. Wer hält, profitiert indirekt über den höheren Gewinn pro Aktie und potenziell steigende Kurse — ganz ohne eigenes Zutun und ohne sofortige Steuerpflicht.
@@ -56,6 +58,8 @@ Anders als in den USA, wo Rückkäufe historisch liberaler gehandhabt wurden, un
 ## Was das für dich als Anleger bedeutet
 
 Hältst du Aktien eines Unternehmens, das ein großes Rückkaufprogramm ankündigt, profitierst du potenziell doppelt: durch den höheren Gewinn pro Aktie und die zusätzliche Kaufnachfrage, die den Kurs stützen kann. Wichtig bleibt aber, das Rückkaufprogramm im Kontext zu bewerten — ein Unternehmen, das primär über Buybacks statt über echtes Wachstum glänzt, kann langfristig ein Warnsignal sein, kein Kaufargument allein.
+
+Am weitesten in deine Position als Aktionär greift übrigens eine andere Maßnahme ein: der [Squeeze-out](/blog/squeeze-out-aktien-was-passiert/), bei dem ein Hauptaktionär mit 95 % die Minderheit gegen Barabfindung aus der Gesellschaft drängt.
 
 ## Fazit
 
