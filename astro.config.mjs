@@ -11,7 +11,7 @@ export default defineConfig({
 		mdx(),
 		sitemap({
 			filter: (page) =>
-				!/\/(datenschutz|impressum|newsletter-bestaetigt)\/?$/.test(page),
+				!/\/(datenschutz|impressum|newsletter-bestaetigt|finanzcheck|zusammenarbeiten)\/?$/.test(page),
 		}),
 	],
 });

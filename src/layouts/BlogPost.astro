@@ -7,12 +7,13 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
+import { ORGANIZATION_ID, ORGANIZATION_SCHEMA, PERSON_SCHEMA, SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'] & {
 	relatedPosts?: CollectionEntry<'blog'>[];
 };
 
-const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, category, tldr, faq, sources, relatedPosts } = Astro.props;
+const { title, seoTitle, description, pubDate, updatedDate, heroImage, heroImageAlt, category, tldr, faq, sources, relatedPosts } = Astro.props;
 const heroAlt = heroImageAlt ?? title;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
@@ -31,32 +32,13 @@ const articleSchema = {
 		'@type': 'WebPage',
 		'@id': canonicalURL,
 	},
-	author: {
-		'@type': 'Person',
-		name: 'Tom Terodde',
-		url: `${siteURL}/about`,
-		jobTitle: 'Finanzberater',
-		worksFor: {
-			'@type': 'Organization',
-			name: 'Finanzstart Münster',
-		},
-		knowsAbout: [
-			'Altersvorsorge',
-			'Berufsunfähigkeitsversicherung',
-			'Vermögensaufbau',
-			'ETF-Investments',
-			'Einkommenssicherung',
-			'Finanzplanung für Berufseinsteiger',
-		],
-	},
+	author: { ...PERSON_SCHEMA, worksFor: { '@id': ORGANIZATION_ID, '@type': 'Organization', name: SITE_TITLE } },
 	publisher: {
 		'@type': 'Organization',
-		name: 'Finanzstart Münster',
-		url: siteURL,
-		logo: {
-			'@type': 'ImageObject',
-			url: `${siteURL}/favicon.svg`,
-		},
+		'@id': ORGANIZATION_ID,
+		name: ORGANIZATION_SCHEMA.name,
+		url: ORGANIZATION_SCHEMA.url,
+		logo: ORGANIZATION_SCHEMA.logo,
 	},
 	inLanguage: 'de-DE',
 };
@@ -87,7 +69,14 @@ const faqSchema = faq && faq.length > 0 ? {
 
 <html lang="de">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage} />
+		<BaseHead
+			title={seoTitle ?? title}
+			description={description}
+			image={heroImage}
+			ogType="article"
+			publishedTime={pubDate}
+			modifiedTime={updatedDate}
+		/>
 		<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 		{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}

@@ -96,7 +96,7 @@ Die Spannen sind Bruttowerte. Provision ist voll steuerpflichtig, bei Angestellt
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Konkret werden?</p>
   <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du überlegst, selbst auf Provision zu arbeiten?</h3>
   <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich arbeite selbst nach diesem Modell und zeige dir in 30 Minuten, wie der Einstieg aussieht — nebenberuflich oder als Haupttätigkeit. Kein Pitch, kein Abschlussdruck.</p>
-  <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
+  <a href="/zusammenarbeiten/" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
 </aside>
 
 ## Fazit

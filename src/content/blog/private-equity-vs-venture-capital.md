@@ -1,6 +1,6 @@
 ---
 title: 'Private Equity vs. Venture Capital: Wo liegt der Unterschied?'
-description: 'PE und VC sind beide Eigenkapital-Investments — aber in völlig unterschiedlichen Lebensphasen von Unternehmen. Strategien, Renditen und Risiken im direkten Vergleich.'
+description: 'Private Equity vs. Venture Capital: beide investieren Eigenkapital, aber in ganz anderen Unternehmensphasen. Strategien, Renditen und Risiken im Vergleich.'
 pubDate: '2026-06-05'
 updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'

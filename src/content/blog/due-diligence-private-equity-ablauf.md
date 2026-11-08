@@ -1,6 +1,6 @@
 ---
 title: 'Due Diligence im Private Equity: Wie ein Deal wirklich geprüft wird'
-description: 'Due Diligence ist die systematische Prüfung eines Unternehmens vor dem Kauf. Welche Arten es gibt, wie der Ablauf aussieht und warum die Phase über Erfolg oder Scheitern eines PE-Deals entscheidet.'
+description: 'Due Diligence ist die Prüfung eines Unternehmens vor dem Kauf. Welche Arten es gibt, wie der Ablauf aussieht und warum sie über einen PE-Deal entscheidet.'
 pubDate: '2026-07-06'
 updatedDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'

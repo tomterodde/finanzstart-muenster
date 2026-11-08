@@ -1,6 +1,6 @@
 ---
 title: 'Rentenlücke berechnen: Formel, Tabelle & kostenloser Rechner (2026)'
-description: 'Rentenlücke berechnen in 4 Schritten: Formel, aktuelle Beispieltabelle nach Bruttogehalt und kostenloser Online-Rechner. So weißt du in 60 Sekunden, wie viel du privat vorsorgen musst.'
+description: 'Rentenlücke berechnen in 4 Schritten: Formel, Beispieltabelle nach Bruttogehalt und kostenloser Rechner. So weißt du schnell, wie viel du vorsorgen musst.'
 pubDate: '2026-04-30'
 updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'

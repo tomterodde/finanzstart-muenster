@@ -1,6 +1,6 @@
 ---
 title: 'Vermögenswirksame Leistungen: Bis zu 480 € Extra-Geld vom Arbeitgeber'
-description: 'Vermögenswirksame Leistungen (VL) einfach erklärt: Wer Anspruch hat, welche Anlageformen es gibt, wie die Arbeitnehmersparzulage funktioniert — mit Rechenbeispiel.'
+description: 'Vermögenswirksame Leistungen einfach erklärt: wer Anspruch hat, welche Anlageformen es gibt und wie die Arbeitnehmersparzulage funktioniert, mit Rechenbeispiel.'
 pubDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'

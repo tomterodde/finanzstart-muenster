@@ -1,6 +1,6 @@
 ---
 title: 'Stornohaftung: Warum Vermittler Provision zurückzahlen müssen (§ 49 VAG)'
-description: 'Stornohaftung einfach erklärt: Warum Versicherungsvermittler bei früher Kündigung Provision zurückzahlen, wie die Fünfjahresfrist nach § 49 VAG rechnet und was die Stornoreserve ist.'
+description: 'Stornohaftung einfach erklärt: warum Vermittler bei früher Kündigung Provision zurückzahlen, wie die Frist nach § 49 VAG rechnet und was die Stornoreserve ist.'
 pubDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Stornohaftung — Rückzahlung von Abschlussprovision bei früher Kündigung'

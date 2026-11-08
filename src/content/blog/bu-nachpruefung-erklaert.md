@@ -1,6 +1,6 @@
 ---
 title: 'BU-Nachprüfung: Wann die Versicherung die Rente wieder streichen darf'
-description: 'Nach der Anerkennung ist der Fall nicht erledigt: Wie das Nachprüfungsverfahren nach § 174 VVG abläuft, welche Fristen gelten und welche Mitwirkungspflichten du hast.'
+description: 'Nach der BU-Anerkennung ist der Fall nicht erledigt: Wie die Nachprüfung nach § 174 VVG abläuft, welche Fristen gelten und welche Mitwirkungspflichten du hast.'
 pubDate: '2026-10-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Einkommenssicherung'

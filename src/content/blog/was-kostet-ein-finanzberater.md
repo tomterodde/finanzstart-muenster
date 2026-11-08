@@ -1,6 +1,6 @@
 ---
 title: 'Was kostet ein Finanzberater? Konkrete Preise und Modelle (2026)'
-description: 'Was kostet ein guter Finanzberater wirklich? Provisionsberatung, Honorarberatung und Bankberatung im konkreten Kostenvergleich — mit Beispielrechnungen über 30 Jahre.'
+description: 'Was kostet ein guter Finanzberater wirklich? Provisions-, Honorar- und Bankberatung im Kostenvergleich, mit Beispielrechnungen über 30 Jahre.'
 pubDate: '2026-05-24'
 updatedDate: '2026-10-05'
 heroImage: '../../assets/blog-placeholder-4.jpg'

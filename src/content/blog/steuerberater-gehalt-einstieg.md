@@ -1,6 +1,6 @@
 ---
 title: 'Steuerberater: Gehalt, Examen und der Weg in die eigene Kanzlei'
-description: 'Steuerberater-Gehalt 2026: Was Steuerassistenten, angestellte Steuerberater und Kanzleiinhaber verdienen, wie schwer das Examen ist und warum der Nachwuchsmangel eine Chance ist.'
+description: 'Steuerberater-Gehalt 2026: was Steuerassistenten, angestellte Steuerberater und Kanzleiinhaber verdienen, wie schwer das Examen ist und warum Nachwuchs fehlt.'
 pubDate: '2026-07-24'
 updatedDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-3.jpg'

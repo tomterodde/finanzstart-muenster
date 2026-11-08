@@ -1,6 +1,6 @@
 ---
 title: 'Fortbildung steuerlich absetzen: Werbungskosten und staatliche Förderung kombinieren'
-description: 'Wie du Fortbildung als doppelten Hebel nutzt: voll absetzbare Werbungskosten plus staatliche Förderung wie Aufstiegs-BAföG, Bildungsgutschein und Bildungsprämie.'
+description: 'Fortbildung als doppelter Hebel: voll absetzbare Werbungskosten plus staatliche Förderung wie Aufstiegs-BAföG, Bildungsgutschein und Bildungsprämie.'
 pubDate: '2026-04-28'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Karriere & Einkommen'

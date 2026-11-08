@@ -1,6 +1,6 @@
 ---
 title: 'Investment Banking: Einstieg, Gehalt und der Weg dorthin'
-description: 'Was verdient man im Investment Banking, wie läuft der Einstieg und welche Exit-Optionen gibt es? Realistische Einordnung von Gehalt, Arbeitszeiten und Karrierewegen für Berufseinsteiger.'
+description: 'Was verdient man im Investment Banking, wie läuft der Einstieg und welche Exit-Optionen gibt es? Gehalt, Arbeitszeiten und Karrierewege realistisch eingeordnet.'
 pubDate: '2026-07-04'
 updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-5.jpg'

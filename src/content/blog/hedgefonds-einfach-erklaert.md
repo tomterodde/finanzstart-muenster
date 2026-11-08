@@ -1,6 +1,6 @@
 ---
 title: 'Hedgefonds einfach erklärt: Strategien, Kosten und der Unterschied zu Private Equity'
-description: 'Hedgefonds einfach erklärt: Wie die Fonds mit Long/Short, Global Macro und Arbitrage Geld verdienen, was sie kosten und wie sie sich von Private Equity unterscheiden.'
+description: 'Hedgefonds einfach erklärt: wie sie mit Long/Short, Global Macro und Arbitrage Geld verdienen, was sie kosten und was sie von Private Equity unterscheidet.'
 pubDate: '2026-07-12'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Private Equity'

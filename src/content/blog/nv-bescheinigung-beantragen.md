@@ -1,6 +1,6 @@
 ---
 title: 'NV-Bescheinigung beantragen: Wann sie mehr bringt als der Freistellungsauftrag'
-description: 'Die Nichtveranlagungsbescheinigung stellt Kapitalerträge unbegrenzt vom Steuerabzug frei. Voraussetzungen, Formular NV 1 A, Gültigkeit und Abgrenzung zum Freistellungsauftrag.'
+description: 'Die NV-Bescheinigung befreit Kapitalerträge unbegrenzt vom Steuerabzug. Voraussetzungen, Formular NV 1 A, Gültigkeit und Unterschied zum Freistellungsauftrag.'
 pubDate: '2026-10-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'

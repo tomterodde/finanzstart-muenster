@@ -1,6 +1,6 @@
 ---
 title: 'Gesundheitsreform 2026 beschlossen: Was jetzt auf GKV-Versicherte zukommt'
-description: 'Das Kabinett hat am 29.04.2026 das 16,3-Mrd.-Sparpaket beschlossen. Höhere Zuzahlungen, gestrichene Leistungen und eine angehobene Versicherungspflichtgrenze — was das konkret bedeutet.'
+description: 'Das Kabinett hat am 29.04.2026 das Sparpaket über 16,3 Mrd. € beschlossen: höhere Zuzahlungen, gestrichene Leistungen, höhere Versicherungspflichtgrenze.'
 pubDate: '2026-04-29'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'

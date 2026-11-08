@@ -1,6 +1,6 @@
 ---
 title: '5 Finanzfehler beim Berufsstart in Münster — und wie du sie vermeidest'
-description: 'Erster Job, erstes eigenes Gehalt, erste eigene Wohnung. Diese 5 Finanzfehler machen die meisten Berufseinsteiger in Münster — und sie kosten mehr als du denkst.'
+description: 'Erster Job, erstes Gehalt, erste Wohnung: Diese 5 Finanzfehler machen die meisten Berufseinsteiger in Münster, und sie kosten mehr, als du denkst.'
 pubDate: '2026-04-07'
 updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-3.jpg'

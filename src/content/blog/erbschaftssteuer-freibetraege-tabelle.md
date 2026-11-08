@@ -1,6 +1,6 @@
 ---
 title: 'Erbschaftssteuer: Freibeträge, Steuerklassen und Steuersätze in der Tabelle'
-description: 'Erbschaftssteuer-Freibeträge 2026 in der Übersicht: 500.000 € für Ehepartner, 400.000 € pro Kind. Alle Steuerklassen, Steuersätze und die 10-Jahres-Regel bei Schenkungen.'
+description: 'Erbschaftssteuer-Freibeträge 2026: 500.000 € für Ehepartner, 400.000 € pro Kind. Alle Steuerklassen, Steuersätze und die 10-Jahres-Regel bei Schenkungen.'
 pubDate: '2026-07-28'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'

@@ -1,6 +1,6 @@
 ---
 title: 'Einkommenssicherung für Selbstständige: Was du wirklich brauchst'
-description: 'Selbstständige und Freiberufler haben keine gesetzliche Absicherung bei Krankheit oder Berufsunfähigkeit. Welche Versicherungen wirklich wichtig sind — und in welcher Reihenfolge.'
+description: 'Selbstständige und Freiberufler sind bei Krankheit und Berufsunfähigkeit nicht gesetzlich geschützt. Welche Versicherungen zählen und in welcher Reihenfolge.'
 pubDate: '2026-04-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'

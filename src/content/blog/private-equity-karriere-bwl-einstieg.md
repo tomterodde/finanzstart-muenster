@@ -1,6 +1,6 @@
 ---
 title: 'Private Equity Karriere: Wie kommt man als BWL-Student rein?'
-description: 'Die zwei Wege in den Private-Equity-Sektor: klassischer Investment-Banking-Pfad und Spezialisierung in der Finanzberatung. Recruiting, Gehälter und realistische Chancen für Einsteiger aus Münster.'
+description: 'Zwei Wege ins Private Equity: der Investment-Banking-Pfad und die Spezialisierung in der Finanzberatung. Recruiting, Gehälter und realistische Chancen.'
 pubDate: '2026-06-04'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Private Equity Karriere für BWL-Studenten — Symbolbild Bürohochhäuser'

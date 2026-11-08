@@ -89,7 +89,7 @@ Das Einkommenspotenzial ist real — aber es ist ein **Unternehmer-Einkommen**: 
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Zahlen aus erster Hand?</p>
   <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du willst wissen, wie die Rechnung in der Praxis aussieht?</h3>
   <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich zeige dir in 30 Minuten, wie Provisionssätze, Karrierestufen und Aufbauphase konkret zusammenspielen — an echten Beispielen, ohne Hochglanz. Kein Pitch, kein Abschlussdruck.</p>
-  <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
+  <a href="/zusammenarbeiten/" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
 </aside>
 
 ## Fazit

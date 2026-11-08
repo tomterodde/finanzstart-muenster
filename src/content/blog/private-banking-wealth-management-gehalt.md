@@ -1,6 +1,6 @@
 ---
 title: 'Private Banking & Wealth Management: Gehalt, Einstieg und Karrierepfad'
-description: 'Private-Banking-Gehalt 2026: Was Junior-Berater und erfahrene Private Banker verdienen, wie der Einstieg gelingt und was den Beruf von klassischer Finanzberatung unterscheidet.'
+description: 'Private-Banking-Gehalt 2026: was Junior-Berater und erfahrene Private Banker verdienen, wie der Einstieg gelingt und wie sich der Beruf abgrenzt.'
 pubDate: '2026-08-13'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'

@@ -1,6 +1,6 @@
 ---
 title: 'ETF-Sparplan pausieren: Was passiert? (Trade Republic, Scalable, Comdirect & Co.)'
-description: 'Was passiert, wenn du deinen ETF-Sparplan pausierst oder aussetzt? So geht es Schritt für Schritt bei Trade Republic, Scalable, ING, Comdirect und DKB — und wann eine Pause sinnvoll ist.'
+description: 'Was passiert, wenn du deinen ETF-Sparplan pausierst? Schritt für Schritt bei Trade Republic, Scalable, ING, Comdirect und DKB, und wann eine Pause sinnvoll ist.'
 pubDate: '2026-04-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'

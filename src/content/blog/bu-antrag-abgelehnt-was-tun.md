@@ -1,6 +1,6 @@
 ---
 title: 'BU-Antrag abgelehnt: Was du jetzt tun kannst'
-description: 'Berufsunfähigkeitsversicherung zahlt nicht? Die häufigsten Ablehnungsgründe mit Zahlen, und welche Wege offenstehen: Widerspruch, Ombudsmann, Klage — mit Fristen.'
+description: 'Die Berufsunfähigkeitsversicherung zahlt nicht? Die häufigsten Ablehnungsgründe mit Zahlen und deine Wege: Widerspruch, Ombudsmann und Klage, mit Fristen.'
 pubDate: '2026-10-06'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Einkommenssicherung'

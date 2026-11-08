@@ -1,6 +1,6 @@
 ---
 title: 'Private Equity einfach erklärt: Was hinter PE-Firmen steckt'
-description: 'Was Private Equity macht, wie der typische Buyout-Deal funktioniert und warum PE-Firmen wie Blackstone die Wirtschaft prägen — Grundlagen für BWL-Studenten und Berufseinsteiger.'
+description: 'Was Private Equity macht, wie ein typischer Buyout funktioniert und warum PE-Firmen die Wirtschaft prägen: Grundlagen für BWL-Studenten und Berufseinsteiger.'
 pubDate: '2026-06-03'
 updatedDate: '2026-08-25'
 heroImage: '../../assets/blog-placeholder-2.jpg'

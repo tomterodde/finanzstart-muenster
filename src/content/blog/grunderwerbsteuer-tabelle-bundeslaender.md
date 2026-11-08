@@ -1,6 +1,6 @@
 ---
 title: 'Grunderwerbsteuer 2026: Tabelle aller Bundesländer und was der Hauskauf wirklich kostet'
-description: 'Grunderwerbsteuer nach Bundesland in der Tabelle: von 3,5 % in Bayern bis 6,5 % in NRW. Plus Rechenbeispiel, welche Kaufnebenkosten insgesamt anfallen und was sich sparen lässt.'
+description: 'Grunderwerbsteuer nach Bundesland in der Tabelle: von 3,5 % in Bayern bis 6,5 % in NRW. Mit Rechenbeispiel zu allen Kaufnebenkosten und Sparmöglichkeiten.'
 pubDate: '2026-08-01'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'

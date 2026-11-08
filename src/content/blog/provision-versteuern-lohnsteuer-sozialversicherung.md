@@ -1,6 +1,6 @@
 ---
 title: 'Provision versteuern: Lohnsteuer, Sozialabgaben und die Märzklausel'
-description: 'Wie wird Provision versteuert? Angestellte zahlen Lohnsteuer als sonstiger Bezug plus Sozialabgaben, Selbstständige Einkommensteuer. Warum Versicherungsvermittlung umsatzsteuerfrei ist.'
+description: 'Wie wird Provision versteuert? Lohnsteuer und Sozialabgaben für Angestellte, Einkommensteuer für Selbstständige und warum Vermittlung umsatzsteuerfrei ist.'
 pubDate: '2026-09-26'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Provision versteuern — Lohnsteuer und Sozialabgaben auf Provisionszahlungen'

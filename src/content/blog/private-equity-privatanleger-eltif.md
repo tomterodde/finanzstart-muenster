@@ -1,6 +1,6 @@
 ---
 title: 'Private Equity für Privatanleger: ELTIF, Mindestanlagen und realer Zugang'
-description: 'Wie Privatanleger seit 2024 in Private Equity investieren können — über ELTIF-Vehikel, geschlossene Beteiligungen und strukturierte Beratung. Chancen, Mindestanlagen und Risiken im Klartext.'
+description: 'Wie Privatanleger seit 2024 in Private Equity investieren: ELTIF, geschlossene Beteiligungen und Beratung. Chancen, Mindestanlagen und Risiken im Klartext.'
 pubDate: '2026-06-07'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Private Equity für Privatanleger — Symbolbild Investitionsentscheidung'

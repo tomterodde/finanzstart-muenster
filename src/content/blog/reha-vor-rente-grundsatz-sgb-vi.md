@@ -1,6 +1,6 @@
 ---
 title: '"Reha vor Rente": Was der Grundsatz für deinen EM-Rentenantrag bedeutet'
-description: 'Warum die Deutsche Rentenversicherung vor der Erwerbsminderungsrente oft erst eine Reha prüft — Rechtsgrundlage, Übergangsgeld-Höhe und was bei Ablehnung passiert.'
+description: 'Warum die Rentenversicherung vor der Erwerbsminderungsrente oft erst eine Reha prüft: Rechtsgrundlage, Höhe des Übergangsgelds und was bei Ablehnung passiert.'
 pubDate: '2026-09-04'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Einkommenssicherung'

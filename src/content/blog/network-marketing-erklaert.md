@@ -1,6 +1,6 @@
 ---
 title: 'Network Marketing: Wie das System funktioniert — und woran du dubiose Anbieter erkennst'
-description: 'Network Marketing einfach erklärt: Wie MLM-Systeme funktionieren, was legal ist und was nicht (§ 16 UWG), und worin sich reguliertes Finanzvertriebsgeschäft unterscheidet.'
+description: 'Network Marketing einfach erklärt: wie MLM-Systeme funktionieren, was nach § 16 UWG legal ist und was nicht, und was regulierten Finanzvertrieb unterscheidet.'
 pubDate: '2026-06-17'
 updatedDate: '2026-07-22'
 heroImage: '../../assets/blog-placeholder-5.jpg'
@@ -88,7 +88,7 @@ Wer ernsthaft über selbstständigen Vertrieb als Einkommensweg nachdenkt, sollt
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Vertrieb ja — aber reguliert?</p>
   <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du interessierst dich für Vertrieb als Einkommensweg?</h3>
   <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich arbeite selbst im regulierten Finanzvertrieb und erkläre dir in 30 Minuten den Unterschied zu MLM-Angeboten — mit IHK-Ausbildung, Registerpflicht und realistischen Zahlen. Kein Pitch, kein Abschlussdruck.</p>
-  <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
+  <a href="/zusammenarbeiten/" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
 </aside>
 
 ## Fazit

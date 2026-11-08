@@ -1,6 +1,6 @@
 ---
 title: 'Altersvorsorge für Selbstständige in Münster: Was wirklich funktioniert'
-description: 'Selbstständige in Münster haben keine automatische Rentenversicherung. Welche Strategien wirklich funktionieren — für Freiberufler, Gründer und Side-Business-Betreiber.'
+description: 'Selbstständige in Münster sind nicht automatisch rentenversichert. Welche Vorsorge-Strategien für Freiberufler, Gründer und Nebengewerbe wirklich funktionieren.'
 pubDate: '2026-05-09'
 updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-5.jpg'

@@ -1,6 +1,6 @@
 ---
 title: 'Welche Altersvorsorge lohnt sich 2026 wirklich? Großer Vergleich'
-description: 'Welche Altersvorsorge ist die beste? Vollständiger Vergleich aller 6 Optionen 2026 (gesetzliche Rente, bAV, Riester, Rürup, ETF, private Rentenversicherung) — mit klarer Empfehlung je Profil.'
+description: 'Welche Altersvorsorge ist die beste? Die 6 Optionen 2026 im Vergleich: gesetzliche Rente, bAV, Riester, Rürup, ETF und Privatrente, mit Empfehlung je Profil.'
 pubDate: '2026-05-15'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Welche Altersvorsorge lohnt sich wirklich — Vergleich 2026'

@@ -1,6 +1,6 @@
 ---
 title: 'Carried Interest einfach erklärt: Wie PE-Profis wirklich reich werden'
-description: 'Carried Interest ist der eigentliche Vermögenshebel im Private Equity. Wie Carry funktioniert, was Hurdle Rate, Catch-up und Waterfall bedeuten — verständlich erklärt.'
+description: 'Carried Interest ist der eigentliche Vermögenshebel im Private Equity. Wie Carry funktioniert und was Hurdle Rate, Catch-up und Waterfall bedeuten.'
 pubDate: '2026-06-28'
 updatedDate: '2026-07-18'
 heroImage: '../../assets/blog-placeholder-2.jpg'

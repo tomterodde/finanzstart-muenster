@@ -1,6 +1,6 @@
 ---
 title: 'Riester-Bestandsvertrag ab 2027: Weiterlaufen lassen oder wechseln?'
-description: 'Bestehende Riester-Verträge laufen nach 2027 automatisch weiter. Wann sich Weiterlaufen lohnt, wann ein Wechsel ins Altersvorsorgedepot sinnvoll wird — und wie Beitragsfreistellung als Zwischenschritt funktioniert.'
+description: 'Riester behalten oder ins Altersvorsorgedepot wechseln? Wann Weiterlaufen lohnt, wann der Wechsel sinnvoll ist und was eine Beitragsfreistellung bringt.'
 pubDate: '2026-08-19'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'

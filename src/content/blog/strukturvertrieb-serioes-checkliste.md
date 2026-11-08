@@ -1,6 +1,6 @@
 ---
 title: 'Strukturvertrieb seriös erkennen: Die 10-Punkte-Checkliste'
-description: 'Ist dieser Strukturvertrieb seriös? 10 prüfbare Kriterien: Vermittlerregister, Eintrittsgebühren, Stornohaftung, Ausbildung, Produktbreite — mit konkreten Prüfschritten.'
+description: 'Ist dieser Strukturvertrieb seriös? 10 prüfbare Kriterien wie Vermittlerregister, Eintrittsgebühren, Stornohaftung und Ausbildung, mit Prüfschritten.'
 pubDate: '2026-06-15'
 updatedDate: '2026-10-05'
 heroImage: '../../assets/blog-placeholder-4.jpg'

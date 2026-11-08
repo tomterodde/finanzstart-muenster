@@ -1,6 +1,6 @@
 ---
 title: 'Strukturvertrieb Erfahrungen: Was ich nach 4 Monaten als Trainee wirklich weiß'
-description: 'Strukturvertrieb-Erfahrungen aus erster Hand: Was in den ersten 4 Monaten als Trainee passiert, was am Klischee stimmt — und was nicht. Ehrlicher Erfahrungsbericht.'
+description: 'Strukturvertrieb-Erfahrungen aus erster Hand: was in den ersten 4 Monaten als Trainee passiert und was am Klischee stimmt und was nicht. Ein ehrlicher Bericht.'
 pubDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Karriere & Einkommen'
@@ -63,7 +63,7 @@ Was ich jedem rate, der überlegt: Sprich mit aktiven Beratern **und** mit Ausst
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Fragen aus erster Hand?</p>
   <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du überlegst selbst, im Strukturvertrieb zu starten?</h3>
   <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich erzähle dir in 30 Minuten ungeschönt, wie meine ersten Monate liefen — inklusive der Dinge, die ich vorher gern gewusst hätte. Kein Pitch, kein Abschlussdruck.</p>
-  <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
+  <a href="/zusammenarbeiten/" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
 </aside>
 
 ---

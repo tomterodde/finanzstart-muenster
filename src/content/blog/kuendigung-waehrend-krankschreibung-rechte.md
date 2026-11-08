@@ -1,6 +1,6 @@
 ---
 title: 'Kündigung während der Krankschreibung: Was Arbeitgeber dürfen'
-description: 'Darf dein Arbeitgeber dir kündigen, während du krankgeschrieben bist? Voraussetzungen der krankheitsbedingten Kündigung, Entgeltfortzahlung danach und was das BAG entschieden hat.'
+description: 'Darf dir dein Arbeitgeber während der Krankschreibung kündigen? Voraussetzungen der krankheitsbedingten Kündigung, Entgeltfortzahlung danach und BAG-Urteile.'
 pubDate: '2026-09-10'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'

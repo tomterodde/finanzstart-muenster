@@ -1,6 +1,6 @@
 ---
 title: 'Rentenpunkte erklärt: Wie die gesetzliche Rente 2025 funktioniert'
-description: 'Ein Rentenpunkt (Entgeltpunkt) bringt 2025 genau 39,32 € Monatsrente. Wie Rentenpunkte berechnet werden, wie viele du brauchst und warum 31,7 Punkte oft nicht reichen.'
+description: 'Was ein Rentenpunkt (Entgeltpunkt) an Monatsrente bringt, wie Rentenpunkte berechnet werden und wie viele du für eine auskömmliche gesetzliche Rente brauchst.'
 pubDate: '2026-04-09'
 updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'

@@ -1,6 +1,6 @@
 ---
 title: 'Provisionsvorschuss zurückzahlen: Wann die Rückforderung wirklich greift'
-description: 'Provisionsvorschuss erklärt: Warum Vermittler Vorschüsse zurückzahlen müssen, was das Verrechnungskonto bedeutet — und welche Nachbearbeitungspflicht die Rückforderung häufig scheitern lässt.'
+description: 'Provisionsvorschuss erklärt: warum Vermittler Vorschüsse zurückzahlen müssen, was das Verrechnungskonto ist und woran Rückforderungen häufig scheitern.'
 pubDate: '2026-09-30'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Provisionsvorschuss und Rückforderung über das Verrechnungskonto'

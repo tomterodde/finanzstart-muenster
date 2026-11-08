@@ -4,7 +4,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { SITE_TITLE } from '../../consts';
 
 const now = new Date();
 const posts = (await getCollection('blog'))
@@ -27,11 +27,12 @@ const categorySlugMap: Record<string, string> = {
 <!doctype html>
 <html lang="de">
 	<head>
-		<BaseHead title={`Alle Artikel – ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead title={`Alle Artikel – ${SITE_TITLE}`} description="Alle Artikel von Finanzstart Münster: Altersvorsorge, Vermögensaufbau, Absicherung und Karriere, verständlich erklärt für Studierende und Berufseinsteiger." />
 	</head>
 	<body>
 		<Header />
 		<main>
+			<h1 class="blog-title">Alle Artikel</h1>
 			<div class="filter-bar">
 				{categories.map((cat) => (
 					cat === 'Alle' ? (
@@ -102,6 +103,10 @@ const categorySlugMap: Record<string, string> = {
 		max-width: 860px;
 		margin: 0 auto;
 		padding: 2.5em 1.5em 5em;
+	}
+	.blog-title {
+		margin: 0 0 1rem 0;
+		font-size: 2em;
 	}
 	.filter-bar {
 		display: flex;

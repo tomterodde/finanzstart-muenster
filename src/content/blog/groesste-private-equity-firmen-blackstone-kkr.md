@@ -1,6 +1,6 @@
 ---
 title: 'Die größten Private-Equity-Firmen: Blackstone, KKR, Carlyle und Co.'
-description: 'Wer dominiert den globalen PE-Markt? Übersicht der zehn größten PE-Firmen nach Assets under Management — mit Strategien, Beispiel-Deals und ihrer Rolle im deutschen Markt.'
+description: 'Die zehn größten Private-Equity-Firmen nach Assets under Management: Strategien, Beispiel-Deals und ihre Rolle im deutschen Markt im Überblick.'
 pubDate: '2026-06-06'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Größte Private-Equity-Firmen weltweit — Symbolbild Wolkenkratzer Skyline'

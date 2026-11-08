@@ -1,6 +1,6 @@
 ---
 title: 'iCPPI einfach erklärt: Wie fondsgebundene Rentenversicherungen Garantie und Rendite kombinieren'
-description: 'Was ist iCPPI? Wie der tägliche Sicherungsmechanismus zwischen Sicherheits- und Chancen-Baustein funktioniert, wo die Grenzen liegen (Cash-Lock-Risiko) und welche Anbieter das Verfahren nutzen.'
+description: 'Was ist iCPPI? Wie der tägliche Sicherungsmechanismus zwischen Sicherheits- und Chancen-Baustein funktioniert und wo seine Grenzen liegen (Cash-Lock).'
 pubDate: '2026-08-21'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'

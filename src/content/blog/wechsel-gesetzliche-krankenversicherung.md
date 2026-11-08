@@ -1,6 +1,6 @@
 ---
 title: 'Krankenkasse wechseln: Wann es sich lohnt — und wie es geht'
-description: 'Krankenkassenwechsel 2025: Wie viel sparst du? Zusatzbeitrag-Vergleich der Kassen, Ersparnis-Tabelle nach Brutto, Wechsel-Anleitung in 3 Schritten und was außer dem Preis zählt.'
+description: 'Krankenkasse wechseln: Wie viel sparst du? Zusatzbeiträge im Vergleich, Ersparnis-Tabelle nach Brutto, Wechsel in 3 Schritten und was außer dem Preis zählt.'
 pubDate: '2026-05-21'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'

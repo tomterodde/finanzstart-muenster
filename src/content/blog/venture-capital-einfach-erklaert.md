@@ -1,6 +1,6 @@
 ---
 title: 'Venture Capital einfach erklärt: Wie Startup-Finanzierung wirklich funktioniert'
-description: 'Was Venture Capital ist, wie VC-Fonds verdienen, was hinter Seed, Series A und dem Power Law steckt — Startup-Finanzierung verständlich erklärt für Studenten und Gründer.'
+description: 'Was Venture Capital ist, wie VC-Fonds verdienen und was hinter Seed, Series A und dem Power Law steckt: Startup-Finanzierung verständlich erklärt.'
 pubDate: '2026-07-30'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Private Equity'

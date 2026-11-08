@@ -1,6 +1,6 @@
 ---
 title: 'IRR (Internal Rate of Return) einfach erklärt — die PE-Renditekennzahl'
-description: 'Der IRR ist die wichtigste Renditekennzahl im Private Equity. Was die Internal Rate of Return bedeutet, wie sie sich vom Multiple unterscheidet und warum die Zeit entscheidet.'
+description: 'Der IRR ist die wichtigste Renditekennzahl im Private Equity. Was die Internal Rate of Return bedeutet und wie sie sich vom Multiple unterscheidet.'
 pubDate: '2026-06-30'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Private Equity'

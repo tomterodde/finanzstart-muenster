@@ -5,18 +5,35 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { ORGANIZATION_ID, ORGANIZATION_SCHEMA, PERSON_SCHEMA, SITE_DESCRIPTION, SITE_TITLE, SITE_URL } from '../consts';
 
 const now = new Date();
 const posts = (await getCollection('blog'))
 	.filter((post) => post.data.pubDate <= now)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const homeSchema = {
+	'@context': 'https://schema.org',
+	'@graph': [
+		ORGANIZATION_SCHEMA,
+		PERSON_SCHEMA,
+		{
+			'@type': 'WebSite',
+			'@id': `${SITE_URL}/#website`,
+			name: SITE_TITLE,
+			url: `${SITE_URL}/`,
+			description: SITE_DESCRIPTION,
+			publisher: { '@id': ORGANIZATION_ID },
+			inLanguage: 'de-DE',
+		},
+	],
+};
 ---
 
 <!doctype html>
 <html lang="de">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={`${SITE_TITLE} – Finanzwissen für Berufseinsteiger`} description={SITE_DESCRIPTION} />
+		<script type="application/ld+json" set:html={JSON.stringify(homeSchema)} />
 	</head>
 	<body>
 		<Header />

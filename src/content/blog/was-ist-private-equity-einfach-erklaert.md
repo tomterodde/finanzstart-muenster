@@ -1,6 +1,6 @@
 ---
 title: 'Was ist Private Equity? Einfach erklärt (auf Deutsch) mit Beispielen'
-description: 'Private Equity einfach erklärt: Was bedeutet PE auf Deutsch, wer steckt dahinter und wie funktioniert das Geschäftsmodell? Mit konkreten Beispielen aus Deutschland.'
+description: 'Private Equity einfach erklärt: was PE auf Deutsch bedeutet, wer dahintersteckt und wie das Geschäftsmodell funktioniert. Mit Beispielen aus Deutschland.'
 pubDate: '2026-05-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Private Equity einfach erklärt — Definition und Beispiele'

@@ -1,6 +1,6 @@
 ---
 title: 'Fondsmanager: Gehalt, Einstieg und der Weg ins Asset Management'
-description: 'Was verdient ein Fondsmanager in Deutschland, wie läuft der Einstieg ins Asset Management und welche Rolle spielt der CFA? Gehaltstabelle und realistische Karrierewege.'
+description: 'Was verdient ein Fondsmanager in Deutschland, wie gelingt der Einstieg ins Asset Management und welche Rolle spielt der CFA? Gehaltstabelle und Karrierewege.'
 pubDate: '2026-08-03'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'

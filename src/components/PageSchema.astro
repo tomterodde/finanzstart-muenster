@@ -1,0 +1,59 @@
+---
+// JSON-LD für eigenständige Seiten außerhalb der Blog-Collection (Rechner, Checklisten).
+// Gibt immer ein Article aus (Erklärtext der Seite) und optional eine WebApplication (interaktiver Rechner).
+import { ORGANIZATION_ID, ORGANIZATION_SCHEMA, PERSON_SCHEMA, SITE_TITLE } from '../consts';
+
+interface Props {
+	title: string;
+	description: string;
+	datePublished: string;
+	dateModified?: string;
+	isCalculator?: boolean;
+}
+
+const { title, description, datePublished, dateModified, isCalculator = false } = Astro.props;
+const url = new URL(Astro.url.pathname, Astro.site).toString();
+const publisher = {
+	'@type': 'Organization',
+	'@id': ORGANIZATION_ID,
+	name: ORGANIZATION_SCHEMA.name,
+	url: ORGANIZATION_SCHEMA.url,
+	logo: ORGANIZATION_SCHEMA.logo,
+};
+
+const graph: Record<string, unknown>[] = [
+	{
+		'@type': 'Article',
+		'@id': `${url}#article`,
+		headline: title,
+		description,
+		datePublished,
+		dateModified: dateModified ?? datePublished,
+		mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+		author: { ...PERSON_SCHEMA, worksFor: { '@id': ORGANIZATION_ID, '@type': 'Organization', name: SITE_TITLE } },
+		publisher,
+		inLanguage: 'de-DE',
+	},
+	...(isCalculator
+		? [
+				{
+					'@type': 'WebApplication',
+					'@id': `${url}#app`,
+					name: title,
+					description,
+					url,
+					applicationCategory: 'FinanceApplication',
+					operatingSystem: 'Web',
+					isAccessibleForFree: true,
+					offers: { '@type': 'Offer', price: '0', priceCurrency: 'EUR' },
+					publisher,
+					inLanguage: 'de-DE',
+				},
+			]
+		: []),
+];
+
+const schema = { '@context': 'https://schema.org', '@graph': graph };
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

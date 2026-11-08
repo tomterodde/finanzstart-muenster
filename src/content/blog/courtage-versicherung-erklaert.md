@@ -1,6 +1,6 @@
 ---
 title: 'Courtage bei Versicherungen: Was Makler verdienen — und wer sie bezahlt'
-description: 'Courtage einfach erklärt: Was der Unterschied zur Provision ist, wie hoch die Courtage bei Versicherungen ausfällt und warum der Makler trotz Bezahlung durch den Versicherer auf deiner Seite steht.'
+description: 'Courtage einfach erklärt: der Unterschied zur Provision, wie hoch die Courtage bei Versicherungen ausfällt und warum der Makler trotzdem auf deiner Seite steht.'
 pubDate: '2026-09-24'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 heroImageAlt: 'Courtage bei Versicherungen — Vergütung des Versicherungsmaklers'

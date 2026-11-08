@@ -1,6 +1,6 @@
 ---
 title: 'Grundrente: Voraussetzungen, Höhe und wer den Zuschlag wirklich bekommt'
-description: 'Grundrente einfach erklärt: Welche 33 bzw. 35 Jahre zählen, wie der Zuschlag berechnet wird und warum kein Antrag nötig ist. Mit Tabelle der Grundrentenzeiten und Rechenbeispiel.'
+description: 'Grundrente einfach erklärt: welche 33 bzw. 35 Jahre zählen, wie der Zuschlag berechnet wird und warum kein Antrag nötig ist. Mit Tabelle und Rechenbeispiel.'
 pubDate: '2026-08-05'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'

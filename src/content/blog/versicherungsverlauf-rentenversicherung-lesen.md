@@ -1,6 +1,6 @@
 ---
 title: 'Versicherungsverlauf der Rentenversicherung lesen: Zeitenarten und Lücken'
-description: 'Wie du deinen Versicherungsverlauf richtig liest: welche Zeitenarten es gibt, woran du Lücken erkennst und welche Sechs-Monats-Frist du nicht verstreichen lassen solltest.'
+description: 'Versicherungsverlauf richtig lesen: welche Zeitenarten es gibt, woran du Lücken erkennst und welche Sechs-Monats-Frist du nicht verstreichen lassen solltest.'
 pubDate: '2026-10-14'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Altersvorsorge'

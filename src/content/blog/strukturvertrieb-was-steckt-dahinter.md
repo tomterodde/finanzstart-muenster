@@ -1,6 +1,6 @@
 ---
 title: 'Strukturvertrieb: Was steckt dahinter — und wie erkenne ich seriöse Anbieter?'
-description: 'Strukturvertrieb hat einen schlechten Ruf — aber warum eigentlich? Was das Modell bedeutet, wie Karrierestufen und Einkommen funktionieren und woran man seriöse Anbieter erkennt.'
+description: 'Strukturvertrieb hat einen schlechten Ruf, aber warum? Wie Modell, Karrierestufen und Einkommen funktionieren und woran du seriöse Anbieter erkennst.'
 pubDate: '2026-04-21'
 updatedDate: '2026-10-05'
 heroImage: '../../assets/blog-placeholder-5.jpg'
@@ -192,7 +192,7 @@ Der Einstieg funktioniert für die meisten [nebenberuflich als zweites Standbein
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Selbst ausprobieren?</p>
   <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du überlegst, selbst in einem Strukturvertrieb anzufangen?</h3>
   <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich arbeite selbst in diesem Modell und zeige dir in 30 Minuten, wie das konkret aussieht — nebenberuflich oder als Haupttätigkeit. Kein Pitch, kein Abschlussdruck.</p>
-  <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
+  <a href="/zusammenarbeiten/" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
 </aside>
 
 ## Fazit

@@ -1,6 +1,6 @@
 ---
 title: 'Altersvorsorgedepot für Selbstständige: Erstmals staatliche Förderung ohne Umweg'
-description: 'Riester war für Selbstständige faktisch geschlossen. Das Altersvorsorgedepot ab 2027 öffnet erstmals staatliche Zulagen — im Vergleich zu Rürup und freiwilliger GRV.'
+description: 'Riester war für Selbstständige faktisch zu. Das Altersvorsorgedepot öffnet ab 2027 erstmals staatliche Zulagen, im Vergleich zu Rürup und freiwilliger GRV.'
 pubDate: '2026-08-17'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'

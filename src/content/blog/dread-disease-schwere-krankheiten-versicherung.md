@@ -1,6 +1,6 @@
 ---
 title: 'Dread-Disease-Versicherung: Wann sie sinnvoll ist (und für wen)'
-description: 'Die Dread-Disease-Versicherung zahlt eine Einmalsumme (50.000–250.000 €) bei Diagnose schwerer Krankheiten wie Krebs oder Herzinfarkt. Wann sie BU sinnvoll ergänzt.'
+description: 'Die Dread-Disease-Versicherung zahlt 50.000 bis 250.000 € bei Diagnose schwerer Krankheiten wie Krebs oder Herzinfarkt. Wann sie die BU sinnvoll ergänzt.'
 pubDate: '2026-04-23'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'

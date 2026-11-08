@@ -1,6 +1,6 @@
 ---
 title: 'BU-Leistungsantrag stellen: Ablauf, Unterlagen und typische Fehler'
-description: 'Wie du den Leistungsantrag bei der Berufsunfähigkeitsversicherung stellst: welche Unterlagen nötig sind, wie lange die Prüfung dauert und welche Fehler die Anerkennung kosten.'
+description: 'Leistungsantrag bei der Berufsunfähigkeitsversicherung: welche Unterlagen nötig sind, wie lange die Prüfung dauert und welche Fehler die Anerkennung kosten.'
 pubDate: '2026-10-02'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Einkommenssicherung'

@@ -1,6 +1,6 @@
 ---
 title: 'Management Buyout (MBO) einfach erklärt — wenn das Management übernimmt'
-description: 'Ein Management Buyout ist die Übernahme eines Unternehmens durch das eigene Management. Wie ein MBO funktioniert, wo der Unterschied zum LBO und MBI liegt und welche Rolle die Nachfolge spielt.'
+description: 'Management Buyout einfach erklärt: wie das Management sein Unternehmen übernimmt, worin sich MBO, LBO und MBI unterscheiden und warum Nachfolge zählt.'
 pubDate: '2026-07-02'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Private Equity'

@@ -1,6 +1,6 @@
 ---
 title: 'Arbeitslosengeld 1: Anspruch, Höhe, Dauer und Sperrzeiten im Überblick'
-description: 'Arbeitslosengeld 1 erklärt: Wer hat Anspruch, wie hoch fällt es aus (60/67 % vom Netto), wie lange wird gezahlt — und welche Sperrzeit-Fallen du vermeiden musst.'
+description: 'Arbeitslosengeld 1 erklärt: Wer Anspruch hat, wie hoch es ausfällt (60/67 % vom Netto), wie lange es gezahlt wird und welche Sperrzeit-Fallen du vermeidest.'
 pubDate: '2026-04-11'
 updatedDate: '2026-06-11'
 heroImage: '../../assets/blog-placeholder-3.jpg'

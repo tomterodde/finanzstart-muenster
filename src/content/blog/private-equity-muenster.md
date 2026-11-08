@@ -1,6 +1,6 @@
 ---
 title: 'Private Equity in Münster: Mittelstand, Nachfolge und Karrierewege'
-description: 'Was die PE-Welle für den Münsterländer Mittelstand bedeutet — Nachfolge-Lösungen, Karrierechancen für WWU-Absolventen und Anlagezugang für Privatanleger aus der Region.'
+description: 'Was die Private-Equity-Welle für den Mittelstand im Münsterland bedeutet: Nachfolgelösungen, Karrierechancen für Absolventen und Anlagezugang für Privatanleger.'
 pubDate: '2026-06-08'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 heroImageAlt: 'Private Equity in Münster — Mittelstand und Familienunternehmen im Münsterland'

@@ -1,6 +1,6 @@
 ---
 title: 'Kirchensteuer auf Kapitalerträge: Wie das KISTAM-Verfahren und der Sperrvermerk funktionieren'
-description: 'Warum Banken Kirchensteuer auf Kapitalerträge automatisch abführen, wie die jährliche Regelabfrage beim BZSt abläuft und was ein Sperrvermerk bis zum 30. Juni bewirkt.'
+description: 'Warum Banken Kirchensteuer auf Kapitalerträge automatisch abführen, wie die Regelabfrage beim BZSt abläuft und was ein Sperrvermerk bis zum 30. Juni bewirkt.'
 pubDate: '2026-10-20'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'

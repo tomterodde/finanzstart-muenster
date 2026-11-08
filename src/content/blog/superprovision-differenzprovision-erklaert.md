@@ -1,6 +1,6 @@
 ---
 title: 'Superprovision und Differenzprovision: Wie Vertriebshierarchien vergüten'
-description: 'Superprovision einfach erklärt: Wie Vermittler an den Abschlüssen ihrer Untervertreter verdienen, was Differenzprovision bedeutet und wo die rechtliche Grenze zum Schneeballsystem verläuft.'
+description: 'Superprovision einfach erklärt: wie Vermittler an Abschlüssen ihrer Untervertreter verdienen, was Differenzprovision ist und wo das Schneeballsystem beginnt.'
 pubDate: '2026-09-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'Superprovision und Differenzprovision in Vertriebshierarchien'

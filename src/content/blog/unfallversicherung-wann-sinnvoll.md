@@ -1,6 +1,6 @@
 ---
 title: 'Unfallversicherung sinnvoll? Nur 8 % der BU-Fälle sind Unfälle'
-description: 'Eine Unfallversicherung deckt nur 8 % aller Berufsunfähigkeitsfälle ab — Krankheiten machen 92 %. Wann sie trotzdem sinnvoll ist (Kinder, BU-Ergänzung) und für wen nicht.'
+description: 'Eine Unfallversicherung deckt nur 8 % der BU-Fälle ab, Krankheiten 92 %. Wann sie trotzdem sinnvoll ist, etwa für Kinder, und für wen nicht.'
 pubDate: '2026-04-08'
 updatedDate: '2026-07-22'
 heroImage: '../../assets/blog-placeholder-5.jpg'

@@ -1,6 +1,6 @@
 ---
 title: 'Finanzberater als Quereinsteiger werden: Voraussetzungen, §34d und Verdienst'
-description: 'Finanzberater als Quereinsteiger: Welche Zulassungen du brauchst (§34d, §34f GewO), welche Einstiegswege es gibt und was in den ersten Jahren realistisch drin ist.'
+description: 'Finanzberater als Quereinsteiger: welche Zulassungen du brauchst (§ 34d, § 34f GewO), welche Einstiegswege es gibt und was in den ersten Jahren realistisch ist.'
 pubDate: '2026-07-16'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Karriere & Einkommen'
@@ -80,7 +80,7 @@ Wenn du den Weg prüfst: Schau dir das Ausbildungsprogramm und die Vergütungslo
   <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); font-weight: 700; margin: 0 0 0.5em;">Fragen aus erster Hand?</p>
   <h3 style="margin: 0 0 0.5em; font-size: 1.2em; color: rgb(var(--gray-dark));">Du überlegst, als Quereinsteiger in die Finanzberatung zu wechseln?</h3>
   <p style="margin: 0 0 1.25em; color: rgb(var(--gray-dark)); line-height: 1.6;">Ich bin den Einstieg selbst gegangen — neben einem laufenden Job. In 30 Minuten erzähle ich dir ungeschönt, wie Ausbildung, erste Kunden und die Einkommens-Anlaufphase wirklich aussehen. Kein Pitch, kein Abschlussdruck.</p>
-  <a href="/zusammenarbeiten" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
+  <a href="/zusammenarbeiten/" style="display: inline-block; background: var(--accent); color: white; padding: 0.7em 1.4em; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95em;">Gespräch anfragen →</a>
 </aside>
 
 ---

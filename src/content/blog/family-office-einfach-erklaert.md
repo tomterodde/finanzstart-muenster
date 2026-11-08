@@ -1,6 +1,6 @@
 ---
 title: 'Family Office einfach erklärt: Wie die Vermögensverwaltung der Superreichen funktioniert'
-description: 'Family Office einfach erklärt: Was Single und Multi Family Offices machen, ab welchem Vermögen sie sich lohnen und welche Rolle sie im Private-Equity-Markt spielen.'
+description: 'Family Office einfach erklärt: was Single und Multi Family Offices machen, ab welchem Vermögen sie sich lohnen und welche Rolle sie im Private Equity spielen.'
 pubDate: '2026-07-22'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Private Equity'

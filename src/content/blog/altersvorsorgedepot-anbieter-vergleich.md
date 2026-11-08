@@ -1,6 +1,6 @@
 ---
 title: 'Altersvorsorgedepot Anbieter: Wer bietet es ab 2027 an? (Stand September 2026)'
-description: 'Neobroker, Versicherer, Fondsgesellschaften und Banken zum Altersvorsorgedepot 2027 — wer was angekündigt hat, und warum die lauteste Ankündigung nicht das beste Produkt ist.'
+description: 'Neobroker, Versicherer, Fondsgesellschaften und Banken: Wer was zum Altersvorsorgedepot 2027 angekündigt hat und warum laut nicht gleich gut bedeutet.'
 pubDate: '2026-08-29'
 updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-3.jpg'

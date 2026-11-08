@@ -9,13 +9,13 @@ import { SITE_TITLE } from '../../../consts';
 type Category = 'Grundlagen' | 'Versicherungen' | 'Einkommenssicherung' | 'Vermögensaufbau' | 'Altersvorsorge' | 'Karriere & Einkommen' | 'Private Equity';
 
 const categoryDescriptions: Record<Category, string> = {
-	Grundlagen: 'Begriffe, Konzepte und Zusammenhänge — das Fundament für alle Finanzentscheidungen.',
-	Versicherungen: 'Welche Versicherungen wirklich wichtig sind und worauf du achten solltest.',
-	Einkommenssicherung: 'Absicherung bei Krankheit, Berufsunfähigkeit und Einkommensverlust.',
-	Vermögensaufbau: 'ETFs, Immobilien, Steuern und smarte Strategien für langfristigen Wohlstand.',
-	Altersvorsorge: 'Rentenlücke, Riester, bAV und Co. — so planst du deinen Ruhestand.',
-	'Karriere & Einkommen': 'Einkommensoptimierung, Selbstständigkeit und Karrierewege mit überdurchschnittlichem Potenzial.',
-	'Private Equity': 'Wie PE-Firmen Unternehmen kaufen, optimieren und verkaufen — Karriere, Strategie und Anlagezugang erklärt.',
+	Grundlagen: 'Begriffe, Konzepte und Zusammenhänge verständlich erklärt: das Fundament für alle Finanzentscheidungen, von Rendite und Zinseszins bis zur Krankenversicherung.',
+	Versicherungen: 'Welche Versicherungen du als Student oder Berufseinsteiger wirklich brauchst, welche verzichtbar sind und worauf du beim Abschluss achten solltest.',
+	Einkommenssicherung: 'Absicherung bei Krankheit, Berufsunfähigkeit und Einkommensverlust: Krankengeld, BU-Versicherung, Erwerbsminderungsrente und Arbeitslosengeld erklärt.',
+	Vermögensaufbau: 'ETFs, Aktien, Immobilien und Steuern: Wie du langfristig Vermögen aufbaust, welche Fehler du vermeidest und was Kapitalmaßnahmen für dein Depot bedeuten.',
+	Altersvorsorge: 'Gesetzliche Rente, Riester, bAV, Rürup und Altersvorsorgedepot: So verstehst du deine Rentenansprüche, erkennst deine Rentenlücke und planst rechtzeitig.',
+	'Karriere & Einkommen': 'Einkommensoptimierung, Selbstständigkeit und Karrierewege mit überdurchschnittlichem Potenzial: Gehälter, Provisionsmodelle und nebenberufliche Wege erklärt.',
+	'Private Equity': 'Wie PE-Firmen Unternehmen kaufen, entwickeln und verkaufen: Karrierewege, Gehälter, Fondsstruktur, Deal-Mechanik und Anlagezugang für Privatanleger erklärt.',
 };
 
 export async function getStaticPaths() {

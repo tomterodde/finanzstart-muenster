@@ -1,6 +1,6 @@
 ---
 title: 'Rente versteuern: Steuertabelle für Rentner 2026 — wie viel Steuern zahlst du?'
-description: 'Wie viel Steuern zahlst du auf die Rente? Steuertabelle für Rentner 2026 nach Rentenhöhe, der steuerpflichtige Anteil, KV/PV-Abzüge und wie du deine Nettorente berechnest.'
+description: 'Wie viel Steuern zahlst du auf die Rente? Steuertabelle für Rentner 2026 nach Rentenhöhe, steuerpflichtiger Anteil, KV/PV-Abzüge und Berechnung der Nettorente.'
 pubDate: '2026-04-20'
 updatedDate: '2026-10-28'
 heroImage: '../../assets/blog-placeholder-2.jpg'

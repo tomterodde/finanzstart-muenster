@@ -1,6 +1,6 @@
 ---
 title: 'Riester-Rente: Lohnt sie sich 2025 noch?'
-description: 'Lohnt sich die Riester-Rente noch? Zulagen, Steuervorteil, Garantien und Beispielrechnungen — wann sich Riester wirklich lohnt und worauf es beim Vertrag ankommt.'
+description: 'Lohnt sich die Riester-Rente noch? Zulagen, Steuervorteil, Garantien und Beispielrechnungen: wann sich Riester lohnt und worauf es beim Vertrag ankommt.'
 pubDate: '2026-04-08'
 updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-2.jpg'

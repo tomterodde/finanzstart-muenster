@@ -1,6 +1,6 @@
 ---
 title: 'Altersvorsorgedepot Kosten: Was der 1-%-Kostendeckel wirklich bedeutet'
-description: 'Das staatliche Standardprodukt beim Altersvorsorgedepot ist auf 1,0 % p.a. gedeckelt. Was das im Vergleich zu Riester-Altverträgen und freien ETF-Sparplänen bedeutet — und was noch offen ist.'
+description: 'Das Standardprodukt beim Altersvorsorgedepot ist auf 1,0 % Kosten pro Jahr gedeckelt. Was das gegenüber Riester-Altverträgen und ETF-Sparplänen bedeutet.'
 pubDate: '2026-08-31'
 updatedDate: '2026-09-22'
 heroImage: '../../assets/blog-placeholder-5.jpg'
