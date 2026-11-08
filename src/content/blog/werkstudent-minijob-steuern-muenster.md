@@ -2,80 +2,85 @@
 title: 'Werkstudent und Minijob in Münster: Was steuerlich und sozialrechtlich gilt'
 description: 'Werkstudent oder Minijob in Münster: Was verdienst du netto, welche Steuern fallen an und was gilt für Krankenversicherung und Rentenversicherung?'
 pubDate: '2026-04-08'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Grundlagen'
-tldr: 'Drei Modelle für WWU-Studierende: (1) Minijob bis 556 €/Monat (2025) — Arbeitgeber zahlt 30 % pauschal, KV/RV läuft über Familienversicherung weiter, (2) Werkstudent — bis 20 h/Woche während der Vorlesungszeit, befreit von KV/AV/PV-Beiträgen (Werkstudentenprivileg § 6 Abs. 1 Nr. 3 SGB V), nur Rentenversicherung 9,3 %, Verdienst meist 12,82–18 €/h, (3) Praktikum — pflichtig (Studienordnung) sozialversicherungsfrei, freiwillig wie normaler Werkstudent. Familienversicherung endet bei Jahresverdienst über 535 €/Monat (Werkstudent: max. 20 h/Woche-Grenze) und mit dem 25. Geburtstag (außer Wehr-/Zivildienst).'
+tldr: 'Drei Modelle für Studierende in Münster: (1) Minijob bis 603 €/Monat (2026), für dich fast abgabenfrei, nur 3,6 % Rentenbeitrag, von dem du dich befreien lassen kannst. (2) Werkstudent mit höchstens 20 Wochenstunden in der Vorlesungszeit: frei von Kranken-, Pflege- und Arbeitslosenversicherung, aber rentenversicherungspflichtig. (3) Pflichtpraktikum laut Studienordnung: komplett sozialversicherungsfrei. Die Familienversicherung hängt in allen drei Fällen am Einkommen: 2026 höchstens 565 €/Monat Gesamteinkommen, bei einem Minijob 603 €. Ein Werkstudent mit höherem Verdienst braucht deshalb die studentische Krankenversicherung.'
 faq:
   - question: 'Was ist die 20-Stunden-Grenze beim Werkstudent?'
-    answer: 'Wer als Werkstudent arbeitet, darf während der Vorlesungszeit maximal 20 Stunden pro Woche arbeiten — sonst entfällt das Werkstudentenprivileg (§ 6 Abs. 1 Nr. 3 SGB V) und es greift die volle Sozialversicherungspflicht. In den Semesterferien sind unbegrenzt Stunden möglich. Wichtig: Nur 26 Wochen im Jahr darf die 20-Stunden-Grenze überschritten werden, sonst gilt der Beschäftigungsstatus als nicht mehr studentennah.'
-  - question: 'Wie hoch ist der Steuerfreibetrag 2025?'
-    answer: 'Grundfreibetrag 12.096 €/Jahr (Single, 2025) bzw. 1.008 €/Monat. Wer als Werkstudent unter dieser Grenze bleibt, zahlt am Ende keine Einkommensteuer. Die monatlich vom Arbeitgeber abgeführte Lohnsteuer kann über die Steuererklärung zurückgeholt werden — bei Werkstudenten oft 100 % Erstattung. Werbungskostenpauschbetrag 1.230 €/Jahr automatisch berücksichtigt.'
+    answer: 'Wer als Werkstudent arbeitet, darf während der Vorlesungszeit höchstens 20 Stunden pro Woche arbeiten, sonst entfällt das Werkstudentenprivileg (§ 6 Abs. 1 Nr. 3 SGB V) und es greift die volle Sozialversicherungspflicht. In den Semesterferien sind mehr Stunden möglich. Insgesamt darf die 20-Stunden-Grenze aber an höchstens 26 Wochen im Jahr überschritten werden, sonst gilt die Beschäftigung nicht mehr als Nebenjob neben dem Studium.'
+  - question: 'Wie hoch ist der Steuerfreibetrag 2026?'
+    answer: 'Der Grundfreibetrag liegt 2026 bei 12.348 € im Jahr, also rund 1.029 € im Monat. Dazu kommt der Arbeitnehmer-Pauschbetrag von 1.230 €. Wer als Werkstudent im Jahr darunter bleibt, zahlt am Ende keine Einkommensteuer. Monatlich einbehaltene Lohnsteuer holst du über die Steuererklärung zurück, bei Werkstudenten oft vollständig.'
   - question: 'Was passiert mit der Familienversicherung?'
-    answer: 'Familienversicherung in der gesetzlichen KV (§ 10 SGB V) bleibt erhalten, solange das monatliche Gesamteinkommen 535 € (2025, gekoppelt an Bezugsgröße) bzw. 556 € bei Minijob nicht übersteigt. Ausnahme Werkstudent: Familienversicherung bleibt auch bei höherem Verdienst, solange das Werkstudentenprivileg gilt (max. 20 h/Woche während Vorlesungszeit). Mit dem 25. Geburtstag endet die Familienversicherung — außer bei vorherigem Wehr-/Zivildienst (Verlängerung um die Dienstzeit).'
+    answer: 'Die Familienversicherung (§ 10 SGB V) bleibt erhalten, solange dein Gesamteinkommen 2026 nicht über 565 € im Monat liegt, bei einem Minijob gilt die Minijob-Grenze von 603 €. Für Werkstudenten gibt es keine Ausnahme: Verdienst du regelmäßig mehr, endet die Familienversicherung und du versicherst dich in der studentischen Krankenversicherung. Unabhängig vom Einkommen endet sie mit dem 25. Geburtstag, verlängert um einen Wehr- oder Freiwilligendienst.'
   - question: 'Welches Modell lohnt sich finanziell am meisten?'
-    answer: 'Faustregel: Werkstudent bei höherem Stundenlohn (ca. 14–20 €/h üblich, oft mit Berufsbezug) und mehr Stunden ist deutlich attraktiver — netto bleibt fast alles, nur 9,3 % RV-Beitrag (vom Bruttolohn). Minijob ist einfacher, aber hartes 556 €-Limit. Beispielrechnung: 20 h/Woche bei 15 €/h = ca. 1.200 €/Monat brutto/netto als Werkstudent (nur 112 € RV-Beitrag) vs. 556 € Minijob.'
+    answer: 'Bei mehr Stunden fast immer die Werkstudentenstelle. Beispiel: 20 Stunden pro Woche zu 15 € ergeben rund 1.200 € brutto, netto bleiben etwa 1.120 €, weil im Übergangsbereich bis 2.000 € nur ein reduzierter Rentenbeitrag anfällt. Der Minijob ist einfacher, aber auf 603 € im Monat gedeckelt. Wer die Familienversicherung verliert, muss die studentische Krankenversicherung von rund 130 bis 160 € im Monat gegenrechnen.'
   - question: 'Was muss ich bei der Steuererklärung beachten?'
-    answer: 'Pflicht zur Abgabe meist nicht — aber freiwillig fast immer lohnenswert. Lohnsteuer wurde monatlich abgeführt, nach Jahresende ist die Steuerlast bei Einkommen unter 12.096 € null → volle Erstattung. Anlage N (Arbeitnehmer) ausfüllen, Werbungskosten geltend machen (Studienkosten als Werbungskosten oder Sonderausgaben — je nach Erst- oder Zweitstudium § 9 Abs. 6 EStG bzw. § 10 Abs. 1 Nr. 7 EStG). Tipp: Verlustvortrag (§ 10d EStG) bei Erstausbildung und Erststudium nicht möglich, daher genau prüfen.'
+    answer: 'Eine Pflicht zur Abgabe besteht meist nicht, freiwillig lohnt sie sich fast immer. Liegt dein Einkommen unter dem Grundfreibetrag von 12.348 € (2026), bekommst du einbehaltene Lohnsteuer vollständig zurück. Kosten des Erststudiums sind nur als Sonderausgaben bis 6.000 € abziehbar (§ 10 Abs. 1 Nr. 7 EStG) und erzeugen keinen Verlustvortrag. Bei einem Zweitstudium oder Master nach dem Bachelor sind es Werbungskosten (§ 9 Abs. 6 EStG), die sich vortragen lassen.'
 sources:
   - title: 'Bundesministerium der Finanzen — Studierende und Steuern'
     url: 'https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/lohnsteuer.html'
-  - title: 'Minijob-Zentrale — Verdienstgrenzen 2025'
-    url: 'https://www.minijob-zentrale.de/'
+  - title: 'Deutsche Rentenversicherung — Verdienstgrenzen im Mini- und Midijob 2026'
+    url: 'https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260223-minijob-midijob-verdienstgrenzen-steigen'
   - title: 'Deutsches Studierendenwerk — Studieren und Jobben'
     url: 'https://www.studierendenwerke.de/themen/finanzen-jobben'
 ---
 
-Du studierst an der WWU, brauchst Geld und willst nebenbei arbeiten. Drei Optionen kommen für die meisten in Frage: Minijob, Werkstudentenstelle oder Praktikum. Alle drei haben unterschiedliche Regeln — und wer die falsche wählt oder Grenzen übersieht, zahlt am Ende mehr als er gedacht hat oder verliert seinen Versicherungsstatus.
+Du studierst in Münster, brauchst Geld und willst nebenbei arbeiten. Drei Optionen kommen für die meisten in Frage: Minijob, Werkstudentenstelle oder Praktikum. Alle drei haben unterschiedliche Regeln. Wer Grenzen übersieht, zahlt mehr als gedacht oder verliert seinen Versicherungsstatus.
 
-## Option 1: Minijob (bis 556 Euro/Monat ab 2025)
+## Option 1: Minijob (bis 603 Euro/Monat ab 2026)
 
-Ein Minijob ist versicherungsfrei in Kranken-, Pflege- und Arbeitslosenversicherung. Du zahlst keine Beiträge, verdienst brutto fast netto.
+Ein Minijob ist für dich versicherungsfrei in Kranken-, Pflege- und Arbeitslosenversicherung. Brutto ist fast gleich netto.
 
-**Grenze 2025:** 556 Euro im Monat (entspricht dem Mindestlohn × 43,67 Stunden/Monat). Diese Grenze gilt im Jahresdurchschnitt — in einem Monat kannst du mehr verdienen, wenn du in einem anderen weniger verdienst.
+**Grenze 2026:** 603 Euro im Monat. Die Grenze ist an den Mindestlohn gekoppelt (13,90 Euro seit Januar 2026) und entspricht zehn Wochenstunden zum Mindestlohn, also rund 43 Stunden im Monat. Maßgeblich ist der regelmäßige Verdienst übers Jahr. Ein unvorhersehbares Überschreiten ist in höchstens zwei Monaten pro Jahr erlaubt.
 
-**Rentenversicherung:** Minijobber sind automatisch rentenversicherungspflichtig — mit 3,6 % Eigenanteil (Arbeitgeber zahlt 15 %). Du kannst dich aber befreien lassen. Das lohnt sich fast immer, weil die paar Rentenpunkte kaum was bringen und du das Geld sinnvoller anlegen kannst.
+**Rentenversicherung:** Minijobber sind automatisch rentenversicherungspflichtig. Du trägst 3,6 Prozent, bei 603 Euro also rund 22 Euro im Monat, der Arbeitgeber 15 Prozent. Du kannst dich davon befreien lassen. Bevor du das tust: Mit den Beiträgen sammelst du vollwertige Pflichtbeitragszeiten, die für Wartezeiten und den Schutz bei Erwerbsminderung zählen. Außerdem bist du damit unmittelbar förderberechtigt für die Riester-Rente. Ob die Befreiung sinnvoll ist, hängt davon ab, wie es nach dem Studium weitergeht.
 
-**Steuern:** Entweder pauschal (Arbeitgeber zahlt 2 % Pauschalsteuer) oder nach Steuerklasse. Bei Pauschalversteuerung musst du den Minijob nicht in der Steuererklärung angeben.
+**Steuern:** Entweder pauschal, dann zahlt der Arbeitgeber 2 Prozent Pauschalsteuer, oder nach deiner Steuerklasse. Bei Pauschalversteuerung musst du den Minijob nicht in der Steuererklärung angeben.
 
-**Familienversicherung bleibt erhalten:** Solange du insgesamt unter der Einkommensgrenze (2025: 505 Euro/Monat, aber Minijobs werden anders bewertet) bleibst.
+**Familienversicherung:** Sie bleibt erhalten, solange du nicht mehr als 603 Euro im Monat verdienst. Für Minijobs gilt die Minijob-Grenze statt der allgemeinen Einkommensgrenze von 565 Euro.
 
 ## Option 2: Werkstudentenstelle
 
 Die Werkstudentenstelle ist für Studierende mit mehr Stunden und höherem Verdienst gedacht.
 
-**Stundenlimit:** Max. 20 Stunden pro Woche während des Semesters. In Semesterferien darfst du Vollzeit arbeiten — für max. 26 Wochen pro Jahr.
+**Stundenlimit:** Höchstens 20 Stunden pro Woche während der Vorlesungszeit. In den Semesterferien sind mehr Stunden möglich, insgesamt aber an höchstens 26 Wochen im Jahr.
 
-**Sozialversicherung:** Als Werkstudent bist du in der Kranken-, Pflege- und Arbeitslosenversicherung befreit — solange du die 20-Stunden-Grenze einhältst. Aber: **Rentenversicherung fällt an** — 9,3 % Eigenanteil.
+**Sozialversicherung:** Als Werkstudent bist du in der Kranken-, Pflege- und Arbeitslosenversicherung beitragsfrei, solange du die 20-Stunden-Grenze einhältst. **Rentenversicherung fällt aber an**, mit höchstens 9,3 Prozent Eigenanteil. Liegt dein Verdienst im Übergangsbereich zwischen 603,01 und 2.000 Euro, zahlst du einen reduzierten Anteil, der mit dem Verdienst ansteigt.
 
-**Steuern:** Normales Lohnsteuerverfahren. Bei niedrigem Jahreseinkommen (unter ca. 12.096 Euro Grundfreibetrag 2025) bekommst du über die Steuererklärung alles oder fast alles zurück.
+**Krankenversicherung:** Beitragsfrei heißt nicht automatisch familienversichert. Liegt dein Verdienst über 565 Euro im Monat, endet die Familienversicherung, und du versicherst dich selbst in der studentischen Krankenversicherung.
 
-**Rechenbeispiel:** Werkstudent, 20h/Woche, 15 Euro/Stunde = 1.200 Euro brutto. Abzüglich Rentenversicherung (9,3 %) und Lohnsteuer (bei niedrigem Gesamteinkommen oft nahe null) bleiben ca. 1.080–1.100 Euro netto.
+**Steuern:** Normales Lohnsteuerverfahren. Bleibt dein Jahreseinkommen unter dem Grundfreibetrag (2026: 12.348 Euro), bekommst du einbehaltene Lohnsteuer über die Steuererklärung vollständig zurück.
+
+**Rechenbeispiel:** Werkstudent, 20 Stunden pro Woche, 15 Euro pro Stunde, also 1.200 Euro brutto. Im Übergangsbereich fallen rund 80 Euro Rentenbeitrag an, Lohnsteuer in Steuerklasse I praktisch keine. Netto bleiben rund 1.120 Euro.
 
 ## Option 3: Pflichtpraktikum
 
-Pflichtpraktika (im Studienplan verankert) sind vollständig sozialversicherungsfrei — egal wie lange und wie viel du verdienst. Das macht sie besonders attraktiv, wenn du praktische Erfahrung sammeln und gut verdienen willst.
+Pflichtpraktika, die in der Studienordnung vorgeschrieben sind, sind vollständig sozialversicherungsfrei, egal wie lange sie dauern und wie viel du verdienst. Das macht sie besonders attraktiv, wenn du praktische Erfahrung sammeln und gut verdienen willst.
 
-Freiwillige Praktika unterliegen anderen Regeln — hier gelten bei längerer Dauer die normalen Sozialversicherungsregeln.
+Für freiwillige Praktika gelten andere Regeln. Bei längerer Dauer greifen die normalen Regeln der Sozialversicherung.
 
 ## Familienversicherung: Wann verlierst du sie?
 
-Das ist der häufigste Fehler: Die Familienversicherung in der GKV endet, wenn dein Gesamteinkommen regelmäßig über 505 Euro/Monat liegt (2025). Dann musst du dich selbst versichern — als Student günstig über die studentische GKV (ca. 130–160 Euro/Monat inkl. Pflegeversicherung).
+Das ist der häufigste Fehler: Die Familienversicherung endet, wenn dein Gesamteinkommen regelmäßig über 565 Euro im Monat liegt (2026), bei einem reinen Minijob über 603 Euro. Das gilt auch für Werkstudenten. Danach versicherst du dich selbst, als Student günstig in der studentischen Krankenversicherung für rund 130 bis 160 Euro im Monat inklusive Pflegeversicherung.
 
-Achtung: Mehrere Jobs gleichzeitig werden zusammengerechnet. Wer Minijob + Werkstudentenstelle kombiniert, überschreitet schnell die Grenze.
+Achtung: Mehrere Jobs und andere Einkünfte werden zusammengerechnet. Wer Minijob und Werkstudentenstelle kombiniert, überschreitet die Grenze schnell. Unabhängig vom Einkommen endet die Familienversicherung mit dem 25. Geburtstag.
 
 ## Was bleibt am Ende netto?
 
-Grobe Übersicht für Münster:
+Grobe Übersicht 2026, Steuerklasse I, ohne Kirchensteuer:
 
 | Modell | Brutto/Monat | Netto ca. | Sozialversicherung |
 |---|---|---|---|
-| Minijob | bis 556 € | ~540 € | keine (außer opt. RV) |
-| Werkstudent 15h | 900 € | ~810 € | nur RV |
-| Werkstudent 20h | 1.200 € | ~1.090 € | nur RV |
+| Minijob | 603 € | ~581 € (603 € mit Befreiung) | nur 3,6 % RV, Befreiung möglich |
+| Werkstudent 15 h | 900 € | ~860 € | nur RV, reduziert im Übergangsbereich |
+| Werkstudent 20 h | 1.200 € | ~1.120 € | nur RV, reduziert im Übergangsbereich |
 
-Bei niedrigem Jahreseinkommen: Steuererklärung lohnt sich fast immer. [Wie das funktioniert, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster/)
+Ohne Familienversicherung kommt beim Werkstudenten der Beitrag zur studentischen Krankenversicherung dazu.
 
-**Übergang zum ersten Job:** Wer nach dem Werkstudent-Job in den ersten regulären Job startet, sollte sich frühzeitig mit Gehaltsverhandlung beschäftigen — das erste Brutto entscheidet über die Karriere-Einkommensbasis. [Marktdaten und Verhandlungsstrategie für Berufseinsteiger in Münster stehen hier.](/blog/berufsstart-muenster-gehalt-verhandlung/)
+Bei niedrigem Jahreseinkommen lohnt sich die Steuererklärung fast immer. [Wie das funktioniert, erklärt dieser Artikel.](/blog/steuererklaerung-berufseinsteiger-muenster/)
+
+**Übergang zum ersten Job:** Wer nach dem Werkstudentenjob in den ersten regulären Job startet, sollte sich früh mit der Gehaltsverhandlung beschäftigen. Das erste Brutto prägt die Einkommensbasis für die ganze Karriere. [Marktdaten und Verhandlungsstrategie für Berufseinsteiger in Münster stehen hier.](/blog/berufsstart-muenster-gehalt-verhandlung/)
 
 ## Verwandte Münster-Themen
 
@@ -85,9 +90,9 @@ Bei niedrigem Jahreseinkommen: Steuererklärung lohnt sich fast immer. [Wie das 
 
 ## Fazit
 
-Minijob ist einfach, sauber und netto fast gleich brutto. Werkstudentenstelle bringt mehr Geld und Berufserfahrung, aber mehr Bürokratie und Rentenversicherungspflicht. Pflichtpraktikum ist der steuerliche Jackpot — wenn es der Studienplan hergibt.
+Der Minijob ist einfach, sauber und netto fast gleich brutto. Die Werkstudentenstelle bringt mehr Geld und Berufserfahrung, aber Rentenversicherungspflicht und ab 565 Euro im Monat das Ende der Familienversicherung. Das Pflichtpraktikum ist der Jackpot bei den Abgaben, wenn der Studienplan es hergibt.
 
-Die richtige Wahl hängt von Studienplan, Arbeitszeit, Familienversicherungsstatus und Gehalt ab. Wer mehrere Jobs kombiniert oder Grenzfälle hat, sollte sich einmal kurz beraten lassen — ein Fehler hier kann rückwirkend teuer werden.
+Die richtige Wahl hängt von Studienplan, Arbeitszeit, Familienversicherung und Gehalt ab. Wer mehrere Jobs kombiniert oder in einem Grenzfall steckt, sollte sich einmal kurz beraten lassen. Ein Fehler kann hier rückwirkend teuer werden.
 
 ---
 
