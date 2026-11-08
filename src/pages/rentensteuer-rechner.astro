@@ -10,13 +10,13 @@ import Header from '../components/Header.astro';
 	<head>
 		<BaseHead
 			title="Steuerrechner für Rentner: Wie viel Steuer auf die Rente?"
-			description="Kostenloser Steuerrechner für Rentner: Berechne in 60 Sekunden Besteuerungsanteil, Rentenfreibetrag und deine Einkommensteuer auf die Rente — Tarif 2025."
+			description="Kostenloser Steuerrechner für Rentner: Berechne in 60 Sekunden Besteuerungsanteil, Rentenfreibetrag und deine Einkommensteuer auf die Rente — Tarif 2026."
 		/>
 		<PageSchema
 			title="Steuerrechner für Rentner: Wie viel Steuer auf die Rente?"
-			description="Kostenloser Steuerrechner für Rentner: Berechne in 60 Sekunden Besteuerungsanteil, Rentenfreibetrag und deine Einkommensteuer auf die Rente — Tarif 2025."
+			description="Kostenloser Steuerrechner für Rentner: Berechne in 60 Sekunden Besteuerungsanteil, Rentenfreibetrag und deine Einkommensteuer auf die Rente — Tarif 2026."
 			datePublished="2026-06-12"
-			dateModified="2026-06-12"
+			dateModified="2026-11-08"
 			isCalculator
 		/>
 	</head>
@@ -27,7 +27,7 @@ import Header from '../components/Header.astro';
 				<p class="label">Kostenlos & anonym</p>
 				<h1>Steuerrechner für Rentner</h1>
 				<p class="subtitle">
-					In 60 Sekunden erfährst du, wie viel Einkommensteuer auf deine Rente anfällt — mit Besteuerungsanteil nach Renteneintrittsjahr, Rentenfreibetrag und Steuertarif 2025.
+					In 60 Sekunden erfährst du, wie viel Einkommensteuer auf deine Rente anfällt — mit Besteuerungsanteil nach Renteneintrittsjahr, Rentenfreibetrag und Steuertarif 2026.
 				</p>
 			</div>
 
@@ -107,7 +107,7 @@ import Header from '../components/Header.astro';
 				</div>
 
 				<div class="disclaimer-calc">
-					Diese Berechnung ist eine vereinfachte Schätzung nach Einkommensteuertarif 2025 (§ 32a EStG, Grundfreibetrag 12.096 €) — keine Steuerberatung. Kirchensteuer, Kapitalerträge, außergewöhnliche Belastungen und individuelle KV/PV-Beiträge sind pauschaliert bzw. nicht berücksichtigt. Verbindliche Auskünfte gibt dein Finanzamt oder ein Steuerberater.
+					Diese Berechnung ist eine vereinfachte Schätzung nach Einkommensteuertarif 2026 (§ 32a EStG, Grundfreibetrag 12.348 €) — keine Steuerberatung. Kirchensteuer, Kapitalerträge, außergewöhnliche Belastungen und individuelle KV/PV-Beiträge sind pauschaliert bzw. nicht berücksichtigt. Verbindliche Auskünfte gibt dein Finanzamt oder ein Steuerberater.
 				</div>
 
 				<div class="cta-box">
@@ -164,7 +164,7 @@ import Header from '../components/Header.astro';
 				<h2>Häufige Fragen</h2>
 				<details>
 					<summary>Ab welcher Rente muss man Steuern zahlen?</summary>
-					<p>Steuern fallen an, sobald das zu versteuernde Einkommen über dem Grundfreibetrag liegt (2025: 12.096 € für Alleinstehende, 24.192 € bei Zusammenveranlagung). Wer 2025 in Rente geht, bleibt mit einer Bruttorente bis etwa 1.300 €/Monat ohne weitere Einkünfte meist steuerfrei — die genaue Grenze hängt vom Eintrittsjahr und den absetzbaren Vorsorgeaufwendungen ab.</p>
+					<p>Steuern fallen an, sobald das zu versteuernde Einkommen über dem Grundfreibetrag liegt (2026: 12.348 € für Alleinstehende, 24.696 € bei Zusammenveranlagung). Wer 2026 in Rente geht, bleibt mit einer Bruttorente bis etwa 1.450 €/Monat ohne weitere Einkünfte steuerfrei — die genaue Grenze hängt vom Eintrittsjahr und den absetzbaren Vorsorgeaufwendungen ab.</p>
 				</details>
 				<details>
 					<summary>Muss ich als Rentner eine Steuererklärung abgeben?</summary>
@@ -176,7 +176,7 @@ import Header from '../components/Header.astro';
 				</details>
 				<details>
 					<summary>Was ist mit Kranken- und Pflegeversicherung?</summary>
-					<p>KV- und PV-Beiträge werden direkt von der Bruttorente abgezogen (rund 11–12 %), sind aber als Vorsorgeaufwendungen absetzbar — dieser Rechner berücksichtigt das pauschal. Die Beiträge selbst sind keine Steuer: Netto von der Rente bleibt Bruttorente minus KV/PV minus Einkommensteuer.</p>
+					<p>KV- und PV-Beiträge werden direkt von der Bruttorente abgezogen (2026 rund 12,4 %, kinderlos rund 13 %), sind aber als Vorsorgeaufwendungen absetzbar — dieser Rechner berücksichtigt das pauschal. Die Beiträge selbst sind keine Steuer: Netto von der Rente bleibt Bruttorente minus KV/PV minus Einkommensteuer.</p>
 				</details>
 
 				<p class="weitere-rechner">Weitere Rechner: <a href="/rentenluecke-rechner/">Rentenlücken-Rechner</a> · <a href="/sparplan-rechner/">Sparplan-Rechner</a></p>
@@ -216,20 +216,20 @@ import Header from '../components/Header.astro';
 		return 100;
 	}
 
-	// Einkommensteuer-Grundtarif 2025 (§ 32a EStG)
-	function est2025(zvE: number): number {
+	// Einkommensteuer-Grundtarif 2026 (§ 32a Abs. 1 EStG, Fassung ab VZ 2026)
+	function est2026(zvE: number): number {
 		const x = Math.floor(zvE);
-		if (x <= 12096) return 0;
-		if (x <= 17443) {
-			const y = (x - 12096) / 10000;
-			return Math.floor((932.3 * y + 1400) * y);
+		if (x <= 12348) return 0;
+		if (x <= 17799) {
+			const y = (x - 12348) / 10000;
+			return Math.floor((914.51 * y + 1400) * y);
 		}
-		if (x <= 68480) {
-			const z = (x - 17443) / 10000;
-			return Math.floor((176.64 * z + 2397) * z + 1015.13);
+		if (x <= 69878) {
+			const z = (x - 17799) / 10000;
+			return Math.floor((173.1 * z + 2397) * z + 1034.87);
 		}
-		if (x <= 277825) return Math.floor(0.42 * x - 10911.92);
-		return Math.floor(0.45 * x - 19246.67);
+		if (x <= 277825) return Math.floor(0.42 * x - 11135.63);
+		return Math.floor(0.45 * x - 19470.38);
 	}
 
 	calcBtn.addEventListener('click', () => {
@@ -243,11 +243,11 @@ import Header from '../components/Header.astro';
 		const freibetrag = Math.round(jahresrente * (1 - anteil / 100));
 		const steuerpflichtigeRente = jahresrente - freibetrag;
 
-		// Pauschalen + Vorsorgeaufwendungen (KV/PV der Rentner, vereinfacht 12 % der Bruttorente)
-		const vorsorge = Math.round(jahresrente * 0.12);
+		// Pauschalen + Vorsorgeaufwendungen (KVdR 2026: 7,3 % + halber Ø-Zusatzbeitrag 1,45 % = 8,75 %, PV 3,6 %)
+		const vorsorge = Math.round(jahresrente * 0.1235);
 		const zvE = Math.max(0, steuerpflichtigeRente + weitere - 102 - 36 - vorsorge);
 
-		const steuer = splitting ? 2 * est2025(zvE / 2) : est2025(zvE);
+		const steuer = splitting ? 2 * est2026(zvE / 2) : est2026(zvE);
 		const quote = jahresrente > 0 ? (steuer / jahresrente) * 100 : 0;
 
 		document.getElementById('res-anteil')!.textContent = anteil.toLocaleString('de-DE') + ' %';

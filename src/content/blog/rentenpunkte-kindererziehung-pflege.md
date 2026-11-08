@@ -2,13 +2,14 @@
 title: 'Rentenpunkte für Kindererziehung und Pflege Angehöriger'
 description: 'Mütterrente, Pflegerentenpunkte und Kindererziehungszeiten — wie viele Rentenpunkte du wirklich bekommst und wie du sie korrekt anrechnen lässt.'
 pubDate: '2026-05-27'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 heroImageAlt: 'Rentenpunkte für Kindererziehung und Pflege'
 category: 'Altersvorsorge'
-tldr: 'Kindererziehungszeit nach § 56 SGB VI: 3 Rentenpunkte pro Kind ab Geburtsjahr 1992 (jeweils 1 RP/Jahr in den ersten 3 Lebensjahren), 2,5 RP für Kinder vor 1992 (Mütterrente). Pflege Angehöriger ab Pflegegrad 2 und mindestens 10 Stunden Pflege pro Woche bringt Rentenpunkte: Pflegegrad 2 mit 10+ Stunden = 0,27 RP/Jahr, Pflegegrad 5 mit 14+ Stunden = 1,01 RP/Jahr. Beide Kategorien werden von der Pflegeversicherung an die DRV gemeldet — keine eigene Antragstellung nötig, aber Erfassung im Rentenkonto immer prüfen.'
+tldr: 'Kindererziehungszeit nach § 56 SGB VI: 3 Rentenpunkte pro Kind ab Geburtsjahr 1992 (jeweils 1 RP/Jahr in den ersten 3 Lebensjahren), 2,5 RP für Kinder vor 1992 (Mütterrente II). Mit der beschlossenen Mütterrente III gibt es ab 2027 auch für vor 1992 geborene Kinder 3 RP, ausgezahlt ab 2028 rückwirkend. Pflege Angehöriger ab Pflegegrad 2 und mindestens 10 Stunden Pflege pro Woche bringt Rentenpunkte: Pflegegrad 2 mit 10+ Stunden = 0,27 RP/Jahr, Pflegegrad 5 mit 14+ Stunden = 1,01 RP/Jahr. Beide Kategorien werden von der Pflegeversicherung an die DRV gemeldet — keine eigene Antragstellung nötig, aber Erfassung im Rentenkonto immer prüfen.'
 faq:
   - question: 'Wie viele Rentenpunkte bekomme ich pro Kind?'
-    answer: 'Für Kinder ab Geburtsjahr 1992: 3 Rentenpunkte pro Kind über die ersten 3 Lebensjahre (jeweils 1,0 RP/Jahr — § 56 Abs. 1 SGB VI). Für Kinder vor 1992: 2,5 RP pro Kind ("Mütterrente") über die ersten 30 Monate. Diese Zeiten werden parallel zur eventuellen Erwerbstätigkeit angerechnet, das heißt: Wer in den ersten 3 Jahren nach der Geburt weiter arbeitet und 1,0 RP aus Gehalt bekommt, bekommt in dem Jahr 2,0 RP gesamt (Beitrag plus Erziehungszeit). Bei Mehrlingsgeburten und kurz aufeinanderfolgenden Geburten gelten Sonderregelungen — Erziehungszeit verlängert sich entsprechend.'
+    answer: 'Für Kinder ab Geburtsjahr 1992: 3 Rentenpunkte pro Kind über die ersten 3 Lebensjahre (jeweils 1,0 RP/Jahr — § 56 Abs. 1 SGB VI). Für Kinder vor 1992: bis Ende 2026 2,5 RP pro Kind ("Mütterrente II"), ab 2027 mit der Mütterrente III ebenfalls 3 RP. Die Umsetzung erfolgt ab 2028, für 2027 wird rückwirkend nachgezahlt, ohne eigenen Antrag. Diese Zeiten werden parallel zur eventuellen Erwerbstätigkeit angerechnet, das heißt: Wer in den ersten 3 Jahren nach der Geburt weiter arbeitet und 1,0 RP aus Gehalt bekommt, bekommt in dem Jahr 2,0 RP gesamt (Beitrag plus Erziehungszeit). Bei Mehrlingsgeburten und kurz aufeinanderfolgenden Geburten gelten Sonderregelungen — Erziehungszeit verlängert sich entsprechend.'
   - question: 'Wann werden Rentenpunkte für Pflege gutgeschrieben?'
     answer: 'Drei Voraussetzungen müssen erfüllt sein (§ 3 SGB VI): 1) Pflegebedürftigkeit nach Pflegegrad 2 oder höher, 2) Pflege durch nicht erwerbsmäßige Pflegeperson, 3) Mindestens 10 Stunden Pflege pro Woche, verteilt auf mindestens 2 Tage. Die Pflegeversicherung meldet die Beiträge automatisch an die Deutsche Rentenversicherung — keine eigene Antragstellung nötig, aber Erfassung im Rentenkonto immer prüfen. Wichtige Einschränkung: Wer mehr als 30 Stunden pro Woche erwerbstätig ist, bekommt keine Pflegerentenpunkte — die Pflege gilt dann nicht als Hauptbeschäftigung.'
   - question: 'Wie viele Rentenpunkte bei Pflegegrad 2, 3, 4 oder 5?'
@@ -44,13 +45,16 @@ Das Kernregelwerk steht in **§ 56 Abs. 1 SGB VI**: Für jedes Kind, das nach de
 | Kind-Geburtsjahr | Erziehungszeit | RP pro Kind |
 |---|---|---:|
 | ab 1992 | 3 Jahre | 3,0 RP |
-| vor 1992 (Mütterrente) | 2,5 Jahre | 2,5 RP |
+| vor 1992, bis Ende 2026 (Mütterrente II) | 2,5 Jahre | 2,5 RP |
+| vor 1992, ab 2027 (Mütterrente III) | 3 Jahre | 3,0 RP |
+
+**Mütterrente III:** Bundestag und Bundesrat haben im Dezember 2025 beschlossen, die Erziehungszeit für vor 1992 geborene Kinder ab 1. Januar 2027 auf drei Jahre anzuheben. Damit zählt jedes Kind gleich, unabhängig vom Geburtsjahr. Weil die Rentenversicherung das technisch erst ab 2028 umsetzen kann, wird der Zuschlag für 2027 rückwirkend ausgezahlt. Wer schon Rente bezieht, muss nichts beantragen.
 
 **Wichtig:** Diese Zeit zählt **parallel** zu eventuellem Gehaltseinkommen. Wer also nach 6 Monaten Elternzeit zurück in den Job geht und ein Brutto von 50.000 € verdient, bekommt:
 
-- Aus Gehalt: 1,10 RP/Jahr
+- Aus Gehalt: rund 0,96 RP/Jahr (2026)
 - Aus Erziehungszeit: 1,00 RP/Jahr (über 3 Jahre)
-- **Gesamt im Erziehungsjahr: 2,10 RP**
+- **Gesamt im Erziehungsjahr: rund 1,96 RP**
 
 Die Erziehungszeit wird also nicht von der Erwerbszeit abgezogen, sondern **zusätzlich** gutgeschrieben.
 
@@ -70,9 +74,9 @@ Standardmäßig wird die Erziehungszeit **der Mutter** zugeschrieben. Eine ander
 
 ### Wirklich entgangene Rentenpunkte durch Elternzeit
 
-Wer 5 Jahre für 2 Kinder Vollzeit aussetzt, gewinnt aus Erziehungszeit 6 RP (3 RP pro Kind) — verliert aber 5 Jahre × 1,1 RP (Brutto 50.000 €) = 5,5 RP an Erwerbsanteilen. **Netto-Effekt: leichter Verlust von 0,5 RP**, also rund 20 € Bruttorente monatlich.
+Wer 5 Jahre für 2 Kinder Vollzeit aussetzt, gewinnt aus Erziehungszeit 6 RP (3 RP pro Kind) — verliert aber 5 Jahre × 0,96 RP (Brutto 50.000 €, Basis 2026) = 4,8 RP an Erwerbsanteilen. **Netto-Effekt: leichter Gewinn von rund 1,2 RP**, also rund 50 € Bruttorente monatlich. Der Grund: Die Erziehungszeit wird wie ein Durchschnittsverdienst bewertet, und 50.000 € liegen 2026 knapp unter dem Durchschnittsentgelt von 51.944 €.
 
-Bei längerer Erwerbsunterbrechung (8 Jahre statt 5) wird der Verlust deutlicher: 6 RP Erziehungszeit gegenüber 8,8 RP entgangenem Gehaltseinkommen — **Verlust von 2,8 RP**, entspricht rund 110 € weniger Bruttorente monatlich.
+Bei längerer Erwerbsunterbrechung (8 Jahre statt 5) wird der Verlust deutlicher: 6 RP Erziehungszeit gegenüber rund 7,7 RP entgangenem Gehaltseinkommen — **Verlust von rund 1,7 RP**, entspricht rund 70 € weniger Bruttorente monatlich.
 
 [Wie sich Rentenpunkte konkret in Bruttorente umrechnen, steht hier mit Tabelle.](/blog/rentenpunkte-fuer-2000-euro-rente/)
 
@@ -143,11 +147,11 @@ Kindererziehungszeiten und Pflegerentenpunkte sind **wichtig**, aber sie schlie�
 
 - Frau, 2 Kinder ab 1992, 5 Jahre Vollzeit-Auszeit, danach 10 Jahre 50 %-Teilzeit, dann wieder Vollzeit
 - Aus Erziehungszeit: 6 RP
-- Aus Teilzeit (10 × 0,55 RP): 5,5 RP
-- Aus Vollzeit (20 × 1,1 RP): 22 RP
-- **Gesamt: 33,5 RP** = rund 1.317 € Bruttorente
+- Aus Teilzeit (10 × 0,48 RP): 4,8 RP
+- Aus Vollzeit (20 × 0,96 RP): 19,2 RP
+- **Gesamt: 30 RP** = rund 1.276 € Bruttorente (Rentenwert 42,52 €)
 
-Das liegt **genau im Frauen-Durchschnitt** (33,2 RP) — die Anerkennungssysteme reichen also gerade aus, um den strukturellen Karrierenachteil teilweise zu kompensieren.
+Das liegt **in der Nähe des Frauen-Durchschnitts** (33,2 RP): Die Anerkennungssysteme kompensieren den strukturellen Karrierenachteil also nur teilweise.
 
 [Wo dein konkreter Rentenpunktstand im Vergleich zu deinem Lebensalter steht, findest du hier.](/blog/wie-viele-rentenpunkte-mit-40-50-60/)
 

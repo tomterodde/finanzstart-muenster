@@ -2,6 +2,7 @@
 title: 'ETF-Sparplan pausieren: Was passiert? (Trade Republic, Scalable, Comdirect & Co.)'
 description: 'Was passiert, wenn du deinen ETF-Sparplan pausierst? Schritt für Schritt bei Trade Republic, Scalable, ING, Comdirect und DKB, und wann eine Pause sinnvoll ist.'
 pubDate: '2026-04-18'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Einen ETF-Sparplan zu pausieren ist bei allen großen Brokern (Trade Republic, Scalable, ING, Comdirect, DKB) jederzeit kostenlos möglich. Es entstehen keine Gebühren, keine Steuern, keine Strafen — die vorhandenen Anteile bleiben im Depot und entwickeln sich weiter. Sinnvoll bei kurzfristigen Engpässen (Notgroschen geht zur Neige) oder wirklich notwendigen Kürzungen. Nicht sinnvoll: aus Angst bei Markteinbrüchen pausieren — gerade bei fallenden Kursen kauft der Sparplan günstiger ein (Cost-Average-Effekt). Wer pausiert, sollte ein klares Re-Aktivierungsdatum oder Trigger-Ereignis festlegen.'
@@ -37,15 +38,27 @@ Du kannst bei den meisten Brokern jederzeit pausieren (oft auch „aussetzen" ge
 
 Das Prinzip ist überall gleich: Sparplan-Übersicht öffnen, betroffenen Plan auswählen, pausieren oder löschen. **Wichtig: Einen Sparplan zu löschen verkauft keine Anteile** — der Bestand bleibt im Depot, du legst später einfach einen neuen an. Die genaue Bezeichnung der Buttons kann je nach App-Version leicht abweichen.
 
-**Trade Republic Sparplan pausieren:** Profil → „Sparpläne" → betroffenen ETF antippen → Rate ändern oder Sparplan löschen. Eine dauerhafte Pause-Funktion gibt es bei Trade Republic nicht — das Löschen ist kostenlos, der Bestand bleibt erhalten, und du startest später einen neuen Sparplan.
+### Trade Republic Sparplan pausieren
 
-**Scalable Capital:** Sparplan-Übersicht → Sparplan auswählen → „Pausieren" oder „Bearbeiten". Scalable bietet eine echte Pausieren-Option, ohne den Plan zu löschen.
+Profil → „Sparpläne" → betroffenen ETF antippen → Rate ändern oder Sparplan löschen. Eine dauerhafte Pause-Funktion gibt es bei Trade Republic nicht — das Löschen ist kostenlos, der Bestand bleibt erhalten, und du startest später einen neuen Sparplan.
 
-**ING:** Wertpapiersparplan im Banking öffnen → „Sparplan aussetzen / ändern". Das Aussetzen einzelner oder mehrerer Ausführungen ist direkt möglich.
+### Scalable Capital Sparplan pausieren
 
-**Comdirect Sparplan pausieren:** Sparpläne → betroffenen Plan → „aussetzen" oder „löschen". Das Aussetzen pausiert die nächsten Ausführungen, ohne den Plan zu beenden.
+Sparplan-Übersicht → Sparplan auswählen → „Pausieren" oder „Bearbeiten". Scalable bietet eine echte Pausieren-Option, ohne den Plan zu löschen.
 
-**DKB:** Sparplan-Verwaltung → Plan auswählen → „pausieren / aussetzen".
+### ING Sparplan pausieren
+
+Wertpapiersparplan im Banking öffnen → „Sparplan aussetzen / ändern". Das Aussetzen einzelner oder mehrerer Ausführungen ist direkt möglich.
+
+### Comdirect Sparplan pausieren
+
+Sparpläne → betroffenen Plan → „aussetzen" oder „löschen". Das Aussetzen pausiert die nächsten Ausführungen, ohne den Plan zu beenden.
+
+### DKB Sparplan pausieren
+
+Sparplan-Verwaltung → Plan auswählen → „pausieren / aussetzen".
+
+### Bei allen Brokern gleich
 
 In jedem Fall gilt: keine Gebühr, kein Verkauf, kein steuerliches Ereignis.
 

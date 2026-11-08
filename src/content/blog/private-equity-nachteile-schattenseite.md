@@ -71,7 +71,7 @@ Das größte und meistunterschätzte Problem. Wer 50.000 € in einen PE-Fonds i
 PE-Fonds arbeiten typisch mit dem **2/20-Modell**:
 
 - **2 % Management Fee** jährlich auf das verwaltete Kapital
-- **20 % Carried Interest** auf Gewinne (über einer Hurdle Rate von typisch 8 %)
+- **20 % [Carried Interest](/blog/carried-interest-einfach-erklaert/)** auf Gewinne (über einer Hurdle Rate von typisch 8 %)
 
 **Konkrete Rechnung:** Bei einer Bruttorendite von 12 % bleiben für den Anleger:
 

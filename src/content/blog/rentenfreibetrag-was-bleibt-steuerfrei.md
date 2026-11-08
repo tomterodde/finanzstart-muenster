@@ -2,20 +2,21 @@
 title: 'Rentenfreibetrag 2026: Was bleibt von der Rente steuerfrei?'
 description: 'Wie hoch ist der Rentenfreibetrag bei Renteneintritt 2026? Tabelle nach Jahr, Berechnung mit Beispiel und welche Bruttorente steuerfrei bleibt.'
 pubDate: '2026-05-26'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Altersvorsorge'
-tldr: 'Bei Renteneintritt 2026 sind 84 % der Rente steuerpflichtig, 16 % bleiben als Rentenfreibetrag lebenslang steuerfrei. Eine gesetzliche Rente bis rund 1.350 € brutto im Monat bleibt nach Grundfreibetrag und Vorsorgeaufwendungen meist komplett steuerfrei.'
+tldr: 'Bei Renteneintritt 2026 sind 84 % der Rente steuerpflichtig, 16 % bleiben als Rentenfreibetrag lebenslang steuerfrei. Eine gesetzliche Rente bis rund 1.450 € brutto im Monat bleibt nach Grundfreibetrag (12.348 €) und Kranken- und Pflegeversicherungsbeiträgen 2026 komplett steuerfrei.'
 faq:
   - question: 'Wie hoch ist der Rentenfreibetrag 2026?'
     answer: 'Wer 2026 in Rente geht, hat einen Besteuerungsanteil von 84 %. Der Rentenfreibetrag liegt also bei 16 % der ersten vollen Jahresrente und wird als fester Eurobetrag lebenslang konserviert.'
   - question: 'Bleibt der Rentenfreibetrag das ganze Leben gleich?'
     answer: 'Ja, in Euro. Der Freibetrag wird im Jahr nach dem Renteneintritt einmalig fixiert. Wenn die Rente später durch Rentenanpassungen steigt, ist der Erhöhungsbetrag voll steuerpflichtig — der ursprüngliche Freibetrag bleibt in Euro konstant.'
   - question: 'Welche Rente ist 2026 komplett steuerfrei?'
-    answer: 'Bei einem Renteneintritt 2026 bleibt eine gesetzliche Bruttorente von rund 1.350 € im Monat (etwa 16.200 € im Jahr) nach Abzug von Grundfreibetrag, Werbungskosten- und Sonderausgabenpauschale sowie Vorsorgeaufwendungen voraussichtlich steuerfrei. Bei höherer Rente oder zusätzlichen Einkünften fällt anteilig Einkommensteuer an.'
+    answer: 'Bei einem Renteneintritt 2026 bleibt eine gesetzliche Bruttorente bis rund 1.450 € im Monat (etwa 17.400 € im Jahr) nach Abzug von Grundfreibetrag (12.348 €), Werbungskosten- und Sonderausgabenpauschale sowie Kranken- und Pflegeversicherungsbeiträgen steuerfrei. Bei höherer Rente oder zusätzlichen Einkünften fällt anteilig Einkommensteuer an.'
   - question: 'Warum steigt der Besteuerungsanteil jedes Jahr?'
     answer: 'Mit dem Alterseinkünftegesetz 2005 wurde der Übergang zur nachgelagerten Besteuerung beschlossen: Beiträge in die Rentenversicherung werden zunehmend steuerfrei, dafür wird die spätere Rente höher besteuert. Seit dem Wachstumschancengesetz 2024 steigt der Anteil nur noch um 0,5 Prozentpunkte pro Jahr, sodass 100 % erst 2058 erreicht werden.'
   - question: 'Gilt der Rentenfreibetrag auch für die Betriebsrente und private Rente?'
-    answer: 'Nein. Der Rentenfreibetrag betrifft ausschließlich Leistungen aus der gesetzlichen Rentenversicherung, berufsständischen Versorgungswerken und der Basisrente (Rürup). Betriebsrenten werden voll als Einkünfte aus nichtselbständiger Arbeit versteuert, private Rentenversicherungen mit dem Ertragsanteil.'
+    answer: 'Nein. Der Rentenfreibetrag betrifft ausschließlich Leistungen aus der gesetzlichen Rentenversicherung, berufsständischen Versorgungswerken und der Basisrente (Rürup). Betriebsrenten sind in der Regel voll steuerpflichtig (je nach Durchführungsweg nach § 19 oder § 22 Nr. 5 EStG), private Rentenversicherungen werden mit dem Ertragsanteil besteuert.'
 sources:
   - title: 'Alterseinkünftegesetz, § 22 Nr. 1 Satz 3 Buchstabe a EStG'
     publisher: 'Bundesministerium der Justiz'
@@ -44,20 +45,34 @@ Beispiel: Wer 2026 mit einer Bruttorente von 1.500 € im Monat (18.000 € im J
 
 Steigt die Rente später auf 2.000 € brutto im Monat, bleibt der Freibetrag bei 2.880 €. Der Erhöhungsbetrag von 6.000 € Jahresrente ist voll steuerpflichtig.
 
-## Wie hoch ist der Rentenfreibetrag 2026?
+## Rentenfreibetrag-Tabelle: Wie hoch ist dein Freibetrag?
 
 Der Besteuerungsanteil hängt vom Jahr des Renteneintritts ab. Seit dem Wachstumschancengesetz 2024 steigt er nur noch um 0,5 Prozentpunkte pro Jahr — vorher waren es 1,0 Prozentpunkte. Vollbesteuerung greift damit erst ab 2058.
 
-| Renteneintritt | Besteuerungsanteil | Rentenfreibetrag |
+| Rentenbeginn | Besteuerungsanteil | Rentenfreibetrag (steuerfrei) |
 |---|---|---|
+| bis 2005 | 50,0 % | 50,0 % |
+| 2010 | 60,0 % | 40,0 % |
+| 2015 | 70,0 % | 30,0 % |
 | 2020 | 80,0 % | 20,0 % |
+| 2021 | 81,0 % | 19,0 % |
+| 2022 | 82,0 % | 18,0 % |
 | 2023 | 82,5 % | 17,5 % |
 | 2024 | 83,0 % | 17,0 % |
 | 2025 | 83,5 % | 16,5 % |
 | **2026** | **84,0 %** | **16,0 %** |
+| 2027 | 84,5 % | 15,5 % |
+| 2028 | 85,0 % | 15,0 % |
+| 2029 | 85,5 % | 14,5 % |
 | 2030 | 86,0 % | 14,0 % |
+| 2035 | 88,5 % | 11,5 % |
 | 2040 | 91,0 % | 9,0 % |
-| 2058 | 100,0 % | 0,0 % |
+| 2045 | 93,5 % | 6,5 % |
+| 2050 | 96,0 % | 4,0 % |
+| 2055 | 98,5 % | 1,5 % |
+| ab 2058 | 100,0 % | 0,0 % |
+
+Quelle: Tabelle in § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe aa EStG. Bis 2020 stieg der Anteil um 2 Punkte pro Jahr, 2021 und 2022 um 1 Punkt, seit 2023 um 0,5 Punkte.
 
 Wer also später in Rente geht, verliert anteilig mehr an den Fiskus. Das ist kein Zufall — es ist die Logik der nachgelagerten Besteuerung: Wer mehr Jahre lang steuerfrei eingezahlt hat, zahlt im Ruhestand mehr Steuern.
 
@@ -65,10 +80,10 @@ Wer also später in Rente geht, verliert anteilig mehr an den Fiskus. Das ist ke
 
 Der Rentenfreibetrag allein macht eine Rente nicht steuerfrei. Es kommen weitere Abzüge dazu, die alle Rentner nutzen können:
 
-- **Grundfreibetrag** (Existenzminimum): 12.084 € pro Jahr (2025; für 2026 voraussichtlich rund 12.300 €)
+- **Grundfreibetrag** (Existenzminimum): 12.348 € pro Jahr (2026)
 - **Werbungskostenpauschale** für Renten: 102 € pro Jahr
 - **Sonderausgabenpauschale**: 36 € pro Jahr
-- **Vorsorgeaufwendungen** (Kranken- und Pflegeversicherung): in der Regel rund 11 % der Rente
+- **Vorsorgeaufwendungen** (Kranken- und Pflegeversicherung): 2026 rund 12,4 % der Rente (KV 8,75 % inklusive halbem Zusatzbeitrag, PV 3,6 %)
 
 Beispielrechnung für Renteneintritt 2026 mit 1.500 € Bruttorente:
 
@@ -78,18 +93,18 @@ Beispielrechnung für Renteneintritt 2026 mit 1.500 € Bruttorente:
 | − Rentenfreibetrag (16 %) | −2.880 € |
 | − Werbungskostenpauschale | −102 € |
 | − Sonderausgabenpauschale | −36 € |
-| − Vorsorgeaufwendungen (rund 11 %) | −1.980 € |
-| − Grundfreibetrag | −12.300 € |
-| **Zu versteuerndes Einkommen** | **702 €** |
+| − Kranken- und Pflegeversicherung (rund 12,4 %) | −2.223 € |
+| **= Zu versteuerndes Einkommen** | **12.759 €** |
+| davon über dem Grundfreibetrag (12.348 €) | 411 € |
 
-Die Steuer auf 702 € liegt deutlich unter 100 € pro Jahr. Eine gesetzliche Bruttorente bis rund 1.350 € pro Monat bleibt 2026 in der Regel komplett steuerfrei — vorausgesetzt, der Rentner hat keine weiteren Einkünfte.
+Auf die 411 € oberhalb des Grundfreibetrags fallen 2026 rund 59 € Einkommensteuer im Jahr an. Eine gesetzliche Bruttorente bis rund 1.450 € pro Monat bleibt 2026 komplett steuerfrei, vorausgesetzt, es gibt keine weiteren Einkünfte. Wie viel Steuer bei höheren Renten anfällt, zeigt die [Steuertabelle für Rentner 2026](/blog/rentenbesteuerung-wie-viel-steuern-auf-rente/).
 
 ## Was viele übersehen: zusätzliche Einkünfte heben die Steuerlast
 
 Der Rentenfreibetrag betrifft nur die gesetzliche Rente. Wer im Ruhestand zusätzliche Einkünfte hat, kombiniert diese mit der steuerpflichtigen Rente — und liegt schnell über dem Grundfreibetrag.
 
 Typische zusätzliche Einkünfte:
-- Betriebsrente (voll als Einkünfte aus nichtselbständiger Arbeit steuerpflichtig)
+- Betriebsrente (in der Regel voll steuerpflichtig)
 - Private Rente aus fondsgebundener Rentenversicherung (Ertragsanteilsbesteuerung — siehe [Drei Säulen der Altersvorsorge](/blog/drei-saeulen-altersvorsorge-erklaert/))
 - Mieteinkünfte aus Immobilien
 - Kapitalerträge über dem Sparerpauschbetrag von 1.000 €

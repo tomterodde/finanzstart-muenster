@@ -112,7 +112,7 @@ Für **Privatanleger**: Direkter Zugang zu PE-Fonds ist klassisch institutionell
 
 ## Fazit
 
-Private Equity ist kein Nischenthema mehr. Mit weltweit über 8 Billionen US-Dollar verwaltetem Kapital und massivem Einfluss auf die deutsche Mittelstandslandschaft solltest du als BWL-Student oder finanzaffiner Berufseinsteiger zumindest die Grundmechanik verstehen — Buyouts, Leverage, Carried Interest, Exit-Strategien. Wer diese Konzepte versteht, hat einen Vorteil im Recruiting, im Studium und im späteren Berufsleben. Und wer sich von PE als Anleger angesprochen fühlt, sollte die Risiken (Illiquidität, hohe Schulden, lange Bindung) genauso ernst nehmen wie die Renditechancen.
+Private Equity ist kein Nischenthema mehr. Mit weltweit über 8 Billionen US-Dollar verwaltetem Kapital und massivem Einfluss auf die deutsche Mittelstandslandschaft solltest du als BWL-Student oder finanzaffiner Berufseinsteiger zumindest die Grundmechanik verstehen — Buyouts, Leverage, [Carried Interest](/blog/carried-interest-einfach-erklaert/), Exit-Strategien. Wer diese Konzepte versteht, hat einen Vorteil im Recruiting, im Studium und im späteren Berufsleben. Und wer sich von PE als Anleger angesprochen fühlt, sollte die Risiken (Illiquidität, hohe Schulden, lange Bindung) genauso ernst nehmen wie die Renditechancen.
 
 ---
 

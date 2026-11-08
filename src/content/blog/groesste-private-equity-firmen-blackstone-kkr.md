@@ -96,7 +96,7 @@ Der Mechanismus dahinter ist immer derselbe: **Carried Interest auf Mega-Fonds**
 
 Ja. **Blackstone (BX), KKR (KKR), Apollo (APO), Carlyle (CG), EQT (EQT)** und einige weitere sind börsennotiert. Wichtig zu verstehen:
 
-Wenn du Blackstone-Aktien kaufst, beteiligst du dich an der **Verwaltungsgesellschaft** — also an den Management Fees und Carried Interest, die Blackstone von seinen Fonds einnimmt. Du bist **nicht** direkt an den Portfolio-Unternehmen beteiligt.
+Wenn du Blackstone-Aktien kaufst, beteiligst du dich an der **Verwaltungsgesellschaft** — also an den Management Fees und [Carried Interest](/blog/carried-interest-einfach-erklaert/), die Blackstone von seinen Fonds einnimmt. Du bist **nicht** direkt an den Portfolio-Unternehmen beteiligt.
 
 Performance dieser Aktien war historisch stark: **Blackstone +180 % über 5 Jahre, KKR +220 %** (Stand Ende 2024). Beim Investieren beachten: Diese Aktien sind zyklisch — bei Marktrückgängen leiden sowohl AuM als auch Carry-Realisierungen.
 

@@ -69,7 +69,7 @@ Seit **November 2024** bietet Trade Republic den **Apollo Aligned Alternatives F
 | Liquidität | Monatliche Rücknahmefenster mit prozentualer Begrenzung |
 | Strategie | Multi-Strategy (PE-Buyouts, Credit, Real Assets) |
 | Manager | Nur Apollo (keine Diversifikation über mehrere Häuser) |
-| Kosten | Rund 1,25–2,0 % p.a. Verwaltungsgebühr + Carried Interest |
+| Kosten | Rund 1,25–2,0 % p.a. Verwaltungsgebühr + [Carried Interest](/blog/carried-interest-einfach-erklaert/) |
 | Steuerliche Behandlung | Wie Investmentfonds (Teilfreistellung möglich) |
 
 ### Vorteile

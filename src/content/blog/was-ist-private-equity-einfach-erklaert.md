@@ -99,7 +99,7 @@ Der Gewinn (Verkaufspreis minus Kaufpreis minus Investitionen) wird zwischen Inv
 Die typische Verteilung folgt dem **"2/20-Modell"**:
 
 - **2 % Management Fee** — die PE-Firma erhält jährlich rund 2 % auf das verwaltete Kapital für Personal und Verwaltung
-- **20 % Carried Interest** — vom Gewinn (über einer Mindestrendite, typisch 8 % "Hurdle Rate") erhält die PE-Firma 20 %, die Investoren 80 %
+- **20 % [Carried Interest](/blog/carried-interest-einfach-erklaert/)** — vom Gewinn (über einer Mindestrendite, typisch 8 % "Hurdle Rate") erhält die PE-Firma 20 %, die Investoren 80 %
 
 [Detaillierte Mechanik wie PE-Firmen Geld verdienen, steht hier.](/blog/wie-verdienen-private-equity-firmen-geld/)
 

@@ -25,6 +25,16 @@
       "source": "/blog/immobilien-kaufen-mieten-muenster",
       "destination": "/blog/mieten-oder-kaufen-muenster",
       "permanent": true
+    },
+    {
+      "source": "/Blog",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/Blog/:path*",
+      "destination": "/blog/:path*",
+      "permanent": true
     }
   ]
 }
