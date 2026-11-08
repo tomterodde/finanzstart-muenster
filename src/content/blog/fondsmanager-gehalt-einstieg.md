@@ -2,6 +2,7 @@
 title: 'Fondsmanager: Gehalt, Einstieg und der Weg ins Asset Management'
 description: 'Was verdient ein Fondsmanager in Deutschland, wie gelingt der Einstieg ins Asset Management und welche Rolle spielt der CFA? Gehaltstabelle und Karrierewege.'
 pubDate: '2026-08-03'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 category: 'Karriere & Einkommen'
 tldr: 'Fondsmanager in Deutschland verdienen als Einsteiger (Analyst) rund 55.000–75.000 €, als Portfoliomanager 90.000–150.000 € und in Senior-Positionen 150.000–300.000 € plus Bonus. Der Einstieg läuft über Trainee-Programme der großen Fondsgesellschaften, Research-Positionen und häufig den CFA-Abschluss — der Arbeitsmarkt ist klein und kompetitiv.'
@@ -35,7 +36,7 @@ Der Alltag ist weniger glamourös als das Klischee: Unternehmensanalysen lesen u
 
 Dass aktiv gemanagte Fonds ihre Benchmark häufig verfehlen, ist dabei der Dauerkonflikt der Branche — [die Debatte aktive Fonds gegen ETF](/blog/aktien-vs-etf-unterschied/) prägt auch die Berufsperspektive: Das passive Geschäft wächst, die Zahl klassischer Stockpicker-Stellen eher nicht.
 
-## Gehalt: Die Spannen im Asset Management
+## Fondsmanager-Gehalt: Was verdient ein Fondsmanager?
 
 Fondsmanagement zahlt sehr gut, aber anders als Investment Banking: weniger Extreme, dafür bessere Arbeitszeiten (typisch 45–55 Stunden statt 70+).
 
@@ -45,6 +46,8 @@ Fondsmanagement zahlt sehr gut, aber anders als Investment Banking: weniger Extr
 | Senior Analyst | 3–6 Jahre | 75.000–100.000 € | 20–50 % |
 | Portfoliomanager | 5–10 Jahre | 90.000–150.000 € | 30–80 % |
 | Senior PM / Head | 10+ Jahre | 150.000–300.000 € | 50–100 %+ |
+
+Auf den Monat umgerechnet verdient ein Einsteiger als Analyst grob 4.600 bis 6.250 € brutto, ein Portfoliomanager mit fünf bis zehn Jahren Erfahrung 7.500 bis 12.500 € Grundgehalt, jeweils plus Bonus.
 
 Die Spannen hängen stark vom Haus ab: Große Gesellschaften wie DWS, Union Investment, Deka oder Allianz Global Investors zahlen strukturiert nach Gehaltsbändern; unabhängige Boutiquen wie Flossbach von Storch oder ACATIS zahlen bei Erfolg deutlich darüber — mit direkter Beteiligung an den Fondserträgen. Bei Hedgefonds liegt das Vergütungsmodell noch einmal eine Liga höher, [wie hier beschrieben](/blog/hedgefonds-einfach-erklaert/).
 

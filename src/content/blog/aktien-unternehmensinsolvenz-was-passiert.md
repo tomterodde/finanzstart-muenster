@@ -2,7 +2,7 @@
 title: 'Aktien und Unternehmensinsolvenz: Was passiert mit deinem Geld?'
 description: 'Geht ein Unternehmen pleite, stehen Aktionäre am Ende der Rangfolge. Wie die Insolvenzordnung Gläubiger und Aktionäre unterscheidet — und wie du dich schützt.'
 pubDate: '2026-09-12'
-updatedDate: '2026-10-13'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Aktionäre sind Eigenkapitalgeber, keine Gläubiger — im Insolvenzverfahren werden sie nach allen Gläubigern bedient (§ 38, § 39 InsO): erst Massekosten, dann Banken/Anleihegläubiger/Lieferanten anteilig, dann nachrangige Gläubiger, ganz am Ende die Aktionäre. In der Praxis bleibt für sie meist nichts übrig — der Totalverlust ist bei einer echten Aktiengesellschafts-Insolvenz der Regelfall. Steuerlich zählt der Totalverlust als Aktienverlust: Er lässt sich mit Gewinnen aus Aktienverkäufen verrechnen, die frühere Deckelung auf 20.000 € pro Jahr ist seit dem Jahressteuergesetz 2024 aufgehoben. Der einzige wirksame Schutz gegen dieses Risiko ist Diversifikation über viele Unternehmen.'
@@ -17,6 +17,8 @@ faq:
     answer: 'Ja. Verluste aus der Ausbuchung wertloser Aktien ordnet die Finanzverwaltung dem Aktienverlusttopf zu (BMF-Schreiben vom 14.05.2025, Rz. 118) — sie lassen sich mit Gewinnen aus Aktienverkäufen verrechnen, nicht mit Zinsen oder ETF-Gewinnen. Die frühere Deckelung auf 20.000 € pro Jahr wurde mit dem Jahressteuergesetz 2024 für alle offenen Fälle aufgehoben. Nicht verrechnete Verluste werden in Folgejahre vorgetragen.'
   - question: 'Wie schütze ich mich vor dem Risiko eines Aktien-Totalverlusts?'
     answer: 'Der einzig wirksame Schutz ist Diversifikation über viele Unternehmen, Branchen und Länder — etwa über einen breit gestreuten Welt-ETF. Einzelaktien tragen immer ein Emittentenrisiko, das ein diversifiziertes Portfolio durch die schiere Anzahl gehaltener Positionen abfedert: Der Ausfall eines einzelnen Unternehmens fällt kaum ins Gewicht.'
+  - question: 'Was passiert mit Aktien im Insolvenzverfahren?'
+    answer: 'Die Aktie bleibt nach dem Insolvenzantrag zunächst handelbar, der Kurs bricht aber meist ein. Aktionäre stehen in der Rangfolge ganz hinten und sind keine Insolvenzgläubiger. Wird das Unternehmen abgewickelt, bleibt für sie in der Regel nichts. Auch ein Insolvenzplan kann seit 2012 in ihre Rechte eingreifen (§ 225a InsO), etwa per Kapitalschnitt auf null. Am Ende werden wertlose Aktien ausgebucht, der Verlust ist steuerlich verrechenbar.'
 sources:
   - title: '§§ 38, 39, 54 InsO (Insolvenzordnung)'
     publisher: 'Bundesministerium der Justiz'
@@ -38,6 +40,16 @@ Wirecard, Adler Group, Galeria Karstadt Kaufhof — wenn ein bekanntes Unternehm
 Der zentrale Denkfehler: Eine Aktie ist kein Kredit an das Unternehmen, sondern ein Anteil daran. Als Aktionär bist du **Miteigentümer**, nicht Gläubiger. Das bedeutet: Du hast keinen vertraglichen Anspruch auf Rückzahlung eines bestimmten Betrags — anders als jemand, der dem Unternehmen Geld geliehen hat (etwa über eine Unternehmensanleihe oder einen Bankkredit).
 
 Dieser Unterschied ist der Grund, warum Aktien im Erfolgsfall überdurchschnittliche Renditen bieten können: Du trägst das volle unternehmerische Risiko — nach oben wie nach unten.
+
+## Was passiert mit Aktien im Insolvenzverfahren? Der Ablauf
+
+Mit dem Insolvenzantrag ändert sich für Aktionäre formal zunächst wenig, wirtschaftlich fast alles. Der typische Ablauf:
+
+1. **Insolvenzantrag:** Das Unternehmen muss ihn per Ad-hoc-Mitteilung veröffentlichen. Der Kurs bricht meist sofort ein, die Aktie bleibt aber an der Börse handelbar.
+2. **Vorläufiges Verfahren:** Ein vorläufiger Insolvenzverwalter prüft, ob genug Vermögen für ein Verfahren da ist. In dieser Phase schwankt der Kurs oft stark, weil Spekulanten auf eine Rettung wetten.
+3. **Eröffnung des Verfahrens:** Der Insolvenzverwalter übernimmt. Aktionäre sind keine Insolvenzgläubiger und können keine Forderungen anmelden.
+4. **Ausgang:** Entweder wird das Unternehmen abgewickelt, dann bleibt für Aktionäre in aller Regel nichts. Oder ein Insolvenzplan rettet es. Seit 2012 darf ein solcher Plan auch in die Rechte der Aktionäre eingreifen (§ 225a InsO), etwa durch einen Kapitalschnitt auf null und die Umwandlung von Gläubigerforderungen in neue Aktien. Die Altaktionäre gehen dann meist ebenfalls leer aus.
+5. **Delisting und Ausbuchung:** Am Ende wird die Börsenzulassung widerrufen und die Bank bucht die wertlosen Aktien aus. Steuerlich ist der Verlust damit nicht verloren, [dazu unten mehr](#steuerliche-behandlung-eines-totalverlusts).
 
 ## Die Rangfolge im Insolvenzverfahren
 

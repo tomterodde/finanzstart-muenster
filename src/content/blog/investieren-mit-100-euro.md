@@ -2,6 +2,7 @@
 title: 'Mit 100 Euro im Monat investieren: Was wirklich möglich ist'
 description: 'Kann man mit 100 Euro im Monat wirklich Vermögen aufbauen? Konkrete Zahlen, realistische Erwartungen und der einfachste Einstieg.'
 pubDate: '2026-05-15'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'Vermögensaufbau'
 tldr: '100 € monatlich in einen breit gestreuten Welt-Aktien-ETF ergeben bei 7 % Rendite p.a. nach 40 Jahren rund 264.000 € — bei einer Einzahlungssumme von nur 48.000 €. Der Zinseszins trägt mehr bei als die eigentlichen Einzahlungen. Wer 10 Jahre später startet, landet bei rund 122.500 € — mehr als die Hälfte Endvermögen weggeschmolzen. Einstiegsschwelle bei Neobrokern: 25–50 € monatlich, Sparpläne auf breite ETFs sind bei den meisten Anbietern kostenfrei.'
@@ -16,6 +17,8 @@ faq:
     answer: 'Für Einsteiger reicht ein einzelner, breit diversifizierter Welt-ETF — MSCI World (23 Industrieländer, ~1.500 Unternehmen) oder FTSE All-World (inklusive Schwellenländer, ~3.500 Unternehmen). TER: 0,12–0,22 %. Bei den meisten Brokern ist der Sparplan auf diese ETFs kostenlos.'
   - question: 'Ist die Annahme von 7 % Rendite realistisch?'
     answer: '7 % entspricht der historischen Durchschnittsrendite des MSCI World über lange Zeiträume (nominale Rendite, vor Inflation). Real (nach Inflation) liegt die Rendite bei etwa 5 %. Es gab Jahrzehnte mit deutlich weniger und mit deutlich mehr Rendite — der Wert ist eine langfristige Orientierung, keine Garantie.'
+  - question: 'Lohnt es sich, 100 Euro einmalig anzulegen?'
+    answer: 'Ja, aber der Effekt ist klein. Bei 7 % Rendite pro Jahr werden aus 100 € in zehn Jahren rund 197 €, in 30 Jahren rund 761 €. Wer dieselben 100 € jeden Monat anlegt, hat nach 30 Jahren rund 122.500 €. Für eine Einmalanlage eignet sich eher ein breit gestreuter ETF als eine einzelne Aktie, und die Ordergebühr sollte im Verhältnis klein bleiben.'
 sources:
   - title: 'Renditedreieck DAX/MSCI World (Historische Renditen)'
     publisher: 'Deutsches Aktieninstitut (DAI)'
@@ -63,6 +66,21 @@ Für Einsteiger: Ein breit diversifizierter ETF reicht — MSCI World oder FTSE 
 
 **Schritt 4: Nicht schauen**
 Der größte Fehler: täglich ins Depot schauen und bei Kursrückgängen reagieren. Sparplan laufen lassen — auch wenn die Kurse fallen.
+
+## 100 Euro einmalig anlegen oder in Aktien investieren?
+
+Nicht jeder will monatlich sparen. Manche haben einmalig 100 Euro übrig und fragen sich, ob sich das Anlegen überhaupt lohnt. Es lohnt sich, aber der Effekt ist ein anderer:
+
+| Anlage | nach 10 Jahren | nach 30 Jahren |
+|---|---|---|
+| 100 € einmalig | ca. 197 € | ca. 761 € |
+| 100 € jeden Monat | ca. 17.400 € | ca. 122.500 € |
+
+Annahme wie oben: 7 % Rendite pro Jahr, vor Steuern und Inflation. Die einmalige Anlage verdoppelt sich in zehn Jahren ungefähr. Den großen Unterschied macht aber die Regelmäßigkeit, nicht der erste Betrag.
+
+**100 Euro in Einzelaktien?** Technisch geht das, bei vielen Brokern kannst du auch Bruchteile teurer Aktien kaufen. Mit 100 Euro steckt dein Geld dann aber in einem einzigen Unternehmen. Geht es insolvent, ist es weg, [was dann genau passiert, steht hier](/blog/aktien-unternehmensinsolvenz-was-passiert/). Ein breit gestreuter ETF verteilt dieselben 100 Euro auf hunderte oder tausende Unternehmen. Den Unterschied erklärt der Vergleich [Aktien vs. ETF](/blog/aktien-vs-etf-unterschied/).
+
+**Kosten im Blick behalten:** Pro Einzelorder fallen bei vielen Neobrokern rund 1 Euro an, bei Filialbanken oft deutlich mehr. Bei 100 Euro ist eine Gebühr von 5 Euro schon ein Minus von 5 %. Sparpläne sind dagegen bei vielen Anbietern kostenlos.
 
 ## Was 100 Euro nicht leisten
 

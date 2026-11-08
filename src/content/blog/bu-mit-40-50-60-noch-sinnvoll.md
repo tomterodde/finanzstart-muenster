@@ -2,6 +2,7 @@
 title: 'Berufsunfähigkeitsversicherung mit 40, 50 oder 60: Noch sinnvoll?'
 description: 'Lohnt sich eine BU mit 40, 50 oder 60 noch? Beitragstabellen je Eintrittsalter, Annahmequoten, sinnvolle Alternativen und wann der Zug abgefahren ist.'
 pubDate: '2026-06-03'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 heroImageAlt: 'BU mit 40, 50 oder 60 Jahren noch sinnvoll'
 category: 'Einkommenssicherung'
@@ -19,6 +20,8 @@ faq:
     answer: 'Optimal: Mit dem ersten regelmäßigen Einkommen, also typischerweise zwischen 16 und 25 Jahren. Begründung: 1) Niedrigste Beiträge — mit 20 zahlt man rund die Hälfte des 35-Jährigen-Beitrags für identischen Schutz. 2) Beste Gesundheitsannahme — junge Versicherte haben kaum Vorerkrankungen, was Ausschlüsse oder Risikozuschläge unwahrscheinlich macht. 3) Lebenslange Lock-in der niedrigeren Beiträge — wer mit 20 abschließt, zahlt typischerweise dauerhaft niedriger als ein 35-Jähriger Neukunde. Spätestens bis 35 sollte BU stehen, mit 40 wird es teurer aber meist noch attraktiv. Studenten und Auszubildende: Spezialtarife mit niedrigen Einstiegsbeiträgen sind möglich, später automatische Anpassung an Beruf.'
   - question: 'Bis wann macht eine Berufsunfähigkeitsversicherung Sinn?'
     answer: 'BU lohnt sich, solange du Erwerbseinkommen erzielst, das deinen Lebensstandard finanziert — also bis zum geplanten Renteneintritt. Konkret: 1) Bei klassischem Renteneintritt 67 lohnt BU bis spätestens 60 — danach ist die Restbeitragszeit zu kurz. 2) Bei langer Erwerbsphase (Selbstständige, Beamte mit Dienstunfähigkeitsklausel) kann BU bis 65 sinnvoll sein. 3) Wer früher in Rente geht (mit Abschlägen oder durch Vermögen finanziert), kann BU früher beenden. Die Vertragslaufzeit sollte beim Abschluss bis zur Regelaltersrente (67) gewählt werden — eine spätere Verkürzung ist möglich, eine Verlängerung schwieriger. Bei laufenden BU-Verträgen über 60 lohnt eine Beratung, ob Anpassung oder Beitragsfreistellung sinnvoller ist.'
+  - question: 'Was kostet eine Berufsunfähigkeitsversicherung mit 50 Jahren?'
+    answer: 'Für eine BU-Rente von 1.500 € im Monat zahlt ein 50-Jähriger mit Bürotätigkeit typischerweise 200 bis 320 € im Monat, etwa viermal so viel wie mit 25 Jahren. Körperliche Berufe und Vorerkrankungen erhöhen den Beitrag deutlich. Ob sich das lohnt, hängt vor allem von der Restlaufzeit bis zur Rente und vom Gesundheitszustand ab.'
 sources:
   - title: 'Map-Report Berufsunfähigkeitsversicherung 2024 — Annahmequoten und Beitragsverteilung'
     publisher: 'Franke und Bornberg'
@@ -83,6 +86,12 @@ Mit 40 hast du noch **27 Beitragsjahre** vor dir — eine sehr lange Risikoperio
 **Empfehlung:** Wenn du mit 40 noch keine BU hast, schließ sie spätestens jetzt ab — bei guter Gesundheit. Mit jedem Jahr Wartezeit verlierst du Geld und Gesundheits-Spielraum.
 
 ## BU mit 50 Jahren: Differenziert
+
+### Was kostet eine BU mit 50 Jahren?
+
+Für eine BU-Rente von 1.500 € im Monat zahlt ein 50-Jähriger mit Bürojob typischerweise **200 bis 320 € im Monat**, rund viermal so viel wie mit 25. Mit körperlicher Tätigkeit oder Vorerkrankungen liegt der Beitrag deutlich höher, und die Annahmequote sinkt in diesem Alter auf rund 60–70 %. Die vollständige Übersicht nach Eintrittsalter steht in der Tabelle oben.
+
+### Lohnt sich das?
 
 Mit 50 wird die Rechnung komplexer. **Drei Faktoren entscheiden:**
 

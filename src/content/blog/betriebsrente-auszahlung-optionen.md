@@ -2,21 +2,23 @@
 title: 'Betriebsrente: Einmalauszahlung oder monatliche Rente — was ist besser?'
 description: 'Wenn die bAV ausgezahlt wird, steht eine wichtige Entscheidung an: Kapital oder monatliche Rente? Was die Vor- und Nachteile sind — mit Rechenbeispiel.'
 pubDate: '2026-05-13'
-updatedDate: '2026-09-22'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 category: 'Altersvorsorge'
-tldr: 'Drei Auszahlungsoptionen der bAV: 1) Monatliche Lebensrente — typischer Rentenfaktor 25-30 €/Monat pro 10.000 € Kapital, also 300-360 €/Monat bei 120.000 €, Break-even bei rund 33 Jahren nach Renteneintritt. 2) Einmalauszahlung — volle Kontrolle über Kapital, aber volle Besteuerung in einem Jahr. 3) Teilauszahlung bis 30 % + Rente. Besteuerung nachgelagert (§ 22 Nr. 5 EStG): bei Einmalauszahlung Fünftelregelung nach § 34 EStG möglich, bei Rente über viele Jahre verteilt meist niedrigerer Grenzsteuersatz. Krankenversicherungspflicht ab 2020 Freigrenze 176,75 € (2025) — darüber 7,3 % + Zusatzbeitrag + 3,05 % Pflege auf bAV-Leistungen (§ 229 SGB V). Laut Aon-Studie 2024 wählen 72 % der Berechtigten die Einmalauszahlung, nur 28 % die monatliche Rente.'
+tldr: 'Drei Auszahlungsoptionen der bAV: 1) Monatliche Lebensrente — typischer Rentenfaktor 25-30 €/Monat pro 10.000 € Kapital, also 300-360 €/Monat bei 120.000 €, Break-even bei rund 33 Jahren nach Renteneintritt. 2) Einmalauszahlung — volle Kontrolle über Kapital, aber volle Besteuerung in einem Jahr. 3) Teilauszahlung bis 30 % + Rente. Besteuerung nachgelagert (§ 22 Nr. 5 EStG): bei Einmalauszahlung Fünftelregelung nach § 34 EStG möglich, bei Rente über viele Jahre verteilt meist niedrigerer Grenzsteuersatz. Auf bAV-Leistungen fallen Kranken- und Pflegeversicherungsbeiträge zum vollen Satz an (§ 229 SGB V): KV 14,6 % plus Zusatzbeitrag oberhalb eines Freibetrags von 197,75 €/Monat (2026), PV 3,6 % (kinderlos 4,2 %). Laut Aon-Studie 2024 wählen 72 % der Berechtigten die Einmalauszahlung, nur 28 % die monatliche Rente.'
 faq:
   - question: 'Soll ich die bAV als Rente oder Einmalauszahlung wählen?'
     answer: 'Drei Entscheidungsfaktoren: 1) Lebenserwartung — bei guter Gesundheit, langlebiger Familie und Nichtraucher-Lifestyle schlägt die Rente die Einmalauszahlung, weil Break-even bei ca. 83 Jahren liegt. 2) Vererbungswunsch — Einmalauszahlung vererbbar, Rente nur teilweise über Hinterbliebenenklauseln. 3) Kapitalbedarf — konkrete Pläne (Immobilienrestschuld, Weltreise, Absicherung Enkel) sprechen für Einmalauszahlung. Bei fehlendem Plan und durchschnittlicher Lebenserwartung: Rente.'
   - question: 'Wie wird die bAV-Einmalauszahlung besteuert?'
     answer: 'Vollständig nachgelagert nach § 22 Nr. 5 EStG — die gesamte Einmalauszahlung zählt im Jahr der Zahlung als Einkommen. Steuervergünstigung über Fünftelregelung (§ 34 EStG): Auszahlung wird fiktiv auf 5 Jahre verteilt, um Progression zu mildern. Beispiel 150.000 € Einmalauszahlung bei Rente von 1.500 €/Monat (Restrente): ohne Fünftelregelung ca. 50.000 € Steuer, mit Fünftelregelung ca. 35.000 € — je nach Gesamteinkommen. Zusätzlich: volle KV- und Pflegeversicherungsbeiträge auf die Auszahlung (einmalig auf 10 Jahre verteilt, § 229 SGB V).'
   - question: 'Wie viel KV-Beitrag zahle ich auf meine Betriebsrente?'
-    answer: 'Seit 1.1.2020 gilt Freibetrag (§ 226 Abs. 2 SGB V): 176,75 €/Monat (2025) bleiben beitragsfrei, darüber voller KV-Beitrag 14,6 % (+ individueller Zusatzbeitrag 2,5 %) + 3,05 % Pflege (§ 55 SGB XI, kinderlos 3,4 %). Bei 500 €/Monat bAV-Rente: 500 − 176,75 = 323,25 € × 17,2 % = rund 56 €/Monat Sozialabgaben. Bei Einmalauszahlung: Beiträge werden auf 10 Jahre = 120 Monatsraten verteilt, also 150.000 € / 120 = 1.250 €/Monat fiktiv — davon 1.073 € × 17,2 % = 185 €/Monat zusätzlich 10 Jahre lang.'
+    answer: 'Seit 1.1.2020 gilt in der Krankenversicherung ein Freibetrag (§ 226 Abs. 2 SGB V): 197,75 €/Monat (2026) bleiben beitragsfrei, darüber zahlst du den vollen KV-Beitrag von 14,6 % plus Zusatzbeitrag (2026 im Schnitt 2,9 %). In der Pflegeversicherung gilt nur eine Freigrenze in gleicher Höhe: Liegt die Betriebsrente darüber, ist der volle Betrag mit 3,6 % beitragspflichtig (kinderlos 4,2 %). Bei 500 €/Monat Betriebsrente: KV (500 − 197,75) × 17,5 % = rund 53 €, PV 500 × 3,6 % = 18 €, zusammen rund 71 € im Monat. Bei Einmalauszahlung wird der Betrag auf 120 Monate verteilt: 150.000 € / 120 = 1.250 € fiktiv im Monat, davon KV (1.250 − 197,75) × 17,5 % = rund 184 € plus PV 1.250 × 3,6 % = 45 €, also rund 229 € im Monat, zehn Jahre lang.'
   - question: 'Kann ich die bAV teilweise als Einmalauszahlung nehmen?'
     answer: 'Ja, Teilauszahlung möglich — je nach Vertrag üblicherweise bis 30 % des Kapitals (§ 3 Abs. 2 BetrAVG hat keine klare Grenze, aber steuerlich müssen mindestens 50 % als Rente ausgezahlt werden, damit Förderung nicht gefährdet wird). Kombinationsvorteil: kleinere Einmalzahlung (z. B. Immobilienrestschuld 50.000 €) + lebenslange Grundrente. Steuerlich sinnvoll, weil die Einmalauszahlung kleiner bleibt und Progressionsvorteile der Rente erhalten bleiben. Nachteil: einmal entschieden, nicht mehr änderbar.'
   - question: 'Ist die Einmalauszahlung wirklich so schlecht wegen der Steuer?'
     answer: 'Nicht zwangsläufig. Rechenbeispiel: 100.000 € Einmalauszahlung, Grenzsteuersatz Rentner 24 %: Steuer rund 24.000 €. Rente 300 €/Monat × 20 Jahre = 72.000 € Auszahlung — bei 24 % Steuersatz 17.280 €, also 6.720 € weniger Steuer. Aber: Einmalbetrag im ETF angelegt bei 5 % Rendite = nach 20 Jahren ca. 200.000 € vor Steuer, auch nach Kapitalertragsteuer klar vor der Rente. Fazit: Einmalauszahlung + aktive Anlage schlägt Rente oft rein rechnerisch — scheitert aber am Langlebigkeitsrisiko und Anlage-Disziplin.'
+  - question: 'Wann wird die Betriebsrente ausgezahlt?'
+    answer: 'Ab dem Zeitpunkt, den die Versorgungszusage nennt, meist mit Beginn der gesetzlichen Altersrente. Bei Zusagen ab 2012 ist der früheste Beginn das 62. Lebensjahr, bei älteren Zusagen das 60. Wer die gesetzliche Altersrente vorzeitig als Vollrente bezieht, kann auch die Betriebsrente vorzeitig verlangen (§ 6 BetrAVG), meist gekürzt. Die Betriebsrente muss beim früheren Arbeitgeber oder Versorgungsträger beantragt werden.'
 sources:
   - title: 'Einkommensteuergesetz (EStG) §§ 22 Nr. 5, 34 Nachgelagerte Besteuerung und Fünftelregelung'
     publisher: 'Bundesministerium der Justiz'
@@ -40,6 +42,16 @@ Du hast jahrzehntelang in die betriebliche Altersvorsorge eingezahlt. Jetzt, kur
 Viele Verträge bieten auch eine **Teilauszahlung** (bis 30 % des Kapitals) als Einmalzahlung, der Rest wird verrentet. Das ist ein Mittelweg.
 
 Dieselbe 30-%-Logik übernimmt der Gesetzgeber beim Altersvorsorgedepot ab 2027 — dort allerdings ergänzt um eine Zeitrente als dritte Option. Wer die Abwägung in dieser erweiterten Form sehen will: [Auszahlungsoptionen im Altersvorsorgedepot](/blog/altersvorsorgedepot-auszahlung-optionen/).
+
+## Wann wird die Betriebsrente ausgezahlt?
+
+Die Betriebsrente wird ab dem Zeitpunkt gezahlt, den deine Versorgungszusage nennt, meist mit dem Beginn der gesetzlichen Altersrente. Drei Regeln bestimmen den Zeitpunkt:
+
+- **Frühester Beginn:** Bei Zusagen ab 2012 frühestens mit 62, bei älteren Zusagen mit 60. Ein früherer Beginn gefährdet die steuerliche Förderung. Ausnahmen gelten bei Invalidität und im Todesfall.
+- **Vorzeitige Altersrente:** Beziehst du die gesetzliche Altersrente vorzeitig als Vollrente, kannst du auch die Betriebsrente vorzeitig verlangen (§ 6 BetrAVG), in der Regel gekürzt.
+- **Antrag:** Die Betriebsrente kommt nicht automatisch. Du beantragst sie beim früheren Arbeitgeber oder beim Versorgungsträger, also bei Direktversicherung, Pensionskasse oder Pensionsfonds, am besten rund drei Monate vor dem gewünschten Beginn.
+
+Wer mehrere Arbeitgeber hatte, hat oft mehrere kleine Betriebsrenten bei verschiedenen Trägern, und jede muss einzeln beantragt werden. Die Digitale Rentenübersicht hilft, den Überblick zu behalten.
 
 ## Was für die monatliche Rente spricht
 

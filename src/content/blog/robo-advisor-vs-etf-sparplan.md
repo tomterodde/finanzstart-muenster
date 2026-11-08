@@ -2,12 +2,13 @@
 title: 'Robo-Advisor vs. ETF-Sparplan: Was ist besser für Berufseinsteiger?'
 description: 'Robo-Advisor oder selbst gemanagter ETF-Sparplan? Unterschiede, Kosten und wann welche Option für Berufseinsteiger sinnvoll ist.'
 pubDate: '2026-04-09'
+updatedDate: '2026-11-08'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 category: 'Vermögensaufbau'
 tldr: 'Robo-Advisor (Service-Fee 0,5–1,0 % + ETF-TER) verwalten ein ETF-Portfolio automatisch inkl. Rebalancing — Gesamtkosten typisch 0,7–1,2 % p. a. Ein selbst eingerichteter ETF-Sparplan auf einen breit gestreuten Welt-ETF (MSCI World, FTSE All-World) kostet meist nur 0,15–0,30 % TER. Auf 30 Jahre können sich 0,8 % Kostenunterschied auf 15–20 % weniger Endvermögen summieren. Berufseinsteiger mit Sparraten unter 500 €/Monat fahren mit einem 1-ETF-Sparplan deutlich günstiger; Robo-Advisor lohnen ab größeren Summen oder bei Komfortbedarf.'
 faq:
   - question: 'Wo liegt der Hauptunterschied zwischen Robo-Advisor und ETF-Sparplan?'
-    answer: 'Beim Robo-Advisor übernimmt ein Anbieter mit BaFin-Lizenz (§ 1 Abs. 1a Nr. 3 KWG) Auswahl, Rebalancing und ggf. Steueroptimierung gegen eine jährliche Service-Fee. Beim ETF-Sparplan wählt der Anleger den ETF selbst, richtet den Sparplan im Depot ein und übernimmt Rebalancing manuell (sofern mehrere ETFs). Das Ergebnis ist beim Welt-ETF-Sparplan oft fast identisch — die Kosten unterscheiden sich aber deutlich.'
+    answer: 'Beim Robo-Advisor übernimmt ein Anbieter mit BaFin-Erlaubnis für die Finanzportfolioverwaltung Auswahl, Rebalancing und ggf. Steueroptimierung gegen eine jährliche Service-Fee. Beim ETF-Sparplan wählt der Anleger den ETF selbst, richtet den Sparplan im Depot ein und übernimmt Rebalancing manuell (sofern mehrere ETFs). Das Ergebnis ist beim Welt-ETF-Sparplan oft fast identisch — die Kosten unterscheiden sich aber deutlich.'
   - question: 'Wie groß ist der Kostenunterschied auf 30 Jahre?'
     answer: 'Beispielrechnung 200 €/Monat über 30 Jahre bei 7 % Bruttorendite p. a.: ETF-Sparplan (0,2 % TER, Netto 6,8 %) → ca. 248.000 €. Robo-Advisor (1,0 % Gesamtkosten, Netto 6,0 %) → ca. 220.000 €. Differenz: 28.000 € bzw. rund 11 %. Bei 1,2 % Robo-Kosten und 30 Jahren steigt die Lücke schnell auf 15–20 %. Der Effekt wächst mit Anlagesumme und Laufzeit.'
   - question: 'Wann lohnt sich ein Robo-Advisor trotzdem?'
@@ -16,6 +17,8 @@ faq:
     answer: 'Für die meisten Berufseinsteiger reicht ein einziger breit gestreuter Welt-ETF: MSCI World (1.500+ Unternehmen aus 23 Industrieländern) oder FTSE All-World (4.000+ Unternehmen inkl. Schwellenländer). TER zwischen 0,12 und 0,22 %. Sparplan ab 25 € bei den meisten Brokern (Trade Republic, Scalable Capital, ING, Comdirect) ohne Ordergebühr. Thesaurierende Variante spart die Wiederanlage-Arbeit.'
   - question: 'Was ist mit Steuern und Rebalancing?'
     answer: 'Steuern: Beim ETF-Sparplan greift der Sparerpauschbetrag (1.000 € ab 2023) automatisch über den Freistellungsauftrag. Robo-Advisor optimieren teilweise die Vorabpauschale, der Effekt ist aber gering. Rebalancing: Bei einem 1-ETF-Welt-Sparplan ist nichts zu tun. Bei 2 ETFs (z. B. 70 % World + 30 % EM) reicht es, einmal jährlich nachzurechnen und die Sparrate anzupassen — kein Verkauf nötig, was Steuern spart.'
+  - question: 'Investiert ein Robo-Advisor in ETFs?'
+    answer: 'In aller Regel ja. Die meisten Robo-Advisor in Deutschland bauen ihre Portfolios aus ETFs, die je nach Risikoprofil auf Aktien und Anleihen verteilt werden. Für Auswahl, Rebalancing und Verwaltung zahlst du eine Gebühr von rund 0,3–1,0 % pro Jahr, dazu kommen die laufenden Kosten der ETFs selbst.'
 sources:
   - title: 'BaFin — Online-Vermögensverwaltung (Robo-Advice)'
     url: 'https://www.bafin.de/DE/Verbraucher/Finanzwissen/AnlageFinanzdienstleistung/Robo_Advice/robo_advice_node.html'
@@ -29,9 +32,9 @@ Du willst investieren, aber nicht stundenlang Finanzliteratur wälzen. Robo-Advi
 
 Die Antwort hängt davon ab, was du willst — und was dich Passivität kostet.
 
-## Was ist ein Robo-Advisor?
+## Was ist ein ETF-Robo-Advisor?
 
-Ein Robo-Advisor ist eine digitale Vermögensverwaltung. Du beantwortest ein paar Fragen zu Risikobereitschaft und Anlageziel, das System wählt ein Portfolio aus ETFs zusammen und verwaltet es automatisch — inklusive Rebalancing (Wiederherstellung der Zielgewichtung) und Steueroptimierung.
+Ein Robo-Advisor ist eine digitale Vermögensverwaltung, die in aller Regel mit ETFs arbeitet. Du beantwortest ein paar Fragen zu Risikobereitschaft und Anlageziel, das System wählt ein Portfolio aus ETFs zusammen und verwaltet es automatisch — inklusive Rebalancing (Wiederherstellung der Zielgewichtung) und Steueroptimierung.
 
 Bekannte Anbieter in Deutschland: Scalable Capital, Quirion, Ginmon, Visualvest, Whitebox.
 
