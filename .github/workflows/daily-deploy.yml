@@ -11,3 +11,16 @@ jobs:
     steps:
       - name: Trigger Vercel Rebuild
         run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # Vercel braucht ein paar Minuten für den Build. Erst danach sind die neuen Seiten abrufbar.
+      - name: Warten auf Vercel-Deploy
+        run: sleep 300
+
+      - name: IndexNow – heute veröffentlichte/aktualisierte Artikel melden
+        run: node scripts/indexnow.mjs --today

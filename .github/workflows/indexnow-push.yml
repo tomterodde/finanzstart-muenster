@@ -1,0 +1,32 @@
+name: IndexNow nach Push
+
+# Meldet nach jedem Push auf main die geänderten, bereits live geschalteten Seiten an IndexNow.
+# Vercel deployt den Push selbst (Git-Integration); der Workflow wartet nur, bis die Seiten online sind.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/blog/**'
+      - 'src/pages/**'
+
+permissions:
+  contents: read
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Warten auf Vercel-Deploy
+        run: sleep 300
+
+      - name: IndexNow – geänderte Seiten melden
+        run: node scripts/indexnow.mjs --changed "${{ github.event.before }}" "${{ github.sha }}"
